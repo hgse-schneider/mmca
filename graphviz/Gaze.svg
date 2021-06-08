@@ -96,7 +96,7 @@
 </g>
 <!-- visual attention metrics [8 metrics]&#45;&gt;Gaze -->
 <g id="edge4" class="edge">
-<title>visual attention metrics [8 metrics]&#45;&gt;Gaze</title>
+<title>visual attention metrics [8 metrics] !!!&#45;&gt;Gaze</title>
 <path fill="none" stroke="black" stroke-width="4" stroke-dasharray="1,5" d="M1520.76,-716.62C1433.48,-733.61 1295.45,-760.49 1227.3,-773.76"/>
 <polygon fill="black" stroke="black" stroke-width="4" points="1226.52,-770.34 1217.38,-775.69 1227.86,-777.21 1226.52,-770.34"/>
 <g id="a_edge4&#45;label"><a xlink:title="4">
@@ -126,7 +126,7 @@
 <!-- Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew -->
 <g id="node7" class="node">
 <title>Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew">
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew"  target="_top">
 <ellipse fill="none" stroke="#8da0cb" cx="560.9" cy="-324.58" rx="560.8" ry="18"/>
 <text text-anchor="middle" x="560.9" y="-320.88" font-family="Helvetica,sans-Serif" font-size="14.00">Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew</text>
 </a>
