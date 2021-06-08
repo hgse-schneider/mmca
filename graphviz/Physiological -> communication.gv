@@ -1,9 +1,9 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Instantaneous Derivative Matching (IDM" "Directional Agreement (DA" "Signal Matching (SM" "Pearson‚Äôs correlation (PC" "physiological synchrony (DA" "cycles of physiological synchrony (PC";}
+	{rank=same; "cycles of physiological synchrony (PC" "Instantaneous Derivative Matching (IDM" "physiological synchrony (DA" "Directional Agreement (DA" "Pearson‚Äôs correlation (PC" "Signal Matching (SM";}
 	{rank=same; "collaboration quality: dialogue management" "collaboration quality";}
 	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Signal Matching (SM" -> "collaboration quality":" dialogue management"

@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Distance between learners (DBL" "Total Movement" "Joint angle" "time spent as a group" "Face and upper body movement" "Mean distance between hands" "dyad proximity" "Mean distance between learners" "Distance from the center of the table" "transition probabilities between collaborative state" "Joint movement" "time spent individually" "amount of face and body movement" "Mean hand movement speed";}
-	{rank=same; "time spent in makerspace" "Task Performance" "collaborative problem solving" "Odds of a student solving correctly a problem" "Task performance" "task success score" "artefact quality" "technical ability";}
+	{rank=same; "amount of face and body movement" "Mean distance between learners" "Joint movement" "Distance from the center of the table" "Distance between learners (DBL" "Mean distance between hands" "time spent individually" "time spent as a group" "Joint angle" "transition probabilities between collaborative state" "dyad proximity" "Mean hand movement speed" "Total Movement" "Face and upper body movement";}
+	{rank=same; "Odds of a student solving correctly a problem" "time spent in makerspace" "Task performance" "Task Performance" "technical ability" "task success score" "collaborative problem solving" "artefact quality";}
 	"Total Movement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Total Movement" -> "Odds of a student solving correctly a problem"
 	"Distance from the center of the table" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]

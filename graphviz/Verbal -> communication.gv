@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "number of active participants in group" "thousands of features prosodic speech" "Sequences of verbal utterances" "35 Coh-metrix indices" "speech quantity" "symmetry of speech among group" "coherence" "1582 audio features (from Emobase" "verbal participation symmetry among group" "talking time" "speech time and frequency" "speech time";}
-	{rank=same; "Colloboration quality" "collaboration" "Collaboration" "Joint Visual Attention" "collaboration quality";}
+	{rank=same; "speech time and frequency" "verbal participation symmetry among group" "speech time" "1582 audio features (from Emobase" "thousands of features prosodic speech" "speech quantity" "coherence" "symmetry of speech among group" "Sequences of verbal utterances" "35 Coh-metrix indices" "number of active participants in group" "talking time";}
+	{rank=same; "Colloboration quality" "collaboration" "Joint Visual Attention" "collaboration quality" "Collaboration";}
 	"speech quantity" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting"]
 	"speech quantity" -> Collaboration
 	"number of active participants in group" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting"]

@@ -9,71 +9,71 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 310)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-310 432.57,-310 432.57,4 -4,4"/>
-<!-- Physiological linkage -->
-<g id="node1" class="node">
-<title>Physiological linkage</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience" xlink:title="Physiological linkage">
-<ellipse fill="none" stroke="black" cx="331.72" cy="-45" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="331.72" y="-41.3" font-family="Times,serif" font-size="14.00">Physiological linkage</text>
-</a>
-</g>
-</g>
-<!-- Negative Feelings -->
-<g id="node4" class="node">
-<title>Negative Feelings</title>
-<ellipse fill="none" stroke="black" cx="99.44" cy="-72" rx="74.99" ry="18"/>
-<text text-anchor="middle" x="99.44" y="-68.3" font-family="Times,serif" font-size="14.00">Negative Feelings</text>
-</g>
-<!-- Physiological linkage&#45;&gt;Negative Feelings -->
-<g id="edge2" class="edge">
-<title>Physiological linkage&#45;&gt;Negative Feelings</title>
-<path fill="none" stroke="black" d="M255.64,-53.8C230.38,-56.77 202.18,-60.07 176.82,-63.04"/>
-<polygon fill="black" stroke="black" points="176.41,-59.57 166.89,-64.21 177.23,-66.52 176.41,-59.57"/>
-</g>
-<!-- Empathy -->
-<g id="node5" class="node">
-<title>Empathy</title>
-<ellipse fill="none" stroke="black" cx="99.44" cy="-18" rx="42.79" ry="18"/>
-<text text-anchor="middle" x="99.44" y="-14.3" font-family="Times,serif" font-size="14.00">Empathy</text>
-</g>
-<!-- Physiological linkage&#45;&gt;Empathy -->
-<g id="edge1" class="edge">
-<title>Physiological linkage&#45;&gt;Empathy</title>
-<path fill="none" stroke="black" d="M255.64,-36.2C221.32,-32.17 181.59,-27.51 150.91,-23.92"/>
-<polygon fill="black" stroke="black" points="151.22,-20.43 140.88,-22.74 150.4,-27.38 151.22,-20.43"/>
-</g>
 <!-- Galvanic skin response -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>Galvanic skin response</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Galvanic skin response">
-<ellipse fill="none" stroke="black" cx="331.72" cy="-153" rx="92.88" ry="18"/>
-<text text-anchor="middle" x="331.72" y="-149.3" font-family="Times,serif" font-size="14.00">Galvanic skin response</text>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Galvanic skin response">
+<ellipse fill="none" stroke="black" cx="331.72" cy="-45" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="331.72" y="-41.3" font-family="Times,serif" font-size="14.00">Galvanic skin response</text>
 </a>
 </g>
 </g>
 <!-- Perceived Valence -->
-<g id="node8" class="node">
+<g id="node5" class="node">
 <title>Perceived Valence</title>
-<ellipse fill="none" stroke="black" cx="99.44" cy="-180" rx="75.29" ry="18"/>
-<text text-anchor="middle" x="99.44" y="-176.3" font-family="Times,serif" font-size="14.00">Perceived Valence</text>
+<ellipse fill="none" stroke="black" cx="99.44" cy="-72" rx="75.29" ry="18"/>
+<text text-anchor="middle" x="99.44" y="-68.3" font-family="Times,serif" font-size="14.00">Perceived Valence</text>
 </g>
 <!-- Galvanic skin response&#45;&gt;Perceived Valence -->
 <g id="edge3" class="edge">
 <title>Galvanic skin response&#45;&gt;Perceived Valence</title>
-<path fill="none" stroke="black" d="M251.8,-162.25C227.76,-165.07 201.38,-168.17 177.46,-170.97"/>
-<polygon fill="black" stroke="black" points="176.91,-167.51 167.38,-172.15 177.72,-174.46 176.91,-167.51"/>
+<path fill="none" stroke="black" d="M251.8,-54.25C227.76,-57.07 201.38,-60.17 177.46,-62.97"/>
+<polygon fill="black" stroke="black" points="176.91,-59.51 167.38,-64.15 177.72,-66.46 176.91,-59.51"/>
 </g>
 <!-- Perceived Arousal -->
-<g id="node9" class="node">
+<g id="node7" class="node">
 <title>Perceived Arousal</title>
-<ellipse fill="none" stroke="black" cx="99.44" cy="-126" rx="75.29" ry="18"/>
-<text text-anchor="middle" x="99.44" y="-122.3" font-family="Times,serif" font-size="14.00">Perceived Arousal</text>
+<ellipse fill="none" stroke="black" cx="99.44" cy="-18" rx="75.29" ry="18"/>
+<text text-anchor="middle" x="99.44" y="-14.3" font-family="Times,serif" font-size="14.00">Perceived Arousal</text>
 </g>
 <!-- Galvanic skin response&#45;&gt;Perceived Arousal -->
 <g id="edge4" class="edge">
 <title>Galvanic skin response&#45;&gt;Perceived Arousal</title>
-<path fill="none" stroke="black" d="M251.8,-143.75C227.76,-140.93 201.38,-137.83 177.46,-135.03"/>
-<polygon fill="black" stroke="black" points="177.72,-131.54 167.38,-133.85 176.91,-138.49 177.72,-131.54"/>
+<path fill="none" stroke="black" d="M251.8,-35.75C227.76,-32.93 201.38,-29.83 177.46,-27.03"/>
+<polygon fill="black" stroke="black" points="177.72,-23.54 167.38,-25.85 176.91,-30.49 177.72,-23.54"/>
+</g>
+<!-- Physiological linkage -->
+<g id="node2" class="node">
+<title>Physiological linkage</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience" xlink:title="Physiological linkage">
+<ellipse fill="none" stroke="black" cx="331.72" cy="-153" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="331.72" y="-149.3" font-family="Times,serif" font-size="14.00">Physiological linkage</text>
+</a>
+</g>
+</g>
+<!-- Negative Feelings -->
+<g id="node6" class="node">
+<title>Negative Feelings</title>
+<ellipse fill="none" stroke="black" cx="99.44" cy="-180" rx="74.99" ry="18"/>
+<text text-anchor="middle" x="99.44" y="-176.3" font-family="Times,serif" font-size="14.00">Negative Feelings</text>
+</g>
+<!-- Physiological linkage&#45;&gt;Negative Feelings -->
+<g id="edge2" class="edge">
+<title>Physiological linkage&#45;&gt;Negative Feelings</title>
+<path fill="none" stroke="black" d="M255.64,-161.8C230.38,-164.77 202.18,-168.07 176.82,-171.04"/>
+<polygon fill="black" stroke="black" points="176.41,-167.57 166.89,-172.21 177.23,-174.52 176.41,-167.57"/>
+</g>
+<!-- Empathy -->
+<g id="node8" class="node">
+<title>Empathy</title>
+<ellipse fill="none" stroke="black" cx="99.44" cy="-126" rx="42.79" ry="18"/>
+<text text-anchor="middle" x="99.44" y="-122.3" font-family="Times,serif" font-size="14.00">Empathy</text>
+</g>
+<!-- Physiological linkage&#45;&gt;Empathy -->
+<g id="edge1" class="edge">
+<title>Physiological linkage&#45;&gt;Empathy</title>
+<path fill="none" stroke="black" d="M255.64,-144.2C221.32,-140.17 181.59,-135.51 150.91,-131.92"/>
+<polygon fill="black" stroke="black" points="151.22,-128.43 140.88,-130.74 150.4,-135.38 151.22,-128.43"/>
 </g>
 <!-- physiological synchrony -->
 <g id="node3" class="node">
@@ -85,7 +85,7 @@
 </g>
 </g>
 <!-- Judgement of confidence -->
-<g id="node6" class="node">
+<g id="node4" class="node">
 <title>Judgement of confidence</title>
 <ellipse fill="none" stroke="black" cx="99.44" cy="-288" rx="99.38" ry="18"/>
 <text text-anchor="middle" x="99.44" y="-284.3" font-family="Times,serif" font-size="14.00">Judgement of confidence</text>
@@ -97,7 +97,7 @@
 <polygon fill="black" stroke="black" points="192.92,-273.63 183.4,-278.27 193.74,-280.58 192.92,-273.63"/>
 </g>
 <!-- Emotional valence -->
-<g id="node7" class="node">
+<g id="node9" class="node">
 <title>Emotional valence</title>
 <ellipse fill="none" stroke="black" cx="99.44" cy="-234" rx="77.19" ry="18"/>
 <text text-anchor="middle" x="99.44" y="-230.3" font-family="Times,serif" font-size="14.00">Emotional valence</text>

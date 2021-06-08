@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Body synchronization" "clustered hand/wrist movement" "type of movement" "amount of movement" "gesture" "Body distance";}
-	{rank=same; "learning gains" "Learning gains" "learning gain group (high or low" "learning";}
+	{rank=same; "type of movement" "clustered hand/wrist movement" "Body synchronization" "Body distance" "gesture" "amount of movement";}
+	{rank=same; "Learning gains" "learning gains" "learning gain group (high or low" "learning";}
 	gesture [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring"]
 	gesture -> learning
 	"clustered hand/wrist movement" [href="https://scholar.google.com/scholar?hl=en&q=(Dis)Engagement%20Maters:%20Identifying%20Efficacious%20Learning%20Practices%20with%20Multimodal%20Learning%20Analytics"]

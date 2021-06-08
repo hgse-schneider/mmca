@@ -9,47 +9,47 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 94)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-94 367.57,-94 367.57,4 -4,4"/>
-<!-- shared gaze -->
-<g id="node1" class="node">
-<title>shared gaze</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" xlink:title="shared gaze">
-<ellipse fill="none" stroke="black" cx="279.08" cy="-18" rx="51.99" ry="18"/>
-<text text-anchor="middle" x="279.08" y="-14.3" font-family="Times,serif" font-size="14.00">shared gaze</text>
-</a>
-</g>
-</g>
-<!-- gaze overlap -->
-<g id="node4" class="node">
-<title>gaze overlap</title>
-<ellipse fill="none" stroke="black" cx="79.29" cy="-18" rx="55.79" ry="18"/>
-<text text-anchor="middle" x="79.29" y="-14.3" font-family="Times,serif" font-size="14.00">gaze overlap</text>
-</g>
-<!-- shared gaze&#45;&gt;gaze overlap -->
-<g id="edge2" class="edge">
-<title>shared gaze&#45;&gt;gaze overlap</title>
-<path fill="none" stroke="black" d="M226.89,-18C202.13,-18 172.13,-18 145.73,-18"/>
-<polygon fill="black" stroke="black" points="145.43,-14.5 135.43,-18 145.43,-21.5 145.43,-14.5"/>
-</g>
 <!-- Joint visual attention -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>Joint visual attention</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Joint visual attention">
-<ellipse fill="none" stroke="black" cx="279.08" cy="-72" rx="84.49" ry="18"/>
-<text text-anchor="middle" x="279.08" y="-68.3" font-family="Times,serif" font-size="14.00">Joint visual attention</text>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Joint visual attention">
+<ellipse fill="none" stroke="black" cx="279.08" cy="-18" rx="84.49" ry="18"/>
+<text text-anchor="middle" x="279.08" y="-14.3" font-family="Times,serif" font-size="14.00">Joint visual attention</text>
 </a>
 </g>
 </g>
 <!-- Coh&#45;metrix indices -->
-<g id="node3" class="node">
+<g id="node4" class="node">
 <title>Coh&#45;metrix indices</title>
-<ellipse fill="none" stroke="black" cx="79.29" cy="-72" rx="79.09" ry="18"/>
-<text text-anchor="middle" x="79.29" y="-68.3" font-family="Times,serif" font-size="14.00">Coh&#45;metrix indices</text>
+<ellipse fill="none" stroke="black" cx="79.29" cy="-18" rx="79.09" ry="18"/>
+<text text-anchor="middle" x="79.29" y="-14.3" font-family="Times,serif" font-size="14.00">Coh&#45;metrix indices</text>
 </g>
 <!-- Joint visual attention&#45;&gt;Coh&#45;metrix indices -->
 <g id="edge1" class="edge">
 <title>Joint visual attention&#45;&gt;Coh&#45;metrix indices</title>
-<path fill="none" stroke="black" d="M194.49,-72C186.09,-72 177.55,-72 169.1,-72"/>
-<polygon fill="black" stroke="black" points="168.86,-68.5 158.86,-72 168.86,-75.5 168.86,-68.5"/>
+<path fill="none" stroke="black" d="M194.49,-18C186.09,-18 177.55,-18 169.1,-18"/>
+<polygon fill="black" stroke="black" points="168.86,-14.5 158.86,-18 168.86,-21.5 168.86,-14.5"/>
+</g>
+<!-- shared gaze -->
+<g id="node2" class="node">
+<title>shared gaze</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" xlink:title="shared gaze">
+<ellipse fill="none" stroke="black" cx="279.08" cy="-72" rx="51.99" ry="18"/>
+<text text-anchor="middle" x="279.08" y="-68.3" font-family="Times,serif" font-size="14.00">shared gaze</text>
+</a>
+</g>
+</g>
+<!-- gaze overlap -->
+<g id="node3" class="node">
+<title>gaze overlap</title>
+<ellipse fill="none" stroke="black" cx="79.29" cy="-72" rx="55.79" ry="18"/>
+<text text-anchor="middle" x="79.29" y="-68.3" font-family="Times,serif" font-size="14.00">gaze overlap</text>
+</g>
+<!-- shared gaze&#45;&gt;gaze overlap -->
+<g id="edge2" class="edge">
+<title>shared gaze&#45;&gt;gaze overlap</title>
+<path fill="none" stroke="black" d="M226.89,-72C202.13,-72 172.13,-72 145.73,-72"/>
+<polygon fill="black" stroke="black" points="145.43,-68.5 135.43,-72 145.43,-75.5 145.43,-68.5"/>
 </g>
 </g>
 </svg>

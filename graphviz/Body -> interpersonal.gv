@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Total movement across upper body joints and body parts" "time spent as a group" "Face and upper body movement" "Physical synchrony" "body synchronization" "body pose" "dyad proximity" "Joint movement" "amount of face and body movement";}
-	{rank=same; "identity of emergent leader" "subjective perception of collaboration" "Collaboration" "social ability" "colaughter" "collaboration quality" "Perceived Collaboration Quality" "cooperation";}
+	{rank=same; "Total movement across upper body joints and body parts" "Physical synchrony" "Joint movement" "Face and upper body movement" "body synchronization" "time spent as a group" "dyad proximity" "body pose" "amount of face and body movement";}
+	{rank=same; "identity of emergent leader" "cooperation" "subjective perception of collaboration" "social ability" "colaughter" "collaboration quality" "Perceived Collaboration Quality" "Collaboration";}
 	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Face and upper body movement" -> "Perceived Collaboration Quality"
 	"body pose" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception"]

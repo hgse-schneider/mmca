@@ -9,59 +9,38 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 472)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-472 636.65,-472 636.65,4 -4,4"/>
-<!-- movement of objects including revisiting past actions -->
+<!-- total number of touch actions -->
 <g id="node1" class="node">
-<title>movement of objects including revisiting past actions</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" xlink:title="movement of objects including revisiting past actions">
-<ellipse fill="none" stroke="black" cx="431.81" cy="-18" rx="200.66" ry="18"/>
-<text text-anchor="middle" x="431.81" y="-14.3" font-family="Times,serif" font-size="14.00">movement of objects including revisiting past actions</text>
+<title>total number of touch actions</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="total number of touch actions">
+<ellipse fill="none" stroke="black" cx="431.81" cy="-72" rx="115.08" ry="18"/>
+<text text-anchor="middle" x="431.81" y="-68.3" font-family="Times,serif" font-size="14.00">total number of touch actions</text>
 </a>
 </g>
 </g>
-<!-- collaboration quality -->
-<g id="node14" class="node">
-<title>collaboration quality</title>
-<ellipse fill="none" stroke="black" cx="97.49" cy="-18" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="97.49" y="-14.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
+<!-- Collaboration -->
+<g id="node15" class="node">
+<title>Collaboration</title>
+<ellipse fill="none" stroke="black" cx="97.49" cy="-45" rx="59.29" ry="18"/>
+<text text-anchor="middle" x="97.49" y="-41.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
 </g>
-<!-- movement of objects including revisiting past actions&#45;&gt;collaboration quality -->
-<g id="edge9" class="edge">
-<title>movement of objects including revisiting past actions&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M230.79,-18C217.37,-18 204.25,-18 191.81,-18"/>
-<polygon fill="black" stroke="black" points="191.53,-14.5 181.53,-18 191.53,-21.5 191.53,-14.5"/>
-</g>
-<!-- Sequences of meaningful actions -->
-<g id="node2" class="node">
-<title>Sequences of meaningful actions</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" xlink:title="Sequences of meaningful actions">
-<ellipse fill="none" stroke="black" cx="431.81" cy="-72" rx="128.08" ry="18"/>
-<text text-anchor="middle" x="431.81" y="-68.3" font-family="Times,serif" font-size="14.00">Sequences of meaningful actions</text>
-</a>
-</g>
-</g>
-<!-- Colloboration quality -->
-<g id="node10" class="node">
-<title>Colloboration quality</title>
-<ellipse fill="none" stroke="black" cx="97.49" cy="-72" rx="86.38" ry="18"/>
-<text text-anchor="middle" x="97.49" y="-68.3" font-family="Times,serif" font-size="14.00">Colloboration quality</text>
-</g>
-<!-- Sequences of meaningful actions&#45;&gt;Colloboration quality -->
-<g id="edge2" class="edge">
-<title>Sequences of meaningful actions&#45;&gt;Colloboration quality</title>
-<path fill="none" stroke="black" d="M303.76,-72C267.47,-72 228.55,-72 194.46,-72"/>
-<polygon fill="black" stroke="black" points="194.04,-68.5 184.04,-72 194.04,-75.5 194.04,-68.5"/>
+<!-- total number of touch actions&#45;&gt;Collaboration -->
+<g id="edge7" class="edge">
+<title>total number of touch actions&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M329.3,-63.75C275.95,-59.42 212.07,-54.23 165.05,-50.41"/>
+<polygon fill="black" stroke="black" points="165.23,-46.91 154.98,-49.59 164.67,-53.89 165.23,-46.91"/>
 </g>
 <!-- Convergence measures -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>Convergence measures</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="Convergence measures">
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="Convergence measures">
 <ellipse fill="none" stroke="black" cx="431.81" cy="-126" rx="92.88" ry="18"/>
 <text text-anchor="middle" x="431.81" y="-122.3" font-family="Times,serif" font-size="14.00">Convergence measures</text>
 </a>
 </g>
 </g>
 <!-- Quality of Collaboration -->
-<g id="node15" class="node">
+<g id="node10" class="node">
 <title>Quality of Collaboration</title>
 <ellipse fill="none" stroke="black" cx="97.49" cy="-126" rx="97.48" ry="18"/>
 <text text-anchor="middle" x="97.49" y="-122.3" font-family="Times,serif" font-size="14.00">Quality of Collaboration</text>
@@ -72,31 +51,67 @@
 <path fill="none" stroke="black" d="M338.69,-126C297.34,-126 248.31,-126 205.36,-126"/>
 <polygon fill="black" stroke="black" points="205.15,-122.5 195.15,-126 205.15,-129.5 205.15,-122.5"/>
 </g>
-<!-- zooming -->
-<g id="node4" class="node">
-<title>zooming</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="zooming">
-<ellipse fill="none" stroke="black" cx="431.81" cy="-288" rx="42.49" ry="18"/>
-<text text-anchor="middle" x="431.81" y="-284.3" font-family="Times,serif" font-size="14.00">zooming</text>
+<!-- card movements -->
+<g id="node3" class="node">
+<title>card movements</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="card movements">
+<ellipse fill="none" stroke="black" cx="431.81" cy="-288" rx="69.59" ry="18"/>
+<text text-anchor="middle" x="431.81" y="-284.3" font-family="Times,serif" font-size="14.00">card movements</text>
 </a>
 </g>
 </g>
 <!-- collaboration -->
-<g id="node11" class="node">
+<g id="node12" class="node">
 <title>collaboration</title>
 <ellipse fill="none" stroke="black" cx="97.49" cy="-234" rx="57.39" ry="18"/>
 <text text-anchor="middle" x="97.49" y="-230.3" font-family="Times,serif" font-size="14.00">collaboration</text>
 </g>
-<!-- zooming&#45;&gt;collaboration -->
-<g id="edge5" class="edge">
-<title>zooming&#45;&gt;collaboration</title>
-<path fill="none" stroke="black" d="M390.89,-283.4C350.46,-278.56 286.21,-270.35 230.98,-261 205.77,-256.73 178.02,-251.21 154.46,-246.27"/>
+<!-- card movements&#45;&gt;collaboration -->
+<g id="edge3" class="edge">
+<title>card movements&#45;&gt;collaboration</title>
+<path fill="none" stroke="black" d="M368.1,-280.62C328.64,-275.7 276.72,-268.74 230.98,-261 205.77,-256.73 178.02,-251.21 154.46,-246.27"/>
 <polygon fill="black" stroke="black" points="155.15,-242.84 144.64,-244.19 153.7,-249.69 155.15,-242.84"/>
 </g>
-<!-- scrolling -->
+<!-- Touch patterns -->
+<g id="node4" class="node">
+<title>Touch patterns</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Collaboration%20Patterns%20on%20an%20Interactive%20Tabletop%20in%20a%20Classroom%20Setting" xlink:title="Touch patterns">
+<ellipse fill="none" stroke="black" cx="431.81" cy="-342" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="431.81" y="-338.3" font-family="Times,serif" font-size="14.00">Touch patterns</text>
+</a>
+</g>
+</g>
+<!-- Social regulation -->
+<g id="node14" class="node">
+<title>Social regulation</title>
+<ellipse fill="none" stroke="black" cx="97.49" cy="-342" rx="70.69" ry="18"/>
+<text text-anchor="middle" x="97.49" y="-338.3" font-family="Times,serif" font-size="14.00">Social regulation</text>
+</g>
+<!-- Touch patterns&#45;&gt;Social regulation -->
+<g id="edge6" class="edge">
+<title>Touch patterns&#45;&gt;Social regulation</title>
+<path fill="none" stroke="black" d="M367.92,-342C314.31,-342 236.94,-342 178.85,-342"/>
+<polygon fill="black" stroke="black" points="178.61,-338.5 168.61,-342 178.61,-345.5 178.61,-338.5"/>
+</g>
+<!-- symmetry of touch actions among group -->
 <g id="node5" class="node">
+<title>symmetry of touch actions among group</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="symmetry of touch actions among group">
+<ellipse fill="none" stroke="black" cx="431.81" cy="-18" rx="155.17" ry="18"/>
+<text text-anchor="middle" x="431.81" y="-14.3" font-family="Times,serif" font-size="14.00">symmetry of touch actions among group</text>
+</a>
+</g>
+</g>
+<!-- symmetry of touch actions among group&#45;&gt;Collaboration -->
+<g id="edge8" class="edge">
+<title>symmetry of touch actions among group&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M304.23,-28.28C256.81,-32.14 204.83,-36.36 164.98,-39.6"/>
+<polygon fill="black" stroke="black" points="164.55,-36.12 154.86,-40.42 165.11,-43.1 164.55,-36.12"/>
+</g>
+<!-- scrolling -->
+<g id="node6" class="node">
 <title>scrolling</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="scrolling">
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="scrolling">
 <ellipse fill="none" stroke="black" cx="431.81" cy="-234" rx="41.69" ry="18"/>
 <text text-anchor="middle" x="431.81" y="-230.3" font-family="Times,serif" font-size="14.00">scrolling</text>
 </a>
@@ -108,77 +123,62 @@
 <path fill="none" stroke="black" d="M390.07,-234C333.93,-234 232.14,-234 164.92,-234"/>
 <polygon fill="black" stroke="black" points="164.85,-230.5 154.85,-234 164.85,-237.5 164.85,-230.5"/>
 </g>
-<!-- symmetry of touch actions among group -->
-<g id="node6" class="node">
-<title>symmetry of touch actions among group</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="symmetry of touch actions among group">
-<ellipse fill="none" stroke="black" cx="431.81" cy="-396" rx="155.17" ry="18"/>
-<text text-anchor="middle" x="431.81" y="-392.3" font-family="Times,serif" font-size="14.00">symmetry of touch actions among group</text>
-</a>
-</g>
-</g>
-<!-- Collaboration -->
-<g id="node12" class="node">
-<title>Collaboration</title>
-<ellipse fill="none" stroke="black" cx="97.49" cy="-369" rx="59.29" ry="18"/>
-<text text-anchor="middle" x="97.49" y="-365.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
-</g>
-<!-- symmetry of touch actions among group&#45;&gt;Collaboration -->
-<g id="edge8" class="edge">
-<title>symmetry of touch actions among group&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M304.23,-385.72C256.81,-381.86 204.83,-377.64 164.98,-374.4"/>
-<polygon fill="black" stroke="black" points="165.11,-370.9 154.86,-373.58 164.55,-377.88 165.11,-370.9"/>
-</g>
-<!-- card movements -->
+<!-- Sequences of meaningful actions -->
 <g id="node7" class="node">
-<title>card movements</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="card movements">
-<ellipse fill="none" stroke="black" cx="431.81" cy="-180" rx="69.59" ry="18"/>
-<text text-anchor="middle" x="431.81" y="-176.3" font-family="Times,serif" font-size="14.00">card movements</text>
+<title>Sequences of meaningful actions</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" xlink:title="Sequences of meaningful actions">
+<ellipse fill="none" stroke="black" cx="431.81" cy="-396" rx="128.08" ry="18"/>
+<text text-anchor="middle" x="431.81" y="-392.3" font-family="Times,serif" font-size="14.00">Sequences of meaningful actions</text>
 </a>
 </g>
 </g>
-<!-- card movements&#45;&gt;collaboration -->
-<g id="edge3" class="edge">
-<title>card movements&#45;&gt;collaboration</title>
-<path fill="none" stroke="black" d="M368.1,-187.38C328.64,-192.3 276.72,-199.26 230.98,-207 205.77,-211.27 178.02,-216.79 154.46,-221.73"/>
+<!-- Colloboration quality -->
+<g id="node11" class="node">
+<title>Colloboration quality</title>
+<ellipse fill="none" stroke="black" cx="97.49" cy="-396" rx="86.38" ry="18"/>
+<text text-anchor="middle" x="97.49" y="-392.3" font-family="Times,serif" font-size="14.00">Colloboration quality</text>
+</g>
+<!-- Sequences of meaningful actions&#45;&gt;Colloboration quality -->
+<g id="edge2" class="edge">
+<title>Sequences of meaningful actions&#45;&gt;Colloboration quality</title>
+<path fill="none" stroke="black" d="M303.76,-396C267.47,-396 228.55,-396 194.46,-396"/>
+<polygon fill="black" stroke="black" points="194.04,-392.5 184.04,-396 194.04,-399.5 194.04,-392.5"/>
+</g>
+<!-- zooming -->
+<g id="node8" class="node">
+<title>zooming</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="zooming">
+<ellipse fill="none" stroke="black" cx="431.81" cy="-180" rx="42.49" ry="18"/>
+<text text-anchor="middle" x="431.81" y="-176.3" font-family="Times,serif" font-size="14.00">zooming</text>
+</a>
+</g>
+</g>
+<!-- zooming&#45;&gt;collaboration -->
+<g id="edge5" class="edge">
+<title>zooming&#45;&gt;collaboration</title>
+<path fill="none" stroke="black" d="M390.89,-184.6C350.46,-189.44 286.21,-197.65 230.98,-207 205.77,-211.27 178.02,-216.79 154.46,-221.73"/>
 <polygon fill="black" stroke="black" points="153.7,-218.31 144.64,-223.81 155.15,-225.16 153.7,-218.31"/>
 </g>
-<!-- Touch patterns -->
-<g id="node8" class="node">
-<title>Touch patterns</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Collaboration%20Patterns%20on%20an%20Interactive%20Tabletop%20in%20a%20Classroom%20Setting" xlink:title="Touch patterns">
-<ellipse fill="none" stroke="black" cx="431.81" cy="-450" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="431.81" y="-446.3" font-family="Times,serif" font-size="14.00">Touch patterns</text>
-</a>
-</g>
-</g>
-<!-- Social regulation -->
-<g id="node13" class="node">
-<title>Social regulation</title>
-<ellipse fill="none" stroke="black" cx="97.49" cy="-450" rx="70.69" ry="18"/>
-<text text-anchor="middle" x="97.49" y="-446.3" font-family="Times,serif" font-size="14.00">Social regulation</text>
-</g>
-<!-- Touch patterns&#45;&gt;Social regulation -->
-<g id="edge6" class="edge">
-<title>Touch patterns&#45;&gt;Social regulation</title>
-<path fill="none" stroke="black" d="M367.92,-450C314.31,-450 236.94,-450 178.85,-450"/>
-<polygon fill="black" stroke="black" points="178.61,-446.5 168.61,-450 178.61,-453.5 178.61,-446.5"/>
-</g>
-<!-- total number of touch actions -->
+<!-- movement of objects including revisiting past actions -->
 <g id="node9" class="node">
-<title>total number of touch actions</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="total number of touch actions">
-<ellipse fill="none" stroke="black" cx="431.81" cy="-342" rx="115.08" ry="18"/>
-<text text-anchor="middle" x="431.81" y="-338.3" font-family="Times,serif" font-size="14.00">total number of touch actions</text>
+<title>movement of objects including revisiting past actions</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" xlink:title="movement of objects including revisiting past actions">
+<ellipse fill="none" stroke="black" cx="431.81" cy="-450" rx="200.66" ry="18"/>
+<text text-anchor="middle" x="431.81" y="-446.3" font-family="Times,serif" font-size="14.00">movement of objects including revisiting past actions</text>
 </a>
 </g>
 </g>
-<!-- total number of touch actions&#45;&gt;Collaboration -->
-<g id="edge7" class="edge">
-<title>total number of touch actions&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M329.3,-350.25C275.95,-354.58 212.07,-359.77 165.05,-363.59"/>
-<polygon fill="black" stroke="black" points="164.67,-360.11 154.98,-364.41 165.23,-367.09 164.67,-360.11"/>
+<!-- collaboration quality -->
+<g id="node13" class="node">
+<title>collaboration quality</title>
+<ellipse fill="none" stroke="black" cx="97.49" cy="-450" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="97.49" y="-446.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
+</g>
+<!-- movement of objects including revisiting past actions&#45;&gt;collaboration quality -->
+<g id="edge9" class="edge">
+<title>movement of objects including revisiting past actions&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M230.79,-450C217.37,-450 204.25,-450 191.81,-450"/>
+<polygon fill="black" stroke="black" points="191.53,-446.5 181.53,-450 191.53,-453.5 191.53,-446.5"/>
 </g>
 </g>
 </svg>

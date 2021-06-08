@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "shared gaze" "Joint visual attention";}
-	{rank=same; "Coh-metrix indices" "gaze overlap";}
+	{rank=same; "Joint visual attention" "shared gaze";}
+	{rank=same; "gaze overlap" "Coh-metrix indices";}
 	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
 	"Joint visual attention" -> "Coh-metrix indices"
 	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations"]

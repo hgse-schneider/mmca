@@ -9,26 +9,26 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 310)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-310 536.56,-310 536.56,4 -4,4"/>
-<!-- Body synchronization -->
+<!-- type of movement -->
 <g id="node1" class="node">
-<title>Body synchronization</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="Body synchronization">
-<ellipse fill="none" stroke="black" cx="410.37" cy="-72" rx="88.28" ry="18"/>
-<text text-anchor="middle" x="410.37" y="-68.3" font-family="Times,serif" font-size="14.00">Body synchronization</text>
+<title>type of movement</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="type of movement">
+<ellipse fill="none" stroke="black" cx="410.37" cy="-72" rx="76.09" ry="18"/>
+<text text-anchor="middle" x="410.37" y="-68.3" font-family="Times,serif" font-size="14.00">type of movement</text>
 </a>
 </g>
 </g>
 <!-- learning gains -->
-<g id="node7" class="node">
+<g id="node8" class="node">
 <title>learning gains</title>
 <ellipse fill="none" stroke="black" cx="126.09" cy="-126" rx="60.39" ry="18"/>
 <text text-anchor="middle" x="126.09" y="-122.3" font-family="Times,serif" font-size="14.00">learning gains</text>
 </g>
-<!-- Body synchronization&#45;&gt;learning gains -->
-<g id="edge5" class="edge">
-<title>Body synchronization&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M345.31,-84.25C297.88,-93.33 233.69,-105.61 187.22,-114.5"/>
-<polygon fill="black" stroke="black" points="186.45,-111.08 177.29,-116.4 187.77,-117.96 186.45,-111.08"/>
+<!-- type of movement&#45;&gt;learning gains -->
+<g id="edge4" class="edge">
+<title>type of movement&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M350.54,-83.25C302.72,-92.4 235.52,-105.26 187.33,-114.48"/>
+<polygon fill="black" stroke="black" points="186.51,-111.07 177.35,-116.39 187.83,-117.94 186.51,-111.07"/>
 </g>
 <!-- learning gain group (high or low -->
 <g id="node9" class="node">
@@ -36,11 +36,11 @@
 <ellipse fill="none" stroke="black" cx="126.09" cy="-72" rx="126.18" ry="18"/>
 <text text-anchor="middle" x="126.09" y="-68.3" font-family="Times,serif" font-size="14.00">learning gain group (high or low</text>
 </g>
-<!-- Body synchronization&#45;&gt;learning gain group (high or low -->
-<g id="edge9" class="edge">
-<title>Body synchronization&#45;&gt;learning gain group (high or low</title>
-<path fill="none" stroke="black" d="M321.6,-72C302.84,-72 282.6,-72 262.52,-72"/>
-<polygon fill="black" stroke="black" points="262.37,-68.5 252.37,-72 262.37,-75.5 262.37,-68.5"/>
+<!-- type of movement&#45;&gt;learning gain group (high or low -->
+<g id="edge8" class="edge">
+<title>type of movement&#45;&gt;learning gain group (high or low</title>
+<path fill="none" stroke="black" d="M334.09,-72C311.99,-72 287.1,-72 262.45,-72"/>
+<polygon fill="black" stroke="black" points="262.29,-68.5 252.29,-72 262.29,-75.5 262.29,-68.5"/>
 </g>
 <!-- clustered hand/wrist movement -->
 <g id="node2" class="node">
@@ -52,7 +52,7 @@
 </g>
 </g>
 <!-- Learning gains -->
-<g id="node8" class="node">
+<g id="node7" class="node">
 <title>Learning gains</title>
 <ellipse fill="none" stroke="black" cx="126.09" cy="-234" rx="63.89" ry="18"/>
 <text text-anchor="middle" x="126.09" y="-230.3" font-family="Times,serif" font-size="14.00">Learning gains</text>
@@ -63,46 +63,46 @@
 <path fill="none" stroke="black" d="M288.02,-234C258.07,-234 226.91,-234 200.08,-234"/>
 <polygon fill="black" stroke="black" points="200.02,-230.5 190.02,-234 200.02,-237.5 200.02,-230.5"/>
 </g>
-<!-- type of movement -->
+<!-- Body synchronization -->
 <g id="node3" class="node">
-<title>type of movement</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="type of movement">
-<ellipse fill="none" stroke="black" cx="410.37" cy="-18" rx="76.09" ry="18"/>
-<text text-anchor="middle" x="410.37" y="-14.3" font-family="Times,serif" font-size="14.00">type of movement</text>
+<title>Body synchronization</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="Body synchronization">
+<ellipse fill="none" stroke="black" cx="410.37" cy="-18" rx="88.28" ry="18"/>
+<text text-anchor="middle" x="410.37" y="-14.3" font-family="Times,serif" font-size="14.00">Body synchronization</text>
 </a>
 </g>
 </g>
-<!-- type of movement&#45;&gt;learning gains -->
-<g id="edge4" class="edge">
-<title>type of movement&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M338.98,-24.32C321.29,-28.33 303.11,-34.76 288.18,-45 264.39,-61.31 276.02,-82.77 252.18,-99 235.6,-110.29 215.16,-116.97 195.64,-120.89"/>
+<!-- Body synchronization&#45;&gt;learning gains -->
+<g id="edge5" class="edge">
+<title>Body synchronization&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M331.38,-26.19C316.16,-30.25 300.98,-36.22 288.18,-45 264.39,-61.31 276.02,-82.77 252.18,-99 235.6,-110.29 215.16,-116.97 195.64,-120.89"/>
 <polygon fill="black" stroke="black" points="194.77,-117.49 185.55,-122.7 196.01,-124.38 194.77,-117.49"/>
 </g>
-<!-- type of movement&#45;&gt;learning gain group (high or low -->
-<g id="edge8" class="edge">
-<title>type of movement&#45;&gt;learning gain group (high or low</title>
-<path fill="none" stroke="black" d="M350.54,-29.25C310.5,-36.91 256.89,-47.17 212.22,-55.72"/>
-<polygon fill="black" stroke="black" points="211.41,-52.31 202.24,-57.62 212.72,-59.18 211.41,-52.31"/>
+<!-- Body synchronization&#45;&gt;learning gain group (high or low -->
+<g id="edge9" class="edge">
+<title>Body synchronization&#45;&gt;learning gain group (high or low</title>
+<path fill="none" stroke="black" d="M345.31,-30.25C305.93,-37.79 254.99,-47.53 212.23,-55.71"/>
+<polygon fill="black" stroke="black" points="211.56,-52.28 202.4,-57.59 212.87,-59.15 211.56,-52.28"/>
 </g>
-<!-- amount of movement -->
+<!-- Body distance -->
 <g id="node4" class="node">
-<title>amount of movement</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="amount of movement">
-<ellipse fill="none" stroke="black" cx="410.37" cy="-180" rx="87.99" ry="18"/>
-<text text-anchor="middle" x="410.37" y="-176.3" font-family="Times,serif" font-size="14.00">amount of movement</text>
+<title>Body distance</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="Body distance">
+<ellipse fill="none" stroke="black" cx="410.37" cy="-180" rx="61.19" ry="18"/>
+<text text-anchor="middle" x="410.37" y="-176.3" font-family="Times,serif" font-size="14.00">Body distance</text>
 </a>
 </g>
 </g>
-<!-- amount of movement&#45;&gt;learning gains -->
-<g id="edge3" class="edge">
-<title>amount of movement&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M345.67,-167.81C298.25,-158.74 233.94,-146.44 187.37,-137.53"/>
-<polygon fill="black" stroke="black" points="187.89,-134.07 177.41,-135.63 186.58,-140.94 187.89,-134.07"/>
+<!-- Body distance&#45;&gt;learning gains -->
+<g id="edge6" class="edge">
+<title>Body distance&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M358.58,-170.28C310.51,-161.09 238.33,-147.28 187.37,-137.53"/>
+<polygon fill="black" stroke="black" points="187.95,-134.08 177.47,-135.64 186.64,-140.96 187.95,-134.08"/>
 </g>
-<!-- amount of movement&#45;&gt;learning gain group (high or low -->
-<g id="edge7" class="edge">
-<title>amount of movement&#45;&gt;learning gain group (high or low</title>
-<path fill="none" stroke="black" d="M331.7,-171.89C316.38,-167.83 301.07,-161.84 288.18,-153 264.39,-136.69 276.02,-115.23 252.18,-99 245.52,-94.47 238.24,-90.68 230.64,-87.51"/>
+<!-- Body distance&#45;&gt;learning gain group (high or low -->
+<g id="edge10" class="edge">
+<title>Body distance&#45;&gt;learning gain group (high or low</title>
+<path fill="none" stroke="black" d="M350.56,-175.99C329.46,-172.31 306.4,-165.49 288.18,-153 264.39,-136.69 276.02,-115.23 252.18,-99 245.52,-94.47 238.24,-90.68 230.64,-87.51"/>
 <polygon fill="black" stroke="black" points="231.83,-84.22 221.24,-83.95 229.35,-90.76 231.83,-84.22"/>
 </g>
 <!-- gesture -->
@@ -126,26 +126,26 @@
 <path fill="none" stroke="black" d="M373.9,-288C323.86,-288 232.34,-288 175.91,-288"/>
 <polygon fill="black" stroke="black" points="175.8,-284.5 165.8,-288 175.8,-291.5 175.8,-284.5"/>
 </g>
-<!-- Body distance -->
+<!-- amount of movement -->
 <g id="node6" class="node">
-<title>Body distance</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="Body distance">
-<ellipse fill="none" stroke="black" cx="410.37" cy="-126" rx="61.19" ry="18"/>
-<text text-anchor="middle" x="410.37" y="-122.3" font-family="Times,serif" font-size="14.00">Body distance</text>
+<title>amount of movement</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="amount of movement">
+<ellipse fill="none" stroke="black" cx="410.37" cy="-126" rx="87.99" ry="18"/>
+<text text-anchor="middle" x="410.37" y="-122.3" font-family="Times,serif" font-size="14.00">amount of movement</text>
 </a>
 </g>
 </g>
-<!-- Body distance&#45;&gt;learning gains -->
-<g id="edge6" class="edge">
-<title>Body distance&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M349.16,-126C304.51,-126 243.53,-126 196.77,-126"/>
-<polygon fill="black" stroke="black" points="196.72,-122.5 186.72,-126 196.72,-129.5 196.72,-122.5"/>
+<!-- amount of movement&#45;&gt;learning gains -->
+<g id="edge3" class="edge">
+<title>amount of movement&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M322.37,-126C282.1,-126 234.89,-126 196.98,-126"/>
+<polygon fill="black" stroke="black" points="196.54,-122.5 186.54,-126 196.54,-129.5 196.54,-122.5"/>
 </g>
-<!-- Body distance&#45;&gt;learning gain group (high or low -->
-<g id="edge10" class="edge">
-<title>Body distance&#45;&gt;learning gain group (high or low</title>
-<path fill="none" stroke="black" d="M358.58,-116.28C317.9,-108.5 259.95,-97.42 212.2,-88.28"/>
-<polygon fill="black" stroke="black" points="212.66,-84.81 202.18,-86.37 211.35,-91.68 212.66,-84.81"/>
+<!-- amount of movement&#45;&gt;learning gain group (high or low -->
+<g id="edge7" class="edge">
+<title>amount of movement&#45;&gt;learning gain group (high or low</title>
+<path fill="none" stroke="black" d="M345.67,-113.81C306.22,-106.27 255.08,-96.48 212.18,-88.28"/>
+<polygon fill="black" stroke="black" points="212.8,-84.83 202.32,-86.39 211.48,-91.71 212.8,-84.83"/>
 </g>
 </g>
 </svg>

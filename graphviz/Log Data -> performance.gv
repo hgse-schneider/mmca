@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Average stroke displacement" "events" "student work phases" "Average stroke time length" "Arduino active hardware blocks" "Arduino measure of complexity" "Arduino active software blocks" "Calculator Use" "Average stroke path length" "Arduino active blocks" "Average number of points" "type of activity done in task" "Average stroke pressure" "Total number of pen strokes" "target for discussion partner";}
-	{rank=same; "Odds of a student solving correctly a problem" "task success score" "group performance" "artefact quality";}
+	{rank=same; "Arduino active blocks" "Arduino active software blocks" "Average stroke path length" "Calculator Use" "Average stroke displacement" "Average number of points" "events" "Average stroke pressure" "type of activity done in task" "Total number of pen strokes" "student work phases" "Average stroke time length" "target for discussion partner" "Arduino active hardware blocks" "Arduino measure of complexity";}
+	{rank=same; "Odds of a student solving correctly a problem" "artefact quality" "task success score" "group performance";}
 	events [href="https://scholar.google.com/scholar?hl=en&q=Analysing%20frequent%20sequential%20patterns%20of%20collaborative%20learning%20activity%20around%20an%20interactive%20tabletop"]
 	events -> "group performance"
 	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]

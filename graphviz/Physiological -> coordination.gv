@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Instantaneous Derivative Matching (IDM" "Directional Agreement (DA" "Galvanic skin response" "Signal Matching (SM" "heart rate sychrony" "Pearson‚Äôs correlation (PC" "physiological synchrony (DA" "EDA synchrony" "cycles of physiological synchrony (PC";}
-	{rank=same; "collaboration quality" "Perceived Collaboration Quality" "collaboration quality: information pooling" "collaboration quality: reaching consensus";}
+	{rank=same; "EDA synchrony" "cycles of physiological synchrony (PC" "Instantaneous Derivative Matching (IDM" "physiological synchrony (DA" "Galvanic skin response" "heart rate sychrony" "Directional Agreement (DA" "Pearson‚Äôs correlation (PC" "Signal Matching (SM";}
+	{rank=same; "Perceived Collaboration Quality" "collaboration quality" "collaboration quality: reaching consensus" "collaboration quality: information pooling";}
 	"physiological synchrony (DA" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]
 	"physiological synchrony (DA" -> "collaboration quality"
 	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]

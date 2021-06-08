@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Physiological linkage" "Galvanic skin response" "physiological synchrony";}
-	{rank=same; "Negative Feelings" "Empathy" "Judgement of confidence" "Emotional valence" "Perceived Valence" "Perceived Arousal";}
+	{rank=same; "Galvanic skin response" "Physiological linkage" "physiological synchrony";}
+	{rank=same; "Judgement of confidence" "Perceived Valence" "Negative Feelings" "Perceived Arousal" "Empathy" "Emotional valence";}
 	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
 	"Physiological linkage" -> Empathy
 	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]

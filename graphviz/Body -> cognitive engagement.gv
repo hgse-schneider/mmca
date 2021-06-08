@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "gesture type and location" "Distance between hands" "gesture";}
-	{rank=same; "subjective workload" "Physical engagement" "Individual accountability" "engagement";}
+	{rank=same; "Distance between hands" "gesture type and location" "gesture";}
+	{rank=same; "subjective workload" "Individual accountability" "Physical engagement" "engagement";}
 	gesture [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring"]
 	gesture -> engagement
 	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning"]

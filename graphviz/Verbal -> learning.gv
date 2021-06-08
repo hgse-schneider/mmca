@@ -1,9 +1,9 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "convergence (of linguistic styles" "dialogue acts" "simple linguistic features" "35 Coh-metrix indices" "coherence" "Dialogue episodes (description, management" "Speech activity";}
+	{rank=same; "simple linguistic features" "convergence (of linguistic styles" "coherence" "Dialogue episodes (description, management" "Speech activity" "35 Coh-metrix indices" "dialogue acts";}
 	{rank=same; "learning gains" "level of understanding" "Learning" "learning";}
 	"dialogue acts" [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring"]
 	"dialogue acts" -> learning

@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Individual Visual Focus of Attention" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" "Network features [+20]" "joint-visual attention" "joint visual attention" "Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" "visual focus of attention" "shared gaze" "Joint visual Attention" "Joint visual attention" "visual field of attention on a person features" "visual attention metrics [8 metrics]" "Cycles of collaborative / individual work";}
-	{rank=same; "identity of emergent leader" "quality of collaboration" "Perception of leadership and dominance from external observers" "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking" "Leadership perceived" "Emerging leadership (surveyed" "collaboration quality" "Quality of Collaboration" "Contribution perceived" "Ranked dominance";}
+	{rank=same; "Joint visual attention" "visual focus of attention" "Network features [+20]" "visual attention metrics [8 metrics]" "shared gaze" "joint-visual attention" "visual field of attention on a person features" "joint visual attention" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" "Individual Visual Focus of Attention" "Cycles of collaborative / individual work" "Joint visual Attention" "Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio";}
+	{rank=same; "Quality of Collaboration" "Perception of leadership and dominance from external observers" "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking" "identity of emergent leader" "quality of collaboration" "Leadership perceived" "Emerging leadership (surveyed" "collaboration quality" "Ranked dominance" "Contribution perceived";}
 	"visual attention metrics [8 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis"]
 	"visual attention metrics [8 metrics]" -> "Leadership perceived"
 	"visual attention metrics [8 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis"]

@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Multidimensional Recurrence Quantification Analysis (MdRQA" "Network features [+20]" "joint-visual attention" "joint visual attention" "Cross-Recurrence Quantification Analysis (CRQA" "shared gaze" "Joint visual Attention" "Joint visual attention" "Count of faces looking at screen" "Gaze transitions" "Together gaze" "Focused gaze" "Cycles of collaborative / individual work";}
-	{rank=same; "Construction of shared knowledge" "quality of collaboration" "Negotiation" "Coordination" "collaboration quality" "Synchronisation" "Quality of Collaboration" "Dialogue episodes";}
+	{rank=same; "Joint visual attention" "Cross-Recurrence Quantification Analysis (CRQA" "Together gaze" "Network features [+20]" "shared gaze" "joint-visual attention" "joint visual attention" "Multidimensional Recurrence Quantification Analysis (MdRQA" "Focused gaze" "Count of faces looking at screen" "Cycles of collaborative / individual work" "Joint visual Attention" "Gaze transitions";}
+	{rank=same; "Quality of Collaboration" "Negotiation" "quality of collaboration" "collaboration quality" "Construction of shared knowledge" "Synchronisation" "Coordination" "Dialogue episodes";}
 	"Focused gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]
 	"Focused gaze" -> "Dialogue episodes"
 	"Together gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]

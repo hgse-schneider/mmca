@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Cycles of collaborative / individual work" "perceptual with-me-ness (gaze" "joint visual attention" "conceptual with-me-ness (gaze" "cognitive load (from pupil size" "Joint visual Attention" "Joint visual attention" "EVT of spatial entropy" "gaze similarity" "(not";}
-	{rank=same; "post-test score" "Learning gains" "learning gains" "level of understanding";}
+	{rank=same; "conceptual with-me-ness (gaze" "Joint visual attention" "cognitive load (from pupil size" "joint visual attention" "gaze similarity" "EVT of spatial entropy" "Cycles of collaborative / individual work" "Joint visual Attention" "perceptual with-me-ness (gaze" "(not";}
+	{rank=same; "Learning gains" "learning gains" "post-test score" "level of understanding";}
 	"perceptual with-me-ness (gaze" [href="https://scholar.google.com/scholar?hl=en&q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context"]
 	"perceptual with-me-ness (gaze" -> "learning gains"
 	"conceptual with-me-ness (gaze" [href="https://scholar.google.com/scholar?hl=en&q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context"]

@@ -9,12 +9,12 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 310)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-310 689.94,-310 689.94,4 -4,4"/>
-<!-- Instantaneous Derivative Matching (IDM -->
+<!-- cycles of physiological synchrony (PC -->
 <g id="node1" class="node">
-<title>Instantaneous Derivative Matching (IDM</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Instantaneous Derivative Matching (IDM">
-<ellipse fill="none" stroke="black" cx="528.01" cy="-288" rx="157.87" ry="18"/>
-<text text-anchor="middle" x="528.01" y="-284.3" font-family="Times,serif" font-size="14.00">Instantaneous Derivative Matching (IDM</text>
+<title>cycles of physiological synchrony (PC</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" xlink:title="cycles of physiological synchrony (PC">
+<ellipse fill="none" stroke="black" cx="528.01" cy="-288" rx="147.57" ry="18"/>
+<text text-anchor="middle" x="528.01" y="-284.3" font-family="Times,serif" font-size="14.00">cycles of physiological synchrony (PC</text>
 </a>
 </g>
 </g>
@@ -24,85 +24,85 @@
 <ellipse fill="none" stroke="black" cx="167.04" cy="-153" rx="83.69" ry="18"/>
 <text text-anchor="middle" x="167.04" y="-149.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
 </g>
+<!-- cycles of physiological synchrony (PC&#45;&gt;collaboration quality -->
+<g id="edge6" class="edge">
+<title>cycles of physiological synchrony (PC&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M402.13,-278.49C390.6,-274.17 379.67,-268.47 370.07,-261 338.98,-236.8 365.27,-204.06 334.07,-180 313.25,-163.94 286.53,-155.84 260.64,-152.08"/>
+<polygon fill="black" stroke="black" points="260.75,-148.57 250.39,-150.81 259.88,-155.52 260.75,-148.57"/>
+</g>
+<!-- Instantaneous Derivative Matching (IDM -->
+<g id="node2" class="node">
+<title>Instantaneous Derivative Matching (IDM</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Instantaneous Derivative Matching (IDM">
+<ellipse fill="none" stroke="black" cx="528.01" cy="-234" rx="157.87" ry="18"/>
+<text text-anchor="middle" x="528.01" y="-230.3" font-family="Times,serif" font-size="14.00">Instantaneous Derivative Matching (IDM</text>
+</a>
+</g>
+</g>
 <!-- Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality -->
 <g id="edge2" class="edge">
 <title>Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality: dialogue management</title>
-<path fill="none" stroke="black" d="M399.39,-277.43C388.87,-273.26 378.91,-267.88 370.07,-261 338.98,-236.8 365.27,-204.06 334.07,-180 313.25,-163.94 286.53,-155.84 260.64,-152.08"/>
-<polygon fill="black" stroke="black" points="260.75,-148.57 250.39,-150.81 259.88,-155.52 260.75,-148.57"/>
-</g>
-<!-- Directional Agreement (DA -->
-<g id="node2" class="node">
-<title>Directional Agreement (DA</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Directional Agreement (DA">
-<ellipse fill="none" stroke="black" cx="528.01" cy="-234" rx="109.68" ry="18"/>
-<text text-anchor="middle" x="528.01" y="-230.3" font-family="Times,serif" font-size="14.00">Directional Agreement (DA</text>
-</a>
-</g>
-</g>
-<!-- Directional Agreement (DA&#45;&gt;collaboration quality -->
-<g id="edge4" class="edge">
-<title>Directional Agreement (DA&#45;&gt;collaboration quality: dialogue management</title>
-<path fill="none" stroke="black" d="M432.38,-225.14C411.32,-221.15 389.49,-215.37 370.07,-207 351.7,-199.08 352.47,-187.83 334.07,-180 310.23,-169.85 282.97,-163.5 257.53,-159.52"/>
+<path fill="none" stroke="black" d="M414.93,-221.43C399.52,-217.78 384.16,-213.07 370.07,-207 351.7,-199.08 352.47,-187.83 334.07,-180 310.23,-169.85 282.97,-163.5 257.53,-159.52"/>
 <polygon fill="black" stroke="black" points="257.9,-156.04 247.5,-158.06 256.89,-162.97 257.9,-156.04"/>
 </g>
-<!-- Signal Matching (SM -->
-<g id="node3" class="node">
-<title>Signal Matching (SM</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Signal Matching (SM">
-<ellipse fill="none" stroke="black" cx="528.01" cy="-180" rx="88.28" ry="18"/>
-<text text-anchor="middle" x="528.01" y="-176.3" font-family="Times,serif" font-size="14.00">Signal Matching (SM</text>
-</a>
-</g>
-</g>
-<!-- Signal Matching (SM&#45;&gt;collaboration quality -->
-<g id="edge1" class="edge">
-<title>Signal Matching (SM&#45;&gt;collaboration quality: dialogue management</title>
-<path fill="none" stroke="black" d="M444.65,-173.81C388.41,-169.58 313.97,-163.98 256.48,-159.65"/>
-<polygon fill="black" stroke="black" points="256.55,-156.15 246.31,-158.89 256.02,-163.13 256.55,-156.15"/>
-</g>
-<!-- Pearson‚Äôs correlation (PC -->
-<g id="node4" class="node">
-<title>Pearson‚Äôs correlation (PC</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Pearson‚Äôs correlation (PC">
-<ellipse fill="none" stroke="black" cx="528.01" cy="-126" rx="112.38" ry="18"/>
-<text text-anchor="middle" x="528.01" y="-122.3" font-family="Times,serif" font-size="14.00">Pearson‚Äôs correlation (PC</text>
-</a>
-</g>
-</g>
-<!-- Pearson‚Äôs correlation (PC&#45;&gt;collaboration quality -->
-<g id="edge3" class="edge">
-<title>Pearson‚Äôs correlation (PC&#45;&gt;collaboration quality: dialogue management</title>
-<path fill="none" stroke="black" d="M426.06,-133.59C372.69,-137.61 307.79,-142.49 256.43,-146.35"/>
-<polygon fill="black" stroke="black" points="256.05,-142.87 246.34,-147.11 256.58,-149.85 256.05,-142.87"/>
-</g>
 <!-- physiological synchrony (DA -->
-<g id="node5" class="node">
+<g id="node3" class="node">
 <title>physiological synchrony (DA</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" xlink:title="physiological synchrony (DA">
-<ellipse fill="none" stroke="black" cx="528.01" cy="-72" rx="115.08" ry="18"/>
-<text text-anchor="middle" x="528.01" y="-68.3" font-family="Times,serif" font-size="14.00">physiological synchrony (DA</text>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" xlink:title="physiological synchrony (DA">
+<ellipse fill="none" stroke="black" cx="528.01" cy="-180" rx="115.08" ry="18"/>
+<text text-anchor="middle" x="528.01" y="-176.3" font-family="Times,serif" font-size="14.00">physiological synchrony (DA</text>
 </a>
 </g>
 </g>
 <!-- physiological synchrony (DA&#45;&gt;collaboration quality -->
 <g id="edge5" class="edge">
 <title>physiological synchrony (DA&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M445.28,-84.62C420.99,-88.75 394.37,-93.67 370.07,-99 321.42,-109.66 266.89,-124.41 226.75,-135.79"/>
-<polygon fill="black" stroke="black" points="225.79,-132.43 217.13,-138.54 227.71,-139.16 225.79,-132.43"/>
+<path fill="none" stroke="black" d="M423.66,-172.23C370.86,-168.26 307.26,-163.47 256.71,-159.67"/>
+<polygon fill="black" stroke="black" points="256.69,-156.16 246.46,-158.9 256.17,-163.14 256.69,-156.16"/>
 </g>
-<!-- cycles of physiological synchrony (PC -->
-<g id="node6" class="node">
-<title>cycles of physiological synchrony (PC</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" xlink:title="cycles of physiological synchrony (PC">
-<ellipse fill="none" stroke="black" cx="528.01" cy="-18" rx="147.57" ry="18"/>
-<text text-anchor="middle" x="528.01" y="-14.3" font-family="Times,serif" font-size="14.00">cycles of physiological synchrony (PC</text>
+<!-- Directional Agreement (DA -->
+<g id="node4" class="node">
+<title>Directional Agreement (DA</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Directional Agreement (DA">
+<ellipse fill="none" stroke="black" cx="528.01" cy="-126" rx="109.68" ry="18"/>
+<text text-anchor="middle" x="528.01" y="-122.3" font-family="Times,serif" font-size="14.00">Directional Agreement (DA</text>
 </a>
 </g>
 </g>
-<!-- cycles of physiological synchrony (PC&#45;&gt;collaboration quality -->
-<g id="edge6" class="edge">
-<title>cycles of physiological synchrony (PC&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M424.09,-30.84C405.83,-34.48 387.2,-39.12 370.07,-45 307.73,-66.4 241.44,-105.35 202.44,-130.16"/>
+<!-- Directional Agreement (DA&#45;&gt;collaboration quality -->
+<g id="edge4" class="edge">
+<title>Directional Agreement (DA&#45;&gt;collaboration quality: dialogue management</title>
+<path fill="none" stroke="black" d="M427.97,-133.45C374.27,-137.49 308.46,-142.44 256.49,-146.35"/>
+<polygon fill="black" stroke="black" points="256,-142.87 246.29,-147.11 256.53,-149.85 256,-142.87"/>
+</g>
+<!-- Pearson‚Äôs correlation (PC -->
+<g id="node5" class="node">
+<title>Pearson‚Äôs correlation (PC</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Pearson‚Äôs correlation (PC">
+<ellipse fill="none" stroke="black" cx="528.01" cy="-72" rx="112.38" ry="18"/>
+<text text-anchor="middle" x="528.01" y="-68.3" font-family="Times,serif" font-size="14.00">Pearson‚Äôs correlation (PC</text>
+</a>
+</g>
+</g>
+<!-- Pearson‚Äôs correlation (PC&#45;&gt;collaboration quality -->
+<g id="edge3" class="edge">
+<title>Pearson‚Äôs correlation (PC&#45;&gt;collaboration quality: dialogue management</title>
+<path fill="none" stroke="black" d="M446.49,-84.41C421.87,-88.59 394.78,-93.58 370.07,-99 321.42,-109.66 266.89,-124.41 226.75,-135.79"/>
+<polygon fill="black" stroke="black" points="225.79,-132.43 217.13,-138.54 227.71,-139.16 225.79,-132.43"/>
+</g>
+<!-- Signal Matching (SM -->
+<g id="node6" class="node">
+<title>Signal Matching (SM</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Signal Matching (SM">
+<ellipse fill="none" stroke="black" cx="528.01" cy="-18" rx="88.28" ry="18"/>
+<text text-anchor="middle" x="528.01" y="-14.3" font-family="Times,serif" font-size="14.00">Signal Matching (SM</text>
+</a>
+</g>
+</g>
+<!-- Signal Matching (SM&#45;&gt;collaboration quality -->
+<g id="edge1" class="edge">
+<title>Signal Matching (SM&#45;&gt;collaboration quality: dialogue management</title>
+<path fill="none" stroke="black" d="M449.54,-26.3C423.81,-30.37 395.3,-36.34 370.07,-45 307.73,-66.4 241.44,-105.35 202.44,-130.16"/>
 <polygon fill="black" stroke="black" points="200.12,-127.49 193.6,-135.84 203.9,-133.38 200.12,-127.49"/>
 </g>
 <!-- collaboration quality: dialogue management -->

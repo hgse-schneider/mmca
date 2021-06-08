@@ -9,188 +9,188 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 526)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-526 715.94,-526 715.94,4 -4,4"/>
-<!-- Distance between learners (DBL -->
+<!-- Distance between hands -->
 <g id="node1" class="node">
-<title>Distance between learners (DBL</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Distance between learners (DBL">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-18" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-14.3" font-family="Times,serif" font-size="14.00">Distance between learners (DBL</text>
+<title>Distance between hands</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning" xlink:title="Distance between hands">
+<ellipse fill="none" stroke="black" cx="498.76" cy="-45" rx="96.38" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-41.3" font-family="Times,serif" font-size="14.00">Distance between hands</text>
 </a>
 </g>
 </g>
-<!-- collaborative problem solving -->
+<!-- Individual accountability -->
 <g id="node11" class="node">
-<title>collaborative problem solving</title>
-<ellipse fill="none" stroke="black" cx="124.79" cy="-18" rx="116.98" ry="18"/>
-<text text-anchor="middle" x="124.79" y="-14.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
+<title>Individual accountability</title>
+<ellipse fill="none" stroke="black" cx="124.79" cy="-72" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="124.79" y="-68.3" font-family="Times,serif" font-size="14.00">Individual accountability</text>
 </g>
-<!-- Distance between learners (DBL&#45;&gt;collaborative problem solving -->
-<g id="edge5" class="edge">
-<title>Distance between learners (DBL&#45;&gt;collaborative problem solving</title>
-<path fill="none" stroke="black" d="M372.6,-18C333.87,-18 291.18,-18 252.35,-18"/>
-<polygon fill="black" stroke="black" points="252.04,-14.5 242.04,-18 252.04,-21.5 252.04,-14.5"/>
+<!-- Distance between hands&#45;&gt;Individual accountability -->
+<g id="edge2" class="edge">
+<title>Distance between hands&#45;&gt;Individual accountability</title>
+<path fill="none" stroke="black" d="M408.66,-51.47C353.92,-55.44 283.64,-60.54 226.82,-64.67"/>
+<polygon fill="black" stroke="black" points="226.46,-61.18 216.74,-65.4 226.97,-68.16 226.46,-61.18"/>
+</g>
+<!-- Synchronisation -->
+<g id="node12" class="node">
+<title>Synchronisation</title>
+<ellipse fill="none" stroke="black" cx="124.79" cy="-18" rx="67.69" ry="18"/>
+<text text-anchor="middle" x="124.79" y="-14.3" font-family="Times,serif" font-size="14.00">Synchronisation</text>
+</g>
+<!-- Distance between hands&#45;&gt;Synchronisation -->
+<g id="edge3" class="edge">
+<title>Distance between hands&#45;&gt;Synchronisation</title>
+<path fill="none" stroke="black" d="M408.66,-38.53C345.07,-33.92 260.51,-27.78 200.45,-23.42"/>
+<polygon fill="black" stroke="black" points="200.51,-19.91 190.28,-22.68 200,-26.9 200.51,-19.91"/>
 </g>
 <!-- Total movement across upper body joints and body parts -->
 <g id="node2" class="node">
 <title>Total movement across upper body joints and body parts</title>
 <g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" xlink:title="Total movement across upper body joints and body parts">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-72" rx="213.36" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-68.3" font-family="Times,serif" font-size="14.00">Total movement across upper body joints and body parts</text>
+<ellipse fill="none" stroke="black" cx="498.76" cy="-126" rx="213.36" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-122.3" font-family="Times,serif" font-size="14.00">Total movement across upper body joints and body parts</text>
 </a>
 </g>
 </g>
 <!-- collaboration quality -->
-<g id="node13" class="node">
+<g id="node10" class="node">
 <title>collaboration quality</title>
-<ellipse fill="none" stroke="black" cx="124.79" cy="-72" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="124.79" y="-68.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
+<ellipse fill="none" stroke="black" cx="124.79" cy="-126" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="124.79" y="-122.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
 </g>
 <!-- Total movement across upper body joints and body parts&#45;&gt;collaboration quality -->
 <g id="edge4" class="edge">
 <title>Total movement across upper body joints and body parts&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M285.43,-72C262.29,-72 239.7,-72 219.15,-72"/>
-<polygon fill="black" stroke="black" points="218.91,-68.5 208.91,-72 218.91,-75.5 218.91,-68.5"/>
-</g>
-<!-- Distance between hands -->
-<g id="node3" class="node">
-<title>Distance between hands</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning" xlink:title="Distance between hands">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-153" rx="96.38" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-149.3" font-family="Times,serif" font-size="14.00">Distance between hands</text>
-</a>
-</g>
-</g>
-<!-- Synchronisation -->
-<g id="node14" class="node">
-<title>Synchronisation</title>
-<ellipse fill="none" stroke="black" cx="124.79" cy="-180" rx="67.69" ry="18"/>
-<text text-anchor="middle" x="124.79" y="-176.3" font-family="Times,serif" font-size="14.00">Synchronisation</text>
-</g>
-<!-- Distance between hands&#45;&gt;Synchronisation -->
-<g id="edge3" class="edge">
-<title>Distance between hands&#45;&gt;Synchronisation</title>
-<path fill="none" stroke="black" d="M408.66,-159.47C345.07,-164.08 260.51,-170.22 200.45,-174.58"/>
-<polygon fill="black" stroke="black" points="200,-171.1 190.28,-175.32 200.51,-178.09 200,-171.1"/>
-</g>
-<!-- Individual accountability -->
-<g id="node16" class="node">
-<title>Individual accountability</title>
-<ellipse fill="none" stroke="black" cx="124.79" cy="-126" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="124.79" y="-122.3" font-family="Times,serif" font-size="14.00">Individual accountability</text>
-</g>
-<!-- Distance between hands&#45;&gt;Individual accountability -->
-<g id="edge2" class="edge">
-<title>Distance between hands&#45;&gt;Individual accountability</title>
-<path fill="none" stroke="black" d="M408.66,-146.53C353.92,-142.56 283.64,-137.46 226.82,-133.33"/>
-<polygon fill="black" stroke="black" points="226.97,-129.84 216.74,-132.6 226.46,-136.82 226.97,-129.84"/>
-</g>
-<!-- Face and upper body movement -->
-<g id="node4" class="node">
-<title>Face and upper body movement</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Face and upper body movement">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-234" rx="125.38" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-230.3" font-family="Times,serif" font-size="14.00">Face and upper body movement</text>
-</a>
-</g>
-</g>
-<!-- Perceived Collaboration Quality -->
-<g id="node15" class="node">
-<title>Perceived Collaboration Quality</title>
-<ellipse fill="none" stroke="black" cx="124.79" cy="-234" rx="124.58" ry="18"/>
-<text text-anchor="middle" x="124.79" y="-230.3" font-family="Times,serif" font-size="14.00">Perceived Collaboration Quality</text>
-</g>
-<!-- Face and upper body movement&#45;&gt;Perceived Collaboration Quality -->
-<g id="edge10" class="edge">
-<title>Face and upper body movement&#45;&gt;Perceived Collaboration Quality</title>
-<path fill="none" stroke="black" d="M373.12,-234C336.84,-234 297.05,-234 260.2,-234"/>
-<polygon fill="black" stroke="black" points="259.89,-230.5 249.89,-234 259.89,-237.5 259.89,-230.5"/>
+<path fill="none" stroke="black" d="M285.43,-126C262.29,-126 239.7,-126 219.15,-126"/>
+<polygon fill="black" stroke="black" points="218.91,-122.5 208.91,-126 218.91,-129.5 218.91,-122.5"/>
 </g>
 <!-- Physical synchrony -->
-<g id="node5" class="node">
+<g id="node3" class="node">
 <title>Physical synchrony</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Physical synchrony">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-396" rx="79.09" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-392.3" font-family="Times,serif" font-size="14.00">Physical synchrony</text>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Physical synchrony">
+<ellipse fill="none" stroke="black" cx="498.76" cy="-288" rx="79.09" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-284.3" font-family="Times,serif" font-size="14.00">Physical synchrony</text>
 </a>
 </g>
 </g>
 <!-- Collaboration -->
-<g id="node10" class="node">
+<g id="node16" class="node">
 <title>Collaboration</title>
-<ellipse fill="none" stroke="black" cx="124.79" cy="-342" rx="59.29" ry="18"/>
-<text text-anchor="middle" x="124.79" y="-338.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
+<ellipse fill="none" stroke="black" cx="124.79" cy="-234" rx="59.29" ry="18"/>
+<text text-anchor="middle" x="124.79" y="-230.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
 </g>
 <!-- Physical synchrony&#45;&gt;Collaboration -->
 <g id="edge1" class="edge">
 <title>Physical synchrony&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M427.9,-387.84C386.47,-382.82 332.96,-376.02 285.58,-369 252.57,-364.11 215.85,-357.96 185.95,-352.76"/>
-<polygon fill="black" stroke="black" points="186.54,-349.31 176.08,-351.04 185.33,-356.21 186.54,-349.31"/>
-</g>
-<!-- dyad proximity -->
-<g id="node6" class="node">
-<title>dyad proximity</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="dyad proximity">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-342" rx="65.79" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-338.3" font-family="Times,serif" font-size="14.00">dyad proximity</text>
-</a>
-</g>
-</g>
-<!-- dyad proximity&#45;&gt;Collaboration -->
-<g id="edge7" class="edge">
-<title>dyad proximity&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M432.97,-342C366.15,-342 262.36,-342 194.23,-342"/>
-<polygon fill="black" stroke="black" points="194.03,-338.5 184.03,-342 194.03,-345.5 194.03,-338.5"/>
-</g>
-<!-- hand agitation -->
-<g id="node7" class="node">
-<title>hand agitation</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings" xlink:title="hand agitation">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-504" rx="61.19" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-500.3" font-family="Times,serif" font-size="14.00">hand agitation</text>
-</a>
-</g>
-</g>
-<!-- Agreement -->
-<g id="node12" class="node">
-<title>Agreement</title>
-<ellipse fill="none" stroke="black" cx="124.79" cy="-477" rx="50.09" ry="18"/>
-<text text-anchor="middle" x="124.79" y="-473.3" font-family="Times,serif" font-size="14.00">Agreement</text>
-</g>
-<!-- hand agitation&#45;&gt;Agreement -->
-<g id="edge9" class="edge">
-<title>hand agitation&#45;&gt;Agreement</title>
-<path fill="none" stroke="black" d="M439.23,-499.75C369.56,-494.69 253.92,-486.3 184.27,-481.25"/>
-<polygon fill="black" stroke="black" points="184.15,-477.73 173.92,-480.49 183.64,-484.71 184.15,-477.73"/>
-</g>
-<!-- upper body agitation -->
-<g id="node8" class="node">
-<title>upper body agitation</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings" xlink:title="upper body agitation">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-450" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-446.3" font-family="Times,serif" font-size="14.00">upper body agitation</text>
-</a>
-</g>
-</g>
-<!-- upper body agitation&#45;&gt;Agreement -->
-<g id="edge8" class="edge">
-<title>upper body agitation&#45;&gt;Agreement</title>
-<path fill="none" stroke="black" d="M418.87,-455.73C348.57,-460.83 247.3,-468.18 184.09,-472.77"/>
-<polygon fill="black" stroke="black" points="183.61,-469.29 173.89,-473.51 184.12,-476.28 183.61,-469.29"/>
+<path fill="none" stroke="black" d="M427.9,-279.84C386.47,-274.82 332.96,-268.02 285.58,-261 252.57,-256.11 215.85,-249.96 185.95,-244.76"/>
+<polygon fill="black" stroke="black" points="186.54,-241.31 176.08,-243.04 185.33,-248.21 186.54,-241.31"/>
 </g>
 <!-- Joint movement -->
-<g id="node9" class="node">
+<g id="node4" class="node">
 <title>Joint movement</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint movement">
-<ellipse fill="none" stroke="black" cx="498.76" cy="-288" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="498.76" y="-284.3" font-family="Times,serif" font-size="14.00">Joint movement</text>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint movement">
+<ellipse fill="none" stroke="black" cx="498.76" cy="-234" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-230.3" font-family="Times,serif" font-size="14.00">Joint movement</text>
 </a>
 </g>
 </g>
 <!-- Joint movement&#45;&gt;Collaboration -->
 <g id="edge6" class="edge">
 <title>Joint movement&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M435.92,-295.19C393.55,-300.29 336.09,-307.52 285.58,-315 252.57,-319.89 215.85,-326.04 185.95,-331.24"/>
-<polygon fill="black" stroke="black" points="185.33,-327.79 176.08,-332.96 186.54,-334.69 185.33,-327.79"/>
+<path fill="none" stroke="black" d="M430.4,-234C363.49,-234 261.42,-234 194.16,-234"/>
+<polygon fill="black" stroke="black" points="194.09,-230.5 184.09,-234 194.09,-237.5 194.09,-230.5"/>
+</g>
+<!-- upper body agitation -->
+<g id="node5" class="node">
+<title>upper body agitation</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings" xlink:title="upper body agitation">
+<ellipse fill="none" stroke="black" cx="498.76" cy="-396" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-392.3" font-family="Times,serif" font-size="14.00">upper body agitation</text>
+</a>
+</g>
+</g>
+<!-- Agreement -->
+<g id="node15" class="node">
+<title>Agreement</title>
+<ellipse fill="none" stroke="black" cx="124.79" cy="-369" rx="50.09" ry="18"/>
+<text text-anchor="middle" x="124.79" y="-365.3" font-family="Times,serif" font-size="14.00">Agreement</text>
+</g>
+<!-- upper body agitation&#45;&gt;Agreement -->
+<g id="edge8" class="edge">
+<title>upper body agitation&#45;&gt;Agreement</title>
+<path fill="none" stroke="black" d="M418.87,-390.27C348.57,-385.17 247.3,-377.82 184.09,-373.23"/>
+<polygon fill="black" stroke="black" points="184.12,-369.72 173.89,-372.49 183.61,-376.71 184.12,-369.72"/>
+</g>
+<!-- Distance between learners (DBL -->
+<g id="node6" class="node">
+<title>Distance between learners (DBL</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Distance between learners (DBL">
+<ellipse fill="none" stroke="black" cx="498.76" cy="-450" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-446.3" font-family="Times,serif" font-size="14.00">Distance between learners (DBL</text>
+</a>
+</g>
+</g>
+<!-- collaborative problem solving -->
+<g id="node13" class="node">
+<title>collaborative problem solving</title>
+<ellipse fill="none" stroke="black" cx="124.79" cy="-450" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="124.79" y="-446.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
+</g>
+<!-- Distance between learners (DBL&#45;&gt;collaborative problem solving -->
+<g id="edge5" class="edge">
+<title>Distance between learners (DBL&#45;&gt;collaborative problem solving</title>
+<path fill="none" stroke="black" d="M372.6,-450C333.87,-450 291.18,-450 252.35,-450"/>
+<polygon fill="black" stroke="black" points="252.04,-446.5 242.04,-450 252.04,-453.5 252.04,-446.5"/>
+</g>
+<!-- hand agitation -->
+<g id="node7" class="node">
+<title>hand agitation</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings" xlink:title="hand agitation">
+<ellipse fill="none" stroke="black" cx="498.76" cy="-342" rx="61.19" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-338.3" font-family="Times,serif" font-size="14.00">hand agitation</text>
+</a>
+</g>
+</g>
+<!-- hand agitation&#45;&gt;Agreement -->
+<g id="edge9" class="edge">
+<title>hand agitation&#45;&gt;Agreement</title>
+<path fill="none" stroke="black" d="M439.23,-346.25C369.56,-351.31 253.92,-359.7 184.27,-364.75"/>
+<polygon fill="black" stroke="black" points="183.64,-361.29 173.92,-365.51 184.15,-368.27 183.64,-361.29"/>
+</g>
+<!-- dyad proximity -->
+<g id="node8" class="node">
+<title>dyad proximity</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="dyad proximity">
+<ellipse fill="none" stroke="black" cx="498.76" cy="-180" rx="65.79" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-176.3" font-family="Times,serif" font-size="14.00">dyad proximity</text>
+</a>
+</g>
+</g>
+<!-- dyad proximity&#45;&gt;Collaboration -->
+<g id="edge7" class="edge">
+<title>dyad proximity&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M437.76,-186.97C395.22,-192.08 336.82,-199.41 285.58,-207 252.57,-211.89 215.85,-218.04 185.95,-223.24"/>
+<polygon fill="black" stroke="black" points="185.33,-219.79 176.08,-224.96 186.54,-226.69 185.33,-219.79"/>
+</g>
+<!-- Face and upper body movement -->
+<g id="node9" class="node">
+<title>Face and upper body movement</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Face and upper body movement">
+<ellipse fill="none" stroke="black" cx="498.76" cy="-504" rx="125.38" ry="18"/>
+<text text-anchor="middle" x="498.76" y="-500.3" font-family="Times,serif" font-size="14.00">Face and upper body movement</text>
+</a>
+</g>
+</g>
+<!-- Perceived Collaboration Quality -->
+<g id="node14" class="node">
+<title>Perceived Collaboration Quality</title>
+<ellipse fill="none" stroke="black" cx="124.79" cy="-504" rx="124.58" ry="18"/>
+<text text-anchor="middle" x="124.79" y="-500.3" font-family="Times,serif" font-size="14.00">Perceived Collaboration Quality</text>
+</g>
+<!-- Face and upper body movement&#45;&gt;Perceived Collaboration Quality -->
+<g id="edge10" class="edge">
+<title>Face and upper body movement&#45;&gt;Perceived Collaboration Quality</title>
+<path fill="none" stroke="black" d="M373.12,-504C336.84,-504 297.05,-504 260.2,-504"/>
+<polygon fill="black" stroke="black" points="259.89,-500.5 249.89,-504 259.89,-507.5 259.89,-500.5"/>
 </g>
 </g>
 </svg>

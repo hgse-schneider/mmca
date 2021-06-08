@@ -1,9 +1,9 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "head orientation" "Faces looking at screen (FLS";}
+	{rank=same; "Faces looking at screen (FLS" "head orientation";}
 	{rank=same; "Agreement" "collaborative problem solving";}
 	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features"]
 	"Faces looking at screen (FLS" -> "collaborative problem solving"

@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "22 Intra-Personal Features" "smiling synchrony" "51 Facial Action Units" "9 Dyadic Features" "facial features" "facial expression features (60 features";}
-	{rank=same; "identity of emergent leader" "perception of peer helpfulness" "perception of peer clarity" "perception of peer understanding" "Voiced Laughter" "Social Impressions" "Unvoiced Laughter" "Speech Laughter" "team cohesion";}
+	{rank=same; "facial expression features (60 features" "facial features" "22 Intra-Personal Features" "9 Dyadic Features" "smiling synchrony" "51 Facial Action Units";}
+	{rank=same; "perception of peer clarity" "identity of emergent leader" "perception of peer helpfulness" "team cohesion" "Social Impressions" "Voiced Laughter" "perception of peer understanding" "Speech Laughter" "Unvoiced Laughter";}
 	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
 	"51 Facial Action Units" -> "Voiced Laughter"
 	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]

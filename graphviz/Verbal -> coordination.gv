@@ -1,10 +1,10 @@
 digraph Test {
 	rankdir=RL
-	size="15,15"
+	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "duration in which each student was only speaker" "thousands of features prosodic speech" "duration of overlapping speech from all people" "prosodic and tone features [many]" "speech rate" "Sequences of verbal utterances" "35 Coh-metrix indices" "symmetry of speech among group" "speaking time / turns" "coherence" "1582 audio features (from Emobase" "duration of speech by each student" "duration of overlapping speech from pairs of students" "talking time" "duration of silence for all people" "speech time and frequency" "speech time" "Audio level (AUD";}
-	{rank=same; "Colloboration quality" "collaboration" "Collaboration" "Joint Visual Attention" "collaborative problem solving" "Agreement" "collaboration quality" "collaboration quality of group [4 level scale]" "Perceived Collaboration Quality";}
+	{rank=same; "duration of speech by each student" "speech time and frequency" "speech time" "1582 audio features (from Emobase" "thousands of features prosodic speech" "duration in which each student was only speaker" "duration of overlapping speech from all people" "duration of silence for all people" "speaking time / turns" "coherence" "duration of overlapping speech from pairs of students" "speech rate" "prosodic and tone features [many]" "symmetry of speech among group" "Sequences of verbal utterances" "Audio level (AUD" "35 Coh-metrix indices" "talking time";}
+	{rank=same; "collaboration quality of group [4 level scale]" "Colloboration quality" "collaboration" "Joint Visual Attention" "collaboration quality" "collaborative problem solving" "Perceived Collaboration Quality" "Agreement" "Collaboration";}
 	"Sequences of verbal utterances" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop"]
 	"Sequences of verbal utterances" -> "Colloboration quality"
 	"1582 audio features (from Emobase" [href="https://scholar.google.com/scholar?hl=en&q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features"]
