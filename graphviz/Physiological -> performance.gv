@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "CC - HR" "SM - EDA" "Fisher‚Äôs z-transform (FZT" "WC - HR low frequency" "WC - EDA" "Directional Agreement (DA" "IDM - HR" "CC - EDA" "Galvanic skin response" "DA - HR" "Signal Matching (SM" "physiological synchrony" "IDM - EDA" "DA - EDA" "Pearson‚Äôs correlation coefficient (PCC" "WC - HR high frequency" "SM - HR" "Instantaneous Derivative Matching (IDM";}
-	{rank=same; "Task difficulty" "Perceived group performance" "Task Performance" "collaborative learning product" "Performance in task" "Objective group performance score";}
+	{rank=same; "Galvanic skin response" "Directional Agreement (DA" "WC - HR high frequency" "Instantaneous Derivative Matching (IDM" "WC - HR low frequency" "WC - EDA" "SM - EDA" "DA - HR" "Signal Matching (SM" "IDM - EDA" "Fisher‚Äôs z-transform (FZT" "SM - HR" "DA - EDA" "CC - HR" "physiological synchrony" "CC - EDA" "Pearson‚Äôs correlation coefficient (PCC" "IDM - HR";}
+	{rank=same; "Task Performance" "Objective group performance score" "collaborative learning product" "Perceived group performance" "Task difficulty" "Performance in task";}
 	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Galvanic skin response" -> "Task Performance"
 	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]

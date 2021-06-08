@@ -22,7 +22,7 @@
 <g id="node2" class="node">
 <title>Head motion</title>
 <g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" xlink:title="Head motion" target="_blank">
-<ellipse fill="none" stroke="#e78ac3" cx="412.72" cy="-30.02" rx="61.19" ry="18"/>
+<ellipse fill="none" stroke="#ffd92f" cx="412.72" cy="-30.02" rx="61.19" ry="18"/>
 <text text-anchor="middle" x="412.72" y="-26.32" font-family="Helvetica,sans-Serif" font-size="14.00">Head motion</text>
 </a>
 </g>
@@ -41,7 +41,7 @@
 <g id="node3" class="node">
 <title>Head motion features [x5]</title>
 <g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Head motion features [x5]" target="_blank">
-<ellipse fill="none" stroke="#e78ac3" cx="215.59" cy="-18" rx="111.58" ry="18"/>
+<ellipse fill="none" stroke="#ffd92f" cx="215.59" cy="-18" rx="111.58" ry="18"/>
 <text text-anchor="middle" x="215.59" y="-14.3" font-family="Helvetica,sans-Serif" font-size="14.00">Head motion features [x5]</text>
 </a>
 </g>
@@ -60,7 +60,7 @@
 <g id="node4" class="node">
 <title>Number of faces looking at screen</title>
 <g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Number of faces looking at screen" target="_blank">
-<ellipse fill="none" stroke="#e78ac3" cx="144.29" cy="-202.98" rx="144.07" ry="18"/>
+<ellipse fill="none" stroke="#ffd92f" cx="144.29" cy="-202.98" rx="144.07" ry="18"/>
 <text text-anchor="middle" x="144.29" y="-199.28" font-family="Helvetica,sans-Serif" font-size="14.00">Number of faces looking at screen</text>
 </a>
 </g>
@@ -79,7 +79,7 @@
 <g id="node5" class="node">
 <title>Faces looking at screen (FLS</title>
 <g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Faces looking at screen (FLS" target="_blank">
-<ellipse fill="none" stroke="#e78ac3" cx="462.05" cy="-219.71" rx="124.58" ry="18"/>
+<ellipse fill="none" stroke="#ffd92f" cx="462.05" cy="-219.71" rx="124.58" ry="18"/>
 <text text-anchor="middle" x="462.05" y="-216.01" font-family="Helvetica,sans-Serif" font-size="14.00">Faces looking at screen (FLS</text>
 </a>
 </g>
@@ -98,7 +98,7 @@
 <g id="node6" class="node">
 <title>head orientation</title>
 <g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings" xlink:title="head orientation" target="_blank">
-<ellipse fill="none" stroke="#e78ac3" cx="297.9" cy="-326.35" rx="73.39" ry="18"/>
+<ellipse fill="none" stroke="#ffd92f" cx="297.9" cy="-326.35" rx="73.39" ry="18"/>
 <text text-anchor="middle" x="297.9" y="-322.65" font-family="Helvetica,sans-Serif" font-size="14.00">head orientation</text>
 </a>
 </g>

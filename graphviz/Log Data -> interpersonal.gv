@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "symmetry of touch actions among group" "movement of objects including revisiting past actions" "Sequences of meaningful actions" "scrolling" "total number of touch actions" "target for discussion partner" "card movements" "zooming" "Convergence measures" "type of activity done in task";}
-	{rank=same; "subjective perception of collaboration" "Collaboration" "collaboration" "Colloboration quality" "collaboration quality" "Quality of Collaboration";}
+	{rank=same; "movement of objects including revisiting past actions" "type of activity done in task" "Sequences of meaningful actions" "Convergence measures" "zooming" "scrolling" "symmetry of touch actions among group" "total number of touch actions" "card movements" "target for discussion partner";}
+	{rank=same; "subjective perception of collaboration" "Colloboration quality" "collaboration" "Collaboration" "collaboration quality" "Quality of Collaboration";}
 	"type of activity done in task" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
 	"type of activity done in task" -> "subjective perception of collaboration"
 	"target for discussion partner" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]

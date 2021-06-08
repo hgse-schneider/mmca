@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "dyad proximity" "Physical synchrony" "Distance between learners (DBL" "hand agitation" "upper body agitation" "Distance between hands" "Face and upper body movement" "Total movement across upper body joints and body parts" "Joint movement";}
-	{rank=same; "Collaboration" "collaborative problem solving" "Agreement" "collaboration quality" "Individual accountability" "Perceived Collaboration Quality" "Synchronisation";}
+	{rank=same; "Distance between learners (DBL" "Total movement across upper body joints and body parts" "Distance between hands" "Face and upper body movement" "Physical synchrony" "dyad proximity" "hand agitation" "upper body agitation" "Joint movement";}
+	{rank=same; "Collaboration" "collaborative problem solving" "Agreement" "collaboration quality" "Synchronisation" "Perceived Collaboration Quality" "Individual accountability";}
 	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
 	"Physical synchrony" -> Collaboration
 	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning"]

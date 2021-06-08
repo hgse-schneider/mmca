@@ -3,7 +3,7 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Physical synchrony" "gesture type and location" "Total movement across upper body joints and body parts" "dyad proximity" "Joint movement";}
+	{rank=same; "gesture type and location" "Total movement across upper body joints and body parts" "Physical synchrony" "dyad proximity" "Joint movement";}
 	{rank=same; "Collaboration" "collaboration quality" "frequency of utterances";}
 	"gesture type and location" [href="https://scholar.google.com/scholar?hl=en&q=Improving%20Visibility%20of%20Remote%20Gestures%20in%20Distributed%20Tabletop%20Collaboration"]
 	"gesture type and location" -> "frequency of utterances"

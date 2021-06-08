@@ -9,26 +9,32 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 580)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-580 675.64,-580 675.64,4 -4,4"/>
-<!-- heart rate sychrony -->
+<!-- Instantaneous Derivative Matching (IDM -->
 <g id="node1" class="node">
-<title>heart rate sychrony</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" xlink:title="heart rate sychrony">
-<ellipse fill="none" stroke="black" cx="513.71" cy="-396" rx="78.79" ry="18"/>
-<text text-anchor="middle" x="513.71" y="-392.3" font-family="Times,serif" font-size="14.00">heart rate sychrony</text>
+<title>Instantaneous Derivative Matching (IDM</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Instantaneous Derivative Matching (IDM">
+<ellipse fill="none" stroke="black" cx="513.71" cy="-396" rx="157.87" ry="18"/>
+<text text-anchor="middle" x="513.71" y="-392.3" font-family="Times,serif" font-size="14.00">Instantaneous Derivative Matching (IDM</text>
 </a>
 </g>
 </g>
 <!-- collaboration quality -->
-<g id="node13" class="node">
+<g id="node10" class="node">
 <title>collaboration quality</title>
-<ellipse fill="none" stroke="black" cx="159.89" cy="-207" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="159.89" y="-203.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
+<ellipse fill="none" stroke="black" cx="159.89" cy="-261" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="159.89" y="-257.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
 </g>
-<!-- heart rate sychrony&#45;&gt;collaboration quality -->
-<g id="edge12" class="edge">
-<title>heart rate sychrony&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M437.67,-391.15C410.91,-387.36 381.13,-380.69 355.77,-369 283.89,-335.87 216.8,-269.3 183.26,-232.65"/>
-<polygon fill="black" stroke="black" points="185.54,-229.96 176.24,-224.88 180.34,-234.65 185.54,-229.96"/>
+<!-- Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality -->
+<g id="edge4" class="edge">
+<title>Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality: reaching consensus</title>
+<path fill="none" stroke="black" d="M439.14,-380.1C412.39,-375.48 382.24,-369.31 355.77,-360 300.03,-340.39 241.42,-305.73 203.21,-282.88"/>
+<polygon fill="black" stroke="black" points="204.81,-279.75 194.43,-277.62 201.21,-285.76 204.81,-279.75"/>
+</g>
+<!-- Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality -->
+<g id="edge8" class="edge">
+<title>Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality: information pooling</title>
+<path fill="none" stroke="black" d="M382.1,-385.99C373.1,-383.64 364.25,-380.98 355.77,-378 291.08,-355.25 222.52,-312.21 186.48,-284.91"/>
+<polygon fill="black" stroke="black" points="188.5,-282.05 178.46,-278.66 184.2,-287.57 188.5,-282.05"/>
 </g>
 <!-- Directional Agreement (DA -->
 <g id="node2" class="node">
@@ -42,47 +48,26 @@
 <!-- Directional Agreement (DA&#45;&gt;collaboration quality -->
 <g id="edge6" class="edge">
 <title>Directional Agreement (DA&#45;&gt;collaboration quality: reaching consensus</title>
-<path fill="none" stroke="black" d="M447.71,-327.55C418.97,-322.78 385.11,-316.32 355.77,-306 300.03,-286.39 241.42,-251.73 203.21,-228.88"/>
-<polygon fill="black" stroke="black" points="204.81,-225.75 194.43,-223.62 201.21,-231.76 204.81,-225.75"/>
+<path fill="none" stroke="black" d="M459.42,-326.29C428.92,-320.38 390.03,-313.67 355.77,-306 315.37,-296.95 270.84,-284.78 234.56,-275.17"/>
+<polygon fill="black" stroke="black" points="235.12,-271.69 224.56,-272.53 233.33,-278.46 235.12,-271.69"/>
 </g>
 <!-- Directional Agreement (DA&#45;&gt;collaboration quality -->
 <g id="edge9" class="edge">
 <title>Directional Agreement (DA&#45;&gt;collaboration quality: information pooling</title>
-<path fill="none" stroke="black" d="M406.79,-337.65C389.48,-334.2 371.94,-329.69 355.77,-324 291.08,-301.25 222.52,-258.21 186.48,-230.91"/>
-<polygon fill="black" stroke="black" points="188.5,-228.05 178.46,-224.66 184.2,-233.57 188.5,-228.05"/>
-</g>
-<!-- Signal Matching (SM -->
-<g id="node3" class="node">
-<title>Signal Matching (SM</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Signal Matching (SM">
-<ellipse fill="none" stroke="black" cx="513.71" cy="-288" rx="88.28" ry="18"/>
-<text text-anchor="middle" x="513.71" y="-284.3" font-family="Times,serif" font-size="14.00">Signal Matching (SM</text>
-</a>
-</g>
-</g>
-<!-- Signal Matching (SM&#45;&gt;collaboration quality -->
-<g id="edge3" class="edge">
-<title>Signal Matching (SM&#45;&gt;collaboration quality: reaching consensus</title>
-<path fill="none" stroke="black" d="M463.68,-273.12C432.61,-267.01 391.65,-260.04 355.77,-252 315.37,-242.95 270.84,-230.78 234.56,-221.17"/>
-<polygon fill="black" stroke="black" points="235.12,-217.69 224.56,-218.53 233.33,-224.46 235.12,-217.69"/>
-</g>
-<!-- Signal Matching (SM&#45;&gt;collaboration quality -->
-<g id="edge7" class="edge">
-<title>Signal Matching (SM&#45;&gt;collaboration quality: information pooling</title>
-<path fill="none" stroke="black" d="M427.7,-283.63C404.3,-279.95 378.97,-275.2 355.77,-270 302.55,-258.08 242.16,-240.74 202.9,-226.94"/>
-<polygon fill="black" stroke="black" points="203.99,-223.61 193.39,-223.52 201.61,-230.2 203.99,-223.61"/>
+<path fill="none" stroke="black" d="M411.95,-335.04C393.21,-331.83 373.85,-328.05 355.77,-324 302.55,-312.08 242.16,-294.74 202.9,-280.94"/>
+<polygon fill="black" stroke="black" points="203.99,-277.61 193.39,-277.52 201.61,-284.2 203.99,-277.61"/>
 </g>
 <!-- Galvanic skin response -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>Galvanic skin response</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Galvanic skin response">
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Galvanic skin response">
 <ellipse fill="none" stroke="black" cx="513.71" cy="-450" rx="92.88" ry="18"/>
 <text text-anchor="middle" x="513.71" y="-446.3" font-family="Times,serif" font-size="14.00">Galvanic skin response</text>
 </a>
 </g>
 </g>
 <!-- Perceived Collaboration Quality -->
-<g id="node10" class="node">
+<g id="node11" class="node">
 <title>Perceived Collaboration Quality</title>
 <ellipse fill="none" stroke="black" cx="159.89" cy="-450" rx="124.58" ry="18"/>
 <text text-anchor="middle" x="159.89" y="-446.3" font-family="Times,serif" font-size="14.00">Perceived Collaboration Quality</text>
@@ -93,20 +78,41 @@
 <path fill="none" stroke="black" d="M420.73,-450C382.28,-450 336.84,-450 294.8,-450"/>
 <polygon fill="black" stroke="black" points="294.76,-446.5 284.76,-450 294.76,-453.5 294.76,-446.5"/>
 </g>
-<!-- EDA synchrony -->
-<g id="node5" class="node">
-<title>EDA synchrony</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" xlink:title="EDA synchrony">
-<ellipse fill="none" stroke="black" cx="513.71" cy="-234" rx="67.69" ry="18"/>
-<text text-anchor="middle" x="513.71" y="-230.3" font-family="Times,serif" font-size="14.00">EDA synchrony</text>
+<!-- Signal Matching (SM -->
+<g id="node4" class="node">
+<title>Signal Matching (SM</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Signal Matching (SM">
+<ellipse fill="none" stroke="black" cx="513.71" cy="-288" rx="88.28" ry="18"/>
+<text text-anchor="middle" x="513.71" y="-284.3" font-family="Times,serif" font-size="14.00">Signal Matching (SM</text>
 </a>
 </g>
 </g>
-<!-- EDA synchrony&#45;&gt;collaboration quality -->
-<g id="edge11" class="edge">
-<title>EDA synchrony&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M448.59,-229.08C392.73,-224.79 311.2,-218.54 249.18,-213.78"/>
-<polygon fill="black" stroke="black" points="249.25,-210.27 239.02,-213 248.72,-217.25 249.25,-210.27"/>
+<!-- Signal Matching (SM&#45;&gt;collaboration quality -->
+<g id="edge3" class="edge">
+<title>Signal Matching (SM&#45;&gt;collaboration quality: reaching consensus</title>
+<path fill="none" stroke="black" d="M442.78,-277.12C388.69,-271.52 313.3,-265.56 254.09,-262.12"/>
+<polygon fill="black" stroke="black" points="254.17,-258.61 243.99,-261.54 253.77,-265.6 254.17,-258.61"/>
+</g>
+<!-- Signal Matching (SM&#45;&gt;collaboration quality -->
+<g id="edge7" class="edge">
+<title>Signal Matching (SM&#45;&gt;collaboration quality: information pooling</title>
+<path fill="none" stroke="black" d="M425.29,-287.22C367.81,-283.98 293.3,-278.18 238.03,-272.62"/>
+<polygon fill="black" stroke="black" points="238.24,-269.12 227.94,-271.58 237.53,-276.09 238.24,-269.12"/>
+</g>
+<!-- heart rate sychrony -->
+<g id="node5" class="node">
+<title>heart rate sychrony</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" xlink:title="heart rate sychrony">
+<ellipse fill="none" stroke="black" cx="513.71" cy="-234" rx="78.79" ry="18"/>
+<text text-anchor="middle" x="513.71" y="-230.3" font-family="Times,serif" font-size="14.00">heart rate sychrony</text>
+</a>
+</g>
+</g>
+<!-- heart rate sychrony&#45;&gt;collaboration quality -->
+<g id="edge12" class="edge">
+<title>heart rate sychrony&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M438.95,-239.66C383.62,-243.91 307.65,-249.74 249.1,-254.23"/>
+<polygon fill="black" stroke="black" points="248.82,-250.74 239.12,-255 249.36,-257.72 248.82,-250.74"/>
 </g>
 <!-- Pearson‚Äôs correlation (PC -->
 <g id="node6" class="node">
@@ -120,77 +126,71 @@
 <!-- Pearson‚Äôs correlation (PC&#45;&gt;collaboration quality -->
 <g id="edge5" class="edge">
 <title>Pearson‚Äôs correlation (PC&#45;&gt;collaboration quality: reaching consensus</title>
-<path fill="none" stroke="black" d="M401.87,-182.18C348.56,-185.54 285.97,-190.55 237.94,-195.39"/>
-<polygon fill="black" stroke="black" points="237.51,-191.92 227.92,-196.42 238.22,-198.88 237.51,-191.92"/>
+<path fill="none" stroke="black" d="M410.27,-187.25C392.06,-190.4 373.31,-194.07 355.77,-198 302.55,-209.92 242.16,-227.26 202.9,-241.06"/>
+<polygon fill="black" stroke="black" points="201.61,-237.8 193.39,-244.48 203.99,-244.39 201.61,-237.8"/>
 </g>
 <!-- Pearson‚Äôs correlation (PC&#45;&gt;collaboration quality -->
 <g id="edge10" class="edge">
 <title>Pearson‚Äôs correlation (PC&#45;&gt;collaboration quality: information pooling</title>
-<path fill="none" stroke="black" d="M430.22,-192.15C377.35,-197.37 308.63,-202.72 253.83,-205.9"/>
-<polygon fill="black" stroke="black" points="253.56,-202.41 243.77,-206.47 253.95,-209.4 253.56,-202.41"/>
-</g>
-<!-- cycles of physiological synchrony (PC -->
-<g id="node7" class="node">
-<title>cycles of physiological synchrony (PC</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" xlink:title="cycles of physiological synchrony (PC">
-<ellipse fill="none" stroke="black" cx="513.71" cy="-126" rx="147.57" ry="18"/>
-<text text-anchor="middle" x="513.71" y="-122.3" font-family="Times,serif" font-size="14.00">cycles of physiological synchrony (PC</text>
-</a>
-</g>
-</g>
-<!-- cycles of physiological synchrony (PC&#45;&gt;collaboration quality -->
-<g id="edge2" class="edge">
-<title>cycles of physiological synchrony (PC&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M421.53,-140.1C399.9,-143.88 376.95,-148.26 355.77,-153 309.23,-163.43 257.2,-177.99 218.61,-189.37"/>
-<polygon fill="black" stroke="black" points="217.19,-186.14 208.6,-192.34 219.19,-192.85 217.19,-186.14"/>
+<path fill="none" stroke="black" d="M459.06,-195.78C428.62,-201.67 389.9,-208.36 355.77,-216 315.37,-225.05 270.84,-237.22 234.56,-246.83"/>
+<polygon fill="black" stroke="black" points="233.33,-243.54 224.56,-249.47 235.12,-250.31 233.33,-243.54"/>
 </g>
 <!-- physiological synchrony (DA -->
-<g id="node8" class="node">
+<g id="node7" class="node">
 <title>physiological synchrony (DA</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" xlink:title="physiological synchrony (DA">
-<ellipse fill="none" stroke="black" cx="513.71" cy="-72" rx="115.08" ry="18"/>
-<text text-anchor="middle" x="513.71" y="-68.3" font-family="Times,serif" font-size="14.00">physiological synchrony (DA</text>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" xlink:title="physiological synchrony (DA">
+<ellipse fill="none" stroke="black" cx="513.71" cy="-126" rx="115.08" ry="18"/>
+<text text-anchor="middle" x="513.71" y="-122.3" font-family="Times,serif" font-size="14.00">physiological synchrony (DA</text>
 </a>
 </g>
 </g>
 <!-- physiological synchrony (DA&#45;&gt;collaboration quality -->
 <g id="edge1" class="edge">
 <title>physiological synchrony (DA&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M420.52,-82.56C398.92,-86.48 376.24,-91.8 355.77,-99 295.3,-120.27 231.46,-159.26 193.94,-184.11"/>
-<polygon fill="black" stroke="black" points="191.81,-181.33 185.45,-189.8 195.7,-187.15 191.81,-181.33"/>
+<path fill="none" stroke="black" d="M420.52,-136.56C398.92,-140.48 376.24,-145.8 355.77,-153 295.3,-174.27 231.46,-213.26 193.94,-238.11"/>
+<polygon fill="black" stroke="black" points="191.81,-235.33 185.45,-243.8 195.7,-241.15 191.81,-235.33"/>
 </g>
-<!-- Instantaneous Derivative Matching (IDM -->
-<g id="node9" class="node">
-<title>Instantaneous Derivative Matching (IDM</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Instantaneous Derivative Matching (IDM">
-<ellipse fill="none" stroke="black" cx="513.71" cy="-18" rx="157.87" ry="18"/>
-<text text-anchor="middle" x="513.71" y="-14.3" font-family="Times,serif" font-size="14.00">Instantaneous Derivative Matching (IDM</text>
+<!-- EDA synchrony -->
+<g id="node8" class="node">
+<title>EDA synchrony</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" xlink:title="EDA synchrony">
+<ellipse fill="none" stroke="black" cx="513.71" cy="-72" rx="67.69" ry="18"/>
+<text text-anchor="middle" x="513.71" y="-68.3" font-family="Times,serif" font-size="14.00">EDA synchrony</text>
 </a>
 </g>
 </g>
-<!-- Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality -->
-<g id="edge4" class="edge">
-<title>Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality: reaching consensus</title>
-<path fill="none" stroke="black" d="M378.13,-27.27C370.43,-29.8 362.93,-32.7 355.77,-36 280.55,-70.68 210.57,-141.96 178.8,-180.84"/>
-<polygon fill="black" stroke="black" points="175.74,-179.06 172.26,-189.07 181.22,-183.42 175.74,-179.06"/>
+<!-- EDA synchrony&#45;&gt;collaboration quality -->
+<g id="edge11" class="edge">
+<title>EDA synchrony&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M447.45,-75.57C418.34,-79.07 384.27,-85.86 355.77,-99 283.89,-132.13 216.8,-198.7 183.26,-235.35"/>
+<polygon fill="black" stroke="black" points="180.34,-233.35 176.24,-243.12 185.54,-238.04 180.34,-233.35"/>
 </g>
-<!-- Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality -->
-<g id="edge8" class="edge">
-<title>Instantaneous Derivative Matching (IDM&#45;&gt;collaboration quality: information pooling</title>
-<path fill="none" stroke="black" d="M427.2,-33.1C403.31,-37.44 377.87,-43.82 355.77,-54 287.42,-85.51 223.4,-147.24 188.44,-182.05"/>
-<polygon fill="black" stroke="black" points="185.62,-179.92 181.02,-189.47 190.56,-184.88 185.62,-179.92"/>
+<!-- cycles of physiological synchrony (PC -->
+<g id="node9" class="node">
+<title>cycles of physiological synchrony (PC</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" xlink:title="cycles of physiological synchrony (PC">
+<ellipse fill="none" stroke="black" cx="513.71" cy="-18" rx="147.57" ry="18"/>
+<text text-anchor="middle" x="513.71" y="-14.3" font-family="Times,serif" font-size="14.00">cycles of physiological synchrony (PC</text>
+</a>
 </g>
-<!-- collaboration quality: reaching consensus -->
-<g id="node11" class="node">
-<title>collaboration quality: reaching consensus</title>
-<ellipse fill="none" stroke="black" cx="159.89" cy="-504" rx="157.07" ry="18"/>
-<text text-anchor="middle" x="159.89" y="-500.3" font-family="Times,serif" font-size="14.00">collaboration quality: reaching consensus</text>
+</g>
+<!-- cycles of physiological synchrony (PC&#45;&gt;collaboration quality -->
+<g id="edge2" class="edge">
+<title>cycles of physiological synchrony (PC&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M396.14,-29.01C382.05,-32.93 368.24,-38.13 355.77,-45 271.79,-91.27 205.19,-187.7 176.38,-234.45"/>
+<polygon fill="black" stroke="black" points="173.32,-232.74 171.13,-243.11 179.3,-236.37 173.32,-232.74"/>
 </g>
 <!-- collaboration quality: information pooling -->
 <g id="node12" class="node">
 <title>collaboration quality: information pooling</title>
-<ellipse fill="none" stroke="black" cx="159.89" cy="-558" rx="159.77" ry="18"/>
-<text text-anchor="middle" x="159.89" y="-554.3" font-family="Times,serif" font-size="14.00">collaboration quality: information pooling</text>
+<ellipse fill="none" stroke="black" cx="159.89" cy="-504" rx="159.77" ry="18"/>
+<text text-anchor="middle" x="159.89" y="-500.3" font-family="Times,serif" font-size="14.00">collaboration quality: information pooling</text>
+</g>
+<!-- collaboration quality: reaching consensus -->
+<g id="node13" class="node">
+<title>collaboration quality: reaching consensus</title>
+<ellipse fill="none" stroke="black" cx="159.89" cy="-558" rx="157.07" ry="18"/>
+<text text-anchor="middle" x="159.89" y="-554.3" font-family="Times,serif" font-size="14.00">collaboration quality: reaching consensus</text>
 </g>
 </g>
 </svg>

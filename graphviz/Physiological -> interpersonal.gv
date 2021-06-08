@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Fisher‚Äôs z-transform (FZT" "Directional Agreement (DA" "Signal Matching (SM" "Galvanic skin response" "EDA synchrony" "Pearson‚Äôs correlation (PC" "cycles of physiological synchrony (PC" "Pearson‚Äôs correlation coefficient (PCC" "physiological synchrony (DA" "brain synchrony" "Instantaneous Derivative Matching (IDM";}
-	{rank=same; "collaborative will" "Social dynamics" "team cohesion" "collaboration quality" "colaboration quality: reciprocal interaction" "Perceived Collaboration Quality";}
+	{rank=same; "Galvanic skin response" "Directional Agreement (DA" "Instantaneous Derivative Matching (IDM" "Signal Matching (SM" "Fisher‚Äôs z-transform (FZT" "Pearson‚Äôs correlation (PC" "brain synchrony" "physiological synchrony (DA" "Pearson‚Äôs correlation coefficient (PCC" "EDA synchrony" "cycles of physiological synchrony (PC";}
+	{rank=same; "Social dynamics" "colaboration quality: reciprocal interaction" "collaborative will" "collaboration quality" "Perceived Collaboration Quality" "team cohesion";}
 	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Galvanic skin response" -> "Perceived Collaboration Quality"
 	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity"]

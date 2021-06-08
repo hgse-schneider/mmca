@@ -6,7 +6,7 @@ digraph world {
         edge [fontname = "helvetica", colorscheme=set28];
 
 	"Eye Physiology" [href="index.svg"];
-	"cognitive load (from pupil size" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception" target="_blank" , color="6"];
+	"cognitive load (from pupil size" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception" target="_blank" , color="5"];
 	"cognitive load (from pupil size" -> "Eye Physiology" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
 
  overlap=false 

@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Fisher‚Äôs z-transform (FZT" "Physiological linkage" "Directional Agreement (DA" "Signal Matching (SM" "Pearson‚Äôs correlation (PC" "cycles of physiological synchrony (PC" "physiological synchrony (PC" "Pearson‚Äôs correlation coefficient (PCC" "Instantaneous Derivative Matching (IDM";}
-	{rank=same; "Learning gains" "Perceived Comprehension" "learning gains" "dual learning gains";}
+	{rank=same; "Instantaneous Derivative Matching (IDM" "Directional Agreement (DA" "Physiological linkage" "Signal Matching (SM" "Fisher‚Äôs z-transform (FZT" "Pearson‚Äôs correlation (PC" "Pearson‚Äôs correlation coefficient (PCC" "cycles of physiological synchrony (PC" "physiological synchrony (PC";}
+	{rank=same; "dual learning gains" "Perceived Comprehension" "learning gains" "Learning gains";}
 	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
 	"Physiological linkage" -> "Perceived Comprehension"
 	"physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]

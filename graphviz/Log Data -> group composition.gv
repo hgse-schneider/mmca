@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Total number of pen strokes" "Player actions" "Average stroke time length" "zoid acceleration" "Average stroke pressure" "Average stroke path length" "Calculator Use" "Average stroke displacement" "Average number of points";}
-	{rank=same; "social context" "Expert prediction";}
+	{rank=same; "Average stroke displacement" "Average stroke time length" "Player actions" "zoid acceleration" "Calculator Use" "Average stroke path length" "Average number of points" "Average stroke pressure" "Total number of pen strokes";}
+	{rank=same; "Expert prediction" "social context";}
 	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Calculator Use" -> "Expert prediction"
 	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]

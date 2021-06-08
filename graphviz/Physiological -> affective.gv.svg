@@ -31,7 +31,7 @@
 <polygon fill="black" stroke="black" points="176.41,-59.57 166.89,-64.21 177.23,-66.52 176.41,-59.57"/>
 </g>
 <!-- Empathy -->
-<g id="node7" class="node">
+<g id="node5" class="node">
 <title>Empathy</title>
 <ellipse fill="none" stroke="black" cx="99.44" cy="-18" rx="42.79" ry="18"/>
 <text text-anchor="middle" x="99.44" y="-14.3" font-family="Times,serif" font-size="14.00">Empathy</text>
@@ -52,7 +52,7 @@
 </g>
 </g>
 <!-- Perceived Valence -->
-<g id="node5" class="node">
+<g id="node8" class="node">
 <title>Perceived Valence</title>
 <ellipse fill="none" stroke="black" cx="99.44" cy="-180" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="99.44" y="-176.3" font-family="Times,serif" font-size="14.00">Perceived Valence</text>
@@ -64,7 +64,7 @@
 <polygon fill="black" stroke="black" points="176.91,-167.51 167.38,-172.15 177.72,-174.46 176.91,-167.51"/>
 </g>
 <!-- Perceived Arousal -->
-<g id="node6" class="node">
+<g id="node9" class="node">
 <title>Perceived Arousal</title>
 <ellipse fill="none" stroke="black" cx="99.44" cy="-126" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="99.44" y="-122.3" font-family="Times,serif" font-size="14.00">Perceived Arousal</text>
@@ -85,7 +85,7 @@
 </g>
 </g>
 <!-- Judgement of confidence -->
-<g id="node8" class="node">
+<g id="node6" class="node">
 <title>Judgement of confidence</title>
 <ellipse fill="none" stroke="black" cx="99.44" cy="-288" rx="99.38" ry="18"/>
 <text text-anchor="middle" x="99.44" y="-284.3" font-family="Times,serif" font-size="14.00">Judgement of confidence</text>
@@ -97,7 +97,7 @@
 <polygon fill="black" stroke="black" points="192.92,-273.63 183.4,-278.27 193.74,-280.58 192.92,-273.63"/>
 </g>
 <!-- Emotional valence -->
-<g id="node9" class="node">
+<g id="node7" class="node">
 <title>Emotional valence</title>
 <ellipse fill="none" stroke="black" cx="99.44" cy="-234" rx="77.19" ry="18"/>
 <text text-anchor="middle" x="99.44" y="-230.3" font-family="Times,serif" font-size="14.00">Emotional valence</text>

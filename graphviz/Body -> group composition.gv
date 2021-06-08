@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Motion energy images" "Body motion" "Total Movement" "Iconic gestures per second" "body synchronization" "Deictic gestures per second" "Total manual gestures per second" "Distance from the center of the table" "type of movement" "head/body movement";}
-	{rank=same; "cultural style matching" "leadership (driver/passenger" "Emerging leadership" "language style matching" "Big Five personality traits scores" "expertise" "Expert prediction";}
+	{rank=same; "Body motion" "head/body movement" "Motion energy images" "Deictic gestures per second" "type of movement" "Iconic gestures per second" "Total Movement" "body synchronization" "Total manual gestures per second" "Distance from the center of the table";}
+	{rank=same; "Expert prediction" "language style matching" "leadership (driver/passenger" "cultural style matching" "Emerging leadership" "expertise" "Big Five personality traits scores";}
 	"Total Movement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Total Movement" -> "Expert prediction"
 	"Distance from the center of the table" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]

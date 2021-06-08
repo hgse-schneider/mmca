@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "SM - EDA" "heart rate sychrony" "EDA peak detection" "WC - EDA" "Physiological linkage" "IDM - HR" "CC - EDA" "physiological concordance index" "physiological synchrony" "EDA synchrony" "IDM - EDA" "DA - EDA" "brain synchrony" "SM - HR";}
-	{rank=same; "Self-rated workload" "Behavioral Involvement" "Monitoring of behavior, cognition, motivations and emotions" "collaboration quality" "Task interest" "Engagement" "Mental effort";}
+	{rank=same; "physiological synchrony" "WC - EDA" "Physiological linkage" "SM - EDA" "EDA peak detection" "IDM - EDA" "heart rate sychrony" "SM - HR" "DA - EDA" "brain synchrony" "physiological concordance index" "CC - EDA" "EDA synchrony" "IDM - HR";}
+	{rank=same; "Self-rated workload" "Behavioral Involvement" "Monitoring of behavior, cognition, motivations and emotions" "collaboration quality" "Engagement" "Task interest" "Mental effort";}
 	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
 	"Physiological linkage" -> "Behavioral Involvement"
 	"EDA peak detection" [href="https://scholar.google.com/scholar?hl=en&q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam"]

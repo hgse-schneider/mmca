@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Cross-Recurrence Quantification Analysis (CRQA" "Joint visual Attention" "gaze saccades" "Gaze location" "EVT of spatial entropy" "Individual Visual Focus of Attention" "gaze fixations" "Cycles of collaborative / individual work" "joint visual attention" "Together gaze" "shared gaze" "Focused gaze" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew";}
-	{rank=same; "student performance" "reference-action sequence" "quality of remote collaboration" "task performance" "Team performance" "task completion time" "Task Score" "Group Performance (Negative distance between expert list and group list" "collaboration outcome" "Program understanding";}
+	{rank=same; "Individual Visual Focus of Attention" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" "Gaze location" "joint visual attention" "Cross-Recurrence Quantification Analysis (CRQA" "shared gaze" "Joint visual Attention" "gaze saccades" "gaze fixations" "EVT of spatial entropy" "Together gaze" "Focused gaze" "Cycles of collaborative / individual work";}
+	{rank=same; "Program understanding" "Team performance" "task completion time" "Group Performance (Negative distance between expert list and group list" "reference-action sequence" "task performance" "Task Score" "collaboration outcome" "student performance" "quality of remote collaboration";}
 	"Focused gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]
 	"Focused gaze" -> "Program understanding"
 	"Together gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]

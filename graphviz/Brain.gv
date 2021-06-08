@@ -6,8 +6,8 @@ digraph world {
         edge [fontname = "helvetica", colorscheme=set28];
 
 	"Brain" [href="index.svg"];
-	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Brain-to-Brain%20Synchrony%20Tracks%20Real-World%20Dynamic%20Group%20Interactions%20in%20the%20Classroom" target="_blank" , color="2"];
-	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Brain-to-Brain%20Synchrony%20Tracks%20Real-World%20Dynamic%20Group%20Interactions%20in%20the%20Classroom" target="_blank" , color="2"];
+	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Brain-to-Brain%20Synchrony%20Tracks%20Real-World%20Dynamic%20Group%20Interactions%20in%20the%20Classroom" target="_blank" , color="1"];
+	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Brain-to-Brain%20Synchrony%20Tracks%20Real-World%20Dynamic%20Group%20Interactions%20in%20the%20Classroom" target="_blank" , color="1"];
 	"brain synchrony" -> "Brain" [label="glm", labeltooltip=2, style="solid", penwidth=2];
 
  overlap=false 

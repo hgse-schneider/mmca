@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Number of faces looking at screen" "Faces looking at screen (FLS" "Head motion features [x5]";}
-	{rank=same; "collaborative problem solving" "quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc" "artefact quality";}
+	{rank=same; "Number of faces looking at screen" "Head motion features [x5]" "Faces looking at screen (FLS";}
+	{rank=same; "collaborative problem solving" "artefact quality" "quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc";}
 	"Head motion features [x5]" [href="https://scholar.google.com/scholar?hl=en&q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions"]
 	"Head motion features [x5]" -> "quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc"
 	"Number of faces looking at screen" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]

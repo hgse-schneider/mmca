@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Head motion" "9 Dyadic Features" "22 Intra-Personal Features";}
-	{rank=same; "Big Five personality traits scores" "Personality Traits";}
+	{rank=same; "22 Intra-Personal Features" "9 Dyadic Features" "Head motion";}
+	{rank=same; "Personality Traits" "Big Five personality traits scores";}
 	"Head motion" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
 	"Head motion" -> "Big Five personality traits scores"
 	"22 Intra-Personal Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories"]

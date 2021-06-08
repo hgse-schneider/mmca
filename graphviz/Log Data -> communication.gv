@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "symmetry of touch actions among group" "movement of objects including revisiting past actions" "Sequences of meaningful actions" "scrolling" "total number of touch actions" "card movements" "physical participation quantity" "zooming" "Convergence measures";}
-	{rank=same; "Collaboration" "Colloboration quality" "collaboration" "collaboration quality" "Quality of Collaboration";}
+	{rank=same; "movement of objects including revisiting past actions" "physical participation quantity" "Convergence measures" "Sequences of meaningful actions" "zooming" "scrolling" "symmetry of touch actions among group" "card movements" "total number of touch actions";}
+	{rank=same; "Colloboration quality" "collaboration" "Collaboration" "collaboration quality" "Quality of Collaboration";}
 	"physical participation quantity" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting"]
 	"physical participation quantity" -> Collaboration
 	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]

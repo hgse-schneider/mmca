@@ -12,8 +12,8 @@
 <!-- Gaze -->
 <g id="node1" class="node">
 <title>Gaze</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze">
-<ellipse fill="none" stroke="#8da0cb" cx="1186.47" cy="-781.71" rx="32.49" ry="18"/>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" xlink:title="Gaze" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1186.47" cy="-781.71" rx="32.49" ry="18"/>
 <text text-anchor="middle" x="1186.47" y="-778.01" font-family="Helvetica,sans-Serif" font-size="14.00">Gaze</text>
 </a>
 </g>
@@ -31,8 +31,8 @@
 <!-- Focused gaze -->
 <g id="node2" class="node">
 <title>Focused gaze</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Focused gaze">
-<ellipse fill="none" stroke="#8da0cb" cx="1860.48" cy="-704.94" rx="65.79" ry="18"/>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Focused gaze" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1860.48" cy="-704.94" rx="65.79" ry="18"/>
 <text text-anchor="middle" x="1860.48" y="-701.24" font-family="Helvetica,sans-Serif" font-size="14.00">Focused gaze</text>
 </a>
 </g>
@@ -50,8 +50,8 @@
 <!-- Together gaze -->
 <g id="node3" class="node">
 <title>Together gaze</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Together gaze">
-<ellipse fill="none" stroke="#8da0cb" cx="1054.26" cy="-18" rx="66.09" ry="18"/>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Together gaze" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1054.26" cy="-18" rx="66.09" ry="18"/>
 <text text-anchor="middle" x="1054.26" y="-14.3" font-family="Helvetica,sans-Serif" font-size="14.00">Together gaze</text>
 </a>
 </g>
@@ -69,8 +69,8 @@
 <!-- Gaze transitions -->
 <g id="node4" class="node">
 <title>Gaze transitions</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze transitions" target="_blank">
-<ellipse fill="none" stroke="#8da0cb" cx="880.35" cy="-1496.56" rx="74.99" ry="18"/>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Gaze transitions" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="880.35" cy="-1496.56" rx="74.99" ry="18"/>
 <text text-anchor="middle" x="880.35" y="-1492.86" font-family="Helvetica,sans-Serif" font-size="14.00">Gaze transitions</text>
 </a>
 </g>
@@ -88,15 +88,15 @@
 <!-- visual attention metrics [8 metrics] -->
 <g id="node5" class="node">
 <title>visual attention metrics [8 metrics]</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="visual attention metrics [8 metrics]"  target="_parent">
-<ellipse fill="none" stroke="#8da0cb" cx="1598.8" cy="-701.42" rx="143.77" ry="18"/>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis" xlink:title="visual attention metrics [8 metrics]" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1598.8" cy="-701.42" rx="143.77" ry="18"/>
 <text text-anchor="middle" x="1598.8" y="-697.72" font-family="Helvetica,sans-Serif" font-size="14.00">visual attention metrics [8 metrics]</text>
 </a>
 </g>
 </g>
 <!-- visual attention metrics [8 metrics]&#45;&gt;Gaze -->
 <g id="edge4" class="edge">
-<title>visual attention metrics [8 metrics] !!!&#45;&gt;Gaze</title>
+<title>visual attention metrics [8 metrics]&#45;&gt;Gaze</title>
 <path fill="none" stroke="black" stroke-width="4" stroke-dasharray="1,5" d="M1520.76,-716.62C1433.48,-733.61 1295.45,-760.49 1227.3,-773.76"/>
 <polygon fill="black" stroke="black" stroke-width="4" points="1226.52,-770.34 1217.38,-775.69 1227.86,-777.21 1226.52,-770.34"/>
 <g id="a_edge4&#45;label"><a xlink:title="4">
@@ -107,8 +107,8 @@
 <!-- Individual Visual Focus of Attention -->
 <g id="node6" class="node">
 <title>Individual Visual Focus of Attention</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Individual Visual Focus of Attention">
-<ellipse fill="none" stroke="#8da0cb" cx="704.68" cy="-730.24" rx="147.57" ry="18"/>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Individual Visual Focus of Attention" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="704.68" cy="-730.24" rx="147.57" ry="18"/>
 <text text-anchor="middle" x="704.68" y="-726.54" font-family="Helvetica,sans-Serif" font-size="14.00">Individual Visual Focus of Attention</text>
 </a>
 </g>
@@ -126,8 +126,8 @@
 <!-- Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew -->
 <g id="node7" class="node">
 <title>Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew"  target="_top">
-<ellipse fill="none" stroke="#8da0cb" cx="560.9" cy="-324.58" rx="560.8" ry="18"/>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="560.9" cy="-324.58" rx="560.8" ry="18"/>
 <text text-anchor="middle" x="560.9" y="-320.88" font-family="Helvetica,sans-Serif" font-size="14.00">Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew</text>
 </a>
 </g>
@@ -145,8 +145,8 @@
 <!-- perceptual with&#45;me&#45;ness (gaze -->
 <g id="node8" class="node">
 <title>perceptual with&#45;me&#45;ness (gaze</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="perceptual with&#45;me&#45;ness (gaze">
-<ellipse fill="none" stroke="#8da0cb" cx="1779.01" cy="-362.13" rx="131.08" ry="18"/>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" xlink:title="perceptual with&#45;me&#45;ness (gaze" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1779.01" cy="-362.13" rx="131.08" ry="18"/>
 <text text-anchor="middle" x="1779.01" y="-358.43" font-family="Helvetica,sans-Serif" font-size="14.00">perceptual with&#45;me&#45;ness (gaze</text>
 </a>
 </g>
@@ -164,8 +164,8 @@
 <!-- conceptual with&#45;me&#45;ness (gaze -->
 <g id="node9" class="node">
 <title>conceptual with&#45;me&#45;ness (gaze</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="conceptual with&#45;me&#45;ness (gaze">
-<ellipse fill="none" stroke="#8da0cb" cx="962.62" cy="-185.15" rx="132.68" ry="18"/>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" xlink:title="conceptual with&#45;me&#45;ness (gaze" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="962.62" cy="-185.15" rx="132.68" ry="18"/>
 <text text-anchor="middle" x="962.62" y="-181.45" font-family="Helvetica,sans-Serif" font-size="14.00">conceptual with&#45;me&#45;ness (gaze</text>
 </a>
 </g>
@@ -183,8 +183,8 @@
 <!-- gaze similarity -->
 <g id="node10" class="node">
 <title>gaze similarity</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="gaze similarity">
-<ellipse fill="none" stroke="#8da0cb" cx="1484.39" cy="-104.09" rx="66.89" ry="18"/>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" xlink:title="gaze similarity" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1484.39" cy="-104.09" rx="66.89" ry="18"/>
 <text text-anchor="middle" x="1484.39" y="-100.39" font-family="Helvetica,sans-Serif" font-size="14.00">gaze similarity</text>
 </a>
 </g>
@@ -202,8 +202,8 @@
 <!-- gaze fixations -->
 <g id="node11" class="node">
 <title>gaze fixations</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="gaze fixations">
-<ellipse fill="none" stroke="#8da0cb" cx="1200.74" cy="-288.7" rx="64.19" ry="18"/>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=A%20Network%20Analytic%20Approach%20to%20Gaze%20Coordination%20during%20a%20Collaborative%20Task" xlink:title="gaze fixations" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1200.74" cy="-288.7" rx="64.19" ry="18"/>
 <text text-anchor="middle" x="1200.74" y="-285" font-family="Helvetica,sans-Serif" font-size="14.00">gaze fixations</text>
 </a>
 </g>
@@ -217,8 +217,8 @@
 <!-- gaze saccades -->
 <g id="node12" class="node">
 <title>gaze saccades</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="gaze saccades">
-<ellipse fill="none" stroke="#8da0cb" cx="419.78" cy="-695.01" rx="69.59" ry="18"/>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=A%20Network%20Analytic%20Approach%20to%20Gaze%20Coordination%20during%20a%20Collaborative%20Task" xlink:title="gaze saccades" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="419.78" cy="-695.01" rx="69.59" ry="18"/>
 <text text-anchor="middle" x="419.78" y="-691.31" font-family="Helvetica,sans-Serif" font-size="14.00">gaze saccades</text>
 </a>
 </g>
@@ -232,8 +232,8 @@
 <!-- (not -->
 <g id="node13" class="node">
 <title>(not</title>
-<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="(not">
-<ellipse fill="none" stroke="#8da0cb" cx="1958.14" cy="-872.93" rx="27" ry="18"/>
+<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dual%20Gaze%20as%20a%20Proxy%20for%20Collaboration%20in%20Informal%20Learning" xlink:title="(not" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1958.14" cy="-872.93" rx="27" ry="18"/>
 <text text-anchor="middle" x="1958.14" y="-869.23" font-family="Helvetica,sans-Serif" font-size="14.00">(not</text>
 </a>
 </g>
@@ -251,8 +251,8 @@
 <!-- Joint visual attention -->
 <g id="node14" class="node">
 <title>Joint visual attention</title>
-<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Joint visual attention">
-<ellipse fill="none" stroke="#8da0cb" cx="1878.93" cy="-1061.02" rx="90.18" ry="18"/>
+<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="Joint visual attention" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1878.93" cy="-1061.02" rx="90.18" ry="18"/>
 <text text-anchor="middle" x="1878.93" y="-1057.32" font-family="Helvetica,sans-Serif" font-size="14.00">Joint visual attention</text>
 </a>
 </g>
@@ -270,8 +270,8 @@
 <!-- Joint visual Attention -->
 <g id="node15" class="node">
 <title>Joint visual Attention</title>
-<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Joint visual Attention">
-<ellipse fill="none" stroke="#8da0cb" cx="1296.43" cy="-1561.42" rx="90.98" ry="18"/>
+<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" xlink:title="Joint visual Attention" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1296.43" cy="-1561.42" rx="90.98" ry="18"/>
 <text text-anchor="middle" x="1296.43" y="-1557.72" font-family="Helvetica,sans-Serif" font-size="14.00">Joint visual Attention</text>
 </a>
 </g>
@@ -289,8 +289,8 @@
 <!-- Cycles of collaborative / individual work -->
 <g id="node16" class="node">
 <title>Cycles of collaborative / individual work</title>
-<g id="a_node16"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Cycles of collaborative / individual work">
-<ellipse fill="none" stroke="#8da0cb" cx="1454.75" cy="-409.98" rx="163.27" ry="18"/>
+<g id="a_node16"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" xlink:title="Cycles of collaborative / individual work" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1454.75" cy="-409.98" rx="163.27" ry="18"/>
 <text text-anchor="middle" x="1454.75" y="-406.28" font-family="Helvetica,sans-Serif" font-size="14.00">Cycles of collaborative / individual work</text>
 </a>
 </g>
@@ -308,8 +308,8 @@
 <!-- Gaze location -->
 <g id="node17" class="node">
 <title>Gaze location</title>
-<g id="a_node17"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze location">
-<ellipse fill="none" stroke="#8da0cb" cx="1671.08" cy="-194.92" rx="64.99" ry="18"/>
+<g id="a_node17"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Can%20Eye%20Help%20You?:%20Effects%20of%20Visualizing%20Eye%20Fixations%20on%20Remote%20Collaboration%20Scenarios%20for%20Physical%20Tasks" xlink:title="Gaze location" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1671.08" cy="-194.92" rx="64.99" ry="18"/>
 <text text-anchor="middle" x="1671.08" y="-191.22" font-family="Helvetica,sans-Serif" font-size="14.00">Gaze location</text>
 </a>
 </g>
@@ -327,8 +327,8 @@
 <!-- Gaze saccade -->
 <g id="node18" class="node">
 <title>Gaze saccade</title>
-<g id="a_node18"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze saccade">
-<ellipse fill="none" stroke="#8da0cb" cx="544.35" cy="-1251.86" rx="67.69" ry="18"/>
+<g id="a_node18"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris" xlink:title="Gaze saccade" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="544.35" cy="-1251.86" rx="67.69" ry="18"/>
 <text text-anchor="middle" x="544.35" y="-1248.16" font-family="Helvetica,sans-Serif" font-size="14.00">Gaze saccade</text>
 </a>
 </g>
@@ -346,8 +346,8 @@
 <!-- Gaze fixation -->
 <g id="node19" class="node">
 <title>Gaze fixation</title>
-<g id="a_node19"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze fixation">
-<ellipse fill="none" stroke="#8da0cb" cx="416.02" cy="-925.05" rx="62.29" ry="18"/>
+<g id="a_node19"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris" xlink:title="Gaze fixation" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="416.02" cy="-925.05" rx="62.29" ry="18"/>
 <text text-anchor="middle" x="416.02" y="-921.35" font-family="Helvetica,sans-Serif" font-size="14.00">Gaze fixation</text>
 </a>
 </g>
@@ -365,8 +365,8 @@
 <!-- visual focus of attention features -->
 <g id="node20" class="node">
 <title>visual focus of attention features</title>
-<g id="a_node20"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="visual focus of attention features">
-<ellipse fill="none" stroke="#8da0cb" cx="565.77" cy="-1030.58" rx="136.48" ry="18"/>
+<g id="a_node20"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Investigating%20Automatic%20Dominance%20Estimation%20in%20Groups%20From%20Visual%20Attention%20and%20Speaking%20Activity" xlink:title="visual focus of attention features" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="565.77" cy="-1030.58" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="565.77" y="-1026.88" font-family="Helvetica,sans-Serif" font-size="14.00">visual focus of attention features</text>
 </a>
 </g>
@@ -384,8 +384,8 @@
 <!-- Cross&#45;Recurrence Quantification Analysis (CRQA -->
 <g id="node21" class="node">
 <title>Cross&#45;Recurrence Quantification Analysis (CRQA</title>
-<g id="a_node21"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Cross&#45;Recurrence Quantification Analysis (CRQA">
-<ellipse fill="none" stroke="#8da0cb" cx="1114.54" cy="-1099.51" rx="204.96" ry="18"/>
+<g id="a_node21"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" xlink:title="Cross&#45;Recurrence Quantification Analysis (CRQA" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1114.54" cy="-1099.51" rx="204.96" ry="18"/>
 <text text-anchor="middle" x="1114.54" y="-1095.81" font-family="Helvetica,sans-Serif" font-size="14.00">Cross&#45;Recurrence Quantification Analysis (CRQA</text>
 </a>
 </g>
@@ -403,8 +403,8 @@
 <!-- Multidimensional Recurrence Quantification Analysis (MdRQA -->
 <g id="node22" class="node">
 <title>Multidimensional Recurrence Quantification Analysis (MdRQA</title>
-<g id="a_node22"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Multidimensional Recurrence Quantification Analysis (MdRQA">
-<ellipse fill="none" stroke="#8da0cb" cx="515.3" cy="-513.01" rx="254.25" ry="18"/>
+<g id="a_node22"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" xlink:title="Multidimensional Recurrence Quantification Analysis (MdRQA" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="515.3" cy="-513.01" rx="254.25" ry="18"/>
 <text text-anchor="middle" x="515.3" y="-509.31" font-family="Helvetica,sans-Serif" font-size="14.00">Multidimensional Recurrence Quantification Analysis (MdRQA</text>
 </a>
 </g>
@@ -422,8 +422,8 @@
 <!-- Audio&#45;visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio -->
 <g id="node23" class="node">
 <title>Audio&#45;visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio</title>
-<g id="a_node23"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Audio&#45;visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio">
-<ellipse fill="none" stroke="#8da0cb" cx="1582.13" cy="-1296.77" rx="594.09" ry="18"/>
+<g id="a_node23"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Emergent%20leaders%20through%20looking%20and%20speaking:%20from%20audio-visual%20data%20to%20multimodal%20recognition" xlink:title="Audio&#45;visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1582.13" cy="-1296.77" rx="594.09" ry="18"/>
 <text text-anchor="middle" x="1582.13" y="-1293.07" font-family="Helvetica,sans-Serif" font-size="14.00">Audio&#45;visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio</text>
 </a>
 </g>
@@ -441,8 +441,8 @@
 <!-- Count of faces looking at screen -->
 <g id="node24" class="node">
 <title>Count of faces looking at screen</title>
-<g id="a_node24"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Count of faces looking at screen">
-<ellipse fill="none" stroke="#8da0cb" cx="1591.73" cy="-1477.26" rx="135.68" ry="18"/>
+<g id="a_node24"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning" xlink:title="Count of faces looking at screen" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1591.73" cy="-1477.26" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="1591.73" y="-1473.56" font-family="Helvetica,sans-Serif" font-size="14.00">Count of faces looking at screen</text>
 </a>
 </g>
@@ -460,8 +460,8 @@
 <!-- EVT of spatial entropy -->
 <g id="node25" class="node">
 <title>EVT of spatial entropy</title>
-<g id="a_node25"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="EVT of spatial entropy">
-<ellipse fill="none" stroke="#8da0cb" cx="1072.73" cy="-1530.66" rx="96.68" ry="18"/>
+<g id="a_node25"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Alternate%20Statistical%20Lens%20to%20Look%20at%20Collaboration%20Data:%20Extreme%20Value%20Theory" xlink:title="EVT of spatial entropy" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1072.73" cy="-1530.66" rx="96.68" ry="18"/>
 <text text-anchor="middle" x="1072.73" y="-1526.96" font-family="Helvetica,sans-Serif" font-size="14.00">EVT of spatial entropy</text>
 </a>
 </g>
@@ -479,8 +479,8 @@
 <!-- Network features [+20] -->
 <g id="node26" class="node">
 <title>Network features [+20]</title>
-<g id="a_node26"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Network features [+20]">
-<ellipse fill="none" stroke="#8da0cb" cx="1288.08" cy="-27.5" rx="99.38" ry="18"/>
+<g id="a_node26"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Collaboration%20Sensing" xlink:title="Network features [+20]" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1288.08" cy="-27.5" rx="99.38" ry="18"/>
 <text text-anchor="middle" x="1288.08" y="-23.8" font-family="Helvetica,sans-Serif" font-size="14.00">Network features [+20]</text>
 </a>
 </g>
@@ -498,8 +498,8 @@
 <!-- joint&#45;visual attention -->
 <g id="node27" class="node">
 <title>joint&#45;visual attention</title>
-<g id="a_node27"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="joint&#45;visual attention">
-<ellipse fill="none" stroke="#8da0cb" cx="1813.66" cy="-1252.76" rx="88.28" ry="18"/>
+<g id="a_node27"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20Collaborative%20Learning%20Processes%20during%20Hands-on%20Activities%20using%20Mobile%20Eye-Trackers" xlink:title="joint&#45;visual attention" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1813.66" cy="-1252.76" rx="88.28" ry="18"/>
 <text text-anchor="middle" x="1813.66" y="-1249.06" font-family="Helvetica,sans-Serif" font-size="14.00">joint&#45;visual attention</text>
 </a>
 </g>
@@ -517,8 +517,8 @@
 <!-- joint visual attention -->
 <g id="node28" class="node">
 <title>joint visual attention</title>
-<g id="a_node28"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="joint visual attention">
-<ellipse fill="none" stroke="#8da0cb" cx="813.79" cy="-1111.96" rx="87.99" ry="18"/>
+<g id="a_node28"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads" xlink:title="joint visual attention" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="813.79" cy="-1111.96" rx="87.99" ry="18"/>
 <text text-anchor="middle" x="813.79" y="-1108.26" font-family="Helvetica,sans-Serif" font-size="14.00">joint visual attention</text>
 </a>
 </g>
@@ -536,8 +536,8 @@
 <!-- visual focus of attention -->
 <g id="node29" class="node">
 <title>visual focus of attention</title>
-<g id="a_node29"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="visual focus of attention">
-<ellipse fill="none" stroke="#8da0cb" cx="854.66" cy="-450.18" rx="102.88" ry="18"/>
+<g id="a_node29"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Real-time%20mutual%20gaze%20perception" xlink:title="visual focus of attention" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="854.66" cy="-450.18" rx="102.88" ry="18"/>
 <text text-anchor="middle" x="854.66" y="-446.48" font-family="Helvetica,sans-Serif" font-size="14.00">visual focus of attention</text>
 </a>
 </g>
@@ -555,8 +555,8 @@
 <!-- cognitive load (from pupil size -->
 <g id="node30" class="node">
 <title>cognitive load (from pupil size</title>
-<g id="a_node30"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="cognitive load (from pupil size">
-<ellipse fill="none" stroke="#8da0cb" cx="1915.11" cy="-514.53" rx="126.98" ry="18"/>
+<g id="a_node30"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Real-time%20mutual%20gaze%20perception" xlink:title="cognitive load (from pupil size" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1915.11" cy="-514.53" rx="126.98" ry="18"/>
 <text text-anchor="middle" x="1915.11" y="-510.83" font-family="Helvetica,sans-Serif" font-size="14.00">cognitive load (from pupil size</text>
 </a>
 </g>
@@ -574,8 +574,8 @@
 <!-- visual field of attention on a person features -->
 <g id="node31" class="node">
 <title>visual field of attention on a person features</title>
-<g id="a_node31"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="visual field of attention on a person features">
-<ellipse fill="none" stroke="#8da0cb" cx="1239.66" cy="-1340.78" rx="180.87" ry="18"/>
+<g id="a_node31"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Detecting%20Emergent%20Leader%20in%20a%20Meeting%20Environment" xlink:title="visual field of attention on a person features" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1239.66" cy="-1340.78" rx="180.87" ry="18"/>
 <text text-anchor="middle" x="1239.66" y="-1337.08" font-family="Helvetica,sans-Serif" font-size="14.00">visual field of attention on a person features</text>
 </a>
 </g>
@@ -593,8 +593,8 @@
 <!-- shared gaze -->
 <g id="node32" class="node">
 <title>shared gaze</title>
-<g id="a_node32"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="shared gaze">
-<ellipse fill="none" stroke="#8da0cb" cx="1573.67" cy="-1025.98" rx="59.29" ry="18"/>
+<g id="a_node32"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" xlink:title="shared gaze" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="1573.67" cy="-1025.98" rx="59.29" ry="18"/>
 <text text-anchor="middle" x="1573.67" y="-1022.28" font-family="Helvetica,sans-Serif" font-size="14.00">shared gaze</text>
 </a>
 </g>
@@ -612,8 +612,8 @@
 <!-- attention received per person -->
 <g id="node33" class="node">
 <title>attention received per person</title>
-<g id="a_node33"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="attention received per person">
-<ellipse fill="none" stroke="#8da0cb" cx="697.64" cy="-156.71" rx="124.28" ry="18"/>
+<g id="a_node33"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait" xlink:title="attention received per person" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="697.64" cy="-156.71" rx="124.28" ry="18"/>
 <text text-anchor="middle" x="697.64" y="-153.01" font-family="Helvetica,sans-Serif" font-size="14.00">attention received per person</text>
 </a>
 </g>
@@ -631,8 +631,8 @@
 <!-- attention given by person -->
 <g id="node34" class="node">
 <title>attention given by person</title>
-<g id="a_node34"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="attention given by person">
-<ellipse fill="none" stroke="#8da0cb" cx="733.14" cy="-1366.76" rx="108.58" ry="18"/>
+<g id="a_node34"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait" xlink:title="attention given by person" target="_blank">
+<ellipse fill="none" stroke="#a6d854" cx="733.14" cy="-1366.76" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="733.14" y="-1363.06" font-family="Helvetica,sans-Serif" font-size="14.00">attention given by person</text>
 </a>
 </g>

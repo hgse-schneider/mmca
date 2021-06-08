@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Joint visual Attention" "joint-visual attention" "Joint visual attention" "Cycles of collaborative / individual work" "joint visual attention" "Network features [+20]" "shared gaze";}
-	{rank=same; "quality of collaboration" "Quality of Collaboration" "collaboration quality";}
+	{rank=same; "Network features [+20]" "joint-visual attention" "joint visual attention" "shared gaze" "Joint visual Attention" "Joint visual attention" "Cycles of collaborative / individual work";}
+	{rank=same; "collaboration quality" "Quality of Collaboration" "quality of collaboration";}
 	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Eye-Tracking%20Technology%20to%20Support%20Visual%20Coordination%20in%20Collaborative%20Problem-Solving%20Groups"]
 	"Joint visual attention" -> "Quality of Collaboration"
 	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]

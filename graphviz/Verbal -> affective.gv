@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "dialogue acts" "speech rate";}
-	{rank=same; "Perceived Valence" "Perceived Arousal" "frustration";}
+	{rank=same; "speech rate" "dialogue acts";}
+	{rank=same; "Perceived Arousal" "frustration" "Perceived Valence";}
 	"dialogue acts" [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring"]
 	"dialogue acts" -> frustration
 	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]

@@ -3,8 +3,8 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "types of exploration" "N-grams" "Cosine similarity scores" "amount of exploration" "Coherence metrics" "Convergence measures";}
-	{rank=same; "Learning gains" "learning gain group (high or low" "learning gains";}
+	{rank=same; "amount of exploration" "Coherence metrics" "Convergence measures" "types of exploration" "N-grams" "Cosine similarity scores";}
+	{rank=same; "learning gain group (high or low" "learning gains" "Learning gains";}
 	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
 	"Convergence measures" -> "Learning gains"
 	"Coherence metrics" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
