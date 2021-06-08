@@ -1,0 +1,10 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "35 Coh-metrix indices";}
+	{rank=same; "Coh-metrix indices";}
+	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"35 Coh-metrix indices" -> "Coh-metrix indices"
+}

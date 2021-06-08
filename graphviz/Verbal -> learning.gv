@@ -1,0 +1,22 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "simple linguistic features" "Dialogue episodes (description, management" "Speech activity" "convergence (of linguistic styles" "coherence" "dialogue acts" "35 Coh-metrix indices";}
+	{rank=same; "learning gains" "Learning" "learning" "level of understanding";}
+	"dialogue acts" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"dialogue acts" -> learning
+	"Dialogue episodes (description, management" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Dialogue episodes (description, management" -> "level of understanding"
+	"convergence (of linguistic styles" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"convergence (of linguistic styles" -> Learning
+	coherence [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	coherence -> Learning
+	"simple linguistic features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"simple linguistic features" -> Learning
+	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"35 Coh-metrix indices" -> Learning
+	"Speech activity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Speech activity" -> "learning gains"
+}

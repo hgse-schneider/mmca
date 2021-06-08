@@ -1,0 +1,20 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "cycles of physiological synchrony (PC" "Pearson‚Äôs correlation (PC" "Instantaneous Derivative Matching (IDM" "Directional Agreement (DA" "physiological synchrony (DA" "Signal Matching (SM";}
+	{rank=same; "collaboration quality: dialogue management" "collaboration quality";}
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Signal Matching (SM" -> "collaboration quality":" dialogue management"
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Instantaneous Derivative Matching (IDM" -> "collaboration quality":" dialogue management"
+	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pearson‚Äôs correlation (PC" -> "collaboration quality":" dialogue management"
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Directional Agreement (DA" -> "collaboration quality":" dialogue management"
+	"physiological synchrony (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony (DA" -> "collaboration quality"
+	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"cycles of physiological synchrony (PC" -> "collaboration quality"
+}

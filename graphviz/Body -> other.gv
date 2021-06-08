@@ -1,0 +1,10 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "Physical synchrony";}
+	{rank=same; "Coh-metrix indices";}
+	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physical synchrony" -> "Coh-metrix indices"
+}

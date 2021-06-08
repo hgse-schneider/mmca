@@ -1,0 +1,18 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "x,y,z body joints" "transition probabilities between collaborative state" "gesture" "Face and upper body movement";}
+	{rank=same; "frustration" "emotional state" "Perceived Valence" "reported frustration" "Perceived Arousal";}
+	gesture [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	gesture -> frustration
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Face and upper body movement" -> "Perceived Valence"
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Face and upper body movement" -> "Perceived Arousal"
+	"transition probabilities between collaborative state" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"transition probabilities between collaborative state" -> "reported frustration"
+	"x,y,z body joints" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"x,y,z body joints" -> "emotional state"
+}

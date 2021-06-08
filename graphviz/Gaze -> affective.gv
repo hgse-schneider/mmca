@@ -1,0 +1,8 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "";}
+	{rank=same; "";}
+}

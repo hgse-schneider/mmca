@@ -1,0 +1,39 @@
+digraph world {
+        size="15,15";
+        layout=neato
+        graph [fontname = "helvetica"];
+        node [fontname = "helvetica", colorscheme=set28];
+        edge [fontname = "helvetica", colorscheme=set28];
+
+	"affective" [href="index.svg"];
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"dialogue acts" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="5"];
+	"facial expression" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"gesture" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="5"];
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="5"];
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"transition probabilities between collaborative state" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"x,y,z body joints" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Physiological linkage" -> "affective" [label="glm", labeltooltip=2, style="solid", penwidth=2];
+	"dialogue acts" -> "affective" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"facial expression" -> "affective" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"gesture" -> "affective" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"speech rate" -> "affective" [label="clust", labeltooltip=2, style="dotted", penwidth=2];
+	"Face and upper body movement" -> "affective" [label="clust", labeltooltip=2, style="dotted", penwidth=2];
+	"Galvanic skin response" -> "affective" [label="clust", labeltooltip=2, style="dotted", penwidth=2];
+	"transition probabilities between collaborative state" -> "affective" [label="corr", labeltooltip=1, style="solid", penwidth=1];
+	"physiological synchrony" -> "affective" [label="glm", labeltooltip=2, style="dotted", penwidth=2];
+	"x,y,z body joints" -> "affective" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+
+ overlap=false 
+ splines = true; 
+
+
+}

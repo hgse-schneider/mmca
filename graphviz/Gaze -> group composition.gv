@@ -1,0 +1,28 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "Individual Visual Focus of Attention" "Gaze saccade" "attention received per person" "Gaze" "Gaze fixation" "attention given by person" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" "visual focus of attention features" "Gaze location" "visual field of attention on a person features";}
+	{rank=same; "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience" "social context" "Emerging leadership (observed" "extraversion rating" "Big Five personality traits scores" "Visual Dominance Ratio";}
+	"Individual Visual Focus of Attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Individual Visual Focus of Attention" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
+	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
+	Gaze [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	Gaze -> "Big Five personality traits scores"
+	"Gaze location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Gaze location" -> "social context"
+	"Gaze saccade" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Gaze saccade" -> "social context"
+	"Gaze fixation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Gaze fixation" -> "social context"
+	"visual focus of attention features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"visual focus of attention features" -> "Visual Dominance Ratio"
+	"visual field of attention on a person features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"visual field of attention on a person features" -> "Emerging leadership (observed"
+	"attention received per person" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"attention received per person" -> "extraversion rating"
+	"attention given by person" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"attention given by person" -> "extraversion rating"
+}

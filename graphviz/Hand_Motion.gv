@@ -1,0 +1,41 @@
+digraph world {
+        size="15,15";
+        layout=neato
+        graph [fontname = "helvetica"];
+        node [fontname = "helvetica", colorscheme=set28];
+        edge [fontname = "helvetica", colorscheme=set28];
+
+	"Hand Motion" [href="index.svg"];
+	"gesture" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"gesture" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"gesture" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"clustered hand/wrist movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Total manual gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Iconic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Deictic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Mean distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Mean hand movement speed" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"hand agitation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"gesture type and location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"gesture type and location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"gesture" -> "Hand Motion" [label="glm", labeltooltip=3, style="solid", penwidth=3];
+	"clustered hand/wrist movement" -> "Hand Motion" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"Total manual gestures per second" -> "Hand Motion" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"Iconic gestures per second" -> "Hand Motion" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"Deictic gestures per second" -> "Hand Motion" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"Distance between hands" -> "Hand Motion" [label="glm", labeltooltip=5, style="solid", penwidth=5];
+	"Mean distance between hands" -> "Hand Motion" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"Mean hand movement speed" -> "Hand Motion" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"hand agitation" -> "Hand Motion" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"gesture type and location" -> "Hand Motion" [label="glm", labeltooltip=2, style="solid", penwidth=2];
+
+ overlap=false 
+ splines = true; 
+
+
+}

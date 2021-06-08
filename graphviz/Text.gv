@@ -1,0 +1,45 @@
+digraph world {
+        size="15,15";
+        layout=neato
+        graph [fontname = "helvetica"];
+        node [fontname = "helvetica", colorscheme=set28];
+        edge [fontname = "helvetica", colorscheme=set28];
+
+	"Text" [href="index.svg"];
+	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Coherence metrics" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"N-grams" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Cosine similarity scores" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Coherence metrics" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"Convergence measures" -> "Text" [label="glm", labeltooltip=5, style="dotted", penwidth=5];
+	"Coherence metrics" -> "Text" [label="ml", labeltooltip=2, style="solid", penwidth=2];
+	"N-grams" -> "Text" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"Cosine similarity scores" -> "Text" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"Total number of pen strokes" -> "Text" [label="ml", labeltooltip=2, style="solid", penwidth=2];
+	"Average number of points" -> "Text" [label="ml", labeltooltip=2, style="solid", penwidth=2];
+	"Average stroke time length" -> "Text" [label="ml", labeltooltip=2, style="solid", penwidth=2];
+	"Average stroke path length" -> "Text" [label="ml", labeltooltip=2, style="solid", penwidth=2];
+	"Average stroke displacement" -> "Text" [label="ml", labeltooltip=2, style="solid", penwidth=2];
+	"Average stroke pressure" -> "Text" [label="ml", labeltooltip=2, style="solid", penwidth=2];
+
+ overlap=false 
+ splines = true; 
+
+
+}

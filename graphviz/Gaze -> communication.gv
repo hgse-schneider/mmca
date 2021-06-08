@@ -1,0 +1,24 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "joint visual attention" "joint-visual attention" "Joint visual attention" "Joint visual Attention" "Network features [+20]" "shared gaze" "Cycles of collaborative / individual work";}
+	{rank=same; "collaboration quality" "Quality of Collaboration" "quality of collaboration";}
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint visual attention" -> "Quality of Collaboration"
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint visual attention" -> "Quality of Collaboration"
+	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint visual Attention" -> "collaboration quality"
+	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Cycles of collaborative / individual work" -> "collaboration quality"
+	"Network features [+20]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Network features [+20]" -> "collaboration quality"
+	"joint-visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"joint-visual attention" -> "collaboration quality"
+	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"joint visual attention" -> "collaboration quality"
+	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"shared gaze" -> "quality of collaboration"
+}

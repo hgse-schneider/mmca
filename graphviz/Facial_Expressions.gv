@@ -1,0 +1,42 @@
+digraph world {
+        size="15,15";
+        layout=neato
+        graph [fontname = "helvetica"];
+        node [fontname = "helvetica", colorscheme=set28];
+        edge [fontname = "helvetica", colorscheme=set28];
+
+	"Facial Expressions" [href="index.svg"];
+	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"22 Intra-Personal Features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"22 Intra-Personal Features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"9 Dyadic Features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"9 Dyadic Features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"Facial expression" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"smiling synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"smiling synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"51 Facial Action Units" -> "Facial Expressions" [label="ml", labeltooltip=3, style="solid", penwidth=3];
+	"facial expression" -> "Facial Expressions" [label="glm", labeltooltip=3, style="solid", penwidth=3];
+	"22 Intra-Personal Features" -> "Facial Expressions" [label="glm", labeltooltip=2, style="solid", penwidth=2];
+	"9 Dyadic Features" -> "Facial Expressions" [label="glm", labeltooltip=2, style="solid", penwidth=2];
+	"Facial expression" -> "Facial Expressions" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"facial features" -> "Facial Expressions" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"facial expression features (60 features" -> "Facial Expressions" [label="corr", labeltooltip=6, style="solid", penwidth=6];
+	"smiling synchrony" -> "Facial Expressions" [label="glm", labeltooltip=2, style="solid", penwidth=2];
+
+ overlap=false 
+ splines = true; 
+
+
+}

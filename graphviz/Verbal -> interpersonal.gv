@@ -1,0 +1,82 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "102 extended GeMAPs acoustic features" "talking time" "coherence" "Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" "88 GeMAPS acoustic features" "12 MFCCs" "Convergence" "Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" "verbal dominance and information metrics [9 metrics]" "thousands of features prosodic speech" "linguistic features from transcript (65 features" "Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" "speech time" "symmetry of speech among group" "Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" "6 One Vs All Features" "speech rate" "non-verbal speaking metrics (speaking length, interruptions, etc" "Synchrony" "speech time and frequency" "Sequences of verbal utterances" "Proximity" "35 Coh-metrix indices" "voice features (4 features" "1582 audio features (from Emobase";}
+	{rank=same; "Perception of leadership and dominance from external observers" "collaboration" "Ranked dominance" "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking" "collaboration quality" "perception of peer clarity" "Leadership perceived" "Unvoiced Laughter" "Contribution perceived" "Collaboration" "Social Impressions" "Colloboration quality" "Voiced Laughter" "rapport level" "perception of peer helpfulness" "Joint Visual Attention" "Perceived Collaboration Quality" "perception of peer understanding" "Speech Laughter";}
+	"verbal dominance and information metrics [9 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"verbal dominance and information metrics [9 metrics]" -> "Leadership perceived"
+	"verbal dominance and information metrics [9 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"verbal dominance and information metrics [9 metrics]" -> "Contribution perceived"
+	"non-verbal speaking metrics (speaking length, interruptions, etc" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"non-verbal speaking metrics (speaking length, interruptions, etc" -> "Leadership perceived"
+	"non-verbal speaking metrics (speaking length, interruptions, etc" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"non-verbal speaking metrics (speaking length, interruptions, etc" -> "Contribution perceived"
+	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" -> "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking"
+	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" -> "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking"
+	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" -> "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking"
+	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"88 GeMAPS acoustic features" -> "Voiced Laughter"
+	"102 extended GeMAPs acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"102 extended GeMAPs acoustic features" -> "Voiced Laughter"
+	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"12 MFCCs" -> "Voiced Laughter"
+	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"88 GeMAPS acoustic features" -> "Unvoiced Laughter"
+	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"12 MFCCs" -> "Unvoiced Laughter"
+	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"88 GeMAPS acoustic features" -> "Speech Laughter"
+	"102 extended GeMAPs acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"102 extended GeMAPs acoustic features" -> "Speech Laughter"
+	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"12 MFCCs" -> "Speech Laughter"
+	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speech rate" -> "Perceived Collaboration Quality"
+	Proximity [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	Proximity -> "rapport level"
+	Convergence [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	Convergence -> "rapport level"
+	Synchrony [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	Synchrony -> "rapport level"
+	"6 One Vs All Features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"6 One Vs All Features" -> "Social Impressions"
+	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" -> "Perception of leadership and dominance from external observers"
+	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" -> "Ranked dominance"
+	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"linguistic features from transcript (65 features" -> "perception of peer helpfulness"
+	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"voice features (4 features" -> "perception of peer helpfulness"
+	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"linguistic features from transcript (65 features" -> "perception of peer understanding"
+	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"voice features (4 features" -> "perception of peer understanding"
+	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"linguistic features from transcript (65 features" -> "perception of peer clarity"
+	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"voice features (4 features" -> "perception of peer clarity"
+	"Sequences of verbal utterances" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Sequences of verbal utterances" -> "Colloboration quality"
+	"1582 audio features (from Emobase" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"1582 audio features (from Emobase" -> collaboration
+	coherence [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	coherence -> "Joint Visual Attention"
+	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"35 Coh-metrix indices" -> Collaboration
+	"talking time" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"talking time" -> "collaboration quality"
+	"speech time and frequency" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speech time and frequency" -> Collaboration
+	"symmetry of speech among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"symmetry of speech among group" -> Collaboration
+	"speech time" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speech time" -> "collaboration quality"
+	"thousands of features prosodic speech" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"thousands of features prosodic speech" -> "collaboration quality"
+}

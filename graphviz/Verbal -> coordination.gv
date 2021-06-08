@@ -1,0 +1,44 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "prosodic and tone features [many]" "speech rate" "duration of overlapping speech from all people" "duration in which each student was only speaker" "speaking time / turns" "speech time and frequency" "thousands of features prosodic speech" "talking time" "duration of speech by each student" "duration of overlapping speech from pairs of students" "coherence" "Sequences of verbal utterances" "duration of silence for all people" "speech time" "35 Coh-metrix indices" "Audio level (AUD" "symmetry of speech among group" "1582 audio features (from Emobase";}
+	{rank=same; "Collaboration" "Perceived Collaboration Quality" "Colloboration quality" "collaboration quality of group [4 level scale]" "Agreement" "collaboration" "collaboration quality" "collaborative problem solving" "Joint Visual Attention";}
+	"Sequences of verbal utterances" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Sequences of verbal utterances" -> "Colloboration quality"
+	"1582 audio features (from Emobase" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"1582 audio features (from Emobase" -> collaboration
+	coherence [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	coherence -> "Joint Visual Attention"
+	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"35 Coh-metrix indices" -> Collaboration
+	"talking time" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"talking time" -> "collaboration quality"
+	"Audio level (AUD" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Audio level (AUD" -> "collaborative problem solving"
+	"speech time and frequency" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speech time and frequency" -> Collaboration
+	"symmetry of speech among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"symmetry of speech among group" -> Collaboration
+	"speaking time / turns" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speaking time / turns" -> Agreement
+	"speech time" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speech time" -> "collaboration quality"
+	"thousands of features prosodic speech" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"thousands of features prosodic speech" -> "collaboration quality"
+	"duration of speech by each student" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"duration of speech by each student" -> "collaboration quality of group [4 level scale]"
+	"duration in which each student was only speaker" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"duration in which each student was only speaker" -> "collaboration quality of group [4 level scale]"
+	"duration of overlapping speech from pairs of students" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"duration of overlapping speech from pairs of students" -> "collaboration quality of group [4 level scale]"
+	"duration of overlapping speech from all people" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"duration of overlapping speech from all people" -> "collaboration quality of group [4 level scale]"
+	"duration of silence for all people" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"duration of silence for all people" -> "collaboration quality of group [4 level scale]"
+	"prosodic and tone features [many]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"prosodic and tone features [many]" -> "collaboration quality of group [4 level scale]"
+	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speech rate" -> "Perceived Collaboration Quality"
+}

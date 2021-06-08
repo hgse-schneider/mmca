@@ -1,0 +1,18 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "gesture type and location" "Physical synchrony" "Total movement across upper body joints and body parts" "dyad proximity" "Joint movement";}
+	{rank=same; "Collaboration" "frequency of utterances" "collaboration quality";}
+	"gesture type and location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"gesture type and location" -> "frequency of utterances"
+	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physical synchrony" -> Collaboration
+	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Total movement across upper body joints and body parts" -> "collaboration quality"
+	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint movement" -> Collaboration
+	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"dyad proximity" -> Collaboration
+}

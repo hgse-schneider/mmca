@@ -1,0 +1,24 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "DA - EDA" "SM - HR" "IDM - HR" "Physiological synchrony" "WC - EDA" "IDM - EDA" "CC - EDA" "SM - EDA";}
+	{rank=same; "Coh-metrix indices" "Technology trustworthiness";}
+	"Physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physiological synchrony" -> "Coh-metrix indices"
+	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"SM - EDA" -> "Technology trustworthiness"
+	"IDM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"IDM - EDA" -> "Technology trustworthiness"
+	"DA - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"DA - EDA" -> "Technology trustworthiness"
+	"CC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"CC - EDA" -> "Technology trustworthiness"
+	"WC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"WC - EDA" -> "Technology trustworthiness"
+	"SM - HR" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"SM - HR" -> "Technology trustworthiness"
+	"IDM - HR" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"IDM - HR" -> "Technology trustworthiness"
+}

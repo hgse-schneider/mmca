@@ -1,0 +1,20 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "Galvanic skin response" "physiological synchrony" "Physiological linkage";}
+	{rank=same; "Perceived Valence" "Empathy" "Emotional valence" "Negative Feelings" "Judgement of confidence" "Perceived Arousal";}
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physiological linkage" -> Empathy
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physiological linkage" -> "Negative Feelings"
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Galvanic skin response" -> "Perceived Valence"
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Galvanic skin response" -> "Perceived Arousal"
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony" -> "Judgement of confidence"
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony" -> "Emotional valence"
+}

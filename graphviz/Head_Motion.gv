@@ -1,0 +1,25 @@
+digraph world {
+        size="15,15";
+        layout=neato
+        graph [fontname = "helvetica"];
+        node [fontname = "helvetica", colorscheme=set28];
+        edge [fontname = "helvetica", colorscheme=set28];
+
+	"Head Motion" [href="index.svg"];
+	"Head motion" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"Head motion features [x5]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"Number of faces looking at screen" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"head orientation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"Head motion" -> "Head Motion" [label="clust", labeltooltip=1, style="solid", penwidth=1];
+	"Head motion features [x5]" -> "Head Motion" [label="clust", labeltooltip=1, style="solid", penwidth=1];
+	"Number of faces looking at screen" -> "Head Motion" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"Faces looking at screen (FLS" -> "Head Motion" [label="ml", labeltooltip=2, style="solid", penwidth=2];
+	"head orientation" -> "Head Motion" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+
+ overlap=false 
+ splines = true; 
+
+
+}

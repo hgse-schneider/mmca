@@ -1,0 +1,32 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "Fisher‚Äôs z-transform (FZT" "cycles of physiological synchrony (PC" "Pearson‚Äôs correlation coefficient (PCC" "Physiological linkage" "Directional Agreement (DA" "Pearson‚Äôs correlation (PC" "Instantaneous Derivative Matching (IDM" "physiological synchrony (PC" "Signal Matching (SM";}
+	{rank=same; "learning gains" "Learning gains" "Perceived Comprehension" "dual learning gains";}
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physiological linkage" -> "Perceived Comprehension"
+	"physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony (PC" -> "Learning gains"
+	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"cycles of physiological synchrony (PC" -> "Learning gains"
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Signal Matching (SM" -> "dual learning gains"
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Instantaneous Derivative Matching (IDM" -> "dual learning gains"
+	"Pearson‚Äôs correlation coefficient (PCC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pearson‚Äôs correlation coefficient (PCC" -> "dual learning gains"
+	"Fisher‚Äôs z-transform (FZT" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Fisher‚Äôs z-transform (FZT" -> "dual learning gains"
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Directional Agreement (DA" -> "dual learning gains"
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Signal Matching (SM" -> "learning gains"
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Instantaneous Derivative Matching (IDM" -> "learning gains"
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Directional Agreement (DA" -> "learning gains"
+	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pearson‚Äôs correlation (PC" -> "learning gains"
+}

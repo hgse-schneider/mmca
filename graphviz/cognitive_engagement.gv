@@ -1,0 +1,58 @@
+digraph world {
+        size="15,15";
+        layout=neato
+        graph [fontname = "helvetica"];
+        node [fontname = "helvetica", colorscheme=set28];
+        edge [fontname = "helvetica", colorscheme=set28];
+
+	"cognitive engagement" [href="index.svg"];
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"EDA peak detection" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"physiological concordance index" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"dialogue acts" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="5"];
+	"facial expression" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"gesture" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"IDM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"DA - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"CC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"WC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"SM - HR" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"IDM - HR" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="3"];
+	"gesture type and location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="4"];
+	"Touch patterns" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="1"];
+	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="6"];
+	"Physiological linkage" -> "cognitive engagement" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"EDA peak detection" -> "cognitive engagement" [label="corr", labeltooltip=1, style="solid", penwidth=1];
+	"physiological concordance index" -> "cognitive engagement" [label="corr", labeltooltip=1, style="solid", penwidth=1];
+	"dialogue acts" -> "cognitive engagement" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"facial expression" -> "cognitive engagement" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"gesture" -> "cognitive engagement" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"SM - EDA" -> "cognitive engagement" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"IDM - EDA" -> "cognitive engagement" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"DA - EDA" -> "cognitive engagement" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"CC - EDA" -> "cognitive engagement" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"WC - EDA" -> "cognitive engagement" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"SM - HR" -> "cognitive engagement" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"IDM - HR" -> "cognitive engagement" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"Distance between hands" -> "cognitive engagement" [label="glm", labeltooltip=2, style="solid", penwidth=2];
+	"physiological synchrony" -> "cognitive engagement" [label="glm", labeltooltip=2, style="dotted", penwidth=2];
+	"brain synchrony" -> "cognitive engagement" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"shared gaze" -> "cognitive engagement" [label="glm", labeltooltip=1, style="dotted", penwidth=1];
+	"gesture type and location" -> "cognitive engagement" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"Touch patterns" -> "cognitive engagement" [label="", labeltooltip=1, style="solid", penwidth=1];
+	"EDA synchrony" -> "cognitive engagement" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+	"heart rate sychrony" -> "cognitive engagement" [label="ml", labeltooltip=1, style="dotted", penwidth=1];
+
+ overlap=false 
+ splines = true; 
+
+
+}

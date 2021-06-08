@@ -1,0 +1,36 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "Fisher‚Äôs z-transform (FZT" "cycles of physiological synchrony (PC" "Pearson‚Äôs correlation coefficient (PCC" "Galvanic skin response" "EDA synchrony" "Pearson‚Äôs correlation (PC" "brain synchrony" "Instantaneous Derivative Matching (IDM" "Directional Agreement (DA" "physiological synchrony (DA" "Signal Matching (SM";}
+	{rank=same; "team cohesion" "Perceived Collaboration Quality" "Social dynamics" "collaborative will" "colaboration quality: reciprocal interaction" "collaboration quality";}
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Galvanic skin response" -> "Perceived Collaboration Quality"
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Signal Matching (SM" -> "collaborative will"
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Directional Agreement (DA" -> "collaborative will"
+	"Pearson‚Äôs correlation coefficient (PCC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pearson‚Äôs correlation coefficient (PCC" -> "collaborative will"
+	"Fisher‚Äôs z-transform (FZT" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Fisher‚Äôs z-transform (FZT" -> "collaborative will"
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Instantaneous Derivative Matching (IDM" -> "collaborative will"
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Signal Matching (SM" -> "colaboration quality":" reciprocal interaction"
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Instantaneous Derivative Matching (IDM" -> "colaboration quality":" reciprocal interaction"
+	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pearson‚Äôs correlation (PC" -> "colaboration quality":" reciprocal interaction"
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Directional Agreement (DA" -> "colaboration quality":" reciprocal interaction"
+	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"EDA synchrony" -> "team cohesion"
+	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"brain synchrony" -> "Social dynamics"
+	"physiological synchrony (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony (DA" -> "collaboration quality"
+	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"cycles of physiological synchrony (PC" -> "collaboration quality"
+}

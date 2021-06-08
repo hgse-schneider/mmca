@@ -1,0 +1,38 @@
+digraph Test {
+	rankdir=RL
+	size="15,15"
+	overlap=false
+	splines=true
+	{rank=same; "target for discussion partner" "Average stroke pressure" "Average stroke time length" "Arduino active hardware blocks" "type of activity done in task" "Total number of pen strokes" "Calculator Use" "Arduino measure of complexity" "Average number of points" "Average stroke path length" "events" "Arduino active software blocks" "Arduino active blocks" "Average stroke displacement" "student work phases";}
+	{rank=same; "group performance" "artefact quality" "task success score" "Odds of a student solving correctly a problem";}
+	events [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	events -> "group performance"
+	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Calculator Use" -> "Odds of a student solving correctly a problem"
+	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Total number of pen strokes" -> "Odds of a student solving correctly a problem"
+	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average number of points" -> "Odds of a student solving correctly a problem"
+	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average stroke time length" -> "Odds of a student solving correctly a problem"
+	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average stroke path length" -> "Odds of a student solving correctly a problem"
+	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average stroke displacement" -> "Odds of a student solving correctly a problem"
+	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average stroke pressure" -> "Odds of a student solving correctly a problem"
+	"Arduino measure of complexity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Arduino measure of complexity" -> "artefact quality"
+	"Arduino active hardware blocks" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Arduino active hardware blocks" -> "artefact quality"
+	"Arduino active software blocks" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Arduino active software blocks" -> "artefact quality"
+	"Arduino active blocks" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Arduino active blocks" -> "artefact quality"
+	"student work phases" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"student work phases" -> "artefact quality"
+	"type of activity done in task" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"type of activity done in task" -> "task success score"
+	"target for discussion partner" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"target for discussion partner" -> "task success score"
+}

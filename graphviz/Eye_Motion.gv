@@ -1,0 +1,20 @@
+digraph world {
+        size="15,15";
+        layout=neato
+        graph [fontname = "helvetica"];
+        node [fontname = "helvetica", colorscheme=set28];
+        edge [fontname = "helvetica", colorscheme=set28];
+
+	"Eye Motion" [href="index.svg"];
+	"Gaze transitions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="3"];
+	"gaze saccades" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="3"];
+	"Gaze saccade" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="3"];
+	"Gaze transitions" -> "Eye Motion" [label="glm", labeltooltip=1, style="solid", penwidth=1];
+	"gaze saccades" -> "Eye Motion" [label="", labeltooltip=1, style="solid", penwidth=1];
+	"Gaze saccade" -> "Eye Motion" [label="ml", labeltooltip=1, style="solid", penwidth=1];
+
+ overlap=false 
+ splines = true; 
+
+
+}
