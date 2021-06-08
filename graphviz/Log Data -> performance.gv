@@ -3,36 +3,36 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Arduino active blocks" "Arduino active software blocks" "Average stroke path length" "Calculator Use" "Average stroke displacement" "Average number of points" "events" "Average stroke pressure" "type of activity done in task" "Total number of pen strokes" "student work phases" "Average stroke time length" "target for discussion partner" "Arduino active hardware blocks" "Arduino measure of complexity";}
-	{rank=same; "Odds of a student solving correctly a problem" "artefact quality" "task success score" "group performance";}
-	events [href="https://scholar.google.com/scholar?hl=en&q=Analysing%20frequent%20sequential%20patterns%20of%20collaborative%20learning%20activity%20around%20an%20interactive%20tabletop"]
+	{rank=same; "Total number of pen strokes" "Arduino active hardware blocks" "events" "student work phases" "type of activity done in task" "target for discussion partner" "Calculator Use" "Average stroke path length" "Average stroke displacement" "Arduino active blocks" "Average stroke pressure" "Arduino active software blocks" "Average number of points" "Arduino measure of complexity" "Average stroke time length";}
+	{rank=same; "group performance" "task success score" "Odds of a student solving correctly a problem" "artefact quality";}
+	events [href="https://scholar.google.com/scholar?hl=en&q=Analysing%20frequent%20sequential%20patterns%20of%20collaborative%20learning%20activity%20around%20an%20interactive%20tabletop" target=_blank]
 	events -> "group performance"
-	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Calculator Use" -> "Odds of a student solving correctly a problem"
-	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Total number of pen strokes" -> "Odds of a student solving correctly a problem"
-	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average number of points" -> "Odds of a student solving correctly a problem"
-	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average stroke time length" -> "Odds of a student solving correctly a problem"
-	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average stroke path length" -> "Odds of a student solving correctly a problem"
-	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average stroke displacement" -> "Odds of a student solving correctly a problem"
-	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average stroke pressure" -> "Odds of a student solving correctly a problem"
-	"Arduino measure of complexity" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
+	"Arduino measure of complexity" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" target=_blank]
 	"Arduino measure of complexity" -> "artefact quality"
-	"Arduino active hardware blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
+	"Arduino active hardware blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" target=_blank]
 	"Arduino active hardware blocks" -> "artefact quality"
-	"Arduino active software blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
+	"Arduino active software blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" target=_blank]
 	"Arduino active software blocks" -> "artefact quality"
-	"Arduino active blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
+	"Arduino active blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" target=_blank]
 	"Arduino active blocks" -> "artefact quality"
-	"student work phases" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
+	"student work phases" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" target=_blank]
 	"student work phases" -> "artefact quality"
-	"type of activity done in task" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
+	"type of activity done in task" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" target=_blank]
 	"type of activity done in task" -> "task success score"
-	"target for discussion partner" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
+	"target for discussion partner" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" target=_blank]
 	"target for discussion partner" -> "task success score"
 }

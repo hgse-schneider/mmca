@@ -3,28 +3,28 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "type of movement" "Distance from the center of the table" "body synchronization" "Iconic gestures per second" "Deictic gestures per second" "Motion energy images" "head/body movement" "Total manual gestures per second" "Total Movement" "Body motion";}
-	{rank=same; "cultural style matching" "Big Five personality traits scores" "expertise" "Emerging leadership" "leadership (driver/passenger" "Expert prediction" "language style matching";}
-	"Total Movement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	{rank=same; "Total manual gestures per second" "Iconic gestures per second" "Total Movement" "head/body movement" "Motion energy images" "Distance from the center of the table" "type of movement" "Body motion" "Deictic gestures per second" "body synchronization";}
+	{rank=same; "Emerging leadership" "leadership (driver/passenger" "cultural style matching" "Big Five personality traits scores" "expertise" "Expert prediction" "language style matching";}
+	"Total Movement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Total Movement" -> "Expert prediction"
-	"Distance from the center of the table" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Distance from the center of the table" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Distance from the center of the table" -> "Expert prediction"
-	"Body motion" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
+	"Body motion" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" target=_blank]
 	"Body motion" -> "Big Five personality traits scores"
-	"Motion energy images" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
+	"Motion energy images" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" target=_blank]
 	"Motion energy images" -> "Big Five personality traits scores"
-	"Total manual gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics"]
+	"Total manual gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics" target=_blank]
 	"Total manual gestures per second" -> expertise
-	"Iconic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics"]
+	"Iconic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics" target=_blank]
 	"Iconic gestures per second" -> expertise
-	"Deictic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics"]
+	"Deictic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics" target=_blank]
 	"Deictic gestures per second" -> expertise
-	"type of movement" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
+	"type of movement" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." target=_blank]
 	"type of movement" -> "leadership (driver/passenger"
-	"head/body movement" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose"]
+	"head/body movement" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose" target=_blank]
 	"head/body movement" -> "Emerging leadership"
-	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction"]
+	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction" target=_blank]
 	"body synchronization" -> "cultural style matching"
-	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction"]
+	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction" target=_blank]
 	"body synchronization" -> "language style matching"
 }

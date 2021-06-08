@@ -3,32 +3,32 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "EDA synchrony" "cycles of physiological synchrony (PC" "Instantaneous Derivative Matching (IDM" "physiological synchrony (DA" "Galvanic skin response" "heart rate sychrony" "Directional Agreement (DA" "Pearson‚Äôs correlation (PC" "Signal Matching (SM";}
-	{rank=same; "Perceived Collaboration Quality" "collaboration quality" "collaboration quality: reaching consensus" "collaboration quality: information pooling";}
-	"physiological synchrony (DA" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]
+	{rank=same; "Instantaneous Derivative Matching (IDM" "Directional Agreement (DA" "cycles of physiological synchrony (PC" "Galvanic skin response" "physiological synchrony (DA" "Signal Matching (SM" "EDA synchrony" "heart rate sychrony" "Pearson‚Äôs correlation (PC";}
+	{rank=same; "collaboration quality" "collaboration quality: information pooling" "Perceived Collaboration Quality" "collaboration quality: reaching consensus";}
+	"physiological synchrony (DA" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" target=_blank]
 	"physiological synchrony (DA" -> "collaboration quality"
-	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]
+	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" target=_blank]
 	"cycles of physiological synchrony (PC" -> "collaboration quality"
-	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Signal Matching (SM" -> "collaboration quality":" reaching consensus"
-	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Instantaneous Derivative Matching (IDM" -> "collaboration quality":" reaching consensus"
-	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Pearson‚Äôs correlation (PC" -> "collaboration quality":" reaching consensus"
-	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Directional Agreement (DA" -> "collaboration quality":" reaching consensus"
-	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Signal Matching (SM" -> "collaboration quality":" information pooling"
-	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Instantaneous Derivative Matching (IDM" -> "collaboration quality":" information pooling"
-	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Directional Agreement (DA" -> "collaboration quality":" information pooling"
-	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Pearson‚Äôs correlation (PC" -> "collaboration quality":" information pooling"
-	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors"]
+	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" target=_blank]
 	"EDA synchrony" -> "collaboration quality"
-	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors"]
+	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" target=_blank]
 	"heart rate sychrony" -> "collaboration quality"
-	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" target=_blank]
 	"Galvanic skin response" -> "Perceived Collaboration Quality"
 }

@@ -3,36 +3,36 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Joint visual attention" "Cross-Recurrence Quantification Analysis (CRQA" "Together gaze" "Network features [+20]" "shared gaze" "joint-visual attention" "joint visual attention" "Multidimensional Recurrence Quantification Analysis (MdRQA" "Focused gaze" "Count of faces looking at screen" "Cycles of collaborative / individual work" "Joint visual Attention" "Gaze transitions";}
-	{rank=same; "Quality of Collaboration" "Negotiation" "quality of collaboration" "collaboration quality" "Construction of shared knowledge" "Synchronisation" "Coordination" "Dialogue episodes";}
-	"Focused gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]
+	{rank=same; "joint visual attention" "joint-visual attention" "Cycles of collaborative / individual work" "Gaze transitions" "Cross-Recurrence Quantification Analysis (CRQA" "Joint visual attention" "Focused gaze" "Count of faces looking at screen" "shared gaze" "Joint visual Attention" "Network features [+20]" "Together gaze" "Multidimensional Recurrence Quantification Analysis (MdRQA";}
+	{rank=same; "Negotiation" "quality of collaboration" "Quality of Collaboration" "Dialogue episodes" "collaboration quality" "Coordination" "Construction of shared knowledge" "Synchronisation";}
+	"Focused gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" target=_blank]
 	"Focused gaze" -> "Dialogue episodes"
-	"Together gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]
+	"Together gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" target=_blank]
 	"Together gaze" -> "Dialogue episodes"
-	"Gaze transitions" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]
+	"Gaze transitions" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" target=_blank]
 	"Gaze transitions" -> "Dialogue episodes"
-	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Eye-Tracking%20Technology%20to%20Support%20Visual%20Coordination%20in%20Collaborative%20Problem-Solving%20Groups"]
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Eye-Tracking%20Technology%20to%20Support%20Visual%20Coordination%20in%20Collaborative%20Problem-Solving%20Groups" target=_blank]
 	"Joint visual attention" -> "Quality of Collaboration"
-	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" target=_blank]
 	"Joint visual attention" -> "Quality of Collaboration"
-	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning"]
+	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" target=_blank]
 	"Joint visual Attention" -> "collaboration quality"
-	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning"]
+	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" target=_blank]
 	"Cycles of collaborative / individual work" -> "collaboration quality"
-	"Cross-Recurrence Quantification Analysis (CRQA" [href="https://scholar.google.com/scholar?hl=en&q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis"]
+	"Cross-Recurrence Quantification Analysis (CRQA" [href="https://scholar.google.com/scholar?hl=en&q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" target=_blank]
 	"Cross-Recurrence Quantification Analysis (CRQA" -> "Construction of shared knowledge"
-	"Multidimensional Recurrence Quantification Analysis (MdRQA" [href="https://scholar.google.com/scholar?hl=en&q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis"]
+	"Multidimensional Recurrence Quantification Analysis (MdRQA" [href="https://scholar.google.com/scholar?hl=en&q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" target=_blank]
 	"Multidimensional Recurrence Quantification Analysis (MdRQA" -> Negotiation
-	"Multidimensional Recurrence Quantification Analysis (MdRQA" [href="https://scholar.google.com/scholar?hl=en&q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis"]
+	"Multidimensional Recurrence Quantification Analysis (MdRQA" [href="https://scholar.google.com/scholar?hl=en&q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" target=_blank]
 	"Multidimensional Recurrence Quantification Analysis (MdRQA" -> Coordination
-	"Count of faces looking at screen" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning"]
+	"Count of faces looking at screen" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning" target=_blank]
 	"Count of faces looking at screen" -> Synchronisation
-	"Network features [+20]" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Collaboration%20Sensing"]
+	"Network features [+20]" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Collaboration%20Sensing" target=_blank]
 	"Network features [+20]" -> "collaboration quality"
-	"joint-visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20Collaborative%20Learning%20Processes%20during%20Hands-on%20Activities%20using%20Mobile%20Eye-Trackers"]
+	"joint-visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20Collaborative%20Learning%20Processes%20during%20Hands-on%20Activities%20using%20Mobile%20Eye-Trackers" target=_blank]
 	"joint-visual attention" -> "collaboration quality"
-	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads"]
+	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads" target=_blank]
 	"joint visual attention" -> "collaboration quality"
-	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations"]
+	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" target=_blank]
 	"shared gaze" -> "quality of collaboration"
 }

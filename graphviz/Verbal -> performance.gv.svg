@@ -9,298 +9,94 @@
 <g id="graph0" class="graph" transform="scale(0.37 0.37) rotate(0) translate(4 904)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-904 1935.23,-904 1935.23,4 -4,4"/>
-<!-- Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech -->
-<g id="node1" class="node">
-<title>Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-126" rx="521.81" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-122.3" font-family="Times,serif" font-size="14.00">Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech</text>
-</a>
-</g>
-</g>
-<!-- Group Performance (Negative distance between expert list and group list -->
-<g id="node21" class="node">
-<title>Group Performance (Negative distance between expert list and group list</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-72" rx="269.95" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-68.3" font-family="Times,serif" font-size="14.00">Group Performance (Negative distance between expert list and group list</text>
-</g>
-<!-- Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech&#45;&gt;Group Performance (Negative distance between expert list and group list -->
-<g id="edge2" class="edge">
-<title>Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech&#45;&gt;Group Performance (Negative distance between expert list and group list</title>
-<path fill="none" stroke="black" d="M1021.39,-111.98C938.64,-108.11 849.96,-103.67 767.84,-99 700.18,-95.15 626.14,-90.33 560.31,-85.84"/>
-<polygon fill="black" stroke="black" points="560.45,-82.34 550.24,-85.15 559.98,-89.32 560.45,-82.34"/>
-</g>
 <!-- Total speech duration -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>Total speech duration</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Total speech duration" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-396" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-392.3" font-family="Times,serif" font-size="14.00">Total speech duration</text>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Total speech duration" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-234" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-230.3" font-family="Times,serif" font-size="14.00">Total speech duration</text>
 </a>
 </g>
 </g>
 <!-- Odds of a student solving correctly a problem -->
 <g id="node18" class="node">
 <title>Odds of a student solving correctly a problem</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-288" rx="173.57" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-284.3" font-family="Times,serif" font-size="14.00">Odds of a student solving correctly a problem</text>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-126" rx="173.57" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-122.3" font-family="Times,serif" font-size="14.00">Odds of a student solving correctly a problem</text>
 </g>
 <!-- Total speech duration&#45;&gt;Odds of a student solving correctly a problem -->
 <g id="edge7" class="edge">
 <title>Total speech duration&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M1262.1,-396.09C1148.34,-395.28 942.37,-390.56 767.84,-369 653.62,-354.89 523.33,-326.18 443.1,-307.01"/>
-<polygon fill="black" stroke="black" points="443.63,-303.54 433.09,-304.61 442,-310.35 443.63,-303.54"/>
-</g>
-<!-- Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels -->
-<g id="node3" class="node">
-<title>Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-72" rx="504.21" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-68.3" font-family="Times,serif" font-size="14.00">Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels</text>
-</a>
-</g>
-</g>
-<!-- Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels&#45;&gt;Group Performance (Negative distance between expert list and group list -->
-<g id="edge1" class="edge">
-<title>Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels&#45;&gt;Group Performance (Negative distance between expert list and group list</title>
-<path fill="none" stroke="black" d="M845.14,-72C776.77,-72 708.73,-72 646.32,-72"/>
-<polygon fill="black" stroke="black" points="645.95,-68.5 635.95,-72 645.95,-75.5 645.95,-68.5"/>
-</g>
-<!-- speech features -->
-<g id="node4" class="node">
-<title>speech features</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Group%20Performance%20in%20Task-Based%20Interaction" xlink:title="speech features" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-504" rx="64.99" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-500.3" font-family="Times,serif" font-size="14.00">speech features</text>
-</a>
-</g>
-</g>
-<!-- group performance scores -->
-<g id="node25" class="node">
-<title>group performance scores</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-477" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-473.3" font-family="Times,serif" font-size="14.00">group performance scores</text>
-</g>
-<!-- speech features&#45;&gt;group performance scores -->
-<g id="edge4" class="edge">
-<title>speech features&#45;&gt;group performance scores</title>
-<path fill="none" stroke="black" d="M1284.51,-502.24C1120.62,-497.73 684.36,-485.73 478.03,-480.06"/>
-<polygon fill="black" stroke="black" points="477.87,-476.55 467.78,-479.77 477.68,-483.55 477.87,-476.55"/>
-</g>
-<!-- Speaking turn features [x4] -->
-<g id="node5" class="node">
-<title>Speaking turn features [x4]</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Speaking turn features [x4]" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-666" rx="107.48" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-662.3" font-family="Times,serif" font-size="14.00">Speaking turn features [x4]</text>
-</a>
-</g>
-</g>
-<!-- quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
-<g id="node19" class="node">
-<title>quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-612" rx="365.84" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-608.3" font-family="Times,serif" font-size="14.00">quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</text>
-</g>
-<!-- Speaking turn features [x4]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
-<g id="edge13" class="edge">
-<title>Speaking turn features [x4]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
-<path fill="none" stroke="black" d="M1245.18,-661.84C1129.02,-657.02 934.85,-648.51 767.84,-639 708.41,-635.62 644.07,-631.49 584.69,-627.49"/>
-<polygon fill="black" stroke="black" points="584.65,-623.98 574.43,-626.8 584.17,-630.97 584.65,-623.98"/>
-</g>
-<!-- Times numbers were mentioned -->
-<g id="node6" class="node">
-<title>Times numbers were mentioned</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times numbers were mentioned" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-342" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-338.3" font-family="Times,serif" font-size="14.00">Times numbers were mentioned</text>
-</a>
-</g>
-</g>
-<!-- Times numbers were mentioned&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge8" class="edge">
-<title>Times numbers were mentioned&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M1228.1,-337.13C1110.63,-332.21 926.91,-324.05 767.84,-315 685.51,-310.31 593.75,-304.2 518.81,-298.98"/>
-<polygon fill="black" stroke="black" points="519.03,-295.48 508.82,-298.28 518.55,-302.47 519.03,-295.48"/>
-</g>
-<!-- Times commands were pronounced -->
-<g id="node7" class="node">
-<title>Times commands were pronounced</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times commands were pronounced" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-288" rx="137.58" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-284.3" font-family="Times,serif" font-size="14.00">Times commands were pronounced</text>
-</a>
-</g>
-</g>
-<!-- Times commands were pronounced&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge10" class="edge">
-<title>Times commands were pronounced&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M1211.53,-288C1038.92,-288 741.71,-288 549.83,-288"/>
-<polygon fill="black" stroke="black" points="549.63,-284.5 539.63,-288 549.63,-291.5 549.63,-284.5"/>
-</g>
-<!-- Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew -->
-<g id="node8" class="node">
-<title>Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-18" rx="581.9" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-14.3" font-family="Times,serif" font-size="14.00">Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew</text>
-</a>
-</g>
-</g>
-<!-- Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew&#45;&gt;Group Performance (Negative distance between expert list and group list -->
-<g id="edge3" class="edge">
-<title>Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew&#45;&gt;Group Performance (Negative distance between expert list and group list</title>
-<path fill="none" stroke="black" d="M1008.79,-32.61C929.68,-36.34 845.8,-40.56 767.84,-45 700.18,-48.85 626.14,-53.67 560.31,-58.16"/>
-<polygon fill="black" stroke="black" points="559.98,-54.68 550.24,-58.85 560.45,-61.66 559.98,-54.68"/>
-</g>
-<!-- speech rate -->
-<g id="node9" class="node">
-<title>speech rate</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="speech rate" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-720" rx="50.09" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-716.3" font-family="Times,serif" font-size="14.00">speech rate</text>
-</a>
-</g>
-</g>
-<!-- Task Performance -->
-<g id="node20" class="node">
-<title>Task Performance</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-720" rx="75.29" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-716.3" font-family="Times,serif" font-size="14.00">Task Performance</text>
-</g>
-<!-- speech rate&#45;&gt;Task Performance -->
-<g id="edge12" class="edge">
-<title>speech rate&#45;&gt;Task Performance</title>
-<path fill="none" stroke="black" d="M1299.18,-720C1141.74,-720 650.15,-720 451.48,-720"/>
-<polygon fill="black" stroke="black" points="451.38,-716.5 441.38,-720 451.38,-723.5 451.38,-716.5"/>
+<path fill="none" stroke="black" d="M1262.1,-234.09C1148.34,-233.28 942.37,-228.56 767.84,-207 653.62,-192.89 523.33,-164.18 443.1,-145.01"/>
+<polygon fill="black" stroke="black" points="443.63,-141.54 433.09,-142.61 442,-148.35 443.63,-141.54"/>
 </g>
 <!-- transition probability between types of vocalisations -->
-<g id="node10" class="node">
+<g id="node2" class="node">
 <title>transition probability between types of vocalisations</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="transition probability between types of vocalisations" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-774" rx="195.77" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-770.3" font-family="Times,serif" font-size="14.00">transition probability between types of vocalisations</text>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="transition probability between types of vocalisations" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-288" rx="195.77" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-284.3" font-family="Times,serif" font-size="14.00">transition probability between types of vocalisations</text>
 </a>
 </g>
 </g>
 <!-- task performance -->
 <g id="node22" class="node">
 <title>task performance</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-774" rx="72.29" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-770.3" font-family="Times,serif" font-size="14.00">task performance</text>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-288" rx="72.29" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-284.3" font-family="Times,serif" font-size="14.00">task performance</text>
 </g>
 <!-- transition probability between types of vocalisations&#45;&gt;task performance -->
 <g id="edge11" class="edge">
 <title>transition probability between types of vocalisations&#45;&gt;task performance</title>
-<path fill="none" stroke="black" d="M1153.72,-774C938.55,-774 602.23,-774 448.52,-774"/>
-<polygon fill="black" stroke="black" points="448.21,-770.5 438.21,-774 448.21,-777.5 448.21,-770.5"/>
-</g>
-<!-- Linguistic features [x300+] -->
-<g id="node11" class="node">
-<title>Linguistic features [x300+]</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Linguistic features [x300+]" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-612" rx="107.78" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-608.3" font-family="Times,serif" font-size="14.00">Linguistic features [x300+]</text>
-</a>
-</g>
-</g>
-<!-- Linguistic features [x300+]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
-<g id="edge15" class="edge">
-<title>Linguistic features [x300+]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
-<path fill="none" stroke="black" d="M1241.61,-612C1121.89,-612 921.14,-612 742.14,-612"/>
-<polygon fill="black" stroke="black" points="742.01,-608.5 732.01,-612 742.01,-615.5 742.01,-608.5"/>
-</g>
-<!-- Mean audio level -->
-<g id="node12" class="node">
-<title>Mean audio level</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Mean audio level" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-828" rx="72.59" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-824.3" font-family="Times,serif" font-size="14.00">Mean audio level</text>
-</a>
-</g>
-</g>
-<!-- artefact quality -->
-<g id="node24" class="node">
-<title>artefact quality</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-828" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-824.3" font-family="Times,serif" font-size="14.00">artefact quality</text>
-</g>
-<!-- Mean audio level&#45;&gt;artefact quality -->
-<g id="edge16" class="edge">
-<title>Mean audio level&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M1276.35,-828C1095.04,-828 621.99,-828 439.86,-828"/>
-<polygon fill="black" stroke="black" points="439.85,-824.5 429.85,-828 439.85,-831.5 439.85,-824.5"/>
-</g>
-<!-- Times mathematical terms were mentioned -->
-<g id="node13" class="node">
-<title>Times mathematical terms were mentioned</title>
-<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times mathematical terms were mentioned" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-234" rx="165.97" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-230.3" font-family="Times,serif" font-size="14.00">Times mathematical terms were mentioned</text>
-</a>
-</g>
-</g>
-<!-- Times mathematical terms were mentioned&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge9" class="edge">
-<title>Times mathematical terms were mentioned&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M1194.13,-240.31C1077.09,-245.3 912.3,-252.78 767.84,-261 685.51,-265.69 593.75,-271.8 518.81,-277.02"/>
-<polygon fill="black" stroke="black" points="518.55,-273.53 508.82,-277.72 519.03,-280.52 518.55,-273.53"/>
-</g>
-<!-- Acoustic features [x13] -->
-<g id="node14" class="node">
-<title>Acoustic features [x13]</title>
-<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Acoustic features [x13]" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-558" rx="93.68" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-554.3" font-family="Times,serif" font-size="14.00">Acoustic features [x13]</text>
-</a>
-</g>
-</g>
-<!-- Acoustic features [x13]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
-<g id="edge14" class="edge">
-<title>Acoustic features [x13]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
-<path fill="none" stroke="black" d="M1257.48,-561.65C1143.12,-566.36 940.89,-575.15 767.84,-585 708.41,-588.38 644.07,-592.51 584.69,-596.51"/>
-<polygon fill="black" stroke="black" points="584.17,-593.03 574.43,-597.2 584.65,-600.02 584.17,-593.03"/>
+<path fill="none" stroke="black" d="M1153.72,-288C938.55,-288 602.23,-288 448.52,-288"/>
+<polygon fill="black" stroke="black" points="448.21,-284.5 438.21,-288 448.21,-291.5 448.21,-284.5"/>
 </g>
 <!-- linguistic features -->
-<g id="node15" class="node">
+<g id="node3" class="node">
 <title>linguistic features</title>
-<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Group%20Performance%20in%20Task-Based%20Interaction" xlink:title="linguistic features" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-450" rx="73.39" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-446.3" font-family="Times,serif" font-size="14.00">linguistic features</text>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Group%20Performance%20in%20Task-Based%20Interaction" xlink:title="linguistic features" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-396" rx="73.39" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-392.3" font-family="Times,serif" font-size="14.00">linguistic features</text>
 </a>
 </g>
+</g>
+<!-- group performance scores -->
+<g id="node23" class="node">
+<title>group performance scores</title>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-369" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-365.3" font-family="Times,serif" font-size="14.00">group performance scores</text>
 </g>
 <!-- linguistic features&#45;&gt;group performance scores -->
 <g id="edge5" class="edge">
 <title>linguistic features&#45;&gt;group performance scores</title>
-<path fill="none" stroke="black" d="M1276.35,-451.99C1106.44,-456.66 680.29,-468.38 477.5,-473.96"/>
-<polygon fill="black" stroke="black" points="477.32,-470.46 467.42,-474.24 477.52,-477.46 477.32,-470.46"/>
+<path fill="none" stroke="black" d="M1276.35,-394.01C1106.44,-389.34 680.29,-377.62 477.5,-372.04"/>
+<polygon fill="black" stroke="black" points="477.52,-368.54 467.42,-371.76 477.32,-375.54 477.52,-368.54"/>
 </g>
-<!-- Audio level (AUD -->
-<g id="node16" class="node">
-<title>Audio level (AUD</title>
-<g id="a_node16"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Audio level (AUD" target="_blank">
-<ellipse fill="none" stroke="black" cx="1349.53" cy="-882" rx="76.89" ry="18"/>
-<text text-anchor="middle" x="1349.53" y="-878.3" font-family="Times,serif" font-size="14.00">Audio level (AUD</text>
+<!-- Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech -->
+<g id="node4" class="node">
+<title>Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-558" rx="521.81" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-554.3" font-family="Times,serif" font-size="14.00">Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech</text>
 </a>
 </g>
 </g>
-<!-- collaborative problem solving -->
-<g id="node23" class="node">
-<title>collaborative problem solving</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-882" rx="116.98" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-878.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
+<!-- Group Performance (Negative distance between expert list and group list -->
+<g id="node19" class="node">
+<title>Group Performance (Negative distance between expert list and group list</title>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-504" rx="269.95" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-500.3" font-family="Times,serif" font-size="14.00">Group Performance (Negative distance between expert list and group list</text>
 </g>
-<!-- Audio level (AUD&#45;&gt;collaborative problem solving -->
-<g id="edge17" class="edge">
-<title>Audio level (AUD&#45;&gt;collaborative problem solving</title>
-<path fill="none" stroke="black" d="M1272.73,-882C1104.82,-882 700.07,-882 493.22,-882"/>
-<polygon fill="black" stroke="black" points="493.22,-878.5 483.22,-882 493.22,-885.5 493.22,-878.5"/>
+<!-- Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech&#45;&gt;Group Performance (Negative distance between expert list and group list -->
+<g id="edge2" class="edge">
+<title>Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech&#45;&gt;Group Performance (Negative distance between expert list and group list</title>
+<path fill="none" stroke="black" d="M1021.39,-543.98C938.64,-540.11 849.96,-535.67 767.84,-531 700.18,-527.15 626.14,-522.33 560.31,-517.84"/>
+<polygon fill="black" stroke="black" points="560.45,-514.34 550.24,-517.15 559.98,-521.32 560.45,-514.34"/>
 </g>
 <!-- Number of interventions -->
-<g id="node17" class="node">
+<g id="node5" class="node">
 <title>Number of interventions</title>
-<g id="a_node17"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Number of interventions" target="_blank">
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Number of interventions" target="_blank">
 <ellipse fill="none" stroke="black" cx="1349.53" cy="-180" rx="98.28" ry="18"/>
 <text text-anchor="middle" x="1349.53" y="-176.3" font-family="Times,serif" font-size="14.00">Number of interventions</text>
 </a>
@@ -309,8 +105,212 @@
 <!-- Number of interventions&#45;&gt;Odds of a student solving correctly a problem -->
 <g id="edge6" class="edge">
 <title>Number of interventions&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M1251.31,-179.99C1135.67,-181.03 936.99,-186.1 767.84,-207 653.62,-221.11 523.33,-249.82 443.1,-268.99"/>
-<polygon fill="black" stroke="black" points="442,-265.65 433.09,-271.39 443.63,-272.46 442,-265.65"/>
+<path fill="none" stroke="black" d="M1253.45,-176.19C1138.41,-171.43 938.88,-162.73 767.84,-153 685.51,-148.31 593.75,-142.2 518.81,-136.98"/>
+<polygon fill="black" stroke="black" points="519.03,-133.48 508.82,-136.28 518.55,-140.47 519.03,-133.48"/>
+</g>
+<!-- Mean audio level -->
+<g id="node6" class="node">
+<title>Mean audio level</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Mean audio level" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-612" rx="72.59" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-608.3" font-family="Times,serif" font-size="14.00">Mean audio level</text>
+</a>
+</g>
+</g>
+<!-- artefact quality -->
+<g id="node24" class="node">
+<title>artefact quality</title>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-612" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-608.3" font-family="Times,serif" font-size="14.00">artefact quality</text>
+</g>
+<!-- Mean audio level&#45;&gt;artefact quality -->
+<g id="edge16" class="edge">
+<title>Mean audio level&#45;&gt;artefact quality</title>
+<path fill="none" stroke="black" d="M1276.35,-612C1095.04,-612 621.99,-612 439.86,-612"/>
+<polygon fill="black" stroke="black" points="439.85,-608.5 429.85,-612 439.85,-615.5 439.85,-608.5"/>
+</g>
+<!-- Audio level (AUD -->
+<g id="node7" class="node">
+<title>Audio level (AUD</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Audio level (AUD" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-666" rx="76.89" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-662.3" font-family="Times,serif" font-size="14.00">Audio level (AUD</text>
+</a>
+</g>
+</g>
+<!-- collaborative problem solving -->
+<g id="node25" class="node">
+<title>collaborative problem solving</title>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-666" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-662.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
+</g>
+<!-- Audio level (AUD&#45;&gt;collaborative problem solving -->
+<g id="edge17" class="edge">
+<title>Audio level (AUD&#45;&gt;collaborative problem solving</title>
+<path fill="none" stroke="black" d="M1272.73,-666C1104.82,-666 700.07,-666 493.22,-666"/>
+<polygon fill="black" stroke="black" points="493.22,-662.5 483.22,-666 493.22,-669.5 493.22,-662.5"/>
+</g>
+<!-- Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels -->
+<g id="node8" class="node">
+<title>Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-504" rx="504.21" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-500.3" font-family="Times,serif" font-size="14.00">Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels</text>
+</a>
+</g>
+</g>
+<!-- Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels&#45;&gt;Group Performance (Negative distance between expert list and group list -->
+<g id="edge1" class="edge">
+<title>Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels&#45;&gt;Group Performance (Negative distance between expert list and group list</title>
+<path fill="none" stroke="black" d="M845.14,-504C776.77,-504 708.73,-504 646.32,-504"/>
+<polygon fill="black" stroke="black" points="645.95,-500.5 635.95,-504 645.95,-507.5 645.95,-500.5"/>
+</g>
+<!-- Times numbers were mentioned -->
+<g id="node9" class="node">
+<title>Times numbers were mentioned</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times numbers were mentioned" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-126" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-122.3" font-family="Times,serif" font-size="14.00">Times numbers were mentioned</text>
+</a>
+</g>
+</g>
+<!-- Times numbers were mentioned&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge8" class="edge">
+<title>Times numbers were mentioned&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M1223.21,-126C1052.64,-126 746.21,-126 549.92,-126"/>
+<polygon fill="black" stroke="black" points="549.78,-122.5 539.78,-126 549.78,-129.5 549.78,-122.5"/>
+</g>
+<!-- Speaking turn features [x4] -->
+<g id="node10" class="node">
+<title>Speaking turn features [x4]</title>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Speaking turn features [x4]" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-828" rx="107.48" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-824.3" font-family="Times,serif" font-size="14.00">Speaking turn features [x4]</text>
+</a>
+</g>
+</g>
+<!-- quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
+<g id="node20" class="node">
+<title>quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-774" rx="365.84" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-770.3" font-family="Times,serif" font-size="14.00">quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</text>
+</g>
+<!-- Speaking turn features [x4]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
+<g id="edge13" class="edge">
+<title>Speaking turn features [x4]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
+<path fill="none" stroke="black" d="M1245.18,-823.84C1129.02,-819.02 934.85,-810.51 767.84,-801 708.41,-797.62 644.07,-793.49 584.69,-789.49"/>
+<polygon fill="black" stroke="black" points="584.65,-785.98 574.43,-788.8 584.17,-792.97 584.65,-785.98"/>
+</g>
+<!-- Times mathematical terms were mentioned -->
+<g id="node11" class="node">
+<title>Times mathematical terms were mentioned</title>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times mathematical terms were mentioned" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-72" rx="165.97" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-68.3" font-family="Times,serif" font-size="14.00">Times mathematical terms were mentioned</text>
+</a>
+</g>
+</g>
+<!-- Times mathematical terms were mentioned&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge9" class="edge">
+<title>Times mathematical terms were mentioned&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M1194.13,-78.31C1077.09,-83.3 912.3,-90.78 767.84,-99 685.51,-103.69 593.75,-109.8 518.81,-115.02"/>
+<polygon fill="black" stroke="black" points="518.55,-111.53 508.82,-115.72 519.03,-118.52 518.55,-111.53"/>
+</g>
+<!-- speech rate -->
+<g id="node12" class="node">
+<title>speech rate</title>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="speech rate" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-882" rx="50.09" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-878.3" font-family="Times,serif" font-size="14.00">speech rate</text>
+</a>
+</g>
+</g>
+<!-- Task Performance -->
+<g id="node21" class="node">
+<title>Task Performance</title>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-882" rx="75.29" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-878.3" font-family="Times,serif" font-size="14.00">Task Performance</text>
+</g>
+<!-- speech rate&#45;&gt;Task Performance -->
+<g id="edge12" class="edge">
+<title>speech rate&#45;&gt;Task Performance</title>
+<path fill="none" stroke="black" d="M1299.18,-882C1141.74,-882 650.15,-882 451.48,-882"/>
+<polygon fill="black" stroke="black" points="451.38,-878.5 441.38,-882 451.38,-885.5 451.38,-878.5"/>
+</g>
+<!-- Times commands were pronounced -->
+<g id="node13" class="node">
+<title>Times commands were pronounced</title>
+<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times commands were pronounced" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-18" rx="137.58" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-14.3" font-family="Times,serif" font-size="14.00">Times commands were pronounced</text>
+</a>
+</g>
+</g>
+<!-- Times commands were pronounced&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge10" class="edge">
+<title>Times commands were pronounced&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M1211.64,-18.48C1093.65,-20.29 918.96,-26.33 767.84,-45 653.62,-59.11 523.33,-87.82 443.1,-106.99"/>
+<polygon fill="black" stroke="black" points="442,-103.65 433.09,-109.39 443.63,-110.46 442,-103.65"/>
+</g>
+<!-- Acoustic features [x13] -->
+<g id="node14" class="node">
+<title>Acoustic features [x13]</title>
+<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Acoustic features [x13]" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-774" rx="93.68" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-770.3" font-family="Times,serif" font-size="14.00">Acoustic features [x13]</text>
+</a>
+</g>
+</g>
+<!-- Acoustic features [x13]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
+<g id="edge14" class="edge">
+<title>Acoustic features [x13]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
+<path fill="none" stroke="black" d="M1255.74,-774C1138.19,-774 928.44,-774 742.22,-774"/>
+<polygon fill="black" stroke="black" points="741.96,-770.5 731.96,-774 741.96,-777.5 741.96,-770.5"/>
+</g>
+<!-- speech features -->
+<g id="node15" class="node">
+<title>speech features</title>
+<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Group%20Performance%20in%20Task-Based%20Interaction" xlink:title="speech features" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-342" rx="64.99" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-338.3" font-family="Times,serif" font-size="14.00">speech features</text>
+</a>
+</g>
+</g>
+<!-- speech features&#45;&gt;group performance scores -->
+<g id="edge4" class="edge">
+<title>speech features&#45;&gt;group performance scores</title>
+<path fill="none" stroke="black" d="M1284.51,-343.76C1120.62,-348.27 684.36,-360.27 478.03,-365.94"/>
+<polygon fill="black" stroke="black" points="477.68,-362.45 467.78,-366.23 477.87,-369.45 477.68,-362.45"/>
+</g>
+<!-- Linguistic features [x300+] -->
+<g id="node16" class="node">
+<title>Linguistic features [x300+]</title>
+<g id="a_node16"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Linguistic features [x300+]" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-720" rx="107.78" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-716.3" font-family="Times,serif" font-size="14.00">Linguistic features [x300+]</text>
+</a>
+</g>
+</g>
+<!-- Linguistic features [x300+]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
+<g id="edge15" class="edge">
+<title>Linguistic features [x300+]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
+<path fill="none" stroke="black" d="M1244.39,-724.19C1128.15,-729.02 934.47,-737.52 767.84,-747 708.41,-750.38 644.07,-754.51 584.69,-758.51"/>
+<polygon fill="black" stroke="black" points="584.17,-755.03 574.43,-759.2 584.65,-762.02 584.17,-755.03"/>
+</g>
+<!-- Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew -->
+<g id="node17" class="node">
+<title>Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew</title>
+<g id="a_node17"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" target="_blank">
+<ellipse fill="none" stroke="black" cx="1349.53" cy="-450" rx="581.9" ry="18"/>
+<text text-anchor="middle" x="1349.53" y="-446.3" font-family="Times,serif" font-size="14.00">Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew</text>
+</a>
+</g>
+</g>
+<!-- Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew&#45;&gt;Group Performance (Negative distance between expert list and group list -->
+<g id="edge3" class="edge">
+<title>Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew&#45;&gt;Group Performance (Negative distance between expert list and group list</title>
+<path fill="none" stroke="black" d="M1008.79,-464.61C929.68,-468.34 845.8,-472.56 767.84,-477 700.18,-480.85 626.14,-485.67 560.31,-490.16"/>
+<polygon fill="black" stroke="black" points="559.98,-486.68 550.24,-490.85 560.45,-493.66 559.98,-486.68"/>
 </g>
 </g>
 </svg>

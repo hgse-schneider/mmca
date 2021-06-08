@@ -9,68 +9,68 @@
 <g id="graph0" class="graph" transform="scale(0.69 0.69) rotate(0) translate(4 148)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-148 1038.31,-148 1038.31,4 -4,4"/>
-<!-- Number of faces looking at screen -->
+<!-- Head motion features [x5] -->
 <g id="node1" class="node">
+<title>Head motion features [x5]</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Head motion features [x5]" target="_blank">
+<ellipse fill="none" stroke="black" cx="901.07" cy="-18" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="901.07" y="-14.3" font-family="Times,serif" font-size="14.00">Head motion features [x5]</text>
+</a>
+</g>
+</g>
+<!-- quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
+<g id="node5" class="node">
+<title>quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-18" rx="365.84" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-14.3" font-family="Times,serif" font-size="14.00">quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</text>
+</g>
+<!-- Head motion features [x5]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
+<g id="edge1" class="edge">
+<title>Head motion features [x5]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
+<path fill="none" stroke="black" d="M796.33,-18C779.49,-18 761.26,-18 742.12,-18"/>
+<polygon fill="black" stroke="black" points="742.03,-14.5 732.03,-18 742.03,-21.5 742.03,-14.5"/>
+</g>
+<!-- Number of faces looking at screen -->
+<g id="node2" class="node">
 <title>Number of faces looking at screen</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Number of faces looking at screen">
-<ellipse fill="none" stroke="black" cx="901.07" cy="-18" rx="133.48" ry="18"/>
-<text text-anchor="middle" x="901.07" y="-14.3" font-family="Times,serif" font-size="14.00">Number of faces looking at screen</text>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Number of faces looking at screen" target="_blank">
+<ellipse fill="none" stroke="black" cx="901.07" cy="-72" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="901.07" y="-68.3" font-family="Times,serif" font-size="14.00">Number of faces looking at screen</text>
 </a>
 </g>
 </g>
 <!-- artefact quality -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>artefact quality</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-18" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-14.3" font-family="Times,serif" font-size="14.00">artefact quality</text>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-72" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-68.3" font-family="Times,serif" font-size="14.00">artefact quality</text>
 </g>
 <!-- Number of faces looking at screen&#45;&gt;artefact quality -->
 <g id="edge2" class="edge">
 <title>Number of faces looking at screen&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M767.6,-18C664.13,-18 524.21,-18 440.04,-18"/>
-<polygon fill="black" stroke="black" points="439.81,-14.5 429.81,-18 439.81,-21.5 439.81,-14.5"/>
+<path fill="none" stroke="black" d="M767.6,-72C664.13,-72 524.21,-72 440.04,-72"/>
+<polygon fill="black" stroke="black" points="439.81,-68.5 429.81,-72 439.81,-75.5 439.81,-68.5"/>
 </g>
 <!-- Faces looking at screen (FLS -->
-<g id="node2" class="node">
+<g id="node3" class="node">
 <title>Faces looking at screen (FLS</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Faces looking at screen (FLS">
-<ellipse fill="none" stroke="black" cx="901.07" cy="-72" rx="114.28" ry="18"/>
-<text text-anchor="middle" x="901.07" y="-68.3" font-family="Times,serif" font-size="14.00">Faces looking at screen (FLS</text>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Faces looking at screen (FLS" target="_blank">
+<ellipse fill="none" stroke="black" cx="901.07" cy="-126" rx="114.28" ry="18"/>
+<text text-anchor="middle" x="901.07" y="-122.3" font-family="Times,serif" font-size="14.00">Faces looking at screen (FLS</text>
 </a>
 </g>
 </g>
 <!-- collaborative problem solving -->
 <g id="node6" class="node">
 <title>collaborative problem solving</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-72" rx="116.98" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-68.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
+<ellipse fill="none" stroke="black" cx="365.92" cy="-126" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="365.92" y="-122.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
 </g>
 <!-- Faces looking at screen (FLS&#45;&gt;collaborative problem solving -->
 <g id="edge3" class="edge">
 <title>Faces looking at screen (FLS&#45;&gt;collaborative problem solving</title>
-<path fill="none" stroke="black" d="M786.68,-72C700.71,-72 582.58,-72 493.53,-72"/>
-<polygon fill="black" stroke="black" points="493.37,-68.5 483.37,-72 493.37,-75.5 493.37,-68.5"/>
-</g>
-<!-- Head motion features [x5] -->
-<g id="node3" class="node">
-<title>Head motion features [x5]</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" xlink:title="Head motion features [x5]">
-<ellipse fill="none" stroke="black" cx="901.07" cy="-126" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="901.07" y="-122.3" font-family="Times,serif" font-size="14.00">Head motion features [x5]</text>
-</a>
-</g>
-</g>
-<!-- quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
-<g id="node4" class="node">
-<title>quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
-<ellipse fill="none" stroke="black" cx="365.92" cy="-126" rx="365.84" ry="18"/>
-<text text-anchor="middle" x="365.92" y="-122.3" font-family="Times,serif" font-size="14.00">quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</text>
-</g>
-<!-- Head motion features [x5]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc -->
-<g id="edge1" class="edge">
-<title>Head motion features [x5]&#45;&gt;quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc</title>
-<path fill="none" stroke="black" d="M796.33,-126C779.49,-126 761.26,-126 742.12,-126"/>
-<polygon fill="black" stroke="black" points="742.03,-122.5 732.03,-126 742.03,-129.5 742.03,-122.5"/>
+<path fill="none" stroke="black" d="M786.68,-126C700.71,-126 582.58,-126 493.53,-126"/>
+<polygon fill="black" stroke="black" points="493.37,-122.5 483.37,-126 493.37,-129.5 493.37,-122.5"/>
 </g>
 </g>
 </svg>

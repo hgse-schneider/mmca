@@ -5,6 +5,6 @@ digraph Test {
 	splines=true
 	{rank=same; "smiling synchrony";}
 	{rank=same; "teams' choice of routine";}
-	"smiling synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20evidence%20of%20interpersonal%20dynamics%20in%20a%20cooperative%20production%20task"]
+	"smiling synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20evidence%20of%20interpersonal%20dynamics%20in%20a%20cooperative%20production%20task" target=_blank]
 	"smiling synchrony" -> "teams' choice of routine"
 }

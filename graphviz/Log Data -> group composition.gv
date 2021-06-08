@@ -3,24 +3,24 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Average stroke path length" "Calculator Use" "Player actions" "zoid acceleration" "Average stroke displacement" "Average number of points" "Average stroke pressure" "Total number of pen strokes" "Average stroke time length";}
+	{rank=same; "Total number of pen strokes" "zoid acceleration" "Player actions" "Calculator Use" "Average stroke path length" "Average stroke displacement" "Average stroke pressure" "Average number of points" "Average stroke time length";}
 	{rank=same; "social context" "Expert prediction";}
-	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Calculator Use" -> "Expert prediction"
-	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Total number of pen strokes" -> "Expert prediction"
-	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average number of points" -> "Expert prediction"
-	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average stroke time length" -> "Expert prediction"
-	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average stroke path length" -> "Expert prediction"
-	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average stroke displacement" -> "Expert prediction"
-	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Average stroke pressure" -> "Expert prediction"
-	"Player actions" [href="https://scholar.google.com/scholar?hl=en&q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris"]
+	"Player actions" [href="https://scholar.google.com/scholar?hl=en&q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris" target=_blank]
 	"Player actions" -> "social context"
-	"zoid acceleration" [href="https://scholar.google.com/scholar?hl=en&q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris"]
+	"zoid acceleration" [href="https://scholar.google.com/scholar?hl=en&q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris" target=_blank]
 	"zoid acceleration" -> "social context"
 }

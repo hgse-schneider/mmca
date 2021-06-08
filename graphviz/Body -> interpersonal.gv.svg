@@ -9,194 +9,194 @@
 <g id="graph0" class="graph" transform="scale(0.95 0.95) rotate(0) translate(4 526)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-526 754.94,-526 754.94,4 -4,4"/>
-<!-- Total movement across upper body joints and body parts -->
+<!-- amount of face and body movement -->
 <g id="node1" class="node">
+<title>amount of face and body movement</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" xlink:title="amount of face and body movement" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-18" rx="139.98" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-14.3" font-family="Times,serif" font-size="14.00">amount of face and body movement</text>
+</a>
+</g>
+</g>
+<!-- subjective perception of collaboration -->
+<g id="node14" class="node">
+<title>subjective perception of collaboration</title>
+<ellipse fill="none" stroke="black" cx="144.29" cy="-18" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="144.29" y="-14.3" font-family="Times,serif" font-size="14.00">subjective perception of collaboration</text>
+</g>
+<!-- amount of face and body movement&#45;&gt;subjective perception of collaboration -->
+<g id="edge3" class="edge">
+<title>amount of face and body movement&#45;&gt;subjective perception of collaboration</title>
+<path fill="none" stroke="black" d="M397.91,-18C365.83,-18 331.52,-18 298.86,-18"/>
+<polygon fill="black" stroke="black" points="298.78,-14.5 288.78,-18 298.78,-21.5 298.78,-14.5"/>
+</g>
+<!-- time spent as a group -->
+<g id="node2" class="node">
+<title>time spent as a group</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" xlink:title="time spent as a group" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-72" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-68.3" font-family="Times,serif" font-size="14.00">time spent as a group</text>
+</a>
+</g>
+</g>
+<!-- social ability -->
+<g id="node17" class="node">
+<title>social ability</title>
+<ellipse fill="none" stroke="black" cx="144.29" cy="-72" rx="55.79" ry="18"/>
+<text text-anchor="middle" x="144.29" y="-68.3" font-family="Times,serif" font-size="14.00">social ability</text>
+</g>
+<!-- time spent as a group&#45;&gt;social ability -->
+<g id="edge4" class="edge">
+<title>time spent as a group&#45;&gt;social ability</title>
+<path fill="none" stroke="black" d="M450.36,-72C378.01,-72 276.32,-72 210.61,-72"/>
+<polygon fill="black" stroke="black" points="210.38,-68.5 200.38,-72 210.38,-75.5 210.38,-68.5"/>
+</g>
+<!-- Total movement across upper body joints and body parts -->
+<g id="node3" class="node">
 <title>Total movement across upper body joints and body parts</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" xlink:title="Total movement across upper body joints and body parts">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-18" rx="213.36" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-14.3" font-family="Times,serif" font-size="14.00">Total movement across upper body joints and body parts</text>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" xlink:title="Total movement across upper body joints and body parts" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-126" rx="213.36" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-122.3" font-family="Times,serif" font-size="14.00">Total movement across upper body joints and body parts</text>
 </a>
 </g>
 </g>
 <!-- collaboration quality -->
-<g id="node15" class="node">
+<g id="node13" class="node">
 <title>collaboration quality</title>
-<ellipse fill="none" stroke="black" cx="144.29" cy="-18" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-14.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
+<ellipse fill="none" stroke="black" cx="144.29" cy="-126" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="144.29" y="-122.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
 </g>
 <!-- Total movement across upper body joints and body parts&#45;&gt;collaboration quality -->
 <g id="edge8" class="edge">
 <title>Total movement across upper body joints and body parts&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M324.41,-18C294.26,-18 264.64,-18 238.44,-18"/>
-<polygon fill="black" stroke="black" points="238.19,-14.5 228.19,-18 238.19,-21.5 238.19,-14.5"/>
+<path fill="none" stroke="black" d="M324.41,-126C294.26,-126 264.64,-126 238.44,-126"/>
+<polygon fill="black" stroke="black" points="238.19,-122.5 228.19,-126 238.19,-129.5 238.19,-122.5"/>
+</g>
+<!-- body pose -->
+<g id="node4" class="node">
+<title>body pose</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Real-time%20mutual%20gaze%20perception" xlink:title="body pose" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-180" rx="46.59" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-176.3" font-family="Times,serif" font-size="14.00">body pose</text>
+</a>
+</g>
+</g>
+<!-- identity of emergent leader -->
+<g id="node12" class="node">
+<title>identity of emergent leader</title>
+<ellipse fill="none" stroke="black" cx="144.29" cy="-180" rx="106.68" ry="18"/>
+<text text-anchor="middle" x="144.29" y="-176.3" font-family="Times,serif" font-size="14.00">identity of emergent leader</text>
+</g>
+<!-- body pose&#45;&gt;identity of emergent leader -->
+<g id="edge2" class="edge">
+<title>body pose&#45;&gt;identity of emergent leader</title>
+<path fill="none" stroke="black" d="M490.7,-180C434.7,-180 338.16,-180 261.36,-180"/>
+<polygon fill="black" stroke="black" points="261.14,-176.5 251.14,-180 261.14,-183.5 261.14,-176.5"/>
 </g>
 <!-- Physical synchrony -->
-<g id="node2" class="node">
+<g id="node5" class="node">
 <title>Physical synchrony</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Physical synchrony">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-180" rx="79.09" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-176.3" font-family="Times,serif" font-size="14.00">Physical synchrony</text>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Physical synchrony" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-342" rx="79.09" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-338.3" font-family="Times,serif" font-size="14.00">Physical synchrony</text>
 </a>
 </g>
 </g>
 <!-- Collaboration -->
-<g id="node17" class="node">
+<g id="node10" class="node">
 <title>Collaboration</title>
-<ellipse fill="none" stroke="black" cx="144.29" cy="-126" rx="59.29" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-122.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
+<ellipse fill="none" stroke="black" cx="144.29" cy="-288" rx="59.29" ry="18"/>
+<text text-anchor="middle" x="144.29" y="-284.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
 </g>
 <!-- Physical synchrony&#45;&gt;Collaboration -->
 <g id="edge7" class="edge">
 <title>Physical synchrony&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M467.42,-171.58C425.94,-166.45 372.21,-159.62 324.57,-153 285.56,-147.58 241.84,-141.01 207.35,-135.7"/>
-<polygon fill="black" stroke="black" points="207.83,-132.24 197.41,-134.17 206.76,-139.15 207.83,-132.24"/>
+<path fill="none" stroke="black" d="M467.42,-333.58C425.94,-328.45 372.21,-321.62 324.57,-315 285.56,-309.58 241.84,-303.01 207.35,-297.7"/>
+<polygon fill="black" stroke="black" points="207.83,-294.24 197.41,-296.17 206.76,-301.15 207.83,-294.24"/>
 </g>
 <!-- Joint movement -->
-<g id="node3" class="node">
+<g id="node6" class="node">
 <title>Joint movement</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint movement">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-126" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-122.3" font-family="Times,serif" font-size="14.00">Joint movement</text>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint movement" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-288" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-284.3" font-family="Times,serif" font-size="14.00">Joint movement</text>
 </a>
 </g>
 </g>
 <!-- Joint movement&#45;&gt;Collaboration -->
 <g id="edge9" class="edge">
 <title>Joint movement&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M469.46,-126C398.1,-126 285.95,-126 214.04,-126"/>
-<polygon fill="black" stroke="black" points="213.73,-122.5 203.73,-126 213.73,-129.5 213.73,-122.5"/>
+<path fill="none" stroke="black" d="M469.46,-288C398.1,-288 285.95,-288 214.04,-288"/>
+<polygon fill="black" stroke="black" points="213.73,-284.5 203.73,-288 213.73,-291.5 213.73,-284.5"/>
 </g>
 <!-- Face and upper body movement -->
-<g id="node4" class="node">
+<g id="node7" class="node">
 <title>Face and upper body movement</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Face and upper body movement">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-234" rx="125.38" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-230.3" font-family="Times,serif" font-size="14.00">Face and upper body movement</text>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Face and upper body movement" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-396" rx="125.38" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-392.3" font-family="Times,serif" font-size="14.00">Face and upper body movement</text>
 </a>
 </g>
 </g>
 <!-- Perceived Collaboration Quality -->
-<g id="node16" class="node">
+<g id="node15" class="node">
 <title>Perceived Collaboration Quality</title>
-<ellipse fill="none" stroke="black" cx="144.29" cy="-234" rx="124.58" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-230.3" font-family="Times,serif" font-size="14.00">Perceived Collaboration Quality</text>
+<ellipse fill="none" stroke="black" cx="144.29" cy="-396" rx="124.58" ry="18"/>
+<text text-anchor="middle" x="144.29" y="-392.3" font-family="Times,serif" font-size="14.00">Perceived Collaboration Quality</text>
 </g>
 <!-- Face and upper body movement&#45;&gt;Perceived Collaboration Quality -->
 <g id="edge1" class="edge">
 <title>Face and upper body movement&#45;&gt;Perceived Collaboration Quality</title>
-<path fill="none" stroke="black" d="M412.09,-234C369.81,-234 322.43,-234 279.45,-234"/>
-<polygon fill="black" stroke="black" points="279.2,-230.5 269.2,-234 279.2,-237.5 279.2,-230.5"/>
-</g>
-<!-- body synchronization -->
-<g id="node5" class="node">
-<title>body synchronization</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Body%20synchrony%20in%20triadic%20interaction" xlink:title="body synchronization">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-315" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-311.3" font-family="Times,serif" font-size="14.00">body synchronization</text>
-</a>
-</g>
-</g>
-<!-- cooperation -->
-<g id="node11" class="node">
-<title>cooperation</title>
-<ellipse fill="none" stroke="black" cx="144.29" cy="-342" rx="51.99" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-338.3" font-family="Times,serif" font-size="14.00">cooperation</text>
-</g>
-<!-- body synchronization&#45;&gt;cooperation -->
-<g id="edge5" class="edge">
-<title>body synchronization&#45;&gt;cooperation</title>
-<path fill="none" stroke="black" d="M454.69,-320.66C380.31,-325.79 272.42,-333.23 205.67,-337.84"/>
-<polygon fill="black" stroke="black" points="205.06,-334.37 195.32,-338.55 205.54,-341.35 205.06,-334.37"/>
-</g>
-<!-- colaughter -->
-<g id="node14" class="node">
-<title>colaughter</title>
-<ellipse fill="none" stroke="black" cx="144.29" cy="-288" rx="48.19" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-284.3" font-family="Times,serif" font-size="14.00">colaughter</text>
-</g>
-<!-- body synchronization&#45;&gt;colaughter -->
-<g id="edge6" class="edge">
-<title>body synchronization&#45;&gt;colaughter</title>
-<path fill="none" stroke="black" d="M454.69,-309.34C378.93,-304.11 268.4,-296.49 201.99,-291.91"/>
-<polygon fill="black" stroke="black" points="201.94,-288.4 191.72,-291.2 201.46,-295.38 201.94,-288.4"/>
-</g>
-<!-- time spent as a group -->
-<g id="node6" class="node">
-<title>time spent as a group</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" xlink:title="time spent as a group">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-396" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-392.3" font-family="Times,serif" font-size="14.00">time spent as a group</text>
-</a>
-</g>
-</g>
-<!-- social ability -->
-<g id="node13" class="node">
-<title>social ability</title>
-<ellipse fill="none" stroke="black" cx="144.29" cy="-396" rx="55.79" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-392.3" font-family="Times,serif" font-size="14.00">social ability</text>
-</g>
-<!-- time spent as a group&#45;&gt;social ability -->
-<g id="edge4" class="edge">
-<title>time spent as a group&#45;&gt;social ability</title>
-<path fill="none" stroke="black" d="M450.36,-396C378.01,-396 276.32,-396 210.61,-396"/>
-<polygon fill="black" stroke="black" points="210.38,-392.5 200.38,-396 210.38,-399.5 210.38,-392.5"/>
+<path fill="none" stroke="black" d="M412.09,-396C369.81,-396 322.43,-396 279.45,-396"/>
+<polygon fill="black" stroke="black" points="279.2,-392.5 269.2,-396 279.2,-399.5 279.2,-392.5"/>
 </g>
 <!-- dyad proximity -->
-<g id="node7" class="node">
+<g id="node8" class="node">
 <title>dyad proximity</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="dyad proximity">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-72" rx="65.79" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-68.3" font-family="Times,serif" font-size="14.00">dyad proximity</text>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="dyad proximity" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-234" rx="65.79" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-230.3" font-family="Times,serif" font-size="14.00">dyad proximity</text>
 </a>
 </g>
 </g>
 <!-- dyad proximity&#45;&gt;Collaboration -->
 <g id="edge10" class="edge">
 <title>dyad proximity&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M477.26,-79.2C434.7,-84.44 376.07,-91.85 324.57,-99 285.56,-104.42 241.84,-110.99 207.35,-116.3"/>
-<polygon fill="black" stroke="black" points="206.76,-112.85 197.41,-117.83 207.83,-119.76 206.76,-112.85"/>
+<path fill="none" stroke="black" d="M477.26,-241.2C434.7,-246.44 376.07,-253.85 324.57,-261 285.56,-266.42 241.84,-272.99 207.35,-278.3"/>
+<polygon fill="black" stroke="black" points="206.76,-274.85 197.41,-279.83 207.83,-281.76 206.76,-274.85"/>
 </g>
-<!-- body pose -->
-<g id="node8" class="node">
-<title>body pose</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Real-time%20mutual%20gaze%20perception" xlink:title="body pose">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-450" rx="46.59" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-446.3" font-family="Times,serif" font-size="14.00">body pose</text>
-</a>
-</g>
-</g>
-<!-- identity of emergent leader -->
-<g id="node10" class="node">
-<title>identity of emergent leader</title>
-<ellipse fill="none" stroke="black" cx="144.29" cy="-450" rx="106.68" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-446.3" font-family="Times,serif" font-size="14.00">identity of emergent leader</text>
-</g>
-<!-- body pose&#45;&gt;identity of emergent leader -->
-<g id="edge2" class="edge">
-<title>body pose&#45;&gt;identity of emergent leader</title>
-<path fill="none" stroke="black" d="M490.7,-450C434.7,-450 338.16,-450 261.36,-450"/>
-<polygon fill="black" stroke="black" points="261.14,-446.5 251.14,-450 261.14,-453.5 261.14,-446.5"/>
-</g>
-<!-- amount of face and body movement -->
+<!-- body synchronization -->
 <g id="node9" class="node">
-<title>amount of face and body movement</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" xlink:title="amount of face and body movement">
-<ellipse fill="none" stroke="black" cx="537.76" cy="-504" rx="139.98" ry="18"/>
-<text text-anchor="middle" x="537.76" y="-500.3" font-family="Times,serif" font-size="14.00">amount of face and body movement</text>
+<title>body synchronization</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Body%20synchrony%20in%20triadic%20interaction" xlink:title="body synchronization" target="_blank">
+<ellipse fill="none" stroke="black" cx="537.76" cy="-477" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="537.76" y="-473.3" font-family="Times,serif" font-size="14.00">body synchronization</text>
 </a>
 </g>
 </g>
-<!-- subjective perception of collaboration -->
-<g id="node12" class="node">
-<title>subjective perception of collaboration</title>
-<ellipse fill="none" stroke="black" cx="144.29" cy="-504" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-500.3" font-family="Times,serif" font-size="14.00">subjective perception of collaboration</text>
+<!-- colaughter -->
+<g id="node11" class="node">
+<title>colaughter</title>
+<ellipse fill="none" stroke="black" cx="144.29" cy="-504" rx="48.19" ry="18"/>
+<text text-anchor="middle" x="144.29" y="-500.3" font-family="Times,serif" font-size="14.00">colaughter</text>
 </g>
-<!-- amount of face and body movement&#45;&gt;subjective perception of collaboration -->
-<g id="edge3" class="edge">
-<title>amount of face and body movement&#45;&gt;subjective perception of collaboration</title>
-<path fill="none" stroke="black" d="M397.91,-504C365.83,-504 331.52,-504 298.86,-504"/>
-<polygon fill="black" stroke="black" points="298.78,-500.5 288.78,-504 298.78,-507.5 298.78,-500.5"/>
+<!-- body synchronization&#45;&gt;colaughter -->
+<g id="edge6" class="edge">
+<title>body synchronization&#45;&gt;colaughter</title>
+<path fill="none" stroke="black" d="M454.69,-482.66C378.93,-487.89 268.4,-495.51 201.99,-500.09"/>
+<polygon fill="black" stroke="black" points="201.46,-496.62 191.72,-500.8 201.94,-503.6 201.46,-496.62"/>
+</g>
+<!-- cooperation -->
+<g id="node16" class="node">
+<title>cooperation</title>
+<ellipse fill="none" stroke="black" cx="144.29" cy="-450" rx="51.99" ry="18"/>
+<text text-anchor="middle" x="144.29" y="-446.3" font-family="Times,serif" font-size="14.00">cooperation</text>
+</g>
+<!-- body synchronization&#45;&gt;cooperation -->
+<g id="edge5" class="edge">
+<title>body synchronization&#45;&gt;cooperation</title>
+<path fill="none" stroke="black" d="M454.69,-471.34C380.31,-466.21 272.42,-458.77 205.67,-454.16"/>
+<polygon fill="black" stroke="black" points="205.54,-450.65 195.32,-453.45 205.06,-457.63 205.54,-450.65"/>
 </g>
 </g>
 </svg>

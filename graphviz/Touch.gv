@@ -6,17 +6,17 @@ digraph world {
         edge [fontname = "helvetica", colorscheme=set28];
 
 	"Touch" [href="index.svg"];
-	"Sequences of meaningful actions" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" target="_blank" , color="3"];
-	"Touch patterns" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Collaboration%20Patterns%20on%20an%20Interactive%20Tabletop%20in%20a%20Classroom%20Setting" target="_blank" , color="3"];
-	"total number of touch actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="3"];
-	"symmetry of touch actions among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="3"];
-	"Sequences of meaningful actions" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" target="_blank" , color="3"];
-	"Sequences of meaningful actions" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" target="_blank" , color="3"];
-	"Touch patterns" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Collaboration%20Patterns%20on%20an%20Interactive%20Tabletop%20in%20a%20Classroom%20Setting" target="_blank" , color="3"];
-	"total number of touch actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="3"];
-	"total number of touch actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="3"];
-	"symmetry of touch actions among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="3"];
-	"symmetry of touch actions among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="3"];
+	"Sequences of meaningful actions" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" target="_blank" , color="2"];
+	"Touch patterns" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Collaboration%20Patterns%20on%20an%20Interactive%20Tabletop%20in%20a%20Classroom%20Setting" target="_blank" , color="2"];
+	"total number of touch actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="2"];
+	"symmetry of touch actions among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="2"];
+	"Sequences of meaningful actions" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" target="_blank" , color="2"];
+	"Sequences of meaningful actions" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" target="_blank" , color="2"];
+	"Touch patterns" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Collaboration%20Patterns%20on%20an%20Interactive%20Tabletop%20in%20a%20Classroom%20Setting" target="_blank" , color="2"];
+	"total number of touch actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="2"];
+	"total number of touch actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="2"];
+	"symmetry of touch actions among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="2"];
+	"symmetry of touch actions among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target="_blank" , color="2"];
 	"Sequences of meaningful actions" -> "Touch" [label="clust", labeltooltip=3, style="solid", penwidth=3];
 	"Touch patterns" -> "Touch" [label="", labeltooltip=2, style="solid", penwidth=2];
 	"total number of touch actions" -> "Touch" [label="ml", labeltooltip=3, style="solid", penwidth=3];

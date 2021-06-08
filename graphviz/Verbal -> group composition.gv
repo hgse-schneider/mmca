@@ -3,74 +3,74 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Total speech duration" "average duration of vocalisation" "peak slope" "Times commands were pronounced" "Speaking status" "speaking turn duration / number" "probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" "6 One Vs All Features" "Number of interventions" "Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" "Times numbers were mentioned" "spectral stationarity" "Articulation rate" "uncertainty in the transitions (turn taking" "Times mathematical terms were mentioned" "Pitch" "audio energy features" "duration of all vocalisations" "probability of transitioning from a speaker vocalisation to a group vocalisation" "speaking time % per individual" "Energy" "probability of transitioning from a group vocalisation to speaker vocalisation" "Pause duration" "Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" "interruption" "standard deviation of vocalisation" "Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" "probability of a transition from a vocalisation to floor" "(non" "speech utterances";}
-	{rank=same; "Leadership" "Big Five personality traits scores" "Visual Dominance Ratio" "Expertise" "extraversion rating" "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience" "Emerging leadership" "Expert prediction" "identity of the expert" "Personality Traits";}
-	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	{rank=same; "Total speech duration" "standard deviation of vocalisation" "Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" "speech utterances" "Times numbers were mentioned" "average duration of vocalisation" "Times mathematical terms were mentioned" "probability of a transition from a vocalisation to floor" "Pause duration" "Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" "duration of all vocalisations" "interruption" "audio energy features" "Number of interventions" "Speaking status" "probability of transitioning from a group vocalisation to speaker vocalisation" "probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" "spectral stationarity" "speaking turn duration / number" "Articulation rate" "(non" "peak slope" "probability of transitioning from a speaker vocalisation to a group vocalisation" "Pitch" "speaking time % per individual" "Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" "Energy" "uncertainty in the transitions (turn taking" "6 One Vs All Features" "Times commands were pronounced";}
+	{rank=same; "Personality Traits" "identity of the expert" "Visual Dominance Ratio" "Emerging leadership" "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience" "Expertise" "Big Five personality traits scores" "Leadership" "Expert prediction" "extraversion rating";}
+	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
-	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
-	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
-	"Number of interventions" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Number of interventions" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Number of interventions" -> "Expert prediction"
-	"Total speech duration" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Total speech duration" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Total speech duration" -> "Expert prediction"
-	"Times numbers were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Times numbers were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Times numbers were mentioned" -> "Expert prediction"
-	"Times mathematical terms were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Times mathematical terms were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Times mathematical terms were mentioned" -> "Expert prediction"
-	"Times commands were pronounced" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Times commands were pronounced" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Times commands were pronounced" -> "Expert prediction"
-	"Speaking status" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
+	"Speaking status" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" target=_blank]
 	"Speaking status" -> "Big Five personality traits scores"
-	Pitch [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
+	Pitch [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" target=_blank]
 	Pitch -> "Big Five personality traits scores"
-	Energy [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
+	Energy [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" target=_blank]
 	Energy -> "Big Five personality traits scores"
-	"duration of all vocalisations" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"duration of all vocalisations" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"duration of all vocalisations" -> "identity of the expert"
-	"average duration of vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"average duration of vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"average duration of vocalisation" -> "identity of the expert"
-	"standard deviation of vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"standard deviation of vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"standard deviation of vocalisation" -> "identity of the expert"
-	"probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" -> "identity of the expert"
-	"probability of a transition from a vocalisation to floor" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"probability of a transition from a vocalisation to floor" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"probability of a transition from a vocalisation to floor" -> "identity of the expert"
-	"probability of transitioning from a group vocalisation to speaker vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"probability of transitioning from a group vocalisation to speaker vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"probability of transitioning from a group vocalisation to speaker vocalisation" -> "identity of the expert"
-	"probability of transitioning from a speaker vocalisation to a group vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"probability of transitioning from a speaker vocalisation to a group vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"probability of transitioning from a speaker vocalisation to a group vocalisation" -> "identity of the expert"
-	"uncertainty in the transitions (turn taking" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"uncertainty in the transitions (turn taking" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"uncertainty in the transitions (turn taking" -> "identity of the expert"
-	"6 One Vs All Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories"]
+	"6 One Vs All Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories" target=_blank]
 	"6 One Vs All Features" -> "Personality Traits"
-	"audio energy features" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20Automatic%20Dominance%20Estimation%20in%20Groups%20From%20Visual%20Attention%20and%20Speaking%20Activity"]
+	"audio energy features" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20Automatic%20Dominance%20Estimation%20in%20Groups%20From%20Visual%20Attention%20and%20Speaking%20Activity" target=_blank]
 	"audio energy features" -> "Visual Dominance Ratio"
-	"speech utterances" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Interlocutor-Modulated%20Attention%20BLSTM%20to%20Predict%20Personality%20Traits%20in%20Small%20Group%20Interaction"]
+	"speech utterances" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Interlocutor-Modulated%20Attention%20BLSTM%20to%20Predict%20Personality%20Traits%20in%20Small%20Group%20Interaction" target=_blank]
 	"speech utterances" -> "Personality Traits"
-	"Pause duration" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
+	"Pause duration" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" target=_blank]
 	"Pause duration" -> Leadership
-	"Articulation rate" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
+	"Articulation rate" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" target=_blank]
 	"Articulation rate" -> Leadership
-	"peak slope" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
+	"peak slope" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" target=_blank]
 	"peak slope" -> Leadership
-	"spectral stationarity" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
+	"spectral stationarity" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" target=_blank]
 	"spectral stationarity" -> Leadership
-	"peak slope" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
+	"peak slope" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" target=_blank]
 	"peak slope" -> Expertise
-	"Articulation rate" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
+	"Articulation rate" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" target=_blank]
 	"Articulation rate" -> Expertise
-	"Pause duration" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
+	"Pause duration" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" target=_blank]
 	"Pause duration" -> Expertise
-	"spectral stationarity" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
+	"spectral stationarity" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" target=_blank]
 	"spectral stationarity" -> Expertise
-	"(non" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose"]
+	"(non" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose" target=_blank]
 	"(non" -> "Emerging leadership"
-	"speaking turn duration / number" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose"]
+	"speaking turn duration / number" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose" target=_blank]
 	"speaking turn duration / number" -> "Emerging leadership"
-	interruption [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose"]
+	interruption [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose" target=_blank]
 	interruption -> "Emerging leadership"
-	"speaking time % per individual" [href="https://scholar.google.com/scholar?hl=en&q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait"]
+	"speaking time % per individual" [href="https://scholar.google.com/scholar?hl=en&q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait" target=_blank]
 	"speaking time % per individual" -> "extraversion rating"
 }

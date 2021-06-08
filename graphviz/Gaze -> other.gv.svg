@@ -12,14 +12,14 @@
 <!-- Joint visual attention -->
 <g id="node1" class="node">
 <title>Joint visual attention</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Joint visual attention">
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Joint visual attention" target="_blank">
 <ellipse fill="none" stroke="black" cx="279.08" cy="-18" rx="84.49" ry="18"/>
 <text text-anchor="middle" x="279.08" y="-14.3" font-family="Times,serif" font-size="14.00">Joint visual attention</text>
 </a>
 </g>
 </g>
 <!-- Coh&#45;metrix indices -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>Coh&#45;metrix indices</title>
 <ellipse fill="none" stroke="black" cx="79.29" cy="-18" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="79.29" y="-14.3" font-family="Times,serif" font-size="14.00">Coh&#45;metrix indices</text>
@@ -33,14 +33,14 @@
 <!-- shared gaze -->
 <g id="node2" class="node">
 <title>shared gaze</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" xlink:title="shared gaze">
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" xlink:title="shared gaze" target="_blank">
 <ellipse fill="none" stroke="black" cx="279.08" cy="-72" rx="51.99" ry="18"/>
 <text text-anchor="middle" x="279.08" y="-68.3" font-family="Times,serif" font-size="14.00">shared gaze</text>
 </a>
 </g>
 </g>
 <!-- gaze overlap -->
-<g id="node3" class="node">
+<g id="node4" class="node">
 <title>gaze overlap</title>
 <ellipse fill="none" stroke="black" cx="79.29" cy="-72" rx="55.79" ry="18"/>
 <text text-anchor="middle" x="79.29" y="-68.3" font-family="Times,serif" font-size="14.00">gaze overlap</text>

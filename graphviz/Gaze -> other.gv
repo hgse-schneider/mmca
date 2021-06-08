@@ -4,9 +4,9 @@ digraph Test {
 	overlap=false
 	splines=true
 	{rank=same; "Joint visual attention" "shared gaze";}
-	{rank=same; "gaze overlap" "Coh-metrix indices";}
-	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
+	{rank=same; "Coh-metrix indices" "gaze overlap";}
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" target=_blank]
 	"Joint visual attention" -> "Coh-metrix indices"
-	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations"]
+	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" target=_blank]
 	"shared gaze" -> "gaze overlap"
 }

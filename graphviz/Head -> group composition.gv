@@ -3,12 +3,12 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Head motion" "22 Intra-Personal Features" "9 Dyadic Features";}
-	{rank=same; "Big Five personality traits scores" "Personality Traits";}
-	"Head motion" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
+	{rank=same; "9 Dyadic Features" "Head motion" "22 Intra-Personal Features";}
+	{rank=same; "Personality Traits" "Big Five personality traits scores";}
+	"Head motion" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" target=_blank]
 	"Head motion" -> "Big Five personality traits scores"
-	"22 Intra-Personal Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories"]
+	"22 Intra-Personal Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories" target=_blank]
 	"22 Intra-Personal Features" -> "Personality Traits"
-	"9 Dyadic Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories"]
+	"9 Dyadic Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories" target=_blank]
 	"9 Dyadic Features" -> "Personality Traits"
 }

@@ -3,26 +3,26 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Total movement across upper body joints and body parts" "Physical synchrony" "Joint movement" "Face and upper body movement" "body synchronization" "time spent as a group" "dyad proximity" "body pose" "amount of face and body movement";}
-	{rank=same; "identity of emergent leader" "cooperation" "subjective perception of collaboration" "social ability" "colaughter" "collaboration quality" "Perceived Collaboration Quality" "Collaboration";}
-	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
+	{rank=same; "amount of face and body movement" "time spent as a group" "Total movement across upper body joints and body parts" "body pose" "Physical synchrony" "Joint movement" "Face and upper body movement" "dyad proximity" "body synchronization";}
+	{rank=same; "Collaboration" "colaughter" "identity of emergent leader" "collaboration quality" "subjective perception of collaboration" "Perceived Collaboration Quality" "cooperation" "social ability";}
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" target=_blank]
 	"Face and upper body movement" -> "Perceived Collaboration Quality"
-	"body pose" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception"]
+	"body pose" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception" target=_blank]
 	"body pose" -> "identity of emergent leader"
-	"amount of face and body movement" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
+	"amount of face and body movement" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" target=_blank]
 	"amount of face and body movement" -> "subjective perception of collaboration"
-	"time spent as a group" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs"]
+	"time spent as a group" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" target=_blank]
 	"time spent as a group" -> "social ability"
-	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction"]
+	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction" target=_blank]
 	"body synchronization" -> cooperation
-	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction"]
+	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction" target=_blank]
 	"body synchronization" -> colaughter
-	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
+	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" target=_blank]
 	"Physical synchrony" -> Collaboration
-	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads"]
+	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" target=_blank]
 	"Total movement across upper body joints and body parts" -> "collaboration quality"
-	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
+	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" target=_blank]
 	"Joint movement" -> Collaboration
-	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
+	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" target=_blank]
 	"dyad proximity" -> Collaboration
 }

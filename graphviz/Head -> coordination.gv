@@ -3,10 +3,10 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Faces looking at screen (FLS" "head orientation";}
+	{rank=same; "head orientation" "Faces looking at screen (FLS";}
 	{rank=same; "Agreement" "collaborative problem solving";}
-	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features"]
+	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" target=_blank]
 	"Faces looking at screen (FLS" -> "collaborative problem solving"
-	"head orientation" [href="https://scholar.google.com/scholar?hl=en&q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings"]
+	"head orientation" [href="https://scholar.google.com/scholar?hl=en&q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings" target=_blank]
 	"head orientation" -> Agreement
 }

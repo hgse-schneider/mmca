@@ -3,22 +3,22 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "DA - EDA" "SM - EDA" "IDM - EDA" "Physiological synchrony" "SM - HR" "CC - EDA" "IDM - HR" "WC - EDA";}
-	{rank=same; "Technology trustworthiness" "Coh-metrix indices";}
-	"Physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
+	{rank=same; "IDM - HR" "IDM - EDA" "CC - EDA" "WC - EDA" "SM - EDA" "Physiological synchrony" "SM - HR" "DA - EDA";}
+	{rank=same; "Coh-metrix indices" "Technology trustworthiness";}
+	"Physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" target=_blank]
 	"Physiological synchrony" -> "Coh-metrix indices"
-	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"SM - EDA" -> "Technology trustworthiness"
-	"IDM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"IDM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"IDM - EDA" -> "Technology trustworthiness"
-	"DA - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"DA - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"DA - EDA" -> "Technology trustworthiness"
-	"CC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"CC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"CC - EDA" -> "Technology trustworthiness"
-	"WC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"WC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"WC - EDA" -> "Technology trustworthiness"
-	"SM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"SM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"SM - HR" -> "Technology trustworthiness"
-	"IDM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"IDM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"IDM - HR" -> "Technology trustworthiness"
 }

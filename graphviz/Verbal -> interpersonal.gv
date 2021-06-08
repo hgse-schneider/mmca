@@ -3,80 +3,80 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "speech time and frequency" "speech time" "102 extended GeMAPs acoustic features" "coherence" "6 One Vs All Features" "Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" "Proximity" "non-verbal speaking metrics (speaking length, interruptions, etc" "Synchrony" "symmetry of speech among group" "Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" "linguistic features from transcript (65 features" "12 MFCCs" "voice features (4 features" "1582 audio features (from Emobase" "thousands of features prosodic speech" "speech rate" "verbal dominance and information metrics [9 metrics]" "Sequences of verbal utterances" "talking time" "Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" "Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" "88 GeMAPS acoustic features" "35 Coh-metrix indices" "Convergence";}
-	{rank=same; "perception of peer helpfulness" "collaboration quality" "Perception of leadership and dominance from external observers" "Colloboration quality" "Joint Visual Attention" "perception of peer understanding" "Leadership perceived" "Perceived Collaboration Quality" "Unvoiced Laughter" "Collaboration" "perception of peer clarity" "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking" "collaboration" "Social Impressions" "Ranked dominance" "Speech Laughter" "rapport level" "Contribution perceived" "Voiced Laughter";}
-	"verbal dominance and information metrics [9 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis"]
+	{rank=same; "linguistic features from transcript (65 features" "Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" "symmetry of speech among group" "Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" "102 extended GeMAPs acoustic features" "speech rate" "1582 audio features (from Emobase" "Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" "Synchrony" "35 Coh-metrix indices" "coherence" "non-verbal speaking metrics (speaking length, interruptions, etc" "88 GeMAPS acoustic features" "verbal dominance and information metrics [9 metrics]" "talking time" "speech time and frequency" "thousands of features prosodic speech" "speech time" "Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" "Convergence" "Sequences of verbal utterances" "6 One Vs All Features" "voice features (4 features" "Proximity" "12 MFCCs";}
+	{rank=same; "Voiced Laughter" "collaboration" "perception of peer helpfulness" "perception of peer clarity" "perception of peer understanding" "Joint Visual Attention" "Speech Laughter" "Unvoiced Laughter" "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking" "Ranked dominance" "Social Impressions" "Colloboration quality" "Contribution perceived" "Collaboration" "Perception of leadership and dominance from external observers" "collaboration quality" "Leadership perceived" "Perceived Collaboration Quality" "rapport level";}
+	"verbal dominance and information metrics [9 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis" target=_blank]
 	"verbal dominance and information metrics [9 metrics]" -> "Leadership perceived"
-	"verbal dominance and information metrics [9 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis"]
+	"verbal dominance and information metrics [9 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis" target=_blank]
 	"verbal dominance and information metrics [9 metrics]" -> "Contribution perceived"
-	"non-verbal speaking metrics (speaking length, interruptions, etc" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis"]
+	"non-verbal speaking metrics (speaking length, interruptions, etc" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis" target=_blank]
 	"non-verbal speaking metrics (speaking length, interruptions, etc" -> "Leadership perceived"
-	"non-verbal speaking metrics (speaking length, interruptions, etc" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis"]
+	"non-verbal speaking metrics (speaking length, interruptions, etc" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis" target=_blank]
 	"non-verbal speaking metrics (speaking length, interruptions, etc" -> "Contribution perceived"
-	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" -> "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking"
-	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" -> "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking"
-	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" -> "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking"
-	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
+	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals" target=_blank]
 	"88 GeMAPS acoustic features" -> "Voiced Laughter"
-	"102 extended GeMAPs acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
+	"102 extended GeMAPs acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals" target=_blank]
 	"102 extended GeMAPs acoustic features" -> "Voiced Laughter"
-	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
+	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals" target=_blank]
 	"12 MFCCs" -> "Voiced Laughter"
-	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
+	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals" target=_blank]
 	"88 GeMAPS acoustic features" -> "Unvoiced Laughter"
-	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
+	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals" target=_blank]
 	"12 MFCCs" -> "Unvoiced Laughter"
-	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
+	"88 GeMAPS acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals" target=_blank]
 	"88 GeMAPS acoustic features" -> "Speech Laughter"
-	"102 extended GeMAPs acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
+	"102 extended GeMAPs acoustic features" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals" target=_blank]
 	"102 extended GeMAPs acoustic features" -> "Speech Laughter"
-	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
+	"12 MFCCs" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals" target=_blank]
 	"12 MFCCs" -> "Speech Laughter"
-	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
+	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" target=_blank]
 	"speech rate" -> "Perceived Collaboration Quality"
-	Proximity [href="https://scholar.google.com/scholar?hl=en&q=Acoustic-Prosodic%20Entrainment%20and%20Rapport%20in%20Collaborative%20Learning%20Dialogues"]
+	Proximity [href="https://scholar.google.com/scholar?hl=en&q=Acoustic-Prosodic%20Entrainment%20and%20Rapport%20in%20Collaborative%20Learning%20Dialogues" target=_blank]
 	Proximity -> "rapport level"
-	Convergence [href="https://scholar.google.com/scholar?hl=en&q=Acoustic-Prosodic%20Entrainment%20and%20Rapport%20in%20Collaborative%20Learning%20Dialogues"]
+	Convergence [href="https://scholar.google.com/scholar?hl=en&q=Acoustic-Prosodic%20Entrainment%20and%20Rapport%20in%20Collaborative%20Learning%20Dialogues" target=_blank]
 	Convergence -> "rapport level"
-	Synchrony [href="https://scholar.google.com/scholar?hl=en&q=Acoustic-Prosodic%20Entrainment%20and%20Rapport%20in%20Collaborative%20Learning%20Dialogues"]
+	Synchrony [href="https://scholar.google.com/scholar?hl=en&q=Acoustic-Prosodic%20Entrainment%20and%20Rapport%20in%20Collaborative%20Learning%20Dialogues" target=_blank]
 	Synchrony -> "rapport level"
-	"6 One Vs All Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories"]
+	"6 One Vs All Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories" target=_blank]
 	"6 One Vs All Features" -> "Social Impressions"
-	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" [href="https://scholar.google.com/scholar?hl=en&q=Emergent%20leaders%20through%20looking%20and%20speaking:%20from%20audio-visual%20data%20to%20multimodal%20recognition"]
+	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" [href="https://scholar.google.com/scholar?hl=en&q=Emergent%20leaders%20through%20looking%20and%20speaking:%20from%20audio-visual%20data%20to%20multimodal%20recognition" target=_blank]
 	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" -> "Perception of leadership and dominance from external observers"
-	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" [href="https://scholar.google.com/scholar?hl=en&q=Emergent%20leaders%20through%20looking%20and%20speaking:%20from%20audio-visual%20data%20to%20multimodal%20recognition"]
+	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" [href="https://scholar.google.com/scholar?hl=en&q=Emergent%20leaders%20through%20looking%20and%20speaking:%20from%20audio-visual%20data%20to%20multimodal%20recognition" target=_blank]
 	"Speaking Activity (Speaking length, Speaking turns, Speaking interruptions, Average speaking turn duration" -> "Ranked dominance"
-	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
+	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results" target=_blank]
 	"linguistic features from transcript (65 features" -> "perception of peer helpfulness"
-	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
+	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results" target=_blank]
 	"voice features (4 features" -> "perception of peer helpfulness"
-	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
+	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results" target=_blank]
 	"linguistic features from transcript (65 features" -> "perception of peer understanding"
-	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
+	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results" target=_blank]
 	"voice features (4 features" -> "perception of peer understanding"
-	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
+	"linguistic features from transcript (65 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results" target=_blank]
 	"linguistic features from transcript (65 features" -> "perception of peer clarity"
-	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
+	"voice features (4 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results" target=_blank]
 	"voice features (4 features" -> "perception of peer clarity"
-	"Sequences of verbal utterances" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop"]
+	"Sequences of verbal utterances" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" target=_blank]
 	"Sequences of verbal utterances" -> "Colloboration quality"
-	"1582 audio features (from Emobase" [href="https://scholar.google.com/scholar?hl=en&q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features"]
+	"1582 audio features (from Emobase" [href="https://scholar.google.com/scholar?hl=en&q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" target=_blank]
 	"1582 audio features (from Emobase" -> collaboration
-	coherence [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?"]
+	coherence [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" target=_blank]
 	coherence -> "Joint Visual Attention"
-	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
+	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" target=_blank]
 	"35 Coh-metrix indices" -> Collaboration
-	"talking time" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads"]
+	"talking time" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" target=_blank]
 	"talking time" -> "collaboration quality"
-	"speech time and frequency" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop"]
+	"speech time and frequency" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target=_blank]
 	"speech time and frequency" -> Collaboration
-	"symmetry of speech among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop"]
+	"symmetry of speech among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target=_blank]
 	"symmetry of speech among group" -> Collaboration
-	"speech time" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration"]
+	"speech time" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" target=_blank]
 	"speech time" -> "collaboration quality"
-	"thousands of features prosodic speech" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration"]
+	"thousands of features prosodic speech" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" target=_blank]
 	"thousands of features prosodic speech" -> "collaboration quality"
 }

@@ -9,260 +9,260 @@
 <g id="graph0" class="graph" transform="scale(0.92 0.92) rotate(0) translate(4 742)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-742 780.93,-742 780.93,4 -4,4"/>
-<!-- Joint visual attention -->
+<!-- joint visual attention -->
 <g id="node1" class="node">
-<title>Joint visual attention</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="Joint visual attention">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-18" rx="84.49" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-14.3" font-family="Times,serif" font-size="14.00">Joint visual attention</text>
-</a>
-</g>
-</g>
-<!-- Quality of Collaboration -->
-<g id="node14" class="node">
-<title>Quality of Collaboration</title>
-<ellipse fill="none" stroke="black" cx="131.94" cy="-18" rx="97.48" ry="18"/>
-<text text-anchor="middle" x="131.94" y="-14.3" font-family="Times,serif" font-size="14.00">Quality of Collaboration</text>
-</g>
-<!-- Joint visual attention&#45;&gt;Quality of Collaboration -->
-<g id="edge4" class="edge">
-<title>Joint visual attention&#45;&gt;Quality of Collaboration</title>
-<path fill="none" stroke="black" d="M457.5,-12.5C393.53,-11 303.42,-10.85 234.37,-12.06"/>
-<polygon fill="black" stroke="black" points="234.27,-8.56 224.34,-12.25 234.4,-15.56 234.27,-8.56"/>
-</g>
-<!-- Joint visual attention&#45;&gt;Quality of Collaboration -->
-<g id="edge5" class="edge">
-<title>Joint visual attention&#45;&gt;Quality of Collaboration</title>
-<path fill="none" stroke="black" d="M457.5,-23.5C393.53,-25 303.42,-25.15 234.37,-23.94"/>
-<polygon fill="black" stroke="black" points="234.4,-20.44 224.34,-23.75 234.27,-27.44 234.4,-20.44"/>
-</g>
-<!-- Cross&#45;Recurrence Quantification Analysis (CRQA -->
-<g id="node2" class="node">
-<title>Cross&#45;Recurrence Quantification Analysis (CRQA</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" xlink:title="Cross&#45;Recurrence Quantification Analysis (CRQA">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-72" rx="188.47" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-68.3" font-family="Times,serif" font-size="14.00">Cross&#45;Recurrence Quantification Analysis (CRQA</text>
-</a>
-</g>
-</g>
-<!-- Construction of shared knowledge -->
-<g id="node18" class="node">
-<title>Construction of shared knowledge</title>
-<ellipse fill="none" stroke="black" cx="131.94" cy="-72" rx="131.88" ry="18"/>
-<text text-anchor="middle" x="131.94" y="-68.3" font-family="Times,serif" font-size="14.00">Construction of shared knowledge</text>
-</g>
-<!-- Cross&#45;Recurrence Quantification Analysis (CRQA&#45;&gt;Construction of shared knowledge -->
-<g id="edge8" class="edge">
-<title>Cross&#45;Recurrence Quantification Analysis (CRQA&#45;&gt;Construction of shared knowledge</title>
-<path fill="none" stroke="black" d="M349.68,-72C324.27,-72 298.56,-72 274.15,-72"/>
-<polygon fill="black" stroke="black" points="274.15,-68.5 264.15,-72 274.15,-75.5 274.15,-68.5"/>
-</g>
-<!-- Together gaze -->
-<g id="node3" class="node">
-<title>Together gaze</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Together gaze">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-234" rx="61.19" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-230.3" font-family="Times,serif" font-size="14.00">Together gaze</text>
-</a>
-</g>
-</g>
-<!-- Dialogue episodes -->
-<g id="node21" class="node">
-<title>Dialogue episodes</title>
-<ellipse fill="none" stroke="black" cx="131.94" cy="-180" rx="75.29" ry="18"/>
-<text text-anchor="middle" x="131.94" y="-176.3" font-family="Times,serif" font-size="14.00">Dialogue episodes</text>
-</g>
-<!-- Together gaze&#45;&gt;Dialogue episodes -->
-<g id="edge2" class="edge">
-<title>Together gaze&#45;&gt;Dialogue episodes</title>
-<path fill="none" stroke="black" d="M480.2,-228.26C432.03,-223.25 361.34,-215.46 299.88,-207 268.13,-202.63 233.1,-197.08 203.37,-192.15"/>
-<polygon fill="black" stroke="black" points="203.94,-188.69 193.5,-190.5 202.78,-195.6 203.94,-188.69"/>
-</g>
-<!-- Network features [+20] -->
-<g id="node4" class="node">
-<title>Network features [+20]</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Collaboration%20Sensing" xlink:title="Network features [+20]">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-504" rx="94.48" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-500.3" font-family="Times,serif" font-size="14.00">Network features [+20]</text>
+<title>joint visual attention</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads" xlink:title="joint visual attention" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-234" rx="83.39" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-230.3" font-family="Times,serif" font-size="14.00">joint visual attention</text>
 </a>
 </g>
 </g>
 <!-- collaboration quality -->
-<g id="node17" class="node">
+<g id="node18" class="node">
 <title>collaboration quality</title>
-<ellipse fill="none" stroke="black" cx="131.94" cy="-396" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="131.94" y="-392.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
+<ellipse fill="none" stroke="black" cx="131.94" cy="-126" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-122.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
 </g>
-<!-- Network features [+20]&#45;&gt;collaboration quality -->
-<g id="edge12" class="edge">
-<title>Network features [+20]&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M445.47,-500.8C400.82,-497.42 346.81,-490.62 299.88,-477 252.51,-463.25 202.09,-436.98 169.21,-418.08"/>
-<polygon fill="black" stroke="black" points="170.82,-414.96 160.42,-412.96 167.3,-421.01 170.82,-414.96"/>
-</g>
-<!-- shared gaze -->
-<g id="node5" class="node">
-<title>shared gaze</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" xlink:title="shared gaze">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-558" rx="51.99" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-554.3" font-family="Times,serif" font-size="14.00">shared gaze</text>
-</a>
-</g>
-</g>
-<!-- quality of collaboration -->
-<g id="node16" class="node">
-<title>quality of collaboration</title>
-<ellipse fill="none" stroke="black" cx="131.94" cy="-558" rx="93.68" ry="18"/>
-<text text-anchor="middle" x="131.94" y="-554.3" font-family="Times,serif" font-size="14.00">quality of collaboration</text>
-</g>
-<!-- shared gaze&#45;&gt;quality of collaboration -->
-<g id="edge15" class="edge">
-<title>shared gaze&#45;&gt;quality of collaboration</title>
-<path fill="none" stroke="black" d="M486.18,-558C423.49,-558 315.84,-558 235.81,-558"/>
-<polygon fill="black" stroke="black" points="235.7,-554.5 225.7,-558 235.7,-561.5 235.7,-554.5"/>
+<!-- joint visual attention&#45;&gt;collaboration quality -->
+<g id="edge14" class="edge">
+<title>joint visual attention&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M455.81,-231.53C409.35,-228.45 350.5,-221.69 299.88,-207 252.51,-193.25 202.09,-166.98 169.21,-148.08"/>
+<polygon fill="black" stroke="black" points="170.82,-144.96 160.42,-142.96 167.3,-151.01 170.82,-144.96"/>
 </g>
 <!-- joint&#45;visual attention -->
-<g id="node6" class="node">
+<g id="node2" class="node">
 <title>joint&#45;visual attention</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20Collaborative%20Learning%20Processes%20during%20Hands-on%20Activities%20using%20Mobile%20Eye-Trackers" xlink:title="joint&#45;visual attention">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-450" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-446.3" font-family="Times,serif" font-size="14.00">joint&#45;visual attention</text>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unpacking%20Collaborative%20Learning%20Processes%20during%20Hands-on%20Activities%20using%20Mobile%20Eye-Trackers" xlink:title="joint&#45;visual attention" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-180" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-176.3" font-family="Times,serif" font-size="14.00">joint&#45;visual attention</text>
 </a>
 </g>
 </g>
 <!-- joint&#45;visual attention&#45;&gt;collaboration quality -->
 <g id="edge13" class="edge">
 <title>joint&#45;visual attention&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M462.41,-442.39C415.6,-437.41 354.15,-430.47 299.88,-423 269.7,-418.85 236.56,-413.62 207.81,-408.88"/>
-<polygon fill="black" stroke="black" points="208.28,-405.41 197.84,-407.23 207.13,-412.32 208.28,-405.41"/>
-</g>
-<!-- joint visual attention -->
-<g id="node7" class="node">
-<title>joint visual attention</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads" xlink:title="joint visual attention">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-396" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-392.3" font-family="Times,serif" font-size="14.00">joint visual attention</text>
-</a>
-</g>
-</g>
-<!-- joint visual attention&#45;&gt;collaboration quality -->
-<g id="edge14" class="edge">
-<title>joint visual attention&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M455.07,-396C388.58,-396 295.04,-396 225.88,-396"/>
-<polygon fill="black" stroke="black" points="225.85,-392.5 215.85,-396 225.85,-399.5 225.85,-392.5"/>
-</g>
-<!-- Multidimensional Recurrence Quantification Analysis (MdRQA -->
-<g id="node8" class="node">
-<title>Multidimensional Recurrence Quantification Analysis (MdRQA</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" xlink:title="Multidimensional Recurrence Quantification Analysis (MdRQA">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-639" rx="238.56" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-635.3" font-family="Times,serif" font-size="14.00">Multidimensional Recurrence Quantification Analysis (MdRQA</text>
-</a>
-</g>
-</g>
-<!-- Negotiation -->
-<g id="node15" class="node">
-<title>Negotiation</title>
-<ellipse fill="none" stroke="black" cx="131.94" cy="-666" rx="51.99" ry="18"/>
-<text text-anchor="middle" x="131.94" y="-662.3" font-family="Times,serif" font-size="14.00">Negotiation</text>
-</g>
-<!-- Multidimensional Recurrence Quantification Analysis (MdRQA&#45;&gt;Negotiation -->
-<g id="edge9" class="edge">
-<title>Multidimensional Recurrence Quantification Analysis (MdRQA&#45;&gt;Negotiation</title>
-<path fill="none" stroke="black" d="M359.12,-650.9C299.71,-654.87 237.51,-659.02 193.4,-661.96"/>
-<polygon fill="black" stroke="black" points="192.9,-658.49 183.16,-662.65 193.37,-665.47 192.9,-658.49"/>
-</g>
-<!-- Coordination -->
-<g id="node20" class="node">
-<title>Coordination</title>
-<ellipse fill="none" stroke="black" cx="131.94" cy="-612" rx="57.39" ry="18"/>
-<text text-anchor="middle" x="131.94" y="-608.3" font-family="Times,serif" font-size="14.00">Coordination</text>
-</g>
-<!-- Multidimensional Recurrence Quantification Analysis (MdRQA&#45;&gt;Coordination -->
-<g id="edge10" class="edge">
-<title>Multidimensional Recurrence Quantification Analysis (MdRQA&#45;&gt;Coordination</title>
-<path fill="none" stroke="black" d="M359.12,-627.1C301.87,-623.28 242.02,-619.28 198.28,-616.36"/>
-<polygon fill="black" stroke="black" points="198.29,-612.85 188.08,-615.68 197.82,-619.84 198.29,-612.85"/>
-</g>
-<!-- Focused gaze -->
-<g id="node9" class="node">
-<title>Focused gaze</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Focused gaze">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-180" rx="58.49" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-176.3" font-family="Times,serif" font-size="14.00">Focused gaze</text>
-</a>
-</g>
-</g>
-<!-- Focused gaze&#45;&gt;Dialogue episodes -->
-<g id="edge1" class="edge">
-<title>Focused gaze&#45;&gt;Dialogue episodes</title>
-<path fill="none" stroke="black" d="M479.88,-180C411.42,-180 296.49,-180 217.81,-180"/>
-<polygon fill="black" stroke="black" points="217.44,-176.5 207.44,-180 217.44,-183.5 217.44,-176.5"/>
-</g>
-<!-- Count of faces looking at screen -->
-<g id="node10" class="node">
-<title>Count of faces looking at screen</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning" xlink:title="Count of faces looking at screen">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-720" rx="125.38" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-716.3" font-family="Times,serif" font-size="14.00">Count of faces looking at screen</text>
-</a>
-</g>
-</g>
-<!-- Synchronisation -->
-<g id="node19" class="node">
-<title>Synchronisation</title>
-<ellipse fill="none" stroke="black" cx="131.94" cy="-720" rx="67.69" ry="18"/>
-<text text-anchor="middle" x="131.94" y="-716.3" font-family="Times,serif" font-size="14.00">Synchronisation</text>
-</g>
-<!-- Count of faces looking at screen&#45;&gt;Synchronisation -->
-<g id="edge11" class="edge">
-<title>Count of faces looking at screen&#45;&gt;Synchronisation</title>
-<path fill="none" stroke="black" d="M412.75,-720C346.4,-720 266.93,-720 209.66,-720"/>
-<polygon fill="black" stroke="black" points="209.59,-716.5 199.59,-720 209.59,-723.5 209.59,-716.5"/>
+<path fill="none" stroke="black" d="M462.41,-172.39C415.6,-167.41 354.15,-160.47 299.88,-153 269.7,-148.85 236.56,-143.62 207.81,-138.88"/>
+<polygon fill="black" stroke="black" points="208.28,-135.41 197.84,-137.23 207.13,-142.32 208.28,-135.41"/>
 </g>
 <!-- Cycles of collaborative / individual work -->
-<g id="node11" class="node">
+<g id="node3" class="node">
 <title>Cycles of collaborative / individual work</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" xlink:title="Cycles of collaborative / individual work">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-342" rx="155.97" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-338.3" font-family="Times,serif" font-size="14.00">Cycles of collaborative / individual work</text>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" xlink:title="Cycles of collaborative / individual work" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-126" rx="155.97" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-122.3" font-family="Times,serif" font-size="14.00">Cycles of collaborative / individual work</text>
 </a>
 </g>
 </g>
 <!-- Cycles of collaborative / individual work&#45;&gt;collaboration quality -->
 <g id="edge7" class="edge">
 <title>Cycles of collaborative / individual work&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M421.89,-354.02C383.07,-358.36 339.55,-363.54 299.88,-369 269.7,-373.15 236.56,-378.38 207.81,-383.12"/>
-<polygon fill="black" stroke="black" points="207.13,-379.68 197.84,-384.77 208.28,-386.59 207.13,-379.68"/>
+<path fill="none" stroke="black" d="M382.18,-126C329.47,-126 272.24,-126 225.93,-126"/>
+<polygon fill="black" stroke="black" points="225.92,-122.5 215.92,-126 225.92,-129.5 225.92,-122.5"/>
+</g>
+<!-- Gaze transitions -->
+<g id="node4" class="node">
+<title>Gaze transitions</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Gaze transitions" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-396" rx="67.69" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-392.3" font-family="Times,serif" font-size="14.00">Gaze transitions</text>
+</a>
+</g>
+</g>
+<!-- Dialogue episodes -->
+<g id="node17" class="node">
+<title>Dialogue episodes</title>
+<ellipse fill="none" stroke="black" cx="131.94" cy="-342" rx="75.29" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-338.3" font-family="Times,serif" font-size="14.00">Dialogue episodes</text>
+</g>
+<!-- Gaze transitions&#45;&gt;Dialogue episodes -->
+<g id="edge3" class="edge">
+<title>Gaze transitions&#45;&gt;Dialogue episodes</title>
+<path fill="none" stroke="black" d="M474.79,-389.7C426.84,-384.67 359.08,-377.15 299.88,-369 268.13,-364.63 233.1,-359.08 203.37,-354.15"/>
+<polygon fill="black" stroke="black" points="203.94,-350.69 193.5,-352.5 202.78,-357.6 203.94,-350.69"/>
+</g>
+<!-- Cross&#45;Recurrence Quantification Analysis (CRQA -->
+<g id="node5" class="node">
+<title>Cross&#45;Recurrence Quantification Analysis (CRQA</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" xlink:title="Cross&#45;Recurrence Quantification Analysis (CRQA" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-450" rx="188.47" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-446.3" font-family="Times,serif" font-size="14.00">Cross&#45;Recurrence Quantification Analysis (CRQA</text>
+</a>
+</g>
+</g>
+<!-- Construction of shared knowledge -->
+<g id="node20" class="node">
+<title>Construction of shared knowledge</title>
+<ellipse fill="none" stroke="black" cx="131.94" cy="-450" rx="131.88" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-446.3" font-family="Times,serif" font-size="14.00">Construction of shared knowledge</text>
+</g>
+<!-- Cross&#45;Recurrence Quantification Analysis (CRQA&#45;&gt;Construction of shared knowledge -->
+<g id="edge8" class="edge">
+<title>Cross&#45;Recurrence Quantification Analysis (CRQA&#45;&gt;Construction of shared knowledge</title>
+<path fill="none" stroke="black" d="M349.68,-450C324.27,-450 298.56,-450 274.15,-450"/>
+<polygon fill="black" stroke="black" points="274.15,-446.5 264.15,-450 274.15,-453.5 274.15,-446.5"/>
+</g>
+<!-- Joint visual attention -->
+<g id="node6" class="node">
+<title>Joint visual attention</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="Joint visual attention" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-504" rx="84.49" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-500.3" font-family="Times,serif" font-size="14.00">Joint visual attention</text>
+</a>
+</g>
+</g>
+<!-- Quality of Collaboration -->
+<g id="node16" class="node">
+<title>Quality of Collaboration</title>
+<ellipse fill="none" stroke="black" cx="131.94" cy="-504" rx="97.48" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-500.3" font-family="Times,serif" font-size="14.00">Quality of Collaboration</text>
+</g>
+<!-- Joint visual attention&#45;&gt;Quality of Collaboration -->
+<g id="edge4" class="edge">
+<title>Joint visual attention&#45;&gt;Quality of Collaboration</title>
+<path fill="none" stroke="black" d="M457.5,-498.5C393.53,-497 303.42,-496.85 234.37,-498.06"/>
+<polygon fill="black" stroke="black" points="234.27,-494.56 224.34,-498.25 234.4,-501.56 234.27,-494.56"/>
+</g>
+<!-- Joint visual attention&#45;&gt;Quality of Collaboration -->
+<g id="edge5" class="edge">
+<title>Joint visual attention&#45;&gt;Quality of Collaboration</title>
+<path fill="none" stroke="black" d="M457.5,-509.5C393.53,-511 303.42,-511.15 234.37,-509.94"/>
+<polygon fill="black" stroke="black" points="234.4,-506.44 224.34,-509.75 234.27,-513.44 234.4,-506.44"/>
+</g>
+<!-- Focused gaze -->
+<g id="node7" class="node">
+<title>Focused gaze</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Focused gaze" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-342" rx="58.49" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-338.3" font-family="Times,serif" font-size="14.00">Focused gaze</text>
+</a>
+</g>
+</g>
+<!-- Focused gaze&#45;&gt;Dialogue episodes -->
+<g id="edge1" class="edge">
+<title>Focused gaze&#45;&gt;Dialogue episodes</title>
+<path fill="none" stroke="black" d="M479.88,-342C411.42,-342 296.49,-342 217.81,-342"/>
+<polygon fill="black" stroke="black" points="217.44,-338.5 207.44,-342 217.44,-345.5 217.44,-338.5"/>
+</g>
+<!-- Count of faces looking at screen -->
+<g id="node8" class="node">
+<title>Count of faces looking at screen</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning" xlink:title="Count of faces looking at screen" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-558" rx="125.38" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-554.3" font-family="Times,serif" font-size="14.00">Count of faces looking at screen</text>
+</a>
+</g>
+</g>
+<!-- Synchronisation -->
+<g id="node21" class="node">
+<title>Synchronisation</title>
+<ellipse fill="none" stroke="black" cx="131.94" cy="-558" rx="67.69" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-554.3" font-family="Times,serif" font-size="14.00">Synchronisation</text>
+</g>
+<!-- Count of faces looking at screen&#45;&gt;Synchronisation -->
+<g id="edge11" class="edge">
+<title>Count of faces looking at screen&#45;&gt;Synchronisation</title>
+<path fill="none" stroke="black" d="M412.75,-558C346.4,-558 266.93,-558 209.66,-558"/>
+<polygon fill="black" stroke="black" points="209.59,-554.5 199.59,-558 209.59,-561.5 209.59,-554.5"/>
+</g>
+<!-- shared gaze -->
+<g id="node9" class="node">
+<title>shared gaze</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" xlink:title="shared gaze" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-612" rx="51.99" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-608.3" font-family="Times,serif" font-size="14.00">shared gaze</text>
+</a>
+</g>
+</g>
+<!-- quality of collaboration -->
+<g id="node15" class="node">
+<title>quality of collaboration</title>
+<ellipse fill="none" stroke="black" cx="131.94" cy="-612" rx="93.68" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-608.3" font-family="Times,serif" font-size="14.00">quality of collaboration</text>
+</g>
+<!-- shared gaze&#45;&gt;quality of collaboration -->
+<g id="edge15" class="edge">
+<title>shared gaze&#45;&gt;quality of collaboration</title>
+<path fill="none" stroke="black" d="M486.18,-612C423.49,-612 315.84,-612 235.81,-612"/>
+<polygon fill="black" stroke="black" points="235.7,-608.5 225.7,-612 235.7,-615.5 235.7,-608.5"/>
 </g>
 <!-- Joint visual Attention -->
-<g id="node12" class="node">
+<g id="node10" class="node">
 <title>Joint visual Attention</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" xlink:title="Joint visual Attention">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-288" rx="86.38" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-284.3" font-family="Times,serif" font-size="14.00">Joint visual Attention</text>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" xlink:title="Joint visual Attention" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-72" rx="86.38" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-68.3" font-family="Times,serif" font-size="14.00">Joint visual Attention</text>
 </a>
 </g>
 </g>
 <!-- Joint visual Attention&#45;&gt;collaboration quality -->
 <g id="edge6" class="edge">
 <title>Joint visual Attention&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M452.77,-290.67C406.81,-293.85 349.4,-300.63 299.88,-315 252.51,-328.75 202.09,-355.02 169.21,-373.92"/>
-<polygon fill="black" stroke="black" points="167.3,-370.99 160.42,-379.04 170.82,-377.04 167.3,-370.99"/>
+<path fill="none" stroke="black" d="M460.27,-79.84C413.74,-84.8 353.33,-91.64 299.88,-99 269.7,-103.15 236.56,-108.38 207.81,-113.12"/>
+<polygon fill="black" stroke="black" points="207.13,-109.68 197.84,-114.77 208.28,-116.59 207.13,-109.68"/>
 </g>
-<!-- Gaze transitions -->
-<g id="node13" class="node">
-<title>Gaze transitions</title>
-<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Gaze transitions">
-<ellipse fill="none" stroke="black" cx="538.41" cy="-126" rx="67.69" ry="18"/>
-<text text-anchor="middle" x="538.41" y="-122.3" font-family="Times,serif" font-size="14.00">Gaze transitions</text>
+<!-- Network features [+20] -->
+<g id="node11" class="node">
+<title>Network features [+20]</title>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Collaboration%20Sensing" xlink:title="Network features [+20]" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-18" rx="94.48" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-14.3" font-family="Times,serif" font-size="14.00">Network features [+20]</text>
 </a>
 </g>
 </g>
-<!-- Gaze transitions&#45;&gt;Dialogue episodes -->
-<g id="edge3" class="edge">
-<title>Gaze transitions&#45;&gt;Dialogue episodes</title>
-<path fill="none" stroke="black" d="M474.79,-132.3C426.84,-137.33 359.08,-144.85 299.88,-153 268.13,-157.37 233.1,-162.92 203.37,-167.85"/>
-<polygon fill="black" stroke="black" points="202.78,-164.4 193.5,-169.5 203.94,-171.31 202.78,-164.4"/>
+<!-- Network features [+20]&#45;&gt;collaboration quality -->
+<g id="edge12" class="edge">
+<title>Network features [+20]&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M445.47,-21.2C400.82,-24.58 346.81,-31.38 299.88,-45 252.51,-58.75 202.09,-85.02 169.21,-103.92"/>
+<polygon fill="black" stroke="black" points="167.3,-100.99 160.42,-109.04 170.82,-107.04 167.3,-100.99"/>
+</g>
+<!-- Together gaze -->
+<g id="node12" class="node">
+<title>Together gaze</title>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues" xlink:title="Together gaze" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-288" rx="61.19" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-284.3" font-family="Times,serif" font-size="14.00">Together gaze</text>
+</a>
+</g>
+</g>
+<!-- Together gaze&#45;&gt;Dialogue episodes -->
+<g id="edge2" class="edge">
+<title>Together gaze&#45;&gt;Dialogue episodes</title>
+<path fill="none" stroke="black" d="M480.2,-293.74C432.03,-298.75 361.34,-306.54 299.88,-315 268.13,-319.37 233.1,-324.92 203.37,-329.85"/>
+<polygon fill="black" stroke="black" points="202.78,-326.4 193.5,-331.5 203.94,-333.31 202.78,-326.4"/>
+</g>
+<!-- Multidimensional Recurrence Quantification Analysis (MdRQA -->
+<g id="node13" class="node">
+<title>Multidimensional Recurrence Quantification Analysis (MdRQA</title>
+<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis" xlink:title="Multidimensional Recurrence Quantification Analysis (MdRQA" target="_blank">
+<ellipse fill="none" stroke="black" cx="538.41" cy="-693" rx="238.56" ry="18"/>
+<text text-anchor="middle" x="538.41" y="-689.3" font-family="Times,serif" font-size="14.00">Multidimensional Recurrence Quantification Analysis (MdRQA</text>
+</a>
+</g>
+</g>
+<!-- Negotiation -->
+<g id="node14" class="node">
+<title>Negotiation</title>
+<ellipse fill="none" stroke="black" cx="131.94" cy="-720" rx="51.99" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-716.3" font-family="Times,serif" font-size="14.00">Negotiation</text>
+</g>
+<!-- Multidimensional Recurrence Quantification Analysis (MdRQA&#45;&gt;Negotiation -->
+<g id="edge9" class="edge">
+<title>Multidimensional Recurrence Quantification Analysis (MdRQA&#45;&gt;Negotiation</title>
+<path fill="none" stroke="black" d="M359.12,-704.9C299.71,-708.87 237.51,-713.02 193.4,-715.96"/>
+<polygon fill="black" stroke="black" points="192.9,-712.49 183.16,-716.65 193.37,-719.47 192.9,-712.49"/>
+</g>
+<!-- Coordination -->
+<g id="node19" class="node">
+<title>Coordination</title>
+<ellipse fill="none" stroke="black" cx="131.94" cy="-666" rx="57.39" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-662.3" font-family="Times,serif" font-size="14.00">Coordination</text>
+</g>
+<!-- Multidimensional Recurrence Quantification Analysis (MdRQA&#45;&gt;Coordination -->
+<g id="edge10" class="edge">
+<title>Multidimensional Recurrence Quantification Analysis (MdRQA&#45;&gt;Coordination</title>
+<path fill="none" stroke="black" d="M359.12,-681.1C301.87,-677.28 242.02,-673.28 198.28,-670.36"/>
+<polygon fill="black" stroke="black" points="198.29,-666.85 188.08,-669.68 197.82,-673.84 198.29,-666.85"/>
 </g>
 </g>
 </svg>

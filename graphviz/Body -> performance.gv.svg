@@ -12,14 +12,14 @@
 <!-- amount of face and body movement -->
 <g id="node1" class="node">
 <title>amount of face and body movement</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" xlink:title="amount of face and body movement">
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" xlink:title="amount of face and body movement" target="_blank">
 <ellipse fill="none" stroke="black" cx="571.55" cy="-18" rx="139.98" ry="18"/>
 <text text-anchor="middle" x="571.55" y="-14.3" font-family="Times,serif" font-size="14.00">amount of face and body movement</text>
 </a>
 </g>
 </g>
 <!-- task success score -->
-<g id="node20" class="node">
+<g id="node16" class="node">
 <title>task success score</title>
 <ellipse fill="none" stroke="black" cx="173.53" cy="-18" rx="74.99" ry="18"/>
 <text text-anchor="middle" x="173.53" y="-14.3" font-family="Times,serif" font-size="14.00">task success score</text>
@@ -30,94 +30,94 @@
 <path fill="none" stroke="black" d="M431.77,-18C373.99,-18 308.8,-18 258.5,-18"/>
 <polygon fill="black" stroke="black" points="258.33,-14.5 248.33,-18 258.33,-21.5 258.33,-14.5"/>
 </g>
-<!-- Mean distance between learners -->
+<!-- Mean hand movement speed -->
 <g id="node2" class="node">
-<title>Mean distance between learners</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Mean distance between learners">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-180" rx="124.28" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-176.3" font-family="Times,serif" font-size="14.00">Mean distance between learners</text>
+<title>Mean hand movement speed</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Mean hand movement speed" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-180" rx="113.98" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-176.3" font-family="Times,serif" font-size="14.00">Mean hand movement speed</text>
 </a>
 </g>
 </g>
 <!-- artefact quality -->
-<g id="node22" class="node">
+<g id="node21" class="node">
 <title>artefact quality</title>
 <ellipse fill="none" stroke="black" cx="173.53" cy="-126" rx="63.89" ry="18"/>
 <text text-anchor="middle" x="173.53" y="-122.3" font-family="Times,serif" font-size="14.00">artefact quality</text>
 </g>
-<!-- Mean distance between learners&#45;&gt;artefact quality -->
-<g id="edge4" class="edge">
-<title>Mean distance between learners&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M480.19,-167.68C407.49,-157.77 306.98,-144.06 241.38,-135.11"/>
-<polygon fill="black" stroke="black" points="241.54,-131.6 231.16,-133.72 240.59,-138.54 241.54,-131.6"/>
+<!-- Mean hand movement speed&#45;&gt;artefact quality -->
+<g id="edge6" class="edge">
+<title>Mean hand movement speed&#45;&gt;artefact quality</title>
+<path fill="none" stroke="black" d="M484.62,-168.28C411.6,-158.33 308.24,-144.23 241.3,-135.1"/>
+<polygon fill="black" stroke="black" points="241.67,-131.62 231.29,-133.74 240.72,-138.56 241.67,-131.62"/>
 </g>
-<!-- Joint movement -->
+<!-- time spent as a group -->
 <g id="node3" class="node">
-<title>Joint movement</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint movement">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-342" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-338.3" font-family="Times,serif" font-size="14.00">Joint movement</text>
+<title>time spent as a group</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" xlink:title="time spent as a group" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-342" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-338.3" font-family="Times,serif" font-size="14.00">time spent as a group</text>
+</a>
+</g>
+</g>
+<!-- technical ability -->
+<g id="node15" class="node">
+<title>technical ability</title>
+<ellipse fill="none" stroke="black" cx="173.53" cy="-288" rx="67.69" ry="18"/>
+<text text-anchor="middle" x="173.53" y="-284.3" font-family="Times,serif" font-size="14.00">technical ability</text>
+</g>
+<!-- time spent as a group&#45;&gt;technical ability -->
+<g id="edge12" class="edge">
+<title>time spent as a group&#45;&gt;technical ability</title>
+<path fill="none" stroke="black" d="M498.38,-332.16C426.08,-322.3 315.57,-307.23 244.18,-297.5"/>
+<polygon fill="black" stroke="black" points="244.32,-293.98 233.94,-296.1 243.38,-300.92 244.32,-293.98"/>
+</g>
+<!-- Joint angle -->
+<g id="node4" class="node">
+<title>Joint angle</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint angle" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-504" rx="49.29" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-500.3" font-family="Times,serif" font-size="14.00">Joint angle</text>
 </a>
 </g>
 </g>
 <!-- Task performance -->
-<g id="node17" class="node">
+<g id="node20" class="node">
 <title>Task performance</title>
-<ellipse fill="none" stroke="black" cx="173.53" cy="-288" rx="75.29" ry="18"/>
-<text text-anchor="middle" x="173.53" y="-284.3" font-family="Times,serif" font-size="14.00">Task performance</text>
+<ellipse fill="none" stroke="black" cx="173.53" cy="-450" rx="75.29" ry="18"/>
+<text text-anchor="middle" x="173.53" y="-446.3" font-family="Times,serif" font-size="14.00">Task performance</text>
 </g>
-<!-- Joint movement&#45;&gt;Task performance -->
-<g id="edge7" class="edge">
-<title>Joint movement&#45;&gt;Task performance</title>
-<path fill="none" stroke="black" d="M510.41,-333.8C440.52,-324.27 325.14,-308.54 249.48,-298.22"/>
-<polygon fill="black" stroke="black" points="249.92,-294.75 239.54,-296.86 248.97,-301.68 249.92,-294.75"/>
-</g>
-<!-- Distance from the center of the table -->
-<g id="node4" class="node">
-<title>Distance from the center of the table</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Distance from the center of the table">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-450" rx="141.07" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-446.3" font-family="Times,serif" font-size="14.00">Distance from the center of the table</text>
-</a>
-</g>
-</g>
-<!-- Odds of a student solving correctly a problem -->
-<g id="node15" class="node">
-<title>Odds of a student solving correctly a problem</title>
-<ellipse fill="none" stroke="black" cx="173.53" cy="-423" rx="173.57" ry="18"/>
-<text text-anchor="middle" x="173.53" y="-419.3" font-family="Times,serif" font-size="14.00">Odds of a student solving correctly a problem</text>
-</g>
-<!-- Distance from the center of the table&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge2" class="edge">
-<title>Distance from the center of the table&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M446.88,-441.57C409.69,-439.03 368.41,-436.22 329.47,-433.56"/>
-<polygon fill="black" stroke="black" points="329.31,-430.04 319.09,-432.86 328.83,-437.03 329.31,-430.04"/>
+<!-- Joint angle&#45;&gt;Task performance -->
+<g id="edge8" class="edge">
+<title>Joint angle&#45;&gt;Task performance</title>
+<path fill="none" stroke="black" d="M525.12,-497.81C457.81,-488.63 330.8,-471.31 249.54,-460.23"/>
+<polygon fill="black" stroke="black" points="249.76,-456.73 239.38,-458.84 248.81,-463.66 249.76,-456.73"/>
 </g>
 <!-- Distance between learners (DBL -->
 <g id="node5" class="node">
 <title>Distance between learners (DBL</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Distance between learners (DBL">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-504" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-500.3" font-family="Times,serif" font-size="14.00">Distance between learners (DBL</text>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Distance between learners (DBL" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-558" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-554.3" font-family="Times,serif" font-size="14.00">Distance between learners (DBL</text>
 </a>
 </g>
 </g>
 <!-- collaborative problem solving -->
-<g id="node21" class="node">
+<g id="node18" class="node">
 <title>collaborative problem solving</title>
-<ellipse fill="none" stroke="black" cx="173.53" cy="-504" rx="116.98" ry="18"/>
-<text text-anchor="middle" x="173.53" y="-500.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
+<ellipse fill="none" stroke="black" cx="173.53" cy="-558" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="173.53" y="-554.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
 </g>
 <!-- Distance between learners (DBL&#45;&gt;collaborative problem solving -->
 <g id="edge15" class="edge">
 <title>Distance between learners (DBL&#45;&gt;collaborative problem solving</title>
-<path fill="none" stroke="black" d="M445.25,-504C399.12,-504 346.88,-504 300.68,-504"/>
-<polygon fill="black" stroke="black" points="300.61,-500.5 290.61,-504 300.61,-507.5 300.61,-500.5"/>
+<path fill="none" stroke="black" d="M445.25,-558C399.12,-558 346.88,-558 300.68,-558"/>
+<polygon fill="black" stroke="black" points="300.61,-554.5 290.61,-558 300.61,-561.5 300.61,-554.5"/>
 </g>
 <!-- Mean distance between hands -->
 <g id="node6" class="node">
 <title>Mean distance between hands</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Mean distance between hands">
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Mean distance between hands" target="_blank">
 <ellipse fill="none" stroke="black" cx="571.55" cy="-126" rx="116.98" ry="18"/>
 <text text-anchor="middle" x="571.55" y="-122.3" font-family="Times,serif" font-size="14.00">Mean distance between hands</text>
 </a>
@@ -129,140 +129,125 @@
 <path fill="none" stroke="black" d="M454.41,-126C387.45,-126 305.33,-126 247.41,-126"/>
 <polygon fill="black" stroke="black" points="247.25,-122.5 237.25,-126 247.25,-129.5 247.25,-122.5"/>
 </g>
-<!-- time spent individually -->
+<!-- Mean distance between learners -->
 <g id="node7" class="node">
-<title>time spent individually</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" xlink:title="time spent individually">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-666" rx="92.88" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-662.3" font-family="Times,serif" font-size="14.00">time spent individually</text>
+<title>Mean distance between learners</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Mean distance between learners" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-72" rx="124.28" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-68.3" font-family="Times,serif" font-size="14.00">Mean distance between learners</text>
 </a>
 </g>
 </g>
-<!-- technical ability -->
-<g id="node19" class="node">
-<title>technical ability</title>
-<ellipse fill="none" stroke="black" cx="173.53" cy="-612" rx="67.69" ry="18"/>
-<text text-anchor="middle" x="173.53" y="-608.3" font-family="Times,serif" font-size="14.00">technical ability</text>
-</g>
-<!-- time spent individually&#45;&gt;technical ability -->
-<g id="edge11" class="edge">
-<title>time spent individually&#45;&gt;technical ability</title>
-<path fill="none" stroke="black" d="M495.13,-655.72C422.84,-645.86 314.59,-631.1 244.26,-621.51"/>
-<polygon fill="black" stroke="black" points="244.55,-618.01 234.17,-620.13 243.6,-624.95 244.55,-618.01"/>
-</g>
-<!-- time spent as a group -->
-<g id="node8" class="node">
-<title>time spent as a group</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" xlink:title="time spent as a group">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-612" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-608.3" font-family="Times,serif" font-size="14.00">time spent as a group</text>
-</a>
-</g>
-</g>
-<!-- time spent as a group&#45;&gt;technical ability -->
-<g id="edge12" class="edge">
-<title>time spent as a group&#45;&gt;technical ability</title>
-<path fill="none" stroke="black" d="M484.13,-612C414.65,-612 317.93,-612 251.18,-612"/>
-<polygon fill="black" stroke="black" points="251.14,-608.5 241.14,-612 251.14,-615.5 251.14,-608.5"/>
-</g>
-<!-- Joint angle -->
-<g id="node9" class="node">
-<title>Joint angle</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint angle">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-288" rx="49.29" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-284.3" font-family="Times,serif" font-size="14.00">Joint angle</text>
-</a>
-</g>
-</g>
-<!-- Joint angle&#45;&gt;Task performance -->
-<g id="edge8" class="edge">
-<title>Joint angle&#45;&gt;Task performance</title>
-<path fill="none" stroke="black" d="M521.99,-288C456.63,-288 339.32,-288 259.26,-288"/>
-<polygon fill="black" stroke="black" points="259.2,-284.5 249.2,-288 259.2,-291.5 259.2,-284.5"/>
+<!-- Mean distance between learners&#45;&gt;artefact quality -->
+<g id="edge4" class="edge">
+<title>Mean distance between learners&#45;&gt;artefact quality</title>
+<path fill="none" stroke="black" d="M480.19,-84.32C407.49,-94.23 306.98,-107.94 241.38,-116.89"/>
+<polygon fill="black" stroke="black" points="240.59,-113.46 231.16,-118.28 241.54,-120.4 240.59,-113.46"/>
 </g>
 <!-- transition probabilities between collaborative state -->
-<g id="node10" class="node">
+<g id="node8" class="node">
 <title>transition probabilities between collaborative state</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" xlink:title="transition probabilities between collaborative state">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-558" rx="188.47" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-554.3" font-family="Times,serif" font-size="14.00">transition probabilities between collaborative state</text>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" xlink:title="transition probabilities between collaborative state" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-234" rx="188.47" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-230.3" font-family="Times,serif" font-size="14.00">transition probabilities between collaborative state</text>
 </a>
 </g>
-</g>
-<!-- time spent in makerspace -->
-<g id="node16" class="node">
-<title>time spent in makerspace</title>
-<ellipse fill="none" stroke="black" cx="173.53" cy="-558" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="173.53" y="-554.3" font-family="Times,serif" font-size="14.00">time spent in makerspace</text>
-</g>
-<!-- transition probabilities between collaborative state&#45;&gt;time spent in makerspace -->
-<g id="edge14" class="edge">
-<title>transition probabilities between collaborative state&#45;&gt;time spent in makerspace</title>
-<path fill="none" stroke="black" d="M382.98,-558C349.48,-558 315.59,-558 285.14,-558"/>
-<polygon fill="black" stroke="black" points="284.95,-554.5 274.95,-558 284.95,-561.5 284.95,-554.5"/>
 </g>
 <!-- transition probabilities between collaborative state&#45;&gt;technical ability -->
 <g id="edge13" class="edge">
 <title>transition probabilities between collaborative state&#45;&gt;technical ability</title>
-<path fill="none" stroke="black" d="M462.6,-572.72C393,-582.21 304.52,-594.27 244.11,-602.51"/>
-<polygon fill="black" stroke="black" points="243.35,-599.08 233.92,-603.9 244.3,-606.02 243.35,-599.08"/>
+<path fill="none" stroke="black" d="M462.6,-248.72C393,-258.21 304.52,-270.27 244.11,-278.51"/>
+<polygon fill="black" stroke="black" points="243.35,-275.08 233.92,-279.9 244.3,-282.02 243.35,-275.08"/>
 </g>
-<!-- dyad proximity -->
-<g id="node11" class="node">
-<title>dyad proximity</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="dyad proximity">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-234" rx="65.79" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-230.3" font-family="Times,serif" font-size="14.00">dyad proximity</text>
-</a>
+<!-- time spent in makerspace -->
+<g id="node22" class="node">
+<title>time spent in makerspace</title>
+<ellipse fill="none" stroke="black" cx="173.53" cy="-234" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="173.53" y="-230.3" font-family="Times,serif" font-size="14.00">time spent in makerspace</text>
 </g>
-</g>
-<!-- dyad proximity&#45;&gt;Task performance -->
-<g id="edge9" class="edge">
-<title>dyad proximity&#45;&gt;Task performance</title>
-<path fill="none" stroke="black" d="M512.54,-241.91C442.84,-251.41 325.76,-267.38 249.32,-277.8"/>
-<polygon fill="black" stroke="black" points="248.72,-274.35 239.28,-279.17 249.66,-281.29 248.72,-274.35"/>
-</g>
-<!-- Mean hand movement speed -->
-<g id="node12" class="node">
-<title>Mean hand movement speed</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Mean hand movement speed">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-72" rx="113.98" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-68.3" font-family="Times,serif" font-size="14.00">Mean hand movement speed</text>
-</a>
-</g>
-</g>
-<!-- Mean hand movement speed&#45;&gt;artefact quality -->
-<g id="edge6" class="edge">
-<title>Mean hand movement speed&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M484.62,-83.72C411.6,-93.67 308.24,-107.77 241.3,-116.9"/>
-<polygon fill="black" stroke="black" points="240.72,-113.44 231.29,-118.26 241.67,-120.38 240.72,-113.44"/>
+<!-- transition probabilities between collaborative state&#45;&gt;time spent in makerspace -->
+<g id="edge14" class="edge">
+<title>transition probabilities between collaborative state&#45;&gt;time spent in makerspace</title>
+<path fill="none" stroke="black" d="M382.98,-234C349.48,-234 315.59,-234 285.14,-234"/>
+<polygon fill="black" stroke="black" points="284.95,-230.5 274.95,-234 284.95,-237.5 284.95,-230.5"/>
 </g>
 <!-- Total Movement -->
-<g id="node13" class="node">
+<g id="node9" class="node">
 <title>Total Movement</title>
-<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Total Movement">
-<ellipse fill="none" stroke="black" cx="571.55" cy="-396" rx="70.69" ry="18"/>
-<text text-anchor="middle" x="571.55" y="-392.3" font-family="Times,serif" font-size="14.00">Total Movement</text>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Total Movement" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-666" rx="70.69" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-662.3" font-family="Times,serif" font-size="14.00">Total Movement</text>
 </a>
 </g>
+</g>
+<!-- Odds of a student solving correctly a problem -->
+<g id="node17" class="node">
+<title>Odds of a student solving correctly a problem</title>
+<ellipse fill="none" stroke="black" cx="173.53" cy="-639" rx="173.57" ry="18"/>
+<text text-anchor="middle" x="173.53" y="-635.3" font-family="Times,serif" font-size="14.00">Odds of a student solving correctly a problem</text>
 </g>
 <!-- Total Movement&#45;&gt;Odds of a student solving correctly a problem -->
 <g id="edge1" class="edge">
 <title>Total Movement&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M502.92,-400.61C455.21,-403.86 389.32,-408.36 329.07,-412.46"/>
-<polygon fill="black" stroke="black" points="328.81,-408.97 319.07,-413.15 329.28,-415.96 328.81,-408.97"/>
+<path fill="none" stroke="black" d="M502.92,-661.39C455.21,-658.14 389.32,-653.64 329.07,-649.54"/>
+<polygon fill="black" stroke="black" points="329.28,-646.04 319.07,-648.85 328.81,-653.03 329.28,-646.04"/>
+</g>
+<!-- Joint movement -->
+<g id="node10" class="node">
+<title>Joint movement</title>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint movement" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-450" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-446.3" font-family="Times,serif" font-size="14.00">Joint movement</text>
+</a>
+</g>
+</g>
+<!-- Joint movement&#45;&gt;Task performance -->
+<g id="edge7" class="edge">
+<title>Joint movement&#45;&gt;Task performance</title>
+<path fill="none" stroke="black" d="M502.92,-450C435.51,-450 331.81,-450 259.02,-450"/>
+<polygon fill="black" stroke="black" points="258.96,-446.5 248.96,-450 258.96,-453.5 258.96,-446.5"/>
+</g>
+<!-- time spent individually -->
+<g id="node11" class="node">
+<title>time spent individually</title>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" xlink:title="time spent individually" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-288" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-284.3" font-family="Times,serif" font-size="14.00">time spent individually</text>
+</a>
+</g>
+</g>
+<!-- time spent individually&#45;&gt;technical ability -->
+<g id="edge11" class="edge">
+<title>time spent individually&#45;&gt;technical ability</title>
+<path fill="none" stroke="black" d="M478.2,-288C409.32,-288 316.32,-288 251.45,-288"/>
+<polygon fill="black" stroke="black" points="251.29,-284.5 241.29,-288 251.29,-291.5 251.29,-284.5"/>
+</g>
+<!-- Distance from the center of the table -->
+<g id="node12" class="node">
+<title>Distance from the center of the table</title>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Distance from the center of the table" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-612" rx="141.07" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-608.3" font-family="Times,serif" font-size="14.00">Distance from the center of the table</text>
+</a>
+</g>
+</g>
+<!-- Distance from the center of the table&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge2" class="edge">
+<title>Distance from the center of the table&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M446.88,-620.43C409.69,-622.97 368.41,-625.78 329.47,-628.44"/>
+<polygon fill="black" stroke="black" points="328.83,-624.97 319.09,-629.14 329.31,-631.96 328.83,-624.97"/>
 </g>
 <!-- Face and upper body movement -->
-<g id="node14" class="node">
+<g id="node13" class="node">
 <title>Face and upper body movement</title>
-<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Face and upper body movement">
+<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="Face and upper body movement" target="_blank">
 <ellipse fill="none" stroke="black" cx="571.55" cy="-720" rx="125.38" ry="18"/>
 <text text-anchor="middle" x="571.55" y="-716.3" font-family="Times,serif" font-size="14.00">Face and upper body movement</text>
 </a>
 </g>
 </g>
 <!-- Task Performance -->
-<g id="node18" class="node">
+<g id="node19" class="node">
 <title>Task Performance</title>
 <ellipse fill="none" stroke="black" cx="173.53" cy="-720" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="173.53" y="-716.3" font-family="Times,serif" font-size="14.00">Task Performance</text>
@@ -272,6 +257,21 @@
 <title>Face and upper body movement&#45;&gt;Task Performance</title>
 <path fill="none" stroke="black" d="M446.07,-720C385.35,-720 313.88,-720 259.51,-720"/>
 <polygon fill="black" stroke="black" points="259.22,-716.5 249.22,-720 259.22,-723.5 259.22,-716.5"/>
+</g>
+<!-- dyad proximity -->
+<g id="node14" class="node">
+<title>dyad proximity</title>
+<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="dyad proximity" target="_blank">
+<ellipse fill="none" stroke="black" cx="571.55" cy="-396" rx="65.79" ry="18"/>
+<text text-anchor="middle" x="571.55" y="-392.3" font-family="Times,serif" font-size="14.00">dyad proximity</text>
+</a>
+</g>
+</g>
+<!-- dyad proximity&#45;&gt;Task performance -->
+<g id="edge9" class="edge">
+<title>dyad proximity&#45;&gt;Task performance</title>
+<path fill="none" stroke="black" d="M512.54,-403.91C442.84,-413.41 325.76,-429.38 249.32,-439.8"/>
+<polygon fill="black" stroke="black" points="248.72,-436.35 239.28,-441.17 249.66,-443.29 248.72,-436.35"/>
 </g>
 </g>
 </svg>

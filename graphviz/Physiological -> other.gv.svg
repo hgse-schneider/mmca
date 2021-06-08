@@ -9,68 +9,98 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 418)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-418 452.06,-418 452.06,4 -4,4"/>
-<!-- DA &#45; EDA -->
+<!-- IDM &#45; HR -->
 <g id="node1" class="node">
-<title>DA &#45; EDA</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="DA &#45; EDA">
-<ellipse fill="none" stroke="black" cx="350.57" cy="-342" rx="48.99" ry="18"/>
-<text text-anchor="middle" x="350.57" y="-338.3" font-family="Times,serif" font-size="14.00">DA &#45; EDA</text>
+<title>IDM &#45; HR</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="IDM &#45; HR" target="_blank">
+<ellipse fill="none" stroke="black" cx="350.57" cy="-342" rx="48.19" ry="18"/>
+<text text-anchor="middle" x="350.57" y="-338.3" font-family="Times,serif" font-size="14.00">IDM &#45; HR</text>
 </a>
 </g>
 </g>
 <!-- Technology trustworthiness -->
-<g id="node9" class="node">
+<g id="node10" class="node">
 <title>Technology trustworthiness</title>
 <ellipse fill="none" stroke="black" cx="108.54" cy="-180" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="108.54" y="-176.3" font-family="Times,serif" font-size="14.00">Technology trustworthiness</text>
 </g>
-<!-- DA &#45; EDA&#45;&gt;Technology trustworthiness -->
-<g id="edge4" class="edge">
-<title>DA &#45; EDA&#45;&gt;Technology trustworthiness</title>
-<path fill="none" stroke="black" d="M306.03,-334.5C288.81,-330.37 269.29,-324.15 253.08,-315 202.7,-286.57 156.25,-236.79 130.51,-206.28"/>
+<!-- IDM &#45; HR&#45;&gt;Technology trustworthiness -->
+<g id="edge8" class="edge">
+<title>IDM &#45; HR&#45;&gt;Technology trustworthiness</title>
+<path fill="none" stroke="black" d="M306.52,-334.62C289.17,-330.48 269.44,-324.23 253.08,-315 202.7,-286.57 156.25,-236.79 130.51,-206.28"/>
 <polygon fill="black" stroke="black" points="132.9,-203.67 123.82,-198.21 127.52,-208.14 132.9,-203.67"/>
 </g>
-<!-- SM &#45; EDA -->
-<g id="node2" class="node">
-<title>SM &#45; EDA</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="SM &#45; EDA">
-<ellipse fill="none" stroke="black" cx="350.57" cy="-288" rx="50.09" ry="18"/>
-<text text-anchor="middle" x="350.57" y="-284.3" font-family="Times,serif" font-size="14.00">SM &#45; EDA</text>
-</a>
-</g>
-</g>
-<!-- SM &#45; EDA&#45;&gt;Technology trustworthiness -->
-<g id="edge2" class="edge">
-<title>SM &#45; EDA&#45;&gt;Technology trustworthiness</title>
-<path fill="none" stroke="black" d="M307.51,-278.58C290.32,-274.13 270.43,-268.2 253.08,-261 214.45,-244.97 173.13,-220.84 144.79,-203.08"/>
-<polygon fill="black" stroke="black" points="146.39,-199.95 136.07,-197.56 142.65,-205.86 146.39,-199.95"/>
-</g>
 <!-- IDM &#45; EDA -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>IDM &#45; EDA</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="IDM &#45; EDA">
-<ellipse fill="none" stroke="black" cx="350.57" cy="-234" rx="53.89" ry="18"/>
-<text text-anchor="middle" x="350.57" y="-230.3" font-family="Times,serif" font-size="14.00">IDM &#45; EDA</text>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="IDM &#45; EDA" target="_blank">
+<ellipse fill="none" stroke="black" cx="350.57" cy="-288" rx="53.89" ry="18"/>
+<text text-anchor="middle" x="350.57" y="-284.3" font-family="Times,serif" font-size="14.00">IDM &#45; EDA</text>
 </a>
 </g>
 </g>
 <!-- IDM &#45; EDA&#45;&gt;Technology trustworthiness -->
 <g id="edge3" class="edge">
 <title>IDM &#45; EDA&#45;&gt;Technology trustworthiness</title>
-<path fill="none" stroke="black" d="M305.27,-224.03C271.3,-216.39 223.66,-205.67 183.88,-196.72"/>
-<polygon fill="black" stroke="black" points="184.48,-193.27 173.95,-194.49 182.94,-200.1 184.48,-193.27"/>
+<path fill="none" stroke="black" d="M305.11,-277.95C288.48,-273.58 269.63,-267.87 253.08,-261 214.45,-244.97 173.13,-220.84 144.79,-203.08"/>
+<polygon fill="black" stroke="black" points="146.39,-199.95 136.07,-197.56 142.65,-205.86 146.39,-199.95"/>
+</g>
+<!-- CC &#45; EDA -->
+<g id="node3" class="node">
+<title>CC &#45; EDA</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="CC &#45; EDA" target="_blank">
+<ellipse fill="none" stroke="black" cx="350.57" cy="-234" rx="48.19" ry="18"/>
+<text text-anchor="middle" x="350.57" y="-230.3" font-family="Times,serif" font-size="14.00">CC &#45; EDA</text>
+</a>
+</g>
+</g>
+<!-- CC &#45; EDA&#45;&gt;Technology trustworthiness -->
+<g id="edge5" class="edge">
+<title>CC &#45; EDA&#45;&gt;Technology trustworthiness</title>
+<path fill="none" stroke="black" d="M308.85,-224.84C274.75,-217.17 225.18,-206.02 184.01,-196.75"/>
+<polygon fill="black" stroke="black" points="184.54,-193.28 174.01,-194.5 183,-200.11 184.54,-193.28"/>
+</g>
+<!-- WC &#45; EDA -->
+<g id="node4" class="node">
+<title>WC &#45; EDA</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="WC &#45; EDA" target="_blank">
+<ellipse fill="none" stroke="black" cx="350.57" cy="-180" rx="51.19" ry="18"/>
+<text text-anchor="middle" x="350.57" y="-176.3" font-family="Times,serif" font-size="14.00">WC &#45; EDA</text>
+</a>
+</g>
+</g>
+<!-- WC &#45; EDA&#45;&gt;Technology trustworthiness -->
+<g id="edge6" class="edge">
+<title>WC &#45; EDA&#45;&gt;Technology trustworthiness</title>
+<path fill="none" stroke="black" d="M298.96,-180C277.95,-180 252.63,-180 227.42,-180"/>
+<polygon fill="black" stroke="black" points="227.4,-176.5 217.4,-180 227.4,-183.5 227.4,-176.5"/>
+</g>
+<!-- SM &#45; EDA -->
+<g id="node5" class="node">
+<title>SM &#45; EDA</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="SM &#45; EDA" target="_blank">
+<ellipse fill="none" stroke="black" cx="350.57" cy="-126" rx="50.09" ry="18"/>
+<text text-anchor="middle" x="350.57" y="-122.3" font-family="Times,serif" font-size="14.00">SM &#45; EDA</text>
+</a>
+</g>
+</g>
+<!-- SM &#45; EDA&#45;&gt;Technology trustworthiness -->
+<g id="edge2" class="edge">
+<title>SM &#45; EDA&#45;&gt;Technology trustworthiness</title>
+<path fill="none" stroke="black" d="M307.76,-135.41C273.64,-143.08 224.57,-154.12 183.8,-163.29"/>
+<polygon fill="black" stroke="black" points="182.88,-159.91 173.89,-165.52 184.42,-166.74 182.88,-159.91"/>
 </g>
 <!-- Physiological synchrony -->
-<g id="node4" class="node">
+<g id="node6" class="node">
 <title>Physiological synchrony</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Physiological synchrony">
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Physiological synchrony" target="_blank">
 <ellipse fill="none" stroke="black" cx="350.57" cy="-396" rx="97.48" ry="18"/>
 <text text-anchor="middle" x="350.57" y="-392.3" font-family="Times,serif" font-size="14.00">Physiological synchrony</text>
 </a>
 </g>
 </g>
 <!-- Coh&#45;metrix indices -->
-<g id="node10" class="node">
+<g id="node9" class="node">
 <title>Coh&#45;metrix indices</title>
 <ellipse fill="none" stroke="black" cx="108.54" cy="-396" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="108.54" y="-392.3" font-family="Times,serif" font-size="14.00">Coh&#45;metrix indices</text>
@@ -82,63 +112,33 @@
 <polygon fill="black" stroke="black" points="197.9,-392.5 187.9,-396 197.9,-399.5 197.9,-392.5"/>
 </g>
 <!-- SM &#45; HR -->
-<g id="node5" class="node">
+<g id="node7" class="node">
 <title>SM &#45; HR</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="SM &#45; HR">
-<ellipse fill="none" stroke="black" cx="350.57" cy="-180" rx="44.39" ry="18"/>
-<text text-anchor="middle" x="350.57" y="-176.3" font-family="Times,serif" font-size="14.00">SM &#45; HR</text>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="SM &#45; HR" target="_blank">
+<ellipse fill="none" stroke="black" cx="350.57" cy="-72" rx="44.39" ry="18"/>
+<text text-anchor="middle" x="350.57" y="-68.3" font-family="Times,serif" font-size="14.00">SM &#45; HR</text>
 </a>
 </g>
 </g>
 <!-- SM &#45; HR&#45;&gt;Technology trustworthiness -->
 <g id="edge7" class="edge">
 <title>SM &#45; HR&#45;&gt;Technology trustworthiness</title>
-<path fill="none" stroke="black" d="M306.1,-180C283.9,-180 255.71,-180 227.65,-180"/>
-<polygon fill="black" stroke="black" points="227.33,-176.5 217.33,-180 227.33,-183.5 227.33,-176.5"/>
-</g>
-<!-- CC &#45; EDA -->
-<g id="node6" class="node">
-<title>CC &#45; EDA</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="CC &#45; EDA">
-<ellipse fill="none" stroke="black" cx="350.57" cy="-126" rx="48.19" ry="18"/>
-<text text-anchor="middle" x="350.57" y="-122.3" font-family="Times,serif" font-size="14.00">CC &#45; EDA</text>
-</a>
-</g>
-</g>
-<!-- CC &#45; EDA&#45;&gt;Technology trustworthiness -->
-<g id="edge5" class="edge">
-<title>CC &#45; EDA&#45;&gt;Technology trustworthiness</title>
-<path fill="none" stroke="black" d="M308.85,-135.16C274.75,-142.83 225.18,-153.98 184.01,-163.25"/>
-<polygon fill="black" stroke="black" points="183,-159.89 174.01,-165.5 184.54,-166.72 183,-159.89"/>
-</g>
-<!-- IDM &#45; HR -->
-<g id="node7" class="node">
-<title>IDM &#45; HR</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="IDM &#45; HR">
-<ellipse fill="none" stroke="black" cx="350.57" cy="-72" rx="48.19" ry="18"/>
-<text text-anchor="middle" x="350.57" y="-68.3" font-family="Times,serif" font-size="14.00">IDM &#45; HR</text>
-</a>
-</g>
-</g>
-<!-- IDM &#45; HR&#45;&gt;Technology trustworthiness -->
-<g id="edge8" class="edge">
-<title>IDM &#45; HR&#45;&gt;Technology trustworthiness</title>
-<path fill="none" stroke="black" d="M308.94,-81.05C291.42,-85.54 270.92,-91.6 253.08,-99 214.45,-115.03 173.13,-139.16 144.79,-156.92"/>
+<path fill="none" stroke="black" d="M311.28,-80.45C293.28,-85 271.72,-91.27 253.08,-99 214.45,-115.03 173.13,-139.16 144.79,-156.92"/>
 <polygon fill="black" stroke="black" points="142.65,-154.14 136.07,-162.44 146.39,-160.05 142.65,-154.14"/>
 </g>
-<!-- WC &#45; EDA -->
+<!-- DA &#45; EDA -->
 <g id="node8" class="node">
-<title>WC &#45; EDA</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="WC &#45; EDA">
-<ellipse fill="none" stroke="black" cx="350.57" cy="-18" rx="51.19" ry="18"/>
-<text text-anchor="middle" x="350.57" y="-14.3" font-family="Times,serif" font-size="14.00">WC &#45; EDA</text>
+<title>DA &#45; EDA</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="DA &#45; EDA" target="_blank">
+<ellipse fill="none" stroke="black" cx="350.57" cy="-18" rx="48.99" ry="18"/>
+<text text-anchor="middle" x="350.57" y="-14.3" font-family="Times,serif" font-size="14.00">DA &#45; EDA</text>
 </a>
 </g>
 </g>
-<!-- WC &#45; EDA&#45;&gt;Technology trustworthiness -->
-<g id="edge6" class="edge">
-<title>WC &#45; EDA&#45;&gt;Technology trustworthiness</title>
-<path fill="none" stroke="black" d="M304.09,-25.97C287.35,-30.1 268.68,-36.19 253.08,-45 202.7,-73.43 156.25,-123.21 130.51,-153.72"/>
+<!-- DA &#45; EDA&#45;&gt;Technology trustworthiness -->
+<g id="edge4" class="edge">
+<title>DA &#45; EDA&#45;&gt;Technology trustworthiness</title>
+<path fill="none" stroke="black" d="M306.03,-25.5C288.81,-29.63 269.29,-35.85 253.08,-45 202.7,-73.43 156.25,-123.21 130.51,-153.72"/>
 <polygon fill="black" stroke="black" points="127.52,-151.86 123.82,-161.79 132.9,-156.33 127.52,-151.86"/>
 </g>
 </g>
