@@ -5,38 +5,38 @@ digraph Test {
 	splines=true
 	{rank=same; "Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" "Total speech duration" "Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" "speech features" "Speaking turn features [x4]" "Times numbers were mentioned" "Times commands were pronounced" "Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" "speech rate" "transition probability between types of vocalisations" "Linguistic features [x300+]" "Mean audio level" "Times mathematical terms were mentioned" "Acoustic features [x13]" "linguistic features" "Audio level (AUD" "Number of interventions";}
 	{rank=same; "Odds of a student solving correctly a problem" "quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc" "Task Performance" "Group Performance (Negative distance between expert list and group list" "task performance" "collaborative problem solving" "artefact quality" "group performance scores";}
-	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" -> "Group Performance (Negative distance between expert list and group list"
-	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" -> "Group Performance (Negative distance between expert list and group list"
-	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
+	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" target=_blank]
 	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" -> "Group Performance (Negative distance between expert list and group list"
-	"speech features" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Group%20Performance%20in%20Task-Based%20Interaction"]
+	"speech features" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Group%20Performance%20in%20Task-Based%20Interaction" target=_blank]
 	"speech features" -> "group performance scores"
-	"linguistic features" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Group%20Performance%20in%20Task-Based%20Interaction"]
+	"linguistic features" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Group%20Performance%20in%20Task-Based%20Interaction" target=_blank]
 	"linguistic features" -> "group performance scores"
-	"Number of interventions" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Number of interventions" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Number of interventions" -> "Odds of a student solving correctly a problem"
-	"Total speech duration" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Total speech duration" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Total speech duration" -> "Odds of a student solving correctly a problem"
-	"Times numbers were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Times numbers were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Times numbers were mentioned" -> "Odds of a student solving correctly a problem"
-	"Times mathematical terms were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Times mathematical terms were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Times mathematical terms were mentioned" -> "Odds of a student solving correctly a problem"
-	"Times commands were pronounced" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
+	"Times commands were pronounced" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" target=_blank]
 	"Times commands were pronounced" -> "Odds of a student solving correctly a problem"
-	"transition probability between types of vocalisations" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
+	"transition probability between types of vocalisations" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." target=_blank]
 	"transition probability between types of vocalisations" -> "task performance"
-	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
+	"speech rate" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" target=_blank]
 	"speech rate" -> "Task Performance"
-	"Speaking turn features [x4]" [href="https://scholar.google.com/scholar?hl=en&q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions"]
+	"Speaking turn features [x4]" [href="https://scholar.google.com/scholar?hl=en&q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" target=_blank]
 	"Speaking turn features [x4]" -> "quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc"
-	"Acoustic features [x13]" [href="https://scholar.google.com/scholar?hl=en&q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions"]
+	"Acoustic features [x13]" [href="https://scholar.google.com/scholar?hl=en&q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" target=_blank]
 	"Acoustic features [x13]" -> "quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc"
-	"Linguistic features [x300+]" [href="https://scholar.google.com/scholar?hl=en&q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions"]
+	"Linguistic features [x300+]" [href="https://scholar.google.com/scholar?hl=en&q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" target=_blank]
 	"Linguistic features [x300+]" -> "quality of produced outcome (6 dimensions including length, originality, quality of presentation, etc"
-	"Mean audio level" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
+	"Mean audio level" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" target=_blank]
 	"Mean audio level" -> "artefact quality"
-	"Audio level (AUD" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features"]
+	"Audio level (AUD" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" target=_blank]
 	"Audio level (AUD" -> "collaborative problem solving"
 }
