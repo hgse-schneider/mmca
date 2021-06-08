@@ -1,0 +1,30 @@
+digraph world {
+    
+    size="10,3";
+    rankdir=RL;
+    
+    graph [fontname = "Times new roman"];    
+    node [fontname = "Times new roman", colorscheme=set28];    
+    edge [fontname = "Times new roman", colorscheme=set28];	
+    
+    "High Level"  [shape=plain, tooltip="22", fontsize=20, label="Outcome
+(larger category)  ", ];
+	"Medium Level" [shape=plain, tooltip="22", fontsize=20, label="Outcome
+(smaller category)  ", ];
+	"Lower Level" [shape=plain, tooltip="22", fontsize=20, label="Metric
+(larger category)  ", ];
+	"Raw Level" [shape=plain, tooltip="22", fontsize=20, label="Metric
+(smaller category)  ", ];
+
+	{rank=same; "Raw Level";}
+	{rank=same; "Lower Level";}
+	{rank=same; "High Level";}
+	{rank=same; "Medium Level";}
+
+	"Raw Level" -> "Lower Level" [labeltooltip=10, penwidth=2.0, label="color shows 
+modality  ",  color=1, ];
+	"Lower Level" -> "Medium Level" [labeltooltip=12, penwidth=2.4, label="Number of 
+connections  ", color=1, ];
+	"Medium Level" -> "High Level" [labeltooltip=5, penwidth=1.0, label="Width shows 
+ counts  ",];
+}
