@@ -3,7 +3,7 @@ Multimdal Collaborative Analytics (MMLA) - a literature review.
 
 Click on the nodes below to explore the relationship between high level categories (first column), types of collaborative metrics (second column), types of features (third column) and multimodal measures (fourth column): 
 
-<object type="image/svg+xml" data="graphviz/legend.svg"></object>
+<object type="image/svg+xml" data="graphviz/legend.svg" style="border:1px solid black;"></object>
 <object type="image/svg+xml" data="graphviz/index.svg"></object>
 
 **Legend**
