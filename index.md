@@ -1,1 +1,1 @@
-<object type="image/svg+xml" data="grahviz/index.svg"></object>
+<object type="image/svg+xml" data="graphviz/index.svg"></object>
