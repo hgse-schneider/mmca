@@ -3,26 +3,26 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Convergence measures" "target for discussion partner" "movement of objects including revisiting past actions" "symmetry of touch actions among group" "Sequences of meaningful actions" "total number of touch actions" "type of activity done in task" "card movements" "zooming" "scrolling";}
-	{rank=same; "Collaboration" "Quality of Collaboration" "Colloboration quality" "collaboration" "subjective perception of collaboration" "collaboration quality";}
-	"type of activity done in task" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "symmetry of touch actions among group" "movement of objects including revisiting past actions" "Sequences of meaningful actions" "scrolling" "total number of touch actions" "target for discussion partner" "card movements" "zooming" "Convergence measures" "type of activity done in task";}
+	{rank=same; "subjective perception of collaboration" "Collaboration" "collaboration" "Colloboration quality" "collaboration quality" "Quality of Collaboration";}
+	"type of activity done in task" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
 	"type of activity done in task" -> "subjective perception of collaboration"
-	"target for discussion partner" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"target for discussion partner" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
 	"target for discussion partner" -> "subjective perception of collaboration"
-	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
 	"Convergence measures" -> "Quality of Collaboration"
-	"Sequences of meaningful actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Sequences of meaningful actions" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop"]
 	"Sequences of meaningful actions" -> "Colloboration quality"
-	"card movements" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"card movements" [href="https://scholar.google.com/scholar?hl=en&q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features"]
 	"card movements" -> collaboration
-	scrolling [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	scrolling [href="https://scholar.google.com/scholar?hl=en&q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features"]
 	scrolling -> collaboration
-	zooming [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	zooming [href="https://scholar.google.com/scholar?hl=en&q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features"]
 	zooming -> collaboration
-	"total number of touch actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"total number of touch actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop"]
 	"total number of touch actions" -> Collaboration
-	"symmetry of touch actions among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"symmetry of touch actions among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop"]
 	"symmetry of touch actions among group" -> Collaboration
-	"movement of objects including revisiting past actions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"movement of objects including revisiting past actions" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration"]
 	"movement of objects including revisiting past actions" -> "collaboration quality"
 }

@@ -3,36 +3,36 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "physiological concordance index" "DA - EDA" "SM - HR" "IDM - HR" "EDA peak detection" "Physiological linkage" "physiological synchrony" "brain synchrony" "WC - EDA" "EDA synchrony" "IDM - EDA" "heart rate sychrony" "CC - EDA" "SM - EDA";}
-	{rank=same; "Monitoring of behavior, cognition, motivations and emotions" "Behavioral Involvement" "collaboration quality" "Self-rated workload" "Engagement" "Task interest" "Mental effort";}
-	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "SM - EDA" "heart rate sychrony" "EDA peak detection" "WC - EDA" "Physiological linkage" "IDM - HR" "CC - EDA" "physiological concordance index" "physiological synchrony" "EDA synchrony" "IDM - EDA" "DA - EDA" "brain synchrony" "SM - HR";}
+	{rank=same; "Self-rated workload" "Behavioral Involvement" "Monitoring of behavior, cognition, motivations and emotions" "collaboration quality" "Task interest" "Engagement" "Mental effort";}
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
 	"Physiological linkage" -> "Behavioral Involvement"
-	"EDA peak detection" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"EDA peak detection" [href="https://scholar.google.com/scholar?hl=en&q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam"]
 	"EDA peak detection" -> "Monitoring of behavior, cognition, motivations and emotions"
-	"physiological concordance index" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological concordance index" [href="https://scholar.google.com/scholar?hl=en&q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam"]
 	"physiological concordance index" -> "Monitoring of behavior, cognition, motivations and emotions"
-	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
 	"SM - EDA" -> "Self-rated workload"
-	"IDM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"IDM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
 	"IDM - EDA" -> "Self-rated workload"
-	"DA - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"DA - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
 	"DA - EDA" -> "Self-rated workload"
-	"CC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"CC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
 	"CC - EDA" -> "Self-rated workload"
-	"WC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"WC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
 	"WC - EDA" -> "Self-rated workload"
-	"SM - HR" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"SM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
 	"SM - HR" -> "Self-rated workload"
-	"IDM - HR" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"IDM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
 	"IDM - HR" -> "Self-rated workload"
-	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?"]
 	"physiological synchrony" -> "Mental effort"
-	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?"]
 	"physiological synchrony" -> "Task interest"
-	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Brain-to-Brain%20Synchrony%20Tracks%20Real-World%20Dynamic%20Group%20Interactions%20in%20the%20Classroom"]
 	"brain synchrony" -> Engagement
-	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors"]
 	"EDA synchrony" -> "collaboration quality"
-	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors"]
 	"heart rate sychrony" -> "collaboration quality"
 }

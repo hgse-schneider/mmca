@@ -3,38 +3,38 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "joint visual attention" "Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" "Individual Visual Focus of Attention" "visual focus of attention" "joint-visual attention" "visual attention metrics [8 metrics]" "Joint visual attention" "Joint visual Attention" "Network features [+20]" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" "shared gaze" "Cycles of collaborative / individual work" "visual field of attention on a person features";}
-	{rank=same; "identity of emergent leader" "Perception of leadership and dominance from external observers" "Quality of Collaboration" "Ranked dominance" "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking" "Contribution perceived" "Emerging leadership (surveyed" "collaboration quality" "quality of collaboration" "Leadership perceived";}
-	"visual attention metrics [8 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "visual field of attention on a person features" "Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" "Joint visual Attention" "joint-visual attention" "Individual Visual Focus of Attention" "Joint visual attention" "Cycles of collaborative / individual work" "visual focus of attention" "visual attention metrics [8 metrics]" "joint visual attention" "Network features [+20]" "shared gaze" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew";}
+	{rank=same; "Contribution perceived" "quality of collaboration" "identity of emergent leader" "Emerging leadership (surveyed" "Perception of leadership and dominance from external observers" "Leadership perceived" "Ranked dominance" "collaboration quality" "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking" "Quality of Collaboration";}
+	"visual attention metrics [8 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis"]
 	"visual attention metrics [8 metrics]" -> "Leadership perceived"
-	"visual attention metrics [8 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"visual attention metrics [8 metrics]" [href="https://scholar.google.com/scholar?hl=en&q=A%20Multimodal-Sensor-Enabled%20Room%20for%20Unobtrusive%20Group%20Meeting%20Analysis"]
 	"visual attention metrics [8 metrics]" -> "Contribution perceived"
-	"Individual Visual Focus of Attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Individual Visual Focus of Attention" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Individual Visual Focus of Attention" -> "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking"
-	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" -> "Group Interpersonal Perception (Perceived Dominance, Perceived Leadership, Perceived Competence, Perceived Liking"
-	"Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" [href="https://scholar.google.com/scholar?hl=en&q=Emergent%20leaders%20through%20looking%20and%20speaking:%20from%20audio-visual%20data%20to%20multimodal%20recognition"]
 	"Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" -> "Perception of leadership and dominance from external observers"
-	"Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" [href="https://scholar.google.com/scholar?hl=en&q=Emergent%20leaders%20through%20looking%20and%20speaking:%20from%20audio-visual%20data%20to%20multimodal%20recognition"]
 	"Audio-visual (Looking while speaking, Looking while listening, Being looked while speaking, Center of attention while speaking, Visual dominance ratio" -> "Ranked dominance"
-	"visual focus of attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"visual focus of attention" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception"]
 	"visual focus of attention" -> "identity of emergent leader"
-	"visual field of attention on a person features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"visual field of attention on a person features" [href="https://scholar.google.com/scholar?hl=en&q=Detecting%20Emergent%20Leader%20in%20a%20Meeting%20Environment"]
 	"visual field of attention on a person features" -> "Emerging leadership (surveyed"
-	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Eye-Tracking%20Technology%20to%20Support%20Visual%20Coordination%20in%20Collaborative%20Problem-Solving%20Groups"]
 	"Joint visual attention" -> "Quality of Collaboration"
-	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
 	"Joint visual attention" -> "Quality of Collaboration"
-	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning"]
 	"Joint visual Attention" -> "collaboration quality"
-	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning"]
 	"Cycles of collaborative / individual work" -> "collaboration quality"
-	"Network features [+20]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Network features [+20]" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Collaboration%20Sensing"]
 	"Network features [+20]" -> "collaboration quality"
-	"joint-visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"joint-visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20Collaborative%20Learning%20Processes%20during%20Hands-on%20Activities%20using%20Mobile%20Eye-Trackers"]
 	"joint-visual attention" -> "collaboration quality"
-	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads"]
 	"joint visual attention" -> "collaboration quality"
-	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations"]
 	"shared gaze" -> "quality of collaboration"
 }

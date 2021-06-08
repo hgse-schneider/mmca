@@ -3,36 +3,36 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "target for discussion partner" "Average stroke pressure" "Average stroke time length" "Arduino active hardware blocks" "type of activity done in task" "Total number of pen strokes" "Calculator Use" "Arduino measure of complexity" "Average number of points" "Average stroke path length" "events" "Arduino active software blocks" "Arduino active blocks" "Average stroke displacement" "student work phases";}
-	{rank=same; "group performance" "artefact quality" "task success score" "Odds of a student solving correctly a problem";}
-	events [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "Total number of pen strokes" "Average stroke time length" "Arduino active blocks" "Arduino active software blocks" "Arduino measure of complexity" "Average stroke pressure" "Average stroke path length" "Arduino active hardware blocks" "target for discussion partner" "Calculator Use" "Average stroke displacement" "student work phases" "Average number of points" "events" "type of activity done in task";}
+	{rank=same; "task success score" "group performance" "artefact quality" "Odds of a student solving correctly a problem";}
+	events [href="https://scholar.google.com/scholar?hl=en&q=Analysing%20frequent%20sequential%20patterns%20of%20collaborative%20learning%20activity%20around%20an%20interactive%20tabletop"]
 	events -> "group performance"
-	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Calculator Use" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Calculator Use" -> "Odds of a student solving correctly a problem"
-	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Total number of pen strokes" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Total number of pen strokes" -> "Odds of a student solving correctly a problem"
-	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average number of points" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Average number of points" -> "Odds of a student solving correctly a problem"
-	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average stroke time length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Average stroke time length" -> "Odds of a student solving correctly a problem"
-	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average stroke path length" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Average stroke path length" -> "Odds of a student solving correctly a problem"
-	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average stroke displacement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Average stroke displacement" -> "Odds of a student solving correctly a problem"
-	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Average stroke pressure" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Average stroke pressure" -> "Odds of a student solving correctly a problem"
-	"Arduino measure of complexity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Arduino measure of complexity" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
 	"Arduino measure of complexity" -> "artefact quality"
-	"Arduino active hardware blocks" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Arduino active hardware blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
 	"Arduino active hardware blocks" -> "artefact quality"
-	"Arduino active software blocks" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Arduino active software blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
 	"Arduino active software blocks" -> "artefact quality"
-	"Arduino active blocks" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Arduino active blocks" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
 	"Arduino active blocks" -> "artefact quality"
-	"student work phases" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"student work phases" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
 	"student work phases" -> "artefact quality"
-	"type of activity done in task" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"type of activity done in task" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
 	"type of activity done in task" -> "task success score"
-	"target for discussion partner" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"target for discussion partner" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
 	"target for discussion partner" -> "task success score"
 }

@@ -9,160 +9,94 @@
 <g id="graph0" class="graph" transform="scale(0.57 0.57) rotate(0) translate(4 526)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-526 1881.94,-526 1881.94,4 -4,4"/>
-<!-- Individual Visual Focus of Attention -->
+<!-- visual field of attention on a person features -->
 <g id="node1" class="node">
-<title>Individual Visual Focus of Attention</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Individual Visual Focus of Attention">
-<ellipse fill="none" stroke="black" cx="1365.13" cy="-72" rx="140.28" ry="18"/>
-<text text-anchor="middle" x="1365.13" y="-68.3" font-family="Times,serif" font-size="14.00">Individual Visual Focus of Attention</text>
+<title>visual field of attention on a person features</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Detecting%20Emergent%20Leader%20in%20a%20Meeting%20Environment" xlink:title="visual field of attention on a person features">
+<ellipse fill="none" stroke="black" cx="1365.13" cy="-18" rx="166.27" ry="18"/>
+<text text-anchor="middle" x="1365.13" y="-14.3" font-family="Times,serif" font-size="14.00">visual field of attention on a person features</text>
 </a>
 </g>
 </g>
-<!-- Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
-<g id="node11" class="node">
-<title>Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-45" rx="408.33" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-41.3" font-family="Times,serif" font-size="14.00">Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</text>
+<!-- Emerging leadership (observed -->
+<g id="node13" class="node">
+<title>Emerging leadership (observed</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-18" rx="121.58" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-14.3" font-family="Times,serif" font-size="14.00">Emerging leadership (observed</text>
 </g>
-<!-- Individual Visual Focus of Attention&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
-<g id="edge1" class="edge">
-<title>Individual Visual Focus of Attention&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
-<path fill="none" stroke="black" d="M1227.82,-68.15C1106.67,-64.72 924.19,-59.56 762.24,-54.98"/>
-<polygon fill="black" stroke="black" points="762.19,-51.48 752.1,-54.7 761.99,-58.48 762.19,-51.48"/>
+<!-- visual field of attention on a person features&#45;&gt;Emerging leadership (observed -->
+<g id="edge8" class="edge">
+<title>visual field of attention on a person features&#45;&gt;Emerging leadership (observed</title>
+<path fill="none" stroke="black" d="M1198.61,-18C1011.7,-18 711.39,-18 540.08,-18"/>
+<polygon fill="black" stroke="black" points="540,-14.5 530,-18 540,-21.5 540,-14.5"/>
 </g>
-<!-- Gaze saccade -->
+<!-- Gaze fixation -->
 <g id="node2" class="node">
-<title>Gaze saccade</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze saccade">
-<ellipse fill="none" stroke="black" cx="1365.13" cy="-234" rx="58.49" ry="18"/>
-<text text-anchor="middle" x="1365.13" y="-230.3" font-family="Times,serif" font-size="14.00">Gaze saccade</text>
+<title>Gaze fixation</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris" xlink:title="Gaze fixation">
+<ellipse fill="none" stroke="black" cx="1365.13" cy="-180" rx="57.69" ry="18"/>
+<text text-anchor="middle" x="1365.13" y="-176.3" font-family="Times,serif" font-size="14.00">Gaze fixation</text>
 </a>
 </g>
 </g>
 <!-- social context -->
 <g id="node12" class="node">
 <title>social context</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-180" rx="59.59" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-176.3" font-family="Times,serif" font-size="14.00">social context</text>
-</g>
-<!-- Gaze saccade&#45;&gt;social context -->
-<g id="edge5" class="edge">
-<title>Gaze saccade&#45;&gt;social context</title>
-<path fill="none" stroke="black" d="M1307.32,-231.15C1212.87,-226.39 1017.56,-216.39 852.33,-207 719.27,-199.44 563.79,-189.77 476.87,-184.3"/>
-<polygon fill="black" stroke="black" points="477.07,-180.8 466.87,-183.67 476.63,-187.79 477.07,-180.8"/>
-</g>
-<!-- attention received per person -->
-<g id="node3" class="node">
-<title>attention received per person</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="attention received per person">
-<ellipse fill="none" stroke="black" cx="1365.13" cy="-342" rx="113.18" ry="18"/>
-<text text-anchor="middle" x="1365.13" y="-338.3" font-family="Times,serif" font-size="14.00">attention received per person</text>
-</a>
-</g>
-</g>
-<!-- extraversion rating -->
-<g id="node14" class="node">
-<title>extraversion rating</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-315" rx="77.19" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-311.3" font-family="Times,serif" font-size="14.00">extraversion rating</text>
-</g>
-<!-- attention received per person&#45;&gt;extraversion rating -->
-<g id="edge9" class="edge">
-<title>attention received per person&#45;&gt;extraversion rating</title>
-<path fill="none" stroke="black" d="M1253.65,-338.88C1061.34,-333.44 669.02,-322.35 495.27,-317.43"/>
-<polygon fill="black" stroke="black" points="495.25,-313.93 485.15,-317.15 495.05,-320.93 495.25,-313.93"/>
-</g>
-<!-- Gaze -->
-<g id="node4" class="node">
-<title>Gaze</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze">
-<ellipse fill="none" stroke="black" cx="1365.13" cy="-396" rx="28.7" ry="18"/>
-<text text-anchor="middle" x="1365.13" y="-392.3" font-family="Times,serif" font-size="14.00">Gaze</text>
-</a>
-</g>
-</g>
-<!-- Big Five personality traits scores -->
-<g id="node15" class="node">
-<title>Big Five personality traits scores</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-396" rx="127.28" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-392.3" font-family="Times,serif" font-size="14.00">Big Five personality traits scores</text>
-</g>
-<!-- Gaze&#45;&gt;Big Five personality traits scores -->
-<g id="edge3" class="edge">
-<title>Gaze&#45;&gt;Big Five personality traits scores</title>
-<path fill="none" stroke="black" d="M1336.33,-396C1220.86,-396 774.61,-396 545.95,-396"/>
-<polygon fill="black" stroke="black" points="545.89,-392.5 535.89,-396 545.89,-399.5 545.89,-392.5"/>
-</g>
-<!-- Gaze fixation -->
-<g id="node5" class="node">
-<title>Gaze fixation</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze fixation">
-<ellipse fill="none" stroke="black" cx="1365.13" cy="-180" rx="57.69" ry="18"/>
-<text text-anchor="middle" x="1365.13" y="-176.3" font-family="Times,serif" font-size="14.00">Gaze fixation</text>
-</a>
-</g>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-126" rx="59.59" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-122.3" font-family="Times,serif" font-size="14.00">social context</text>
 </g>
 <!-- Gaze fixation&#45;&gt;social context -->
 <g id="edge6" class="edge">
 <title>Gaze fixation&#45;&gt;social context</title>
-<path fill="none" stroke="black" d="M1307.25,-180C1141.43,-180 658.8,-180 478.33,-180"/>
-<polygon fill="black" stroke="black" points="478.17,-176.5 468.17,-180 478.17,-183.5 478.17,-176.5"/>
+<path fill="none" stroke="black" d="M1307.7,-177.17C1213.39,-172.42 1017.78,-162.4 852.33,-153 719.27,-145.44 563.79,-135.77 476.87,-130.3"/>
+<polygon fill="black" stroke="black" points="477.07,-126.8 466.87,-129.67 476.63,-133.79 477.07,-126.8"/>
 </g>
 <!-- attention given by person -->
-<g id="node6" class="node">
+<g id="node3" class="node">
 <title>attention given by person</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="attention given by person">
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait" xlink:title="attention given by person">
 <ellipse fill="none" stroke="black" cx="1365.13" cy="-288" rx="100.98" ry="18"/>
 <text text-anchor="middle" x="1365.13" y="-284.3" font-family="Times,serif" font-size="14.00">attention given by person</text>
 </a>
 </g>
 </g>
+<!-- extraversion rating -->
+<g id="node16" class="node">
+<title>extraversion rating</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-261" rx="77.19" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-257.3" font-family="Times,serif" font-size="14.00">extraversion rating</text>
+</g>
 <!-- attention given by person&#45;&gt;extraversion rating -->
 <g id="edge10" class="edge">
 <title>attention given by person&#45;&gt;extraversion rating</title>
-<path fill="none" stroke="black" d="M1265.53,-290.79C1077.96,-296.09 672.67,-307.55 495.27,-312.57"/>
-<polygon fill="black" stroke="black" points="495.09,-309.07 485.2,-312.85 495.29,-316.07 495.09,-309.07"/>
-</g>
-<!-- Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew -->
-<g id="node7" class="node">
-<title>Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew">
-<ellipse fill="none" stroke="black" cx="1365.13" cy="-18" rx="512.61" ry="18"/>
-<text text-anchor="middle" x="1365.13" y="-14.3" font-family="Times,serif" font-size="14.00">Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew</text>
-</a>
-</g>
-</g>
-<!-- Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
-<g id="edge2" class="edge">
-<title>Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
-<path fill="none" stroke="black" d="M965.36,-29.27C897.99,-31.18 828.46,-33.15 762.35,-35.01"/>
-<polygon fill="black" stroke="black" points="762.09,-31.52 752.2,-35.3 762.29,-38.52 762.09,-31.52"/>
+<path fill="none" stroke="black" d="M1265.53,-285.21C1077.96,-279.91 672.67,-268.45 495.27,-263.43"/>
+<polygon fill="black" stroke="black" points="495.29,-259.93 485.2,-263.15 495.09,-266.93 495.29,-259.93"/>
 </g>
 <!-- visual focus of attention features -->
-<g id="node8" class="node">
+<g id="node4" class="node">
 <title>visual focus of attention features</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="visual focus of attention features">
-<ellipse fill="none" stroke="black" cx="1365.13" cy="-450" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="1365.13" y="-446.3" font-family="Times,serif" font-size="14.00">visual focus of attention features</text>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Investigating%20Automatic%20Dominance%20Estimation%20in%20Groups%20From%20Visual%20Attention%20and%20Speaking%20Activity" xlink:title="visual focus of attention features">
+<ellipse fill="none" stroke="black" cx="1365.13" cy="-342" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="1365.13" y="-338.3" font-family="Times,serif" font-size="14.00">visual focus of attention features</text>
 </a>
 </g>
 </g>
 <!-- Visual Dominance Ratio -->
-<g id="node16" class="node">
+<g id="node15" class="node">
 <title>Visual Dominance Ratio</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-450" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-446.3" font-family="Times,serif" font-size="14.00">Visual Dominance Ratio</text>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-342" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-338.3" font-family="Times,serif" font-size="14.00">Visual Dominance Ratio</text>
 </g>
 <!-- visual focus of attention features&#45;&gt;Visual Dominance Ratio -->
 <g id="edge7" class="edge">
 <title>visual focus of attention features&#45;&gt;Visual Dominance Ratio</title>
-<path fill="none" stroke="black" d="M1238.8,-450C1049.92,-450 695.51,-450 517.31,-450"/>
-<polygon fill="black" stroke="black" points="517.13,-446.5 507.13,-450 517.13,-453.5 517.13,-446.5"/>
+<path fill="none" stroke="black" d="M1238.8,-342C1049.92,-342 695.51,-342 517.31,-342"/>
+<polygon fill="black" stroke="black" points="517.13,-338.5 507.13,-342 517.13,-345.5 517.13,-338.5"/>
 </g>
 <!-- Gaze location -->
-<g id="node9" class="node">
+<g id="node5" class="node">
 <title>Gaze location</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Gaze location">
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris" xlink:title="Gaze location">
 <ellipse fill="none" stroke="black" cx="1365.13" cy="-126" rx="59.59" ry="18"/>
 <text text-anchor="middle" x="1365.13" y="-122.3" font-family="Times,serif" font-size="14.00">Gaze location</text>
 </a>
@@ -171,29 +105,95 @@
 <!-- Gaze location&#45;&gt;social context -->
 <g id="edge4" class="edge">
 <title>Gaze location&#45;&gt;social context</title>
-<path fill="none" stroke="black" d="M1305.79,-128.92C1210.77,-133.72 1016.67,-143.66 852.33,-153 719.27,-160.56 563.79,-170.23 476.87,-175.7"/>
-<polygon fill="black" stroke="black" points="476.63,-172.21 466.87,-176.33 477.07,-179.2 476.63,-172.21"/>
+<path fill="none" stroke="black" d="M1305.12,-126C1137.28,-126 657.81,-126 478.21,-126"/>
+<polygon fill="black" stroke="black" points="478.09,-122.5 468.09,-126 478.09,-129.5 478.09,-122.5"/>
 </g>
-<!-- visual field of attention on a person features -->
-<g id="node10" class="node">
-<title>visual field of attention on a person features</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="visual field of attention on a person features">
-<ellipse fill="none" stroke="black" cx="1365.13" cy="-504" rx="166.27" ry="18"/>
-<text text-anchor="middle" x="1365.13" y="-500.3" font-family="Times,serif" font-size="14.00">visual field of attention on a person features</text>
+<!-- Gaze saccade -->
+<g id="node6" class="node">
+<title>Gaze saccade</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris" xlink:title="Gaze saccade">
+<ellipse fill="none" stroke="black" cx="1365.13" cy="-72" rx="58.49" ry="18"/>
+<text text-anchor="middle" x="1365.13" y="-68.3" font-family="Times,serif" font-size="14.00">Gaze saccade</text>
 </a>
 </g>
 </g>
-<!-- Emerging leadership (observed -->
-<g id="node13" class="node">
-<title>Emerging leadership (observed</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-504" rx="121.58" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-500.3" font-family="Times,serif" font-size="14.00">Emerging leadership (observed</text>
+<!-- Gaze saccade&#45;&gt;social context -->
+<g id="edge5" class="edge">
+<title>Gaze saccade&#45;&gt;social context</title>
+<path fill="none" stroke="black" d="M1307.32,-74.85C1212.87,-79.61 1017.56,-89.61 852.33,-99 719.27,-106.56 563.79,-116.23 476.87,-121.7"/>
+<polygon fill="black" stroke="black" points="476.63,-118.21 466.87,-122.33 477.07,-125.2 476.63,-118.21"/>
 </g>
-<!-- visual field of attention on a person features&#45;&gt;Emerging leadership (observed -->
-<g id="edge8" class="edge">
-<title>visual field of attention on a person features&#45;&gt;Emerging leadership (observed</title>
-<path fill="none" stroke="black" d="M1198.61,-504C1011.7,-504 711.39,-504 540.08,-504"/>
-<polygon fill="black" stroke="black" points="540,-500.5 530,-504 540,-507.5 540,-500.5"/>
+<!-- Individual Visual Focus of Attention -->
+<g id="node7" class="node">
+<title>Individual Visual Focus of Attention</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Individual Visual Focus of Attention">
+<ellipse fill="none" stroke="black" cx="1365.13" cy="-450" rx="140.28" ry="18"/>
+<text text-anchor="middle" x="1365.13" y="-446.3" font-family="Times,serif" font-size="14.00">Individual Visual Focus of Attention</text>
+</a>
+</g>
+</g>
+<!-- Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
+<g id="node11" class="node">
+<title>Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-423" rx="408.33" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-419.3" font-family="Times,serif" font-size="14.00">Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</text>
+</g>
+<!-- Individual Visual Focus of Attention&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
+<g id="edge1" class="edge">
+<title>Individual Visual Focus of Attention&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
+<path fill="none" stroke="black" d="M1227.82,-446.15C1106.67,-442.72 924.19,-437.56 762.24,-432.98"/>
+<polygon fill="black" stroke="black" points="762.19,-429.48 752.1,-432.7 761.99,-436.48 762.19,-429.48"/>
+</g>
+<!-- attention received per person -->
+<g id="node8" class="node">
+<title>attention received per person</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait" xlink:title="attention received per person">
+<ellipse fill="none" stroke="black" cx="1365.13" cy="-234" rx="113.18" ry="18"/>
+<text text-anchor="middle" x="1365.13" y="-230.3" font-family="Times,serif" font-size="14.00">attention received per person</text>
+</a>
+</g>
+</g>
+<!-- attention received per person&#45;&gt;extraversion rating -->
+<g id="edge9" class="edge">
+<title>attention received per person&#45;&gt;extraversion rating</title>
+<path fill="none" stroke="black" d="M1253.65,-237.12C1061.34,-242.56 669.02,-253.65 495.27,-258.57"/>
+<polygon fill="black" stroke="black" points="495.05,-255.07 485.15,-258.85 495.25,-262.07 495.05,-255.07"/>
+</g>
+<!-- Gaze -->
+<g id="node9" class="node">
+<title>Gaze</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" xlink:title="Gaze">
+<ellipse fill="none" stroke="black" cx="1365.13" cy="-504" rx="28.7" ry="18"/>
+<text text-anchor="middle" x="1365.13" y="-500.3" font-family="Times,serif" font-size="14.00">Gaze</text>
+</a>
+</g>
+</g>
+<!-- Big Five personality traits scores -->
+<g id="node14" class="node">
+<title>Big Five personality traits scores</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-504" rx="127.28" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-500.3" font-family="Times,serif" font-size="14.00">Big Five personality traits scores</text>
+</g>
+<!-- Gaze&#45;&gt;Big Five personality traits scores -->
+<g id="edge3" class="edge">
+<title>Gaze&#45;&gt;Big Five personality traits scores</title>
+<path fill="none" stroke="black" d="M1336.33,-504C1220.86,-504 774.61,-504 545.95,-504"/>
+<polygon fill="black" stroke="black" points="545.89,-500.5 535.89,-504 545.89,-507.5 545.89,-500.5"/>
+</g>
+<!-- Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew -->
+<g id="node10" class="node">
+<title>Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew</title>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew">
+<ellipse fill="none" stroke="black" cx="1365.13" cy="-396" rx="512.61" ry="18"/>
+<text text-anchor="middle" x="1365.13" y="-392.3" font-family="Times,serif" font-size="14.00">Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew</text>
+</a>
+</g>
+</g>
+<!-- Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
+<g id="edge2" class="edge">
+<title>Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
+<path fill="none" stroke="black" d="M965.36,-407.27C897.99,-409.18 828.46,-411.15 762.35,-413.01"/>
+<polygon fill="black" stroke="black" points="762.09,-409.52 752.2,-413.3 762.29,-416.52 762.09,-409.52"/>
 </g>
 </g>
 </svg>

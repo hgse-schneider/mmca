@@ -9,125 +9,125 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 310)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-310 484.56,-310 484.56,4 -4,4"/>
-<!-- Convergence measures -->
-<g id="node1" class="node">
-<title>Convergence measures</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Convergence measures">
-<ellipse fill="none" stroke="black" cx="384.37" cy="-180" rx="92.88" ry="18"/>
-<text text-anchor="middle" x="384.37" y="-176.3" font-family="Times,serif" font-size="14.00">Convergence measures</text>
-</a>
-</g>
-</g>
-<!-- Learning gains -->
-<g id="node8" class="node">
-<title>Learning gains</title>
-<ellipse fill="none" stroke="black" cx="126.09" cy="-99" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="126.09" y="-95.3" font-family="Times,serif" font-size="14.00">Learning gains</text>
-</g>
-<!-- Convergence measures&#45;&gt;Learning gains -->
-<g id="edge1" class="edge">
-<title>Convergence measures&#45;&gt;Learning gains</title>
-<path fill="none" stroke="black" d="M329.87,-165.3C316.24,-161.43 301.63,-157.16 288.18,-153 250.51,-141.35 208.26,-127.14 176.48,-116.23"/>
-<polygon fill="black" stroke="black" points="177.57,-112.9 166.97,-112.95 175.29,-119.52 177.57,-112.9"/>
-</g>
 <!-- types of exploration -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>types of exploration</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="types of exploration">
-<ellipse fill="none" stroke="black" cx="384.37" cy="-288" rx="81.49" ry="18"/>
-<text text-anchor="middle" x="384.37" y="-284.3" font-family="Times,serif" font-size="14.00">types of exploration</text>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="types of exploration">
+<ellipse fill="none" stroke="black" cx="384.37" cy="-72" rx="81.49" ry="18"/>
+<text text-anchor="middle" x="384.37" y="-68.3" font-family="Times,serif" font-size="14.00">types of exploration</text>
 </a>
 </g>
-</g>
-<!-- learning gains -->
-<g id="node7" class="node">
-<title>learning gains</title>
-<ellipse fill="none" stroke="black" cx="126.09" cy="-288" rx="60.39" ry="18"/>
-<text text-anchor="middle" x="126.09" y="-284.3" font-family="Times,serif" font-size="14.00">learning gains</text>
-</g>
-<!-- types of exploration&#45;&gt;learning gains -->
-<g id="edge6" class="edge">
-<title>types of exploration&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M302.98,-288C269.07,-288 229.96,-288 197.24,-288"/>
-<polygon fill="black" stroke="black" points="196.85,-284.5 186.85,-288 196.85,-291.5 196.85,-284.5"/>
 </g>
 <!-- learning gain group (high or low -->
-<g id="node9" class="node">
+<g id="node8" class="node">
 <title>learning gain group (high or low</title>
-<ellipse fill="none" stroke="black" cx="126.09" cy="-234" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="126.09" y="-230.3" font-family="Times,serif" font-size="14.00">learning gain group (high or low</text>
+<ellipse fill="none" stroke="black" cx="126.09" cy="-72" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="126.09" y="-68.3" font-family="Times,serif" font-size="14.00">learning gain group (high or low</text>
 </g>
 <!-- types of exploration&#45;&gt;learning gain group (high or low -->
 <g id="edge8" class="edge">
 <title>types of exploration&#45;&gt;learning gain group (high or low</title>
-<path fill="none" stroke="black" d="M324.89,-275.68C290.18,-268.36 245.66,-258.98 207.65,-250.97"/>
-<polygon fill="black" stroke="black" points="208.13,-247.5 197.63,-248.86 206.69,-254.35 208.13,-247.5"/>
+<path fill="none" stroke="black" d="M302.98,-72C289.99,-72 276.23,-72 262.36,-72"/>
+<polygon fill="black" stroke="black" points="262.25,-68.5 252.25,-72 262.25,-75.5 262.25,-68.5"/>
+</g>
+<!-- learning gains -->
+<g id="node9" class="node">
+<title>learning gains</title>
+<ellipse fill="none" stroke="black" cx="126.09" cy="-18" rx="60.39" ry="18"/>
+<text text-anchor="middle" x="126.09" y="-14.3" font-family="Times,serif" font-size="14.00">learning gains</text>
+</g>
+<!-- types of exploration&#45;&gt;learning gains -->
+<g id="edge6" class="edge">
+<title>types of exploration&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M324.89,-59.68C283.27,-50.91 227.55,-39.17 185.86,-30.38"/>
+<polygon fill="black" stroke="black" points="186.35,-26.91 175.85,-28.27 184.91,-33.76 186.35,-26.91"/>
+</g>
+<!-- N&#45;grams -->
+<g id="node2" class="node">
+<title>N&#45;grams</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="N&#45;grams">
+<ellipse fill="none" stroke="black" cx="384.37" cy="-288" rx="42.49" ry="18"/>
+<text text-anchor="middle" x="384.37" y="-284.3" font-family="Times,serif" font-size="14.00">N&#45;grams</text>
+</a>
+</g>
+</g>
+<!-- Learning gains -->
+<g id="node7" class="node">
+<title>Learning gains</title>
+<ellipse fill="none" stroke="black" cx="126.09" cy="-207" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="126.09" y="-203.3" font-family="Times,serif" font-size="14.00">Learning gains</text>
+</g>
+<!-- N&#45;grams&#45;&gt;Learning gains -->
+<g id="edge3" class="edge">
+<title>N&#45;grams&#45;&gt;Learning gains</title>
+<path fill="none" stroke="black" d="M348.44,-278.52C330.39,-273.51 308.04,-267.14 288.18,-261 250.51,-249.35 208.26,-235.14 176.48,-224.23"/>
+<polygon fill="black" stroke="black" points="177.57,-220.9 166.97,-220.95 175.29,-227.52 177.57,-220.9"/>
 </g>
 <!-- Cosine similarity scores -->
 <g id="node3" class="node">
 <title>Cosine similarity scores</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Cosine similarity scores">
-<ellipse fill="none" stroke="black" cx="384.37" cy="-126" rx="96.38" ry="18"/>
-<text text-anchor="middle" x="384.37" y="-122.3" font-family="Times,serif" font-size="14.00">Cosine similarity scores</text>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="Cosine similarity scores">
+<ellipse fill="none" stroke="black" cx="384.37" cy="-234" rx="96.38" ry="18"/>
+<text text-anchor="middle" x="384.37" y="-230.3" font-family="Times,serif" font-size="14.00">Cosine similarity scores</text>
 </a>
 </g>
 </g>
 <!-- Cosine similarity scores&#45;&gt;Learning gains -->
 <g id="edge4" class="edge">
 <title>Cosine similarity scores&#45;&gt;Learning gains</title>
-<path fill="none" stroke="black" d="M300.16,-117.23C266.53,-113.69 228.17,-109.65 196.13,-106.27"/>
-<polygon fill="black" stroke="black" points="196.27,-102.77 185.96,-105.2 195.54,-109.73 196.27,-102.77"/>
+<path fill="none" stroke="black" d="M300.16,-225.23C266.53,-221.69 228.17,-217.65 196.13,-214.27"/>
+<polygon fill="black" stroke="black" points="196.27,-210.77 185.96,-213.2 195.54,-217.73 196.27,-210.77"/>
+</g>
+<!-- amount of exploration -->
+<g id="node4" class="node">
+<title>amount of exploration</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Unraveling%20Students&#39;%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics." xlink:title="amount of exploration">
+<ellipse fill="none" stroke="black" cx="384.37" cy="-18" rx="89.88" ry="18"/>
+<text text-anchor="middle" x="384.37" y="-14.3" font-family="Times,serif" font-size="14.00">amount of exploration</text>
+</a>
+</g>
+</g>
+<!-- amount of exploration&#45;&gt;learning gain group (high or low -->
+<g id="edge7" class="edge">
+<title>amount of exploration&#45;&gt;learning gain group (high or low</title>
+<path fill="none" stroke="black" d="M321.98,-30.93C287.87,-38.12 245.01,-47.15 208.17,-54.92"/>
+<polygon fill="black" stroke="black" points="207.01,-51.58 197.95,-57.07 208.46,-58.43 207.01,-51.58"/>
+</g>
+<!-- amount of exploration&#45;&gt;learning gains -->
+<g id="edge5" class="edge">
+<title>amount of exploration&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M294.45,-18C262.64,-18 227.26,-18 197.25,-18"/>
+<polygon fill="black" stroke="black" points="196.87,-14.5 186.87,-18 196.87,-21.5 196.87,-14.5"/>
 </g>
 <!-- Coherence metrics -->
-<g id="node4" class="node">
+<g id="node5" class="node">
 <title>Coherence metrics</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Coherence metrics">
-<ellipse fill="none" stroke="black" cx="384.37" cy="-72" rx="77.19" ry="18"/>
-<text text-anchor="middle" x="384.37" y="-68.3" font-family="Times,serif" font-size="14.00">Coherence metrics</text>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="Coherence metrics">
+<ellipse fill="none" stroke="black" cx="384.37" cy="-180" rx="77.19" ry="18"/>
+<text text-anchor="middle" x="384.37" y="-176.3" font-family="Times,serif" font-size="14.00">Coherence metrics</text>
 </a>
 </g>
 </g>
 <!-- Coherence metrics&#45;&gt;Learning gains -->
 <g id="edge2" class="edge">
 <title>Coherence metrics&#45;&gt;Learning gains</title>
-<path fill="none" stroke="black" d="M313.68,-79.34C277.1,-83.2 232.43,-87.9 195.97,-91.74"/>
-<polygon fill="black" stroke="black" points="195.49,-88.27 185.92,-92.8 196.23,-95.24 195.49,-88.27"/>
+<path fill="none" stroke="black" d="M313.68,-187.34C277.1,-191.2 232.43,-195.9 195.97,-199.74"/>
+<polygon fill="black" stroke="black" points="195.49,-196.27 185.92,-200.8 196.23,-203.24 195.49,-196.27"/>
 </g>
-<!-- N&#45;grams -->
-<g id="node5" class="node">
-<title>N&#45;grams</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="N&#45;grams">
-<ellipse fill="none" stroke="black" cx="384.37" cy="-18" rx="42.49" ry="18"/>
-<text text-anchor="middle" x="384.37" y="-14.3" font-family="Times,serif" font-size="14.00">N&#45;grams</text>
-</a>
-</g>
-</g>
-<!-- N&#45;grams&#45;&gt;Learning gains -->
-<g id="edge3" class="edge">
-<title>N&#45;grams&#45;&gt;Learning gains</title>
-<path fill="none" stroke="black" d="M348.44,-27.48C330.39,-32.49 308.04,-38.86 288.18,-45 250.51,-56.65 208.26,-70.86 176.48,-81.77"/>
-<polygon fill="black" stroke="black" points="175.29,-78.48 166.97,-85.05 177.57,-85.1 175.29,-78.48"/>
-</g>
-<!-- amount of exploration -->
+<!-- Convergence measures -->
 <g id="node6" class="node">
-<title>amount of exploration</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="amount of exploration">
-<ellipse fill="none" stroke="black" cx="384.37" cy="-234" rx="89.88" ry="18"/>
-<text text-anchor="middle" x="384.37" y="-230.3" font-family="Times,serif" font-size="14.00">amount of exploration</text>
+<title>Convergence measures</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" xlink:title="Convergence measures">
+<ellipse fill="none" stroke="black" cx="384.37" cy="-126" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="384.37" y="-122.3" font-family="Times,serif" font-size="14.00">Convergence measures</text>
 </a>
 </g>
 </g>
-<!-- amount of exploration&#45;&gt;learning gains -->
-<g id="edge5" class="edge">
-<title>amount of exploration&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M321.98,-246.93C280.67,-255.64 226.51,-267.05 185.77,-275.64"/>
-<polygon fill="black" stroke="black" points="185.05,-272.21 175.98,-277.7 186.49,-279.06 185.05,-272.21"/>
-</g>
-<!-- amount of exploration&#45;&gt;learning gain group (high or low -->
-<g id="edge7" class="edge">
-<title>amount of exploration&#45;&gt;learning gain group (high or low</title>
-<path fill="none" stroke="black" d="M294.45,-234C284.16,-234 273.48,-234 262.74,-234"/>
-<polygon fill="black" stroke="black" points="262.43,-230.5 252.43,-234 262.43,-237.5 262.43,-230.5"/>
+<!-- Convergence measures&#45;&gt;Learning gains -->
+<g id="edge1" class="edge">
+<title>Convergence measures&#45;&gt;Learning gains</title>
+<path fill="none" stroke="black" d="M329.87,-140.7C316.24,-144.57 301.63,-148.84 288.18,-153 250.51,-164.65 208.26,-178.86 176.48,-189.77"/>
+<polygon fill="black" stroke="black" points="175.29,-186.48 166.97,-193.05 177.57,-193.1 175.29,-186.48"/>
 </g>
 </g>
 </svg>

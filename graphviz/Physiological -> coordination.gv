@@ -3,32 +3,32 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "cycles of physiological synchrony (PC" "Galvanic skin response" "EDA synchrony" "Pearson‚Äôs correlation (PC" "heart rate sychrony" "Instantaneous Derivative Matching (IDM" "Directional Agreement (DA" "physiological synchrony (DA" "Signal Matching (SM";}
-	{rank=same; "collaboration quality: reaching consensus" "collaboration quality" "collaboration quality: information pooling" "Perceived Collaboration Quality";}
-	"physiological synchrony (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "heart rate sychrony" "Directional Agreement (DA" "Signal Matching (SM" "Galvanic skin response" "EDA synchrony" "Pearson‚Äôs correlation (PC" "cycles of physiological synchrony (PC" "physiological synchrony (DA" "Instantaneous Derivative Matching (IDM";}
+	{rank=same; "Perceived Collaboration Quality" "collaboration quality: reaching consensus" "collaboration quality: information pooling" "collaboration quality";}
+	"physiological synchrony (DA" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]
 	"physiological synchrony (DA" -> "collaboration quality"
-	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]
 	"cycles of physiological synchrony (PC" -> "collaboration quality"
-	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Signal Matching (SM" -> "collaboration quality":" reaching consensus"
-	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Instantaneous Derivative Matching (IDM" -> "collaboration quality":" reaching consensus"
-	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Pearson‚Äôs correlation (PC" -> "collaboration quality":" reaching consensus"
-	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Directional Agreement (DA" -> "collaboration quality":" reaching consensus"
-	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Signal Matching (SM" -> "collaboration quality":" information pooling"
-	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Instantaneous Derivative Matching (IDM" -> "collaboration quality":" information pooling"
-	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Directional Agreement (DA" -> "collaboration quality":" information pooling"
-	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
 	"Pearson‚Äôs correlation (PC" -> "collaboration quality":" information pooling"
-	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors"]
 	"EDA synchrony" -> "collaboration quality"
-	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors"]
 	"heart rate sychrony" -> "collaboration quality"
-	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Galvanic skin response" -> "Perceived Collaboration Quality"
 }

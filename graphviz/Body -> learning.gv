@@ -3,26 +3,26 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Body distance" "Body synchronization" "clustered hand/wrist movement" "gesture" "amount of movement" "type of movement";}
-	{rank=same; "learning gains" "Learning gains" "learning" "learning gain group (high or low";}
-	gesture [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "gesture" "Body distance" "amount of movement" "Body synchronization" "type of movement" "clustered hand/wrist movement";}
+	{rank=same; "Learning gains" "learning gain group (high or low" "learning" "learning gains";}
+	gesture [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring"]
 	gesture -> learning
-	"clustered hand/wrist movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"clustered hand/wrist movement" [href="https://scholar.google.com/scholar?hl=en&q=(Dis)Engagement%20Maters:%20Identifying%20Efficacious%20Learning%20Practices%20with%20Multimodal%20Learning%20Analytics"]
 	"clustered hand/wrist movement" -> "Learning gains"
-	"amount of movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"amount of movement" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"amount of movement" -> "learning gains"
-	"type of movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"type of movement" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"type of movement" -> "learning gains"
-	"Body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"Body synchronization" -> "learning gains"
-	"Body distance" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Body distance" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"Body distance" -> "learning gains"
-	"amount of movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"amount of movement" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"amount of movement" -> "learning gain group (high or low"
-	"type of movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"type of movement" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"type of movement" -> "learning gain group (high or low"
-	"Body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"Body synchronization" -> "learning gain group (high or low"
-	"Body distance" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Body distance" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"Body distance" -> "learning gain group (high or low"
 }

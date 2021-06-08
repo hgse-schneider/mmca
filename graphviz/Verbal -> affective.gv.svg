@@ -12,14 +12,14 @@
 <!-- dialogue acts -->
 <g id="node1" class="node">
 <title>dialogue acts</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="dialogue acts">
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring" xlink:title="dialogue acts">
 <ellipse fill="none" stroke="black" cx="243.98" cy="-18" rx="57.39" ry="18"/>
 <text text-anchor="middle" x="243.98" y="-14.3" font-family="Times,serif" font-size="14.00">dialogue acts</text>
 </a>
 </g>
 </g>
 <!-- frustration -->
-<g id="node3" class="node">
+<g id="node5" class="node">
 <title>frustration</title>
 <ellipse fill="none" stroke="black" cx="75.39" cy="-18" rx="47.39" ry="18"/>
 <text text-anchor="middle" x="75.39" y="-14.3" font-family="Times,serif" font-size="14.00">frustration</text>
@@ -33,14 +33,14 @@
 <!-- speech rate -->
 <g id="node2" class="node">
 <title>speech rate</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="speech rate">
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="speech rate">
 <ellipse fill="none" stroke="black" cx="243.98" cy="-99" rx="50.09" ry="18"/>
 <text text-anchor="middle" x="243.98" y="-95.3" font-family="Times,serif" font-size="14.00">speech rate</text>
 </a>
 </g>
 </g>
 <!-- Perceived Valence -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>Perceived Valence</title>
 <ellipse fill="none" stroke="black" cx="75.39" cy="-126" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="75.39" y="-122.3" font-family="Times,serif" font-size="14.00">Perceived Valence</text>
@@ -52,7 +52,7 @@
 <polygon fill="black" stroke="black" points="147.4,-110.95 138.09,-116 148.52,-117.86 147.4,-110.95"/>
 </g>
 <!-- Perceived Arousal -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>Perceived Arousal</title>
 <ellipse fill="none" stroke="black" cx="75.39" cy="-72" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="75.39" y="-68.3" font-family="Times,serif" font-size="14.00">Perceived Arousal</text>

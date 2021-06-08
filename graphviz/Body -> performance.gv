@@ -3,36 +3,36 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "time spent as a group" "Mean hand movement speed" "Mean distance between hands" "dyad proximity" "Face and upper body movement" "Joint angle" "transition probabilities between collaborative state" "time spent individually" "Distance between learners (DBL" "Total Movement" "Joint movement" "amount of face and body movement" "Mean distance between learners" "Distance from the center of the table";}
-	{rank=same; "technical ability" "task success score" "Odds of a student solving correctly a problem" "artefact quality" "collaborative problem solving" "Task Performance" "time spent in makerspace" "Task performance";}
-	"Total Movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "amount of face and body movement" "Distance between learners (DBL" "time spent individually" "Joint angle" "Mean distance between hands" "Face and upper body movement" "transition probabilities between collaborative state" "Total Movement" "time spent as a group" "Mean hand movement speed" "Mean distance between learners" "Distance from the center of the table" "dyad proximity" "Joint movement";}
+	{rank=same; "Odds of a student solving correctly a problem" "time spent in makerspace" "collaborative problem solving" "Task Performance" "artefact quality" "task success score" "technical ability" "Task performance";}
+	"Total Movement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Total Movement" -> "Odds of a student solving correctly a problem"
-	"Distance from the center of the table" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Distance from the center of the table" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Distance from the center of the table" -> "Odds of a student solving correctly a problem"
-	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Face and upper body movement" -> "Task Performance"
-	"Mean distance between learners" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Mean distance between learners" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
 	"Mean distance between learners" -> "artefact quality"
-	"Mean distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Mean distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
 	"Mean distance between hands" -> "artefact quality"
-	"Mean hand movement speed" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Mean hand movement speed" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning"]
 	"Mean hand movement speed" -> "artefact quality"
-	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"Joint movement" -> "Task performance"
-	"Joint angle" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint angle" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"Joint angle" -> "Task performance"
-	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"dyad proximity" -> "Task performance"
-	"amount of face and body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"amount of face and body movement" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
 	"amount of face and body movement" -> "task success score"
-	"time spent individually" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"time spent individually" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs"]
 	"time spent individually" -> "technical ability"
-	"time spent as a group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"time spent as a group" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs"]
 	"time spent as a group" -> "technical ability"
-	"transition probabilities between collaborative state" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"transition probabilities between collaborative state" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs"]
 	"transition probabilities between collaborative state" -> "technical ability"
-	"transition probabilities between collaborative state" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"transition probabilities between collaborative state" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs"]
 	"transition probabilities between collaborative state" -> "time spent in makerspace"
-	"Distance between learners (DBL" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Distance between learners (DBL" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features"]
 	"Distance between learners (DBL" -> "collaborative problem solving"
 }

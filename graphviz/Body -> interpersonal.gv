@@ -3,26 +3,26 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Physical synchrony" "Total movement across upper body joints and body parts" "dyad proximity" "Face and upper body movement" "body pose" "Joint movement" "body synchronization" "amount of face and body movement" "time spent as a group";}
-	{rank=same; "Collaboration" "identity of emergent leader" "Perceived Collaboration Quality" "social ability" "subjective perception of collaboration" "cooperation" "collaboration quality" "colaughter";}
-	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "amount of face and body movement" "dyad proximity" "Physical synchrony" "body pose" "Joint movement" "body synchronization" "Face and upper body movement" "Total movement across upper body joints and body parts" "time spent as a group";}
+	{rank=same; "subjective perception of collaboration" "colaughter" "Collaboration" "identity of emergent leader" "collaboration quality" "social ability" "Perceived Collaboration Quality" "cooperation";}
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Face and upper body movement" -> "Perceived Collaboration Quality"
-	"body pose" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"body pose" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception"]
 	"body pose" -> "identity of emergent leader"
-	"amount of face and body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"amount of face and body movement" [href="https://scholar.google.com/scholar?hl=en&q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving"]
 	"amount of face and body movement" -> "subjective perception of collaboration"
-	"time spent as a group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"time spent as a group" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs"]
 	"time spent as a group" -> "social ability"
-	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction"]
 	"body synchronization" -> cooperation
-	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction"]
 	"body synchronization" -> colaughter
-	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
 	"Physical synchrony" -> Collaboration
-	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads"]
 	"Total movement across upper body joints and body parts" -> "collaboration quality"
-	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"Joint movement" -> Collaboration
-	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"dyad proximity" -> Collaboration
 }

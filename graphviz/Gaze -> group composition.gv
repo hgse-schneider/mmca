@@ -3,26 +3,26 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Individual Visual Focus of Attention" "Gaze saccade" "attention received per person" "Gaze" "Gaze fixation" "attention given by person" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" "visual focus of attention features" "Gaze location" "visual field of attention on a person features";}
-	{rank=same; "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience" "social context" "Emerging leadership (observed" "extraversion rating" "Big Five personality traits scores" "Visual Dominance Ratio";}
-	"Individual Visual Focus of Attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "visual field of attention on a person features" "Gaze fixation" "attention given by person" "visual focus of attention features" "Gaze location" "Gaze saccade" "Individual Visual Focus of Attention" "attention received per person" "Gaze" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew";}
+	{rank=same; "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience" "social context" "Emerging leadership (observed" "Big Five personality traits scores" "Visual Dominance Ratio" "extraversion rating";}
+	"Individual Visual Focus of Attention" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Individual Visual Focus of Attention" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
-	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
-	Gaze [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	Gaze [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
 	Gaze -> "Big Five personality traits scores"
-	"Gaze location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Gaze location" [href="https://scholar.google.com/scholar?hl=en&q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris"]
 	"Gaze location" -> "social context"
-	"Gaze saccade" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Gaze saccade" [href="https://scholar.google.com/scholar?hl=en&q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris"]
 	"Gaze saccade" -> "social context"
-	"Gaze fixation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Gaze fixation" [href="https://scholar.google.com/scholar?hl=en&q=Gaze%20quality%20assisted%20automatic%20recognition%20of%20social%20contexts%20in%20collaborative%20Tetris"]
 	"Gaze fixation" -> "social context"
-	"visual focus of attention features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"visual focus of attention features" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20Automatic%20Dominance%20Estimation%20in%20Groups%20From%20Visual%20Attention%20and%20Speaking%20Activity"]
 	"visual focus of attention features" -> "Visual Dominance Ratio"
-	"visual field of attention on a person features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"visual field of attention on a person features" [href="https://scholar.google.com/scholar?hl=en&q=Detecting%20Emergent%20Leader%20in%20a%20Meeting%20Environment"]
 	"visual field of attention on a person features" -> "Emerging leadership (observed"
-	"attention received per person" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"attention received per person" [href="https://scholar.google.com/scholar?hl=en&q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait"]
 	"attention received per person" -> "extraversion rating"
-	"attention given by person" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"attention given by person" [href="https://scholar.google.com/scholar?hl=en&q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait"]
 	"attention given by person" -> "extraversion rating"
 }

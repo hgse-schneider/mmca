@@ -3,28 +3,28 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Deictic gestures per second" "Iconic gestures per second" "Motion energy images" "Body motion" "Total Movement" "head/body movement" "Total manual gestures per second" "body synchronization" "type of movement" "Distance from the center of the table";}
-	{rank=same; "expertise" "Expert prediction" "leadership (driver/passenger" "cultural style matching" "language style matching" "Big Five personality traits scores" "Emerging leadership";}
-	"Total Movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "Motion energy images" "Body motion" "Total Movement" "Iconic gestures per second" "body synchronization" "Deictic gestures per second" "Total manual gestures per second" "Distance from the center of the table" "type of movement" "head/body movement";}
+	{rank=same; "cultural style matching" "leadership (driver/passenger" "Emerging leadership" "language style matching" "Big Five personality traits scores" "expertise" "Expert prediction";}
+	"Total Movement" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Total Movement" -> "Expert prediction"
-	"Distance from the center of the table" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Distance from the center of the table" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Distance from the center of the table" -> "Expert prediction"
-	"Body motion" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Body motion" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
 	"Body motion" -> "Big Five personality traits scores"
-	"Motion energy images" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Motion energy images" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
 	"Motion energy images" -> "Big Five personality traits scores"
-	"Total manual gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Total manual gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics"]
 	"Total manual gestures per second" -> expertise
-	"Iconic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Iconic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics"]
 	"Iconic gestures per second" -> expertise
-	"Deictic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Deictic gestures per second" [href="https://scholar.google.com/scholar?hl=en&q=Dynamic%20Adaptive%20Gesturing%20Predicts%20Domain%20Expertise%20in%20Mathematics"]
 	"Deictic gestures per second" -> expertise
-	"type of movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"type of movement" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"type of movement" -> "leadership (driver/passenger"
-	"head/body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"head/body movement" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose"]
 	"head/body movement" -> "Emerging leadership"
-	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction"]
 	"body synchronization" -> "cultural style matching"
-	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"body synchronization" [href="https://scholar.google.com/scholar?hl=en&q=Body%20synchrony%20in%20triadic%20interaction"]
 	"body synchronization" -> "language style matching"
 }

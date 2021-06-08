@@ -3,26 +3,26 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "smiling synchrony" "facial expression features (60 features" "facial features" "22 Intra-Personal Features" "51 Facial Action Units" "9 Dyadic Features";}
-	{rank=same; "team cohesion" "Social Impressions" "identity of emergent leader" "Voiced Laughter" "perception of peer understanding" "Unvoiced Laughter" "Speech Laughter" "perception of peer clarity" "perception of peer helpfulness";}
-	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "smiling synchrony" "facial expression features (60 features" "9 Dyadic Features" "51 Facial Action Units" "facial features" "22 Intra-Personal Features";}
+	{rank=same; "Social Impressions" "identity of emergent leader" "perception of peer clarity" "perception of peer helpfulness" "team cohesion" "Speech Laughter" "Unvoiced Laughter" "Voiced Laughter" "perception of peer understanding";}
+	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
 	"51 Facial Action Units" -> "Voiced Laughter"
-	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
 	"51 Facial Action Units" -> "Unvoiced Laughter"
-	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"51 Facial Action Units" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20Recognition%20of%20Affective%20Laughter%20in%20Spontaneous%20Dyadic%20Interactions%20from%20Audiovisual%20Signals"]
 	"51 Facial Action Units" -> "Speech Laughter"
-	"22 Intra-Personal Features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"22 Intra-Personal Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories"]
 	"22 Intra-Personal Features" -> "Social Impressions"
-	"9 Dyadic Features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"9 Dyadic Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories"]
 	"9 Dyadic Features" -> "Social Impressions"
-	"facial features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"facial features" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception"]
 	"facial features" -> "identity of emergent leader"
-	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
 	"facial expression features (60 features" -> "perception of peer helpfulness"
-	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
 	"facial expression features (60 features" -> "perception of peer understanding"
-	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"facial expression features (60 features" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20Analysis%20of%20Vocal%20Collaborative%20Search:A%20Public%20Corpus%20and%20Results"]
 	"facial expression features (60 features" -> "perception of peer clarity"
-	"smiling synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"smiling synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20evidence%20of%20interpersonal%20dynamics%20in%20a%20cooperative%20production%20task"]
 	"smiling synchrony" -> "team cohesion"
 }

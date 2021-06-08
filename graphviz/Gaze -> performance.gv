@@ -3,36 +3,36 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "gaze fixations" "joint visual attention" "Focused gaze" "Individual Visual Focus of Attention" "EVT of spatial entropy" "gaze saccades" "Together gaze" "Joint visual Attention" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" "shared gaze" "Cycles of collaborative / individual work" "Gaze location" "Cross-Recurrence Quantification Analysis (CRQA";}
-	{rank=same; "student performance" "Program understanding" "collaboration outcome" "Group Performance (Negative distance between expert list and group list" "Team performance" "quality of remote collaboration" "task completion time" "Task Score" "reference-action sequence" "task performance";}
-	"Focused gaze" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "Cross-Recurrence Quantification Analysis (CRQA" "Joint visual Attention" "gaze saccades" "Gaze location" "EVT of spatial entropy" "Individual Visual Focus of Attention" "gaze fixations" "Cycles of collaborative / individual work" "joint visual attention" "Together gaze" "shared gaze" "Focused gaze" "Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew";}
+	{rank=same; "student performance" "reference-action sequence" "quality of remote collaboration" "task performance" "Team performance" "task completion time" "Task Score" "Group Performance (Negative distance between expert list and group list" "collaboration outcome" "Program understanding";}
+	"Focused gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]
 	"Focused gaze" -> "Program understanding"
-	"Together gaze" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Together gaze" [href="https://scholar.google.com/scholar?hl=en&q=Understanding%20collaborative%20program%20comprehension:%20Interlacing%20gaze%20and%20dialogues"]
 	"Together gaze" -> "Program understanding"
-	"Individual Visual Focus of Attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Individual Visual Focus of Attention" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Individual Visual Focus of Attention" -> "Group Performance (Negative distance between expert list and group list"
-	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Group Looking Cues (Fraction of People Gaze, Fraction of Convergent Gaze, Fraction of Mutual Gaze, Fraction of Shared Gaze, Gaze Skew" -> "Group Performance (Negative distance between expert list and group list"
-	"gaze fixations" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"gaze fixations" [href="https://scholar.google.com/scholar?hl=en&q=A%20Network%20Analytic%20Approach%20to%20Gaze%20Coordination%20during%20a%20Collaborative%20Task"]
 	"gaze fixations" -> "reference-action sequence"
-	"gaze saccades" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"gaze saccades" [href="https://scholar.google.com/scholar?hl=en&q=A%20Network%20Analytic%20Approach%20to%20Gaze%20Coordination%20during%20a%20Collaborative%20Task"]
 	"gaze saccades" -> "reference-action sequence"
-	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning"]
 	"Cycles of collaborative / individual work" -> "task performance"
-	"Gaze location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Gaze location" [href="https://scholar.google.com/scholar?hl=en&q=Can%20Eye%20Help%20You?:%20Effects%20of%20Visualizing%20Eye%20Fixations%20on%20Remote%20Collaboration%20Scenarios%20for%20Physical%20Tasks"]
 	"Gaze location" -> "quality of remote collaboration"
-	"Gaze location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Gaze location" [href="https://scholar.google.com/scholar?hl=en&q=Can%20Eye%20Help%20You?:%20Effects%20of%20Visualizing%20Eye%20Fixations%20on%20Remote%20Collaboration%20Scenarios%20for%20Physical%20Tasks"]
 	"Gaze location" -> "task completion time"
-	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Mobile%20Eye-Trackers%20to%20Unpack%20the%20Perceptual%20Benefits%20of%20a%20Tangible%20User%20Interface%20for%20Collaborative%20Learning"]
 	"Joint visual Attention" -> "task performance"
-	"Cross-Recurrence Quantification Analysis (CRQA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Cross-Recurrence Quantification Analysis (CRQA" [href="https://scholar.google.com/scholar?hl=en&q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis"]
 	"Cross-Recurrence Quantification Analysis (CRQA" -> "Task Score"
-	"Cross-Recurrence Quantification Analysis (CRQA" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Cross-Recurrence Quantification Analysis (CRQA" [href="https://scholar.google.com/scholar?hl=en&q=Dynamics%20of%20Visual%20Attention%20in%20Multiparty%20Collaborative%20Problem%20Solving%20using%20Multidimensional%20Recurrence%20Quantification%20Analysis"]
 	"Cross-Recurrence Quantification Analysis (CRQA" -> "Team performance"
-	"EVT of spatial entropy" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"EVT of spatial entropy" [href="https://scholar.google.com/scholar?hl=en&q=An%20Alternate%20Statistical%20Lens%20to%20Look%20at%20Collaboration%20Data:%20Extreme%20Value%20Theory"]
 	"EVT of spatial entropy" -> "collaboration outcome"
-	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads"]
 	"joint visual attention" -> "student performance"
-	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations"]
 	"shared gaze" -> "task performance"
 }

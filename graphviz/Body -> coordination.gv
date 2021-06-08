@@ -3,26 +3,26 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Physical synchrony" "Total movement across upper body joints and body parts" "dyad proximity" "upper body agitation" "Face and upper body movement" "hand agitation" "Distance between hands" "Joint movement" "Distance between learners (DBL";}
-	{rank=same; "Collaboration" "Perceived Collaboration Quality" "Synchronisation" "Agreement" "Individual accountability" "collaboration quality" "collaborative problem solving";}
-	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "dyad proximity" "Physical synchrony" "Distance between learners (DBL" "hand agitation" "upper body agitation" "Distance between hands" "Face and upper body movement" "Total movement across upper body joints and body parts" "Joint movement";}
+	{rank=same; "Collaboration" "collaborative problem solving" "Agreement" "collaboration quality" "Individual accountability" "Perceived Collaboration Quality" "Synchronisation";}
+	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
 	"Physical synchrony" -> Collaboration
-	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning"]
 	"Distance between hands" -> "Individual accountability"
-	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Distance between hands" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning"]
 	"Distance between hands" -> Synchronisation
-	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads"]
 	"Total movement across upper body joints and body parts" -> "collaboration quality"
-	"Distance between learners (DBL" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Distance between learners (DBL" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features"]
 	"Distance between learners (DBL" -> "collaborative problem solving"
-	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"Joint movement" -> Collaboration
-	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"dyad proximity" -> Collaboration
-	"upper body agitation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"upper body agitation" [href="https://scholar.google.com/scholar?hl=en&q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings"]
 	"upper body agitation" -> Agreement
-	"hand agitation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"hand agitation" [href="https://scholar.google.com/scholar?hl=en&q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings"]
 	"hand agitation" -> Agreement
-	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Face and upper body movement" -> "Perceived Collaboration Quality"
 }

@@ -6,12 +6,12 @@ digraph world {
         edge [fontname = "helvetica", colorscheme=set28];
 
 	"Head Motion" [href="index.svg"];
-	"Head motion" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
-	"Head motion features [x5]" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
-	"Number of faces looking at screen" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
-	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
-	"head orientation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
-	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning", color="2"];
+	"Head motion" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" target="_blank" , color="4"];
+	"Head motion features [x5]" [href="https://scholar.google.com/scholar?hl=en&q=Task-independent%20Multimodal%20Prediction%20of%20Group%20Performance%20Based%20on%20Product%20Dimensions" target="_blank" , color="4"];
+	"Number of faces looking at screen" [href="https://scholar.google.com/scholar?hl=en&q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" target="_blank" , color="4"];
+	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" target="_blank" , color="4"];
+	"head orientation" [href="https://scholar.google.com/scholar?hl=en&q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings" target="_blank" , color="4"];
+	"Faces looking at screen (FLS" [href="https://scholar.google.com/scholar?hl=en&q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" target="_blank" , color="4"];
 	"Head motion" -> "Head Motion" [label="clust", labeltooltip=1, style="solid", penwidth=1];
 	"Head motion features [x5]" -> "Head Motion" [label="clust", labeltooltip=1, style="solid", penwidth=1];
 	"Number of faces looking at screen" -> "Head Motion" [label="ml", labeltooltip=1, style="solid", penwidth=1];

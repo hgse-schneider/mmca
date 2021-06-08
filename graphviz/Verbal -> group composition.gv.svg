@@ -9,307 +9,307 @@
 <g id="graph0" class="graph" transform="scale(0.53 0.53) rotate(0) translate(4 1606)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-1606 2019.72,-1606 2019.72,4 -4,4"/>
-<!-- Times mathematical terms were mentioned -->
-<g id="node1" class="node">
-<title>Times mathematical terms were mentioned</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Times mathematical terms were mentioned">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-234" rx="165.97" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-230.3" font-family="Times,serif" font-size="14.00">Times mathematical terms were mentioned</text>
-</a>
-</g>
-</g>
-<!-- Expert prediction -->
-<g id="node32" class="node">
-<title>Expert prediction</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-126" rx="72.29" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-122.3" font-family="Times,serif" font-size="14.00">Expert prediction</text>
-</g>
-<!-- Times mathematical terms were mentioned&#45;&gt;Expert prediction -->
-<g id="edge7" class="edge">
-<title>Times mathematical terms were mentioned&#45;&gt;Expert prediction</title>
-<path fill="none" stroke="black" d="M1268.92,-232.24C1152.36,-229.56 992.33,-222.98 852.33,-207 715.54,-191.39 557.33,-158.95 471.84,-140.2"/>
-<polygon fill="black" stroke="black" points="472.55,-136.78 462.03,-138.04 471.04,-143.61 472.55,-136.78"/>
-</g>
-<!-- duration of all vocalisations -->
-<g id="node2" class="node">
-<title>duration of all vocalisations</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="duration of all vocalisations">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-666" rx="109.38" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-662.3" font-family="Times,serif" font-size="14.00">duration of all vocalisations</text>
-</a>
-</g>
-</g>
-<!-- identity of the expert -->
-<g id="node33" class="node">
-<title>identity of the expert</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-477" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-473.3" font-family="Times,serif" font-size="14.00">identity of the expert</text>
-</g>
-<!-- duration of all vocalisations&#45;&gt;identity of the expert -->
-<g id="edge12" class="edge">
-<title>duration of all vocalisations&#45;&gt;identity of the expert</title>
-<path fill="none" stroke="black" d="M1328.28,-670.6C1211.1,-673.57 1016.2,-671.96 852.33,-639 700.22,-608.41 530.61,-534.41 452.66,-497.98"/>
-<polygon fill="black" stroke="black" points="453.7,-494.6 443.16,-493.52 450.73,-500.94 453.7,-494.6"/>
-</g>
-<!-- audio energy features -->
-<g id="node3" class="node">
-<title>audio energy features</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="audio energy features">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-720" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-716.3" font-family="Times,serif" font-size="14.00">audio energy features</text>
-</a>
-</g>
-</g>
-<!-- Visual Dominance Ratio -->
-<g id="node38" class="node">
-<title>Visual Dominance Ratio</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-720" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-716.3" font-family="Times,serif" font-size="14.00">Visual Dominance Ratio</text>
-</g>
-<!-- audio energy features&#45;&gt;Visual Dominance Ratio -->
-<g id="edge21" class="edge">
-<title>audio energy features&#45;&gt;Visual Dominance Ratio</title>
-<path fill="none" stroke="black" d="M1346.61,-720C1160.41,-720 721.68,-720 517.37,-720"/>
-<polygon fill="black" stroke="black" points="517.22,-716.5 507.22,-720 517.22,-723.5 517.22,-716.5"/>
-</g>
-<!-- spectral stationarity -->
-<g id="node4" class="node">
-<title>spectral stationarity</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="spectral stationarity">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-828" rx="79.89" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-824.3" font-family="Times,serif" font-size="14.00">spectral stationarity</text>
-</a>
-</g>
-</g>
-<!-- Expertise -->
-<g id="node34" class="node">
-<title>Expertise</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-882" rx="44.39" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-878.3" font-family="Times,serif" font-size="14.00">Expertise</text>
-</g>
-<!-- spectral stationarity&#45;&gt;Expertise -->
-<g id="edge30" class="edge">
-<title>spectral stationarity&#45;&gt;Expertise</title>
-<path fill="none" stroke="black" d="M1355.05,-831.27C1243.57,-836.02 1032.22,-845.34 852.33,-855 711.34,-862.57 545.24,-873.13 462.13,-878.53"/>
-<polygon fill="black" stroke="black" points="461.68,-875.05 451.93,-879.19 462.14,-882.03 461.68,-875.05"/>
-</g>
-<!-- Leadership -->
-<g id="node35" class="node">
-<title>Leadership</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-828" rx="50.09" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-824.3" font-family="Times,serif" font-size="14.00">Leadership</text>
-</g>
-<!-- spectral stationarity&#45;&gt;Leadership -->
-<g id="edge26" class="edge">
-<title>spectral stationarity&#45;&gt;Leadership</title>
-<path fill="none" stroke="black" d="M1353.96,-828C1156.09,-828 642.91,-828 468.32,-828"/>
-<polygon fill="black" stroke="black" points="468.3,-824.5 458.3,-828 468.3,-831.5 468.3,-824.5"/>
-</g>
-<!-- probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause -->
-<g id="node5" class="node">
-<title>probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-612" rx="369.63" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-608.3" font-family="Times,serif" font-size="14.00">probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause</text>
-</a>
-</g>
-</g>
-<!-- probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause&#45;&gt;identity of the expert -->
-<g id="edge15" class="edge">
-<title>probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause&#45;&gt;identity of the expert</title>
-<path fill="none" stroke="black" d="M1081.16,-606.53C1005.42,-602.32 926,-595.59 852.33,-585 711.52,-564.76 550.11,-519.75 466.35,-494.69"/>
-<polygon fill="black" stroke="black" points="467.35,-491.34 456.77,-491.81 465.34,-498.04 467.35,-491.34"/>
-</g>
-<!-- Number of interventions -->
-<g id="node6" class="node">
-<title>Number of interventions</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Number of interventions">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-180" rx="98.28" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-176.3" font-family="Times,serif" font-size="14.00">Number of interventions</text>
-</a>
-</g>
-</g>
-<!-- Number of interventions&#45;&gt;Expert prediction -->
-<g id="edge4" class="edge">
-<title>Number of interventions&#45;&gt;Expert prediction</title>
-<path fill="none" stroke="black" d="M1338.2,-176.01C1223.22,-171.08 1023.53,-162.19 852.33,-153 724.98,-146.16 577.14,-136.88 488.48,-131.18"/>
-<polygon fill="black" stroke="black" points="488.44,-127.67 478.23,-130.52 487.99,-134.65 488.44,-127.67"/>
-</g>
-<!-- average duration of vocalisation -->
-<g id="node7" class="node">
-<title>average duration of vocalisation</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="average duration of vocalisation">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-558" rx="124.28" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-554.3" font-family="Times,serif" font-size="14.00">average duration of vocalisation</text>
-</a>
-</g>
-</g>
-<!-- average duration of vocalisation&#45;&gt;identity of the expert -->
-<g id="edge13" class="edge">
-<title>average duration of vocalisation&#45;&gt;identity of the expert</title>
-<path fill="none" stroke="black" d="M1311.62,-555C1194.02,-551.47 1010.73,-544.31 852.33,-531 724.79,-520.28 577.39,-500.92 488.82,-488.53"/>
-<polygon fill="black" stroke="black" points="489.23,-485.05 478.84,-487.13 488.26,-491.98 489.23,-485.05"/>
-</g>
-<!-- Pause duration -->
-<g id="node8" class="node">
-<title>Pause duration</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Pause duration">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-774" rx="63.09" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-770.3" font-family="Times,serif" font-size="14.00">Pause duration</text>
-</a>
-</g>
-</g>
-<!-- Pause duration&#45;&gt;Expertise -->
-<g id="edge29" class="edge">
-<title>Pause duration&#45;&gt;Expertise</title>
-<path fill="none" stroke="black" d="M1372.48,-770.07C1242.15,-762.67 939.74,-751.57 852.33,-801 827.22,-815.2 841.29,-840.56 816.33,-855 702.1,-921.09 538.52,-905.29 457.89,-891.79"/>
-<polygon fill="black" stroke="black" points="458.46,-888.33 448.01,-890.07 457.27,-895.23 458.46,-888.33"/>
-</g>
-<!-- Pause duration&#45;&gt;Leadership -->
-<g id="edge23" class="edge">
-<title>Pause duration&#45;&gt;Leadership</title>
-<path fill="none" stroke="black" d="M1371.56,-776.57C1265.56,-781.06 1041.54,-790.84 852.33,-801 714.53,-808.4 552.72,-818.66 467.88,-824.15"/>
-<polygon fill="black" stroke="black" points="467.43,-820.67 457.68,-824.82 467.88,-827.66 467.43,-820.67"/>
-</g>
 <!-- Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels -->
-<g id="node9" class="node">
+<g id="node1" class="node">
 <title>Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1098" rx="504.21" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1094.3" font-family="Times,serif" font-size="14.00">Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels</text>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-126" rx="504.21" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-122.3" font-family="Times,serif" font-size="14.00">Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels</text>
 </a>
 </g>
 </g>
 <!-- Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
 <g id="node31" class="node">
 <title>Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-1044" rx="408.33" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-1040.3" font-family="Times,serif" font-size="14.00">Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</text>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-72" rx="408.33" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-68.3" font-family="Times,serif" font-size="14.00">Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</text>
 </g>
 <!-- Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
 <g id="edge1" class="edge">
 <title>Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
-<path fill="none" stroke="black" d="M1115.02,-1084.04C1029.69,-1080.07 937.49,-1075.57 852.33,-1071 787.17,-1067.5 716.64,-1063.36 651.43,-1059.39"/>
-<polygon fill="black" stroke="black" points="651.62,-1055.9 641.43,-1058.78 651.19,-1062.88 651.62,-1055.9"/>
+<path fill="none" stroke="black" d="M1115.02,-112.04C1029.69,-108.07 937.49,-103.57 852.33,-99 787.17,-95.5 716.64,-91.36 651.43,-87.39"/>
+<polygon fill="black" stroke="black" points="651.62,-83.9 641.43,-86.78 651.19,-90.88 651.62,-83.9"/>
 </g>
-<!-- Total speech duration -->
-<g id="node10" class="node">
-<title>Total speech duration</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Total speech duration">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-126" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-122.3" font-family="Times,serif" font-size="14.00">Total speech duration</text>
+<!-- uncertainty in the transitions (turn taking -->
+<g id="node2" class="node">
+<title>uncertainty in the transitions (turn taking</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="uncertainty in the transitions (turn taking">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-558" rx="155.17" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-554.3" font-family="Times,serif" font-size="14.00">uncertainty in the transitions (turn taking</text>
 </a>
 </g>
 </g>
-<!-- Total speech duration&#45;&gt;Expert prediction -->
-<g id="edge5" class="edge">
-<title>Total speech duration&#45;&gt;Expert prediction</title>
-<path fill="none" stroke="black" d="M1346.61,-126C1151.81,-126 680.62,-126 490.61,-126"/>
-<polygon fill="black" stroke="black" points="490.41,-122.5 480.41,-126 490.41,-129.5 490.41,-122.5"/>
+<!-- identity of the expert -->
+<g id="node36" class="node">
+<title>identity of the expert</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-369" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-365.3" font-family="Times,serif" font-size="14.00">identity of the expert</text>
 </g>
-<!-- peak slope -->
-<g id="node11" class="node">
-<title>peak slope</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="peak slope">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-936" rx="48.19" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-932.3" font-family="Times,serif" font-size="14.00">peak slope</text>
+<!-- uncertainty in the transitions (turn taking&#45;&gt;identity of the expert -->
+<g id="edge19" class="edge">
+<title>uncertainty in the transitions (turn taking&#45;&gt;identity of the expert</title>
+<path fill="none" stroke="black" d="M1285.65,-563.4C1167.37,-564.8 997.65,-560.23 852.33,-531 700.22,-500.41 530.61,-426.41 452.66,-389.98"/>
+<polygon fill="black" stroke="black" points="453.7,-386.6 443.16,-385.52 450.73,-392.94 453.7,-386.6"/>
+</g>
+<!-- average duration of vocalisation -->
+<g id="node3" class="node">
+<title>average duration of vocalisation</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="average duration of vocalisation">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-504" rx="124.28" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-500.3" font-family="Times,serif" font-size="14.00">average duration of vocalisation</text>
 </a>
 </g>
 </g>
-<!-- peak slope&#45;&gt;Expertise -->
-<g id="edge27" class="edge">
-<title>peak slope&#45;&gt;Expertise</title>
-<path fill="none" stroke="black" d="M1385.97,-934.04C1287.12,-929.88 1050.61,-919.65 852.33,-909 711.34,-901.43 545.24,-890.87 462.13,-885.47"/>
-<polygon fill="black" stroke="black" points="462.14,-881.97 451.93,-884.81 461.68,-888.95 462.14,-881.97"/>
+<!-- average duration of vocalisation&#45;&gt;identity of the expert -->
+<g id="edge13" class="edge">
+<title>average duration of vocalisation&#45;&gt;identity of the expert</title>
+<path fill="none" stroke="black" d="M1310.03,-505.12C1192.04,-504.59 1009.17,-499.54 852.33,-477 711.52,-456.76 550.11,-411.75 466.35,-386.69"/>
+<polygon fill="black" stroke="black" points="467.35,-383.34 456.77,-383.81 465.34,-390.04 467.35,-383.34"/>
 </g>
-<!-- peak slope&#45;&gt;Leadership -->
-<g id="edge25" class="edge">
-<title>peak slope&#45;&gt;Leadership</title>
-<path fill="none" stroke="black" d="M1386.46,-939.11C1265.25,-946.4 943.04,-960.29 852.33,-909 827.22,-894.8 841.29,-869.44 816.33,-855 704.01,-790.02 543.98,-804.2 462.01,-817.53"/>
-<polygon fill="black" stroke="black" points="461.21,-814.12 451.93,-819.23 462.37,-821.02 461.21,-814.12"/>
-</g>
-<!-- Speaking status -->
-<g id="node12" class="node">
-<title>Speaking status</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Speaking status">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1260" rx="65.79" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1256.3" font-family="Times,serif" font-size="14.00">Speaking status</text>
+<!-- Pitch -->
+<g id="node4" class="node">
+<title>Pitch</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" xlink:title="Pitch">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-720" rx="28.7" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-716.3" font-family="Times,serif" font-size="14.00">Pitch</text>
 </a>
 </g>
 </g>
 <!-- Big Five personality traits scores -->
 <g id="node37" class="node">
 <title>Big Five personality traits scores</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-1206" rx="127.28" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-1202.3" font-family="Times,serif" font-size="14.00">Big Five personality traits scores</text>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-666" rx="127.28" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-662.3" font-family="Times,serif" font-size="14.00">Big Five personality traits scores</text>
+</g>
+<!-- Pitch&#45;&gt;Big Five personality traits scores -->
+<g id="edge10" class="edge">
+<title>Pitch&#45;&gt;Big Five personality traits scores</title>
+<path fill="none" stroke="black" d="M1405.22,-718.85C1321.58,-715.36 1064.97,-704.42 852.33,-693 745.05,-687.24 623.22,-679.75 534.49,-674.12"/>
+<polygon fill="black" stroke="black" points="534.58,-670.62 524.38,-673.48 534.14,-677.6 534.58,-670.62"/>
+</g>
+<!-- speaking time % per individual -->
+<g id="node5" class="node">
+<title>speaking time % per individual</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait" xlink:title="speaking time % per individual">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-774" rx="122.38" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-770.3" font-family="Times,serif" font-size="14.00">speaking time % per individual</text>
+</a>
+</g>
+</g>
+<!-- extraversion rating -->
+<g id="node39" class="node">
+<title>extraversion rating</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-774" rx="77.19" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-770.3" font-family="Times,serif" font-size="14.00">extraversion rating</text>
+</g>
+<!-- speaking time % per individual&#45;&gt;extraversion rating -->
+<g id="edge34" class="edge">
+<title>speaking time % per individual&#45;&gt;extraversion rating</title>
+<path fill="none" stroke="black" d="M1311.81,-774C1102.53,-774 678.39,-774 495.88,-774"/>
+<polygon fill="black" stroke="black" points="495.79,-770.5 485.79,-774 495.79,-777.5 495.79,-770.5"/>
+</g>
+<!-- Speaking status -->
+<g id="node6" class="node">
+<title>Speaking status</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" xlink:title="Speaking status">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-666" rx="65.79" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-662.3" font-family="Times,serif" font-size="14.00">Speaking status</text>
+</a>
+</g>
 </g>
 <!-- Speaking status&#45;&gt;Big Five personality traits scores -->
 <g id="edge9" class="edge">
 <title>Speaking status&#45;&gt;Big Five personality traits scores</title>
-<path fill="none" stroke="black" d="M1368.99,-1257.32C1261.98,-1252.78 1040.03,-1243.08 852.33,-1233 745.05,-1227.24 623.22,-1219.75 534.49,-1214.12"/>
-<polygon fill="black" stroke="black" points="534.58,-1210.62 524.38,-1213.48 534.14,-1217.6 534.58,-1210.62"/>
+<path fill="none" stroke="black" d="M1368.2,-666C1204.12,-666 769.57,-666 546.11,-666"/>
+<polygon fill="black" stroke="black" points="545.96,-662.5 535.96,-666 545.96,-669.5 545.96,-662.5"/>
 </g>
-<!-- probability of transitioning from a group vocalisation to speaker vocalisation -->
-<g id="node13" class="node">
-<title>probability of transitioning from a group vocalisation to speaker vocalisation</title>
-<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="probability of transitioning from a group vocalisation to speaker vocalisation">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-504" rx="283.25" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-500.3" font-family="Times,serif" font-size="14.00">probability of transitioning from a group vocalisation to speaker vocalisation</text>
+<!-- Times commands were pronounced -->
+<g id="node7" class="node">
+<title>Times commands were pronounced</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times commands were pronounced">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1044" rx="137.58" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1040.3" font-family="Times,serif" font-size="14.00">Times commands were pronounced</text>
 </a>
 </g>
 </g>
-<!-- probability of transitioning from a group vocalisation to speaker vocalisation&#45;&gt;identity of the expert -->
-<g id="edge17" class="edge">
-<title>probability of transitioning from a group vocalisation to speaker vocalisation&#45;&gt;identity of the expert</title>
-<path fill="none" stroke="black" d="M1172.01,-497.12C953.23,-491.35 653.23,-483.44 502.96,-479.47"/>
-<polygon fill="black" stroke="black" points="502.93,-475.97 492.84,-479.21 502.75,-482.97 502.93,-475.97"/>
+<!-- Expert prediction -->
+<g id="node35" class="node">
+<title>Expert prediction</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-936" rx="72.29" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-932.3" font-family="Times,serif" font-size="14.00">Expert prediction</text>
 </g>
-<!-- speaking turn duration / number -->
-<g id="node14" class="node">
-<title>speaking turn duration / number</title>
-<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="speaking turn duration / number">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1422" rx="124.58" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1418.3" font-family="Times,serif" font-size="14.00">speaking turn duration / number</text>
+<!-- Times commands were pronounced&#45;&gt;Expert prediction -->
+<g id="edge8" class="edge">
+<title>Times commands were pronounced&#45;&gt;Expert prediction</title>
+<path fill="none" stroke="black" d="M1296.51,-1042.82C1178.57,-1040.57 1003.74,-1034.28 852.33,-1017 715.54,-1001.39 557.33,-968.95 471.84,-950.2"/>
+<polygon fill="black" stroke="black" points="472.55,-946.78 462.03,-948.04 471.04,-953.61 472.55,-946.78"/>
+</g>
+<!-- interruption -->
+<g id="node8" class="node">
+<title>interruption</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose" xlink:title="interruption">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1206" rx="51.99" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1202.3" font-family="Times,serif" font-size="14.00">interruption</text>
 </a>
 </g>
 </g>
 <!-- Emerging leadership -->
-<g id="node40" class="node">
+<g id="node34" class="node">
 <title>Emerging leadership</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-1368" rx="84.49" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-1364.3" font-family="Times,serif" font-size="14.00">Emerging leadership</text>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-1152" rx="84.49" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-1148.3" font-family="Times,serif" font-size="14.00">Emerging leadership</text>
 </g>
-<!-- speaking turn duration / number&#45;&gt;Emerging leadership -->
-<g id="edge32" class="edge">
-<title>speaking turn duration / number&#45;&gt;Emerging leadership</title>
-<path fill="none" stroke="black" d="M1314,-1416.97C1196.6,-1411.88 1012.06,-1403.58 852.33,-1395 730.04,-1388.43 588.85,-1379.62 499.32,-1373.87"/>
-<polygon fill="black" stroke="black" points="499.41,-1370.37 489.2,-1373.22 498.96,-1377.36 499.41,-1370.37"/>
+<!-- interruption&#45;&gt;Emerging leadership -->
+<g id="edge33" class="edge">
+<title>interruption&#45;&gt;Emerging leadership</title>
+<path fill="none" stroke="black" d="M1382.14,-1203.88C1281.11,-1199.62 1048.09,-1189.51 852.33,-1179 730.04,-1172.43 588.85,-1163.62 499.32,-1157.87"/>
+<polygon fill="black" stroke="black" points="499.41,-1154.37 489.2,-1157.22 498.96,-1161.36 499.41,-1154.37"/>
+</g>
+<!-- Times numbers were mentioned -->
+<g id="node9" class="node">
+<title>Times numbers were mentioned</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times numbers were mentioned">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-990" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-986.3" font-family="Times,serif" font-size="14.00">Times numbers were mentioned</text>
+</a>
+</g>
+</g>
+<!-- Times numbers were mentioned&#45;&gt;Expert prediction -->
+<g id="edge6" class="edge">
+<title>Times numbers were mentioned&#45;&gt;Expert prediction</title>
+<path fill="none" stroke="black" d="M1312.89,-984.92C1195.44,-979.83 1011.56,-971.55 852.33,-963 724.98,-956.16 577.14,-946.88 488.48,-941.18"/>
+<polygon fill="black" stroke="black" points="488.44,-937.67 478.23,-940.52 487.99,-944.65 488.44,-937.67"/>
+</g>
+<!-- Pause duration -->
+<g id="node10" class="node">
+<title>Pause duration</title>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" xlink:title="Pause duration">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1314" rx="63.09" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1310.3" font-family="Times,serif" font-size="14.00">Pause duration</text>
+</a>
+</g>
+</g>
+<!-- Expertise -->
+<g id="node32" class="node">
+<title>Expertise</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-1368" rx="44.39" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-1364.3" font-family="Times,serif" font-size="14.00">Expertise</text>
+</g>
+<!-- Pause duration&#45;&gt;Expertise -->
+<g id="edge29" class="edge">
+<title>Pause duration&#45;&gt;Expertise</title>
+<path fill="none" stroke="black" d="M1371.56,-1316.57C1265.56,-1321.06 1041.54,-1330.84 852.33,-1341 711.34,-1348.57 545.24,-1359.13 462.13,-1364.53"/>
+<polygon fill="black" stroke="black" points="461.68,-1361.05 451.93,-1365.19 462.14,-1368.03 461.68,-1361.05"/>
+</g>
+<!-- Leadership -->
+<g id="node33" class="node">
+<title>Leadership</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-1314" rx="50.09" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-1310.3" font-family="Times,serif" font-size="14.00">Leadership</text>
+</g>
+<!-- Pause duration&#45;&gt;Leadership -->
+<g id="edge23" class="edge">
+<title>Pause duration&#45;&gt;Leadership</title>
+<path fill="none" stroke="black" d="M1370.9,-1314C1187.19,-1314 648.16,-1314 468.33,-1314"/>
+<polygon fill="black" stroke="black" points="468.26,-1310.5 458.26,-1314 468.26,-1317.5 468.26,-1310.5"/>
+</g>
+<!-- audio energy features -->
+<g id="node11" class="node">
+<title>audio energy features</title>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Investigating%20Automatic%20Dominance%20Estimation%20in%20Groups%20From%20Visual%20Attention%20and%20Speaking%20Activity" xlink:title="audio energy features">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1476" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1472.3" font-family="Times,serif" font-size="14.00">audio energy features</text>
+</a>
+</g>
+</g>
+<!-- Visual Dominance Ratio -->
+<g id="node38" class="node">
+<title>Visual Dominance Ratio</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-1476" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-1472.3" font-family="Times,serif" font-size="14.00">Visual Dominance Ratio</text>
+</g>
+<!-- audio energy features&#45;&gt;Visual Dominance Ratio -->
+<g id="edge21" class="edge">
+<title>audio energy features&#45;&gt;Visual Dominance Ratio</title>
+<path fill="none" stroke="black" d="M1346.61,-1476C1160.41,-1476 721.68,-1476 517.37,-1476"/>
+<polygon fill="black" stroke="black" points="517.22,-1472.5 507.22,-1476 517.22,-1479.5 517.22,-1472.5"/>
+</g>
+<!-- Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew -->
+<g id="node12" class="node">
+<title>Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew</title>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-72" rx="581.9" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-68.3" font-family="Times,serif" font-size="14.00">Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew</text>
+</a>
+</g>
+</g>
+<!-- Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
+<g id="edge3" class="edge">
+<title>Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
+<path fill="none" stroke="black" d="M852.29,-72C843.69,-72 835.12,-72 826.59,-72"/>
+<polygon fill="black" stroke="black" points="826.59,-68.5 816.59,-72 826.59,-75.5 826.59,-68.5"/>
+</g>
+<!-- spectral stationarity -->
+<g id="node13" class="node">
+<title>spectral stationarity</title>
+<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" xlink:title="spectral stationarity">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1260" rx="79.89" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1256.3" font-family="Times,serif" font-size="14.00">spectral stationarity</text>
+</a>
+</g>
+</g>
+<!-- spectral stationarity&#45;&gt;Expertise -->
+<g id="edge30" class="edge">
+<title>spectral stationarity&#45;&gt;Expertise</title>
+<path fill="none" stroke="black" d="M1356.76,-1255.21C1219.29,-1247.91 936.39,-1239.47 852.33,-1287 827.22,-1301.2 841.29,-1326.56 816.33,-1341 702.1,-1407.09 538.52,-1391.29 457.89,-1377.79"/>
+<polygon fill="black" stroke="black" points="458.46,-1374.33 448.01,-1376.07 457.27,-1381.23 458.46,-1374.33"/>
+</g>
+<!-- spectral stationarity&#45;&gt;Leadership -->
+<g id="edge26" class="edge">
+<title>spectral stationarity&#45;&gt;Leadership</title>
+<path fill="none" stroke="black" d="M1355.05,-1263.27C1243.57,-1268.02 1032.22,-1277.34 852.33,-1287 714.53,-1294.4 552.72,-1304.66 467.88,-1310.15"/>
+<polygon fill="black" stroke="black" points="467.43,-1306.67 457.68,-1310.82 467.88,-1313.66 467.43,-1306.67"/>
 </g>
 <!-- Articulation rate -->
-<g id="node15" class="node">
+<g id="node14" class="node">
 <title>Articulation rate</title>
-<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Articulation rate">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-882" rx="68.79" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-878.3" font-family="Times,serif" font-size="14.00">Articulation rate</text>
+<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" xlink:title="Articulation rate">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1422" rx="68.79" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1418.3" font-family="Times,serif" font-size="14.00">Articulation rate</text>
 </a>
 </g>
 </g>
 <!-- Articulation rate&#45;&gt;Expertise -->
 <g id="edge28" class="edge">
 <title>Articulation rate&#45;&gt;Expertise</title>
-<path fill="none" stroke="black" d="M1365.05,-882C1173.89,-882 634.35,-882 462.47,-882"/>
-<polygon fill="black" stroke="black" points="462.4,-878.5 452.4,-882 462.4,-885.5 462.4,-878.5"/>
+<path fill="none" stroke="black" d="M1365.95,-1419.19C1257.81,-1414.6 1038.27,-1404.99 852.33,-1395 711.34,-1387.43 545.24,-1376.87 462.13,-1371.47"/>
+<polygon fill="black" stroke="black" points="462.14,-1367.97 451.93,-1370.81 461.68,-1374.95 462.14,-1367.97"/>
 </g>
 <!-- Articulation rate&#45;&gt;Leadership -->
 <g id="edge24" class="edge">
 <title>Articulation rate&#45;&gt;Leadership</title>
-<path fill="none" stroke="black" d="M1365.95,-879.19C1257.81,-874.6 1038.27,-864.99 852.33,-855 714.53,-847.6 552.72,-837.34 467.88,-831.85"/>
-<polygon fill="black" stroke="black" points="467.88,-828.34 457.68,-831.18 467.43,-835.33 467.88,-828.34"/>
+<path fill="none" stroke="black" d="M1366.98,-1426.24C1233.83,-1433.62 938.53,-1443.74 852.33,-1395 827.22,-1380.8 841.29,-1355.44 816.33,-1341 704.01,-1276.02 543.98,-1290.2 462.01,-1303.53"/>
+<polygon fill="black" stroke="black" points="461.21,-1300.12 451.93,-1305.23 462.37,-1307.02 461.21,-1300.12"/>
+</g>
+<!-- Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech -->
+<g id="node15" class="node">
+<title>Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech</title>
+<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance" xlink:title="Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-18" rx="521.81" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-14.3" font-family="Times,serif" font-size="14.00">Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech</text>
+</a>
+</g>
+</g>
+<!-- Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
+<g id="edge2" class="edge">
+<title>Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
+<path fill="none" stroke="black" d="M1110.85,-32.15C1026.7,-36.08 936.1,-40.5 852.33,-45 787.17,-48.5 716.64,-52.64 651.43,-56.61"/>
+<polygon fill="black" stroke="black" points="651.19,-53.12 641.43,-57.22 651.62,-60.1 651.19,-53.12"/>
 </g>
 <!-- probability of a transition from a vocalisation to floor -->
 <g id="node16" class="node">
 <title>probability of a transition from a vocalisation to floor</title>
-<g id="a_node16"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="probability of a transition from a vocalisation to floor">
+<g id="a_node16"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="probability of a transition from a vocalisation to floor">
 <ellipse fill="none" stroke="black" cx="1434.03" cy="-450" rx="200.36" ry="18"/>
 <text text-anchor="middle" x="1434.03" y="-446.3" font-family="Times,serif" font-size="14.00">probability of a transition from a vocalisation to floor</text>
 </a>
@@ -318,230 +318,230 @@
 <!-- probability of a transition from a vocalisation to floor&#45;&gt;identity of the expert -->
 <g id="edge16" class="edge">
 <title>probability of a transition from a vocalisation to floor&#45;&gt;identity of the expert</title>
-<path fill="none" stroke="black" d="M1241.65,-455.05C1021.82,-460.84 670.05,-470.12 503.04,-474.52"/>
-<polygon fill="black" stroke="black" points="502.7,-471.03 492.8,-474.79 502.89,-478.03 502.7,-471.03"/>
-</g>
-<!-- probability of transitioning from a speaker vocalisation to a group vocalisation -->
-<g id="node17" class="node">
-<title>probability of transitioning from a speaker vocalisation to a group vocalisation</title>
-<g id="a_node17"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="probability of transitioning from a speaker vocalisation to a group vocalisation">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-396" rx="289.75" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-392.3" font-family="Times,serif" font-size="14.00">probability of transitioning from a speaker vocalisation to a group vocalisation</text>
-</a>
-</g>
-</g>
-<!-- probability of transitioning from a speaker vocalisation to a group vocalisation&#45;&gt;identity of the expert -->
-<g id="edge18" class="edge">
-<title>probability of transitioning from a speaker vocalisation to a group vocalisation&#45;&gt;identity of the expert</title>
-<path fill="none" stroke="black" d="M1173.31,-403.92C1072.92,-408.07 957.17,-414.19 852.33,-423 724.79,-433.72 577.39,-453.08 488.82,-465.47"/>
-<polygon fill="black" stroke="black" points="488.26,-462.02 478.84,-466.87 489.23,-468.95 488.26,-462.02"/>
-</g>
-<!-- Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech -->
-<g id="node18" class="node">
-<title>Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech</title>
-<g id="a_node18"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1044" rx="521.81" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1040.3" font-family="Times,serif" font-size="14.00">Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech</text>
-</a>
-</g>
-</g>
-<!-- Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
-<g id="edge2" class="edge">
-<title>Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two&#45;people and three&#45;people Overlapped Speech&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
-<path fill="none" stroke="black" d="M912.1,-1044C883.5,-1044 854.94,-1044 826.77,-1044"/>
-<polygon fill="black" stroke="black" points="826.41,-1040.5 816.41,-1044 826.41,-1047.5 826.41,-1040.5"/>
-</g>
-<!-- Times commands were pronounced -->
-<g id="node19" class="node">
-<title>Times commands were pronounced</title>
-<g id="a_node19"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Times commands were pronounced">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-72" rx="137.58" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-68.3" font-family="Times,serif" font-size="14.00">Times commands were pronounced</text>
-</a>
-</g>
-</g>
-<!-- Times commands were pronounced&#45;&gt;Expert prediction -->
-<g id="edge8" class="edge">
-<title>Times commands were pronounced&#45;&gt;Expert prediction</title>
-<path fill="none" stroke="black" d="M1302.69,-77.52C1184.98,-82.64 1007.02,-90.69 852.33,-99 724.98,-105.84 577.14,-115.12 488.48,-120.82"/>
-<polygon fill="black" stroke="black" points="487.99,-117.35 478.23,-121.48 488.44,-124.33 487.99,-117.35"/>
-</g>
-<!-- Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew -->
-<g id="node20" class="node">
-<title>Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew</title>
-<g id="a_node20"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-990" rx="581.9" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-986.3" font-family="Times,serif" font-size="14.00">Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew</text>
-</a>
-</g>
-</g>
-<!-- Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience -->
-<g id="edge3" class="edge">
-<title>Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew&#45;&gt;Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience</title>
-<path fill="none" stroke="black" d="M1098.66,-1004.72C1017.99,-1008.5 932.07,-1012.72 852.33,-1017 787.17,-1020.5 716.64,-1024.64 651.43,-1028.61"/>
-<polygon fill="black" stroke="black" points="651.19,-1025.12 641.43,-1029.22 651.62,-1032.1 651.19,-1025.12"/>
-</g>
-<!-- interruption -->
-<g id="node21" class="node">
-<title>interruption</title>
-<g id="a_node21"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="interruption">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1368" rx="51.99" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1364.3" font-family="Times,serif" font-size="14.00">interruption</text>
-</a>
-</g>
-</g>
-<!-- interruption&#45;&gt;Emerging leadership -->
-<g id="edge33" class="edge">
-<title>interruption&#45;&gt;Emerging leadership</title>
-<path fill="none" stroke="black" d="M1381.9,-1368C1219.52,-1368 713.81,-1368 502.96,-1368"/>
-<polygon fill="black" stroke="black" points="502.84,-1364.5 492.84,-1368 502.84,-1371.5 502.84,-1364.5"/>
-</g>
-<!-- Pitch -->
-<g id="node22" class="node">
-<title>Pitch</title>
-<g id="a_node22"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Pitch">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1206" rx="28.7" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1202.3" font-family="Times,serif" font-size="14.00">Pitch</text>
-</a>
-</g>
-</g>
-<!-- Pitch&#45;&gt;Big Five personality traits scores -->
-<g id="edge10" class="edge">
-<title>Pitch&#45;&gt;Big Five personality traits scores</title>
-<path fill="none" stroke="black" d="M1405.38,-1206C1283.49,-1206 789.5,-1206 546.08,-1206"/>
-<polygon fill="black" stroke="black" points="545.75,-1202.5 535.75,-1206 545.75,-1209.5 545.75,-1202.5"/>
-</g>
-<!-- 6 One Vs All Features -->
-<g id="node23" class="node">
-<title>6 One Vs All Features</title>
-<g id="a_node23"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="6 One Vs All Features">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1530" rx="89.88" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1526.3" font-family="Times,serif" font-size="14.00">6 One Vs All Features</text>
-</a>
-</g>
-</g>
-<!-- Personality Traits -->
-<g id="node39" class="node">
-<title>Personality Traits</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-1503" rx="73.39" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-1499.3" font-family="Times,serif" font-size="14.00">Personality Traits</text>
-</g>
-<!-- 6 One Vs All Features&#45;&gt;Personality Traits -->
-<g id="edge20" class="edge">
-<title>6 One Vs All Features&#45;&gt;Personality Traits</title>
-<path fill="none" stroke="black" d="M1344.85,-1527.67C1149.33,-1522.52 681.73,-1510.19 491.63,-1505.17"/>
-<polygon fill="black" stroke="black" points="491.51,-1501.67 481.42,-1504.91 491.33,-1508.67 491.51,-1501.67"/>
-</g>
-<!-- uncertainty in the transitions (turn taking -->
-<g id="node24" class="node">
-<title>uncertainty in the transitions (turn taking</title>
-<g id="a_node24"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="uncertainty in the transitions (turn taking">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-342" rx="155.17" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-338.3" font-family="Times,serif" font-size="14.00">uncertainty in the transitions (turn taking</text>
-</a>
-</g>
-</g>
-<!-- uncertainty in the transitions (turn taking&#45;&gt;identity of the expert -->
-<g id="edge19" class="edge">
-<title>uncertainty in the transitions (turn taking&#45;&gt;identity of the expert</title>
-<path fill="none" stroke="black" d="M1278.82,-341.12C1161.36,-342.39 995.93,-348.36 852.33,-369 711.52,-389.24 550.11,-434.25 466.35,-459.31"/>
-<polygon fill="black" stroke="black" points="465.34,-455.96 456.77,-462.19 467.35,-462.66 465.34,-455.96"/>
-</g>
-<!-- speaking time % per individual -->
-<g id="node25" class="node">
-<title>speaking time % per individual</title>
-<g id="a_node25"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="speaking time % per individual">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1584" rx="122.38" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1580.3" font-family="Times,serif" font-size="14.00">speaking time % per individual</text>
-</a>
-</g>
-</g>
-<!-- extraversion rating -->
-<g id="node36" class="node">
-<title>extraversion rating</title>
-<ellipse fill="none" stroke="black" cx="408.16" cy="-1584" rx="77.19" ry="18"/>
-<text text-anchor="middle" x="408.16" y="-1580.3" font-family="Times,serif" font-size="14.00">extraversion rating</text>
-</g>
-<!-- speaking time % per individual&#45;&gt;extraversion rating -->
-<g id="edge34" class="edge">
-<title>speaking time % per individual&#45;&gt;extraversion rating</title>
-<path fill="none" stroke="black" d="M1311.81,-1584C1102.53,-1584 678.39,-1584 495.88,-1584"/>
-<polygon fill="black" stroke="black" points="495.79,-1580.5 485.79,-1584 495.79,-1587.5 495.79,-1580.5"/>
+<path fill="none" stroke="black" d="M1242.52,-444.73C1129.07,-440.7 982.31,-433.93 852.33,-423 724.79,-412.28 577.39,-392.92 488.82,-380.53"/>
+<polygon fill="black" stroke="black" points="489.23,-377.05 478.84,-379.13 488.26,-383.98 489.23,-377.05"/>
 </g>
 <!-- (non -->
-<g id="node26" class="node">
+<g id="node17" class="node">
 <title>(non</title>
-<g id="a_node26"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="(non">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1314" rx="27" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1310.3" font-family="Times,serif" font-size="14.00">(non</text>
+<g id="a_node17"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose" xlink:title="(non">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1152" rx="27" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1148.3" font-family="Times,serif" font-size="14.00">(non</text>
 </a>
 </g>
 </g>
 <!-- (non&#45;&gt;Emerging leadership -->
 <g id="edge31" class="edge">
 <title>(non&#45;&gt;Emerging leadership</title>
-<path fill="none" stroke="black" d="M1406.97,-1315.08C1325.23,-1318.49 1066.48,-1329.5 852.33,-1341 730.04,-1347.57 588.85,-1356.38 499.32,-1362.13"/>
-<polygon fill="black" stroke="black" points="498.96,-1358.64 489.2,-1362.78 499.41,-1365.63 498.96,-1358.64"/>
+<path fill="none" stroke="black" d="M1406.95,-1152C1280.3,-1152 726.44,-1152 503.06,-1152"/>
+<polygon fill="black" stroke="black" points="503,-1148.5 493,-1152 503,-1155.5 503,-1148.5"/>
 </g>
-<!-- speech utterances -->
-<g id="node27" class="node">
-<title>speech utterances</title>
-<g id="a_node27"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="speech utterances">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1476" rx="72.59" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1472.3" font-family="Times,serif" font-size="14.00">speech utterances</text>
+<!-- speaking turn duration / number -->
+<g id="node18" class="node">
+<title>speaking turn duration / number</title>
+<g id="a_node18"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose" xlink:title="speaking turn duration / number">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1098" rx="124.58" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1094.3" font-family="Times,serif" font-size="14.00">speaking turn duration / number</text>
 </a>
 </g>
+</g>
+<!-- speaking turn duration / number&#45;&gt;Emerging leadership -->
+<g id="edge32" class="edge">
+<title>speaking turn duration / number&#45;&gt;Emerging leadership</title>
+<path fill="none" stroke="black" d="M1314,-1103.03C1196.6,-1108.12 1012.06,-1116.42 852.33,-1125 730.04,-1131.57 588.85,-1140.38 499.32,-1146.13"/>
+<polygon fill="black" stroke="black" points="498.96,-1142.64 489.2,-1146.78 499.41,-1149.63 498.96,-1142.64"/>
+</g>
+<!-- Number of interventions -->
+<g id="node19" class="node">
+<title>Number of interventions</title>
+<g id="a_node19"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Number of interventions">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-936" rx="98.28" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-932.3" font-family="Times,serif" font-size="14.00">Number of interventions</text>
+</a>
+</g>
+</g>
+<!-- Number of interventions&#45;&gt;Expert prediction -->
+<g id="edge4" class="edge">
+<title>Number of interventions&#45;&gt;Expert prediction</title>
+<path fill="none" stroke="black" d="M1335.78,-936C1134.82,-936 676.98,-936 490.49,-936"/>
+<polygon fill="black" stroke="black" points="490.47,-932.5 480.47,-936 490.47,-939.5 490.47,-932.5"/>
+</g>
+<!-- speech utterances -->
+<g id="node20" class="node">
+<title>speech utterances</title>
+<g id="a_node20"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Interlocutor-Modulated%20Attention%20BLSTM%20to%20Predict%20Personality%20Traits%20in%20Small%20Group%20Interaction" xlink:title="speech utterances">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1584" rx="72.59" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1580.3" font-family="Times,serif" font-size="14.00">speech utterances</text>
+</a>
+</g>
+</g>
+<!-- Personality Traits -->
+<g id="node40" class="node">
+<title>Personality Traits</title>
+<ellipse fill="none" stroke="black" cx="408.16" cy="-1557" rx="73.39" ry="18"/>
+<text text-anchor="middle" x="408.16" y="-1553.3" font-family="Times,serif" font-size="14.00">Personality Traits</text>
 </g>
 <!-- speech utterances&#45;&gt;Personality Traits -->
 <g id="edge22" class="edge">
 <title>speech utterances&#45;&gt;Personality Traits</title>
-<path fill="none" stroke="black" d="M1361.44,-1477.89C1177.2,-1482.75 687.49,-1495.66 491.72,-1500.82"/>
-<polygon fill="black" stroke="black" points="491.41,-1497.33 481.5,-1501.09 491.59,-1504.33 491.41,-1497.33"/>
+<path fill="none" stroke="black" d="M1361.44,-1582.11C1177.2,-1577.25 687.49,-1564.34 491.72,-1559.18"/>
+<polygon fill="black" stroke="black" points="491.59,-1555.67 481.5,-1558.91 491.41,-1562.67 491.59,-1555.67"/>
+</g>
+<!-- probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause -->
+<g id="node21" class="node">
+<title>probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause</title>
+<g id="a_node21"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-396" rx="369.63" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-392.3" font-family="Times,serif" font-size="14.00">probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause</text>
+</a>
+</g>
+</g>
+<!-- probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause&#45;&gt;identity of the expert -->
+<g id="edge15" class="edge">
+<title>probability of a transition from floor &#160;(i.e. a pause, group switching pause or speaker switching pause&#45;&gt;identity of the expert</title>
+<path fill="none" stroke="black" d="M1108.37,-387.44C898.3,-381.9 639.44,-375.07 503.22,-371.48"/>
+<polygon fill="black" stroke="black" points="502.92,-367.97 492.83,-371.21 502.73,-374.97 502.92,-367.97"/>
+</g>
+<!-- peak slope -->
+<g id="node22" class="node">
+<title>peak slope</title>
+<g id="a_node22"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups" xlink:title="peak slope">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1368" rx="48.19" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1364.3" font-family="Times,serif" font-size="14.00">peak slope</text>
+</a>
+</g>
+</g>
+<!-- peak slope&#45;&gt;Expertise -->
+<g id="edge27" class="edge">
+<title>peak slope&#45;&gt;Expertise</title>
+<path fill="none" stroke="black" d="M1385.7,-1368C1216.42,-1368 641.61,-1368 462.74,-1368"/>
+<polygon fill="black" stroke="black" points="462.53,-1364.5 452.53,-1368 462.53,-1371.5 462.53,-1364.5"/>
+</g>
+<!-- peak slope&#45;&gt;Leadership -->
+<g id="edge25" class="edge">
+<title>peak slope&#45;&gt;Leadership</title>
+<path fill="none" stroke="black" d="M1385.97,-1366.04C1287.12,-1361.88 1050.61,-1351.65 852.33,-1341 714.53,-1333.6 552.72,-1323.34 467.88,-1317.85"/>
+<polygon fill="black" stroke="black" points="467.88,-1314.34 457.68,-1317.18 467.43,-1321.33 467.88,-1314.34"/>
+</g>
+<!-- probability of transitioning from a speaker vocalisation to a group vocalisation -->
+<g id="node23" class="node">
+<title>probability of transitioning from a speaker vocalisation to a group vocalisation</title>
+<g id="a_node23"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="probability of transitioning from a speaker vocalisation to a group vocalisation">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-342" rx="289.75" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-338.3" font-family="Times,serif" font-size="14.00">probability of transitioning from a speaker vocalisation to a group vocalisation</text>
+</a>
+</g>
+</g>
+<!-- probability of transitioning from a speaker vocalisation to a group vocalisation&#45;&gt;identity of the expert -->
+<g id="edge18" class="edge">
+<title>probability of transitioning from a speaker vocalisation to a group vocalisation&#45;&gt;identity of the expert</title>
+<path fill="none" stroke="black" d="M1167.02,-349.01C948.66,-354.77 652.01,-362.6 502.9,-366.53"/>
+<polygon fill="black" stroke="black" points="502.76,-363.03 492.86,-366.79 502.94,-370.03 502.76,-363.03"/>
+</g>
+<!-- Times mathematical terms were mentioned -->
+<g id="node24" class="node">
+<title>Times mathematical terms were mentioned</title>
+<g id="a_node24"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Times mathematical terms were mentioned">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-882" rx="165.97" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-878.3" font-family="Times,serif" font-size="14.00">Times mathematical terms were mentioned</text>
+</a>
+</g>
+</g>
+<!-- Times mathematical terms were mentioned&#45;&gt;Expert prediction -->
+<g id="edge7" class="edge">
+<title>Times mathematical terms were mentioned&#45;&gt;Expert prediction</title>
+<path fill="none" stroke="black" d="M1279.56,-888.53C1162.47,-893.66 997.2,-901.22 852.33,-909 724.98,-915.84 577.14,-925.12 488.48,-930.82"/>
+<polygon fill="black" stroke="black" points="487.99,-927.35 478.23,-931.48 488.44,-934.33 487.99,-927.35"/>
 </g>
 <!-- Energy -->
-<g id="node28" class="node">
+<g id="node25" class="node">
 <title>Energy</title>
-<g id="a_node28"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Energy">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-1152" rx="36.29" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-1148.3" font-family="Times,serif" font-size="14.00">Energy</text>
+<g id="a_node25"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery" xlink:title="Energy">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-612" rx="36.29" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-608.3" font-family="Times,serif" font-size="14.00">Energy</text>
 </a>
 </g>
 </g>
 <!-- Energy&#45;&gt;Big Five personality traits scores -->
 <g id="edge11" class="edge">
 <title>Energy&#45;&gt;Big Five personality traits scores</title>
-<path fill="none" stroke="black" d="M1397.67,-1153.47C1307.02,-1157.27 1058.93,-1167.9 852.33,-1179 745.05,-1184.76 623.22,-1192.25 534.49,-1197.88"/>
-<polygon fill="black" stroke="black" points="534.14,-1194.4 524.38,-1198.52 534.58,-1201.38 534.14,-1194.4"/>
+<path fill="none" stroke="black" d="M1397.67,-613.47C1307.02,-617.27 1058.93,-627.9 852.33,-639 745.05,-644.76 623.22,-652.25 534.49,-657.88"/>
+<polygon fill="black" stroke="black" points="534.14,-654.4 524.38,-658.52 534.58,-661.38 534.14,-654.4"/>
+</g>
+<!-- duration of all vocalisations -->
+<g id="node26" class="node">
+<title>duration of all vocalisations</title>
+<g id="a_node26"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="duration of all vocalisations">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-288" rx="109.38" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-284.3" font-family="Times,serif" font-size="14.00">duration of all vocalisations</text>
+</a>
+</g>
+</g>
+<!-- duration of all vocalisations&#45;&gt;identity of the expert -->
+<g id="edge12" class="edge">
+<title>duration of all vocalisations&#45;&gt;identity of the expert</title>
+<path fill="none" stroke="black" d="M1325.84,-290.58C1209.19,-293.95 1017.26,-301.14 852.33,-315 724.79,-325.72 577.39,-345.08 488.82,-357.47"/>
+<polygon fill="black" stroke="black" points="488.26,-354.02 478.84,-358.87 489.23,-360.95 488.26,-354.02"/>
 </g>
 <!-- standard deviation of vocalisation -->
-<g id="node29" class="node">
+<g id="node27" class="node">
 <title>standard deviation of vocalisation</title>
-<g id="a_node29"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="standard deviation of vocalisation">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-288" rx="129.98" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-284.3" font-family="Times,serif" font-size="14.00">standard deviation of vocalisation</text>
+<g id="a_node27"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="standard deviation of vocalisation">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-234" rx="129.98" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-230.3" font-family="Times,serif" font-size="14.00">standard deviation of vocalisation</text>
 </a>
 </g>
 </g>
 <!-- standard deviation of vocalisation&#45;&gt;identity of the expert -->
 <g id="edge14" class="edge">
 <title>standard deviation of vocalisation&#45;&gt;identity of the expert</title>
-<path fill="none" stroke="black" d="M1309.07,-282.97C1190.59,-280.69 1007.55,-283.78 852.33,-315 700.22,-345.59 530.61,-419.59 452.66,-456.02"/>
-<polygon fill="black" stroke="black" points="450.73,-453.06 443.16,-460.48 453.7,-459.4 450.73,-453.06"/>
+<path fill="none" stroke="black" d="M1304.06,-232.91C1185.93,-233.58 1006.55,-238.83 852.33,-261 711.52,-281.24 550.11,-326.25 466.35,-351.31"/>
+<polygon fill="black" stroke="black" points="465.34,-347.96 456.77,-354.19 467.35,-354.66 465.34,-347.96"/>
 </g>
-<!-- Times numbers were mentioned -->
-<g id="node30" class="node">
-<title>Times numbers were mentioned</title>
-<g id="a_node30"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Times numbers were mentioned">
-<ellipse fill="none" stroke="black" cx="1434.03" cy="-18" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="1434.03" y="-14.3" font-family="Times,serif" font-size="14.00">Times numbers were mentioned</text>
+<!-- probability of transitioning from a group vocalisation to speaker vocalisation -->
+<g id="node28" class="node">
+<title>probability of transitioning from a group vocalisation to speaker vocalisation</title>
+<g id="a_node28"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction." xlink:title="probability of transitioning from a group vocalisation to speaker vocalisation">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-180" rx="283.25" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-176.3" font-family="Times,serif" font-size="14.00">probability of transitioning from a group vocalisation to speaker vocalisation</text>
 </a>
 </g>
 </g>
-<!-- Times numbers were mentioned&#45;&gt;Expert prediction -->
-<g id="edge6" class="edge">
-<title>Times numbers were mentioned&#45;&gt;Expert prediction</title>
-<path fill="none" stroke="black" d="M1308.03,-18.97C1190.17,-21.03 1008.75,-27.15 852.33,-45 715.54,-60.61 557.33,-93.05 471.84,-111.8"/>
-<polygon fill="black" stroke="black" points="471.04,-108.39 462.03,-113.96 472.55,-115.22 471.04,-108.39"/>
+<!-- probability of transitioning from a group vocalisation to speaker vocalisation&#45;&gt;identity of the expert -->
+<g id="edge17" class="edge">
+<title>probability of transitioning from a group vocalisation to speaker vocalisation&#45;&gt;identity of the expert</title>
+<path fill="none" stroke="black" d="M1158.78,-175.7C1061.25,-178.65 951.15,-187.13 852.33,-207 700.22,-237.59 530.61,-311.59 452.66,-348.02"/>
+<polygon fill="black" stroke="black" points="450.73,-345.06 443.16,-352.48 453.7,-351.4 450.73,-345.06"/>
+</g>
+<!-- Total speech duration -->
+<g id="node29" class="node">
+<title>Total speech duration</title>
+<g id="a_node29"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Total speech duration">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-828" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-824.3" font-family="Times,serif" font-size="14.00">Total speech duration</text>
+</a>
+</g>
+</g>
+<!-- Total speech duration&#45;&gt;Expert prediction -->
+<g id="edge5" class="edge">
+<title>Total speech duration&#45;&gt;Expert prediction</title>
+<path fill="none" stroke="black" d="M1346.65,-828.4C1232.96,-829.76 1027.05,-835.06 852.33,-855 715.54,-870.61 557.33,-903.05 471.84,-921.8"/>
+<polygon fill="black" stroke="black" points="471.04,-918.39 462.03,-923.96 472.55,-925.22 471.04,-918.39"/>
+</g>
+<!-- 6 One Vs All Features -->
+<g id="node30" class="node">
+<title>6 One Vs All Features</title>
+<g id="a_node30"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories" xlink:title="6 One Vs All Features">
+<ellipse fill="none" stroke="black" cx="1434.03" cy="-1530" rx="89.88" ry="18"/>
+<text text-anchor="middle" x="1434.03" y="-1526.3" font-family="Times,serif" font-size="14.00">6 One Vs All Features</text>
+</a>
+</g>
+</g>
+<!-- 6 One Vs All Features&#45;&gt;Personality Traits -->
+<g id="edge20" class="edge">
+<title>6 One Vs All Features&#45;&gt;Personality Traits</title>
+<path fill="none" stroke="black" d="M1344.85,-1532.33C1149.33,-1537.48 681.73,-1549.81 491.63,-1554.83"/>
+<polygon fill="black" stroke="black" points="491.33,-1551.33 481.42,-1555.09 491.51,-1558.33 491.33,-1551.33"/>
 </g>
 </g>
 </svg>

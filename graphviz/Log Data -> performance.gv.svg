@@ -9,163 +9,112 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 796)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-796 635.35,-796 635.35,4 -4,4"/>
-<!-- target for discussion partner -->
+<!-- Total number of pen strokes -->
 <g id="node1" class="node">
-<title>target for discussion partner</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="target for discussion partner">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-72" rx="109.68" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-68.3" font-family="Times,serif" font-size="14.00">target for discussion partner</text>
-</a>
-</g>
-</g>
-<!-- task success score -->
-<g id="node18" class="node">
-<title>task success score</title>
-<ellipse fill="none" stroke="black" cx="173.53" cy="-45" rx="74.99" ry="18"/>
-<text text-anchor="middle" x="173.53" y="-41.3" font-family="Times,serif" font-size="14.00">task success score</text>
-</g>
-<!-- target for discussion partner&#45;&gt;task success score -->
-<g id="edge15" class="edge">
-<title>target for discussion partner&#45;&gt;task success score</title>
-<path fill="none" stroke="black" d="M408.49,-64.05C359.44,-60.05 300.78,-55.28 254.46,-51.51"/>
-<polygon fill="black" stroke="black" points="254.73,-48.02 244.48,-50.69 254.16,-54.99 254.73,-48.02"/>
-</g>
-<!-- Average stroke pressure -->
-<g id="node2" class="node">
-<title>Average stroke pressure</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Average stroke pressure">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-450" rx="96.38" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-446.3" font-family="Times,serif" font-size="14.00">Average stroke pressure</text>
+<title>Total number of pen strokes</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Total number of pen strokes">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-342" rx="111.28" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-338.3" font-family="Times,serif" font-size="14.00">Total number of pen strokes</text>
 </a>
 </g>
 </g>
 <!-- Odds of a student solving correctly a problem -->
 <g id="node19" class="node">
 <title>Odds of a student solving correctly a problem</title>
-<ellipse fill="none" stroke="black" cx="173.53" cy="-288" rx="173.57" ry="18"/>
-<text text-anchor="middle" x="173.53" y="-284.3" font-family="Times,serif" font-size="14.00">Odds of a student solving correctly a problem</text>
+<ellipse fill="none" stroke="black" cx="173.53" cy="-180" rx="173.57" ry="18"/>
+<text text-anchor="middle" x="173.53" y="-176.3" font-family="Times,serif" font-size="14.00">Odds of a student solving correctly a problem</text>
 </g>
-<!-- Average stroke pressure&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge8" class="edge">
-<title>Average stroke pressure&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M432.93,-438.45C416.19,-434.58 398.72,-429.53 383.07,-423 314.42,-394.37 243.63,-343.05 204.73,-312.6"/>
-<polygon fill="black" stroke="black" points="206.49,-309.52 196.47,-306.07 202.15,-315.02 206.49,-309.52"/>
+<!-- Total number of pen strokes&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge3" class="edge">
+<title>Total number of pen strokes&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M428.05,-329.29C412.82,-325.59 397.21,-320.9 383.07,-315 314.42,-286.37 243.63,-235.05 204.73,-204.6"/>
+<polygon fill="black" stroke="black" points="206.49,-201.52 196.47,-198.07 202.15,-207.02 206.49,-201.52"/>
 </g>
 <!-- Average stroke time length -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>Average stroke time length</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Average stroke time length">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-396" rx="107.48" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-392.3" font-family="Times,serif" font-size="14.00">Average stroke time length</text>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Average stroke time length">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-288" rx="107.48" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-284.3" font-family="Times,serif" font-size="14.00">Average stroke time length</text>
 </a>
 </g>
 </g>
 <!-- Average stroke time length&#45;&gt;Odds of a student solving correctly a problem -->
 <g id="edge5" class="edge">
 <title>Average stroke time length&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M435.72,-382.51C418.37,-378.65 399.94,-374.09 383.07,-369 327.36,-352.18 265.43,-327.31 223.64,-309.56"/>
-<polygon fill="black" stroke="black" points="224.83,-306.26 214.26,-305.55 222.08,-312.7 224.83,-306.26"/>
+<path fill="none" stroke="black" d="M435.72,-274.51C418.37,-270.65 399.94,-266.09 383.07,-261 327.36,-244.18 265.43,-219.31 223.64,-201.56"/>
+<polygon fill="black" stroke="black" points="224.83,-198.26 214.26,-197.55 222.08,-204.7 224.83,-198.26"/>
 </g>
-<!-- Arduino active hardware blocks -->
-<g id="node4" class="node">
-<title>Arduino active hardware blocks</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Arduino active hardware blocks">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-720" rx="124.28" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-716.3" font-family="Times,serif" font-size="14.00">Arduino active hardware blocks</text>
+<!-- Arduino active blocks -->
+<g id="node3" class="node">
+<title>Arduino active blocks</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Arduino active blocks">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-612" rx="89.08" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-608.3" font-family="Times,serif" font-size="14.00">Arduino active blocks</text>
 </a>
 </g>
 </g>
 <!-- artefact quality -->
-<g id="node17" class="node">
+<g id="node18" class="node">
 <title>artefact quality</title>
-<ellipse fill="none" stroke="black" cx="173.53" cy="-612" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="173.53" y="-608.3" font-family="Times,serif" font-size="14.00">artefact quality</text>
+<ellipse fill="none" stroke="black" cx="173.53" cy="-504" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="173.53" y="-500.3" font-family="Times,serif" font-size="14.00">artefact quality</text>
 </g>
-<!-- Arduino active hardware blocks&#45;&gt;artefact quality -->
-<g id="edge10" class="edge">
-<title>Arduino active hardware blocks&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M431.82,-705.63C415.63,-701.97 398.68,-697.71 383.07,-693 324.77,-675.4 259.66,-648.98 217.95,-631.14"/>
-<polygon fill="black" stroke="black" points="219.22,-627.87 208.65,-627.13 216.45,-634.3 219.22,-627.87"/>
+<!-- Arduino active blocks&#45;&gt;artefact quality -->
+<g id="edge12" class="edge">
+<title>Arduino active blocks&#45;&gt;artefact quality</title>
+<path fill="none" stroke="black" d="M441.5,-599.78C422.51,-595.66 401.82,-590.66 383.07,-585 324.77,-567.4 259.66,-540.98 217.95,-523.14"/>
+<polygon fill="black" stroke="black" points="219.22,-519.87 208.65,-519.13 216.45,-526.3 219.22,-519.87"/>
 </g>
-<!-- type of activity done in task -->
-<g id="node5" class="node">
-<title>type of activity done in task</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="type of activity done in task">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-18" rx="109.68" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-14.3" font-family="Times,serif" font-size="14.00">type of activity done in task</text>
+<!-- Arduino active software blocks -->
+<g id="node4" class="node">
+<title>Arduino active software blocks</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Arduino active software blocks">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-558" rx="121.58" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-554.3" font-family="Times,serif" font-size="14.00">Arduino active software blocks</text>
 </a>
 </g>
 </g>
-<!-- type of activity done in task&#45;&gt;task success score -->
-<g id="edge14" class="edge">
-<title>type of activity done in task&#45;&gt;task success score</title>
-<path fill="none" stroke="black" d="M408.49,-25.95C359.44,-29.95 300.78,-34.72 254.46,-38.49"/>
-<polygon fill="black" stroke="black" points="254.16,-35.01 244.48,-39.31 254.73,-41.98 254.16,-35.01"/>
-</g>
-<!-- Total number of pen strokes -->
-<g id="node6" class="node">
-<title>Total number of pen strokes</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Total number of pen strokes">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-342" rx="111.28" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-338.3" font-family="Times,serif" font-size="14.00">Total number of pen strokes</text>
-</a>
-</g>
-</g>
-<!-- Total number of pen strokes&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge3" class="edge">
-<title>Total number of pen strokes&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M428.03,-329.27C383.05,-321.95 326.01,-312.66 277.43,-304.75"/>
-<polygon fill="black" stroke="black" points="277.95,-301.29 267.52,-303.14 276.83,-308.2 277.95,-301.29"/>
-</g>
-<!-- Calculator Use -->
-<g id="node7" class="node">
-<title>Calculator Use</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Calculator Use">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-288" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-284.3" font-family="Times,serif" font-size="14.00">Calculator Use</text>
-</a>
-</g>
-</g>
-<!-- Calculator Use&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge2" class="edge">
-<title>Calculator Use&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M443.43,-288C418.44,-288 388.27,-288 357.3,-288"/>
-<polygon fill="black" stroke="black" points="357.22,-284.5 347.22,-288 357.22,-291.5 357.22,-284.5"/>
+<!-- Arduino active software blocks&#45;&gt;artefact quality -->
+<g id="edge11" class="edge">
+<title>Arduino active software blocks&#45;&gt;artefact quality</title>
+<path fill="none" stroke="black" d="M424.65,-544.72C367.44,-535.41 292,-523.12 238.99,-514.49"/>
+<polygon fill="black" stroke="black" points="239.46,-511.02 229.03,-512.87 238.34,-517.93 239.46,-511.02"/>
 </g>
 <!-- Arduino measure of complexity -->
-<g id="node8" class="node">
+<g id="node5" class="node">
 <title>Arduino measure of complexity</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Arduino measure of complexity">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-666" rx="124.28" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-662.3" font-family="Times,serif" font-size="14.00">Arduino measure of complexity</text>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Arduino measure of complexity">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-504" rx="124.28" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-500.3" font-family="Times,serif" font-size="14.00">Arduino measure of complexity</text>
 </a>
 </g>
 </g>
 <!-- Arduino measure of complexity&#45;&gt;artefact quality -->
 <g id="edge9" class="edge">
 <title>Arduino measure of complexity&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M423.8,-652.58C366.66,-643.28 291.66,-631.07 238.91,-622.48"/>
-<polygon fill="black" stroke="black" points="239.43,-619.02 229,-620.87 238.3,-625.93 239.43,-619.02"/>
+<path fill="none" stroke="black" d="M382.71,-504C337.3,-504 287.35,-504 247.77,-504"/>
+<polygon fill="black" stroke="black" points="247.68,-500.5 237.68,-504 247.68,-507.5 247.68,-500.5"/>
 </g>
-<!-- Average number of points -->
-<g id="node9" class="node">
-<title>Average number of points</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Average number of points">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-234" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-230.3" font-family="Times,serif" font-size="14.00">Average number of points</text>
+<!-- Average stroke pressure -->
+<g id="node6" class="node">
+<title>Average stroke pressure</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Average stroke pressure">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-234" rx="96.38" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-230.3" font-family="Times,serif" font-size="14.00">Average stroke pressure</text>
 </a>
 </g>
 </g>
-<!-- Average number of points&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge4" class="edge">
-<title>Average number of points&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M430.95,-246.25C385.62,-253.63 327.27,-263.13 277.68,-271.21"/>
-<polygon fill="black" stroke="black" points="276.87,-267.79 267.57,-272.85 278,-274.7 276.87,-267.79"/>
+<!-- Average stroke pressure&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge8" class="edge">
+<title>Average stroke pressure&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M433.83,-222.22C388.08,-214.77 328.25,-205.03 277.59,-196.78"/>
+<polygon fill="black" stroke="black" points="278.02,-193.3 267.59,-195.15 276.89,-200.21 278.02,-193.3"/>
 </g>
 <!-- Average stroke path length -->
-<g id="node10" class="node">
+<g id="node7" class="node">
 <title>Average stroke path length</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Average stroke path length">
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Average stroke path length">
 <ellipse fill="none" stroke="black" cx="507.21" cy="-180" rx="106.68" ry="18"/>
 <text text-anchor="middle" x="507.21" y="-176.3" font-family="Times,serif" font-size="14.00">Average stroke path length</text>
 </a>
@@ -174,20 +123,116 @@
 <!-- Average stroke path length&#45;&gt;Odds of a student solving correctly a problem -->
 <g id="edge6" class="edge">
 <title>Average stroke path length&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M436.04,-193.42C418.6,-197.29 400.04,-201.88 383.07,-207 327.36,-223.82 265.43,-248.69 223.64,-266.44"/>
-<polygon fill="black" stroke="black" points="222.08,-263.3 214.26,-270.45 224.83,-269.74 222.08,-263.3"/>
+<path fill="none" stroke="black" d="M400.35,-180C386.49,-180 371.98,-180 357.29,-180"/>
+<polygon fill="black" stroke="black" points="357.1,-176.5 347.1,-180 357.1,-183.5 357.1,-176.5"/>
+</g>
+<!-- Arduino active hardware blocks -->
+<g id="node8" class="node">
+<title>Arduino active hardware blocks</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="Arduino active hardware blocks">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-450" rx="124.28" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-446.3" font-family="Times,serif" font-size="14.00">Arduino active hardware blocks</text>
+</a>
+</g>
+</g>
+<!-- Arduino active hardware blocks&#45;&gt;artefact quality -->
+<g id="edge10" class="edge">
+<title>Arduino active hardware blocks&#45;&gt;artefact quality</title>
+<path fill="none" stroke="black" d="M423.8,-463.42C366.66,-472.72 291.66,-484.93 238.91,-493.52"/>
+<polygon fill="black" stroke="black" points="238.3,-490.07 229,-495.13 239.43,-496.98 238.3,-490.07"/>
+</g>
+<!-- target for discussion partner -->
+<g id="node9" class="node">
+<title>target for discussion partner</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" xlink:title="target for discussion partner">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-720" rx="109.68" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-716.3" font-family="Times,serif" font-size="14.00">target for discussion partner</text>
+</a>
+</g>
+</g>
+<!-- task success score -->
+<g id="node16" class="node">
+<title>task success score</title>
+<ellipse fill="none" stroke="black" cx="173.53" cy="-693" rx="74.99" ry="18"/>
+<text text-anchor="middle" x="173.53" y="-689.3" font-family="Times,serif" font-size="14.00">task success score</text>
+</g>
+<!-- target for discussion partner&#45;&gt;task success score -->
+<g id="edge15" class="edge">
+<title>target for discussion partner&#45;&gt;task success score</title>
+<path fill="none" stroke="black" d="M408.49,-712.05C359.44,-708.05 300.78,-703.28 254.46,-699.51"/>
+<polygon fill="black" stroke="black" points="254.73,-696.02 244.48,-698.69 254.16,-702.99 254.73,-696.02"/>
+</g>
+<!-- Calculator Use -->
+<g id="node10" class="node">
+<title>Calculator Use</title>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Calculator Use">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-126" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-122.3" font-family="Times,serif" font-size="14.00">Calculator Use</text>
+</a>
+</g>
+</g>
+<!-- Calculator Use&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge2" class="edge">
+<title>Calculator Use&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M451.44,-134.92C404.4,-142.58 335.3,-153.83 277.9,-163.17"/>
+<polygon fill="black" stroke="black" points="277,-159.77 267.69,-164.83 278.12,-166.68 277,-159.77"/>
+</g>
+<!-- Average stroke displacement -->
+<g id="node11" class="node">
+<title>Average stroke displacement</title>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Average stroke displacement">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-72" rx="113.98" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-68.3" font-family="Times,serif" font-size="14.00">Average stroke displacement</text>
+</a>
+</g>
+</g>
+<!-- Average stroke displacement&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge7" class="edge">
+<title>Average stroke displacement&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M434.1,-85.85C417.23,-89.63 399.41,-94.07 383.07,-99 327.36,-115.82 265.43,-140.69 223.64,-158.44"/>
+<polygon fill="black" stroke="black" points="222.08,-155.3 214.26,-162.45 224.83,-161.74 222.08,-155.3"/>
+</g>
+<!-- student work phases -->
+<g id="node12" class="node">
+<title>student work phases</title>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Supervised%20machine%20learning%20in%20multimodal%20learning%20analytics%20for%20estimating%20success%20in%20project-based%20learning" xlink:title="student work phases">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-396" rx="82.59" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-392.3" font-family="Times,serif" font-size="14.00">student work phases</text>
+</a>
+</g>
+</g>
+<!-- student work phases&#45;&gt;artefact quality -->
+<g id="edge13" class="edge">
+<title>student work phases&#45;&gt;artefact quality</title>
+<path fill="none" stroke="black" d="M444.03,-407.68C424.37,-411.89 402.66,-417.09 383.07,-423 324.77,-440.6 259.66,-467.02 217.95,-484.86"/>
+<polygon fill="black" stroke="black" points="216.45,-481.7 208.65,-488.87 219.22,-488.13 216.45,-481.7"/>
+</g>
+<!-- Average number of points -->
+<g id="node13" class="node">
+<title>Average number of points</title>
+<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features" xlink:title="Average number of points">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-18" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-14.3" font-family="Times,serif" font-size="14.00">Average number of points</text>
+</a>
+</g>
+</g>
+<!-- Average number of points&#45;&gt;Odds of a student solving correctly a problem -->
+<g id="edge4" class="edge">
+<title>Average number of points&#45;&gt;Odds of a student solving correctly a problem</title>
+<path fill="none" stroke="black" d="M430.33,-30.16C414.39,-33.94 397.92,-38.81 383.07,-45 314.42,-73.63 243.63,-124.95 204.73,-155.4"/>
+<polygon fill="black" stroke="black" points="202.15,-152.98 196.47,-161.93 206.49,-158.48 202.15,-152.98"/>
 </g>
 <!-- events -->
-<g id="node11" class="node">
+<g id="node14" class="node">
 <title>events</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="events">
+<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Analysing%20frequent%20sequential%20patterns%20of%20collaborative%20learning%20activity%20around%20an%20interactive%20tabletop" xlink:title="events">
 <ellipse fill="none" stroke="black" cx="507.21" cy="-774" rx="33.29" ry="18"/>
 <text text-anchor="middle" x="507.21" y="-770.3" font-family="Times,serif" font-size="14.00">events</text>
 </a>
 </g>
 </g>
 <!-- group performance -->
-<g id="node16" class="node">
+<g id="node17" class="node">
 <title>group performance</title>
 <ellipse fill="none" stroke="black" cx="173.53" cy="-774" rx="78.79" ry="18"/>
 <text text-anchor="middle" x="173.53" y="-770.3" font-family="Times,serif" font-size="14.00">group performance</text>
@@ -198,65 +243,20 @@
 <path fill="none" stroke="black" d="M473.8,-774C425.25,-774 331.91,-774 262.32,-774"/>
 <polygon fill="black" stroke="black" points="262.23,-770.5 252.23,-774 262.23,-777.5 262.23,-770.5"/>
 </g>
-<!-- Arduino active software blocks -->
-<g id="node12" class="node">
-<title>Arduino active software blocks</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Arduino active software blocks">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-612" rx="121.58" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-608.3" font-family="Times,serif" font-size="14.00">Arduino active software blocks</text>
-</a>
-</g>
-</g>
-<!-- Arduino active software blocks&#45;&gt;artefact quality -->
-<g id="edge11" class="edge">
-<title>Arduino active software blocks&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M385.53,-612C339.25,-612 287.9,-612 247.45,-612"/>
-<polygon fill="black" stroke="black" points="247.41,-608.5 237.41,-612 247.41,-615.5 247.41,-608.5"/>
-</g>
-<!-- Arduino active blocks -->
-<g id="node13" class="node">
-<title>Arduino active blocks</title>
-<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Arduino active blocks">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-558" rx="89.08" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-554.3" font-family="Times,serif" font-size="14.00">Arduino active blocks</text>
-</a>
-</g>
-</g>
-<!-- Arduino active blocks&#45;&gt;artefact quality -->
-<g id="edge12" class="edge">
-<title>Arduino active blocks&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M437.08,-569.25C378.79,-578.75 295.98,-592.23 239.03,-601.5"/>
-<polygon fill="black" stroke="black" points="238.37,-598.06 229.07,-603.12 239.5,-604.97 238.37,-598.06"/>
-</g>
-<!-- Average stroke displacement -->
-<g id="node14" class="node">
-<title>Average stroke displacement</title>
-<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Average stroke displacement">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-126" rx="113.98" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-122.3" font-family="Times,serif" font-size="14.00">Average stroke displacement</text>
-</a>
-</g>
-</g>
-<!-- Average stroke displacement&#45;&gt;Odds of a student solving correctly a problem -->
-<g id="edge7" class="edge">
-<title>Average stroke displacement&#45;&gt;Odds of a student solving correctly a problem</title>
-<path fill="none" stroke="black" d="M427.39,-138.87C412.38,-142.54 397.01,-147.19 383.07,-153 314.42,-181.63 243.63,-232.95 204.73,-263.4"/>
-<polygon fill="black" stroke="black" points="202.15,-260.98 196.47,-269.93 206.49,-266.48 202.15,-260.98"/>
-</g>
-<!-- student work phases -->
+<!-- type of activity done in task -->
 <g id="node15" class="node">
-<title>student work phases</title>
-<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="student work phases">
-<ellipse fill="none" stroke="black" cx="507.21" cy="-504" rx="82.59" ry="18"/>
-<text text-anchor="middle" x="507.21" y="-500.3" font-family="Times,serif" font-size="14.00">student work phases</text>
+<title>type of activity done in task</title>
+<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Focused%20or%20Stuck%20Together:%20Multimodal%20Patterns%20Reveal%20Triads’%20Performance%20in%20Collaborative%20Problem%20Solving" xlink:title="type of activity done in task">
+<ellipse fill="none" stroke="black" cx="507.21" cy="-666" rx="109.68" ry="18"/>
+<text text-anchor="middle" x="507.21" y="-662.3" font-family="Times,serif" font-size="14.00">type of activity done in task</text>
 </a>
 </g>
 </g>
-<!-- student work phases&#45;&gt;artefact quality -->
-<g id="edge13" class="edge">
-<title>student work phases&#45;&gt;artefact quality</title>
-<path fill="none" stroke="black" d="M444.03,-515.68C424.37,-519.89 402.66,-525.09 383.07,-531 324.77,-548.6 259.66,-575.02 217.95,-592.86"/>
-<polygon fill="black" stroke="black" points="216.45,-589.7 208.65,-596.87 219.22,-596.13 216.45,-589.7"/>
+<!-- type of activity done in task&#45;&gt;task success score -->
+<g id="edge14" class="edge">
+<title>type of activity done in task&#45;&gt;task success score</title>
+<path fill="none" stroke="black" d="M408.49,-673.95C359.44,-677.95 300.78,-682.72 254.46,-686.49"/>
+<polygon fill="black" stroke="black" points="254.16,-683.01 244.48,-687.31 254.73,-689.98 254.16,-683.01"/>
 </g>
 </g>
 </svg>

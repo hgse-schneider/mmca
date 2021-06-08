@@ -3,16 +3,16 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "gesture type and location" "Physical synchrony" "Total movement across upper body joints and body parts" "dyad proximity" "Joint movement";}
-	{rank=same; "Collaboration" "frequency of utterances" "collaboration quality";}
-	"gesture type and location" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "Physical synchrony" "gesture type and location" "Total movement across upper body joints and body parts" "dyad proximity" "Joint movement";}
+	{rank=same; "Collaboration" "collaboration quality" "frequency of utterances";}
+	"gesture type and location" [href="https://scholar.google.com/scholar?hl=en&q=Improving%20Visibility%20of%20Remote%20Gestures%20in%20Distributed%20Tabletop%20Collaboration"]
 	"gesture type and location" -> "frequency of utterances"
-	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physical synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
 	"Physical synchrony" -> Collaboration
-	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Total movement across upper body joints and body parts" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads"]
 	"Total movement across upper body joints and body parts" -> "collaboration quality"
-	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Joint movement" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"Joint movement" -> Collaboration
-	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"dyad proximity" [href="https://scholar.google.com/scholar?hl=en&q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics"]
 	"dyad proximity" -> Collaboration
 }

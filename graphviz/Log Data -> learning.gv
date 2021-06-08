@@ -3,22 +3,22 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Convergence measures" "types of exploration" "Cosine similarity scores" "Coherence metrics" "N-grams" "amount of exploration";}
-	{rank=same; "learning gains" "Learning gains" "learning gain group (high or low";}
-	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "types of exploration" "N-grams" "Cosine similarity scores" "amount of exploration" "Coherence metrics" "Convergence measures";}
+	{rank=same; "Learning gains" "learning gain group (high or low" "learning gains";}
+	"Convergence measures" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
 	"Convergence measures" -> "Learning gains"
-	"Coherence metrics" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Coherence metrics" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
 	"Coherence metrics" -> "Learning gains"
-	"N-grams" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"N-grams" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
 	"N-grams" -> "Learning gains"
-	"Cosine similarity scores" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Cosine similarity scores" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
 	"Cosine similarity scores" -> "Learning gains"
-	"amount of exploration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"amount of exploration" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"amount of exploration" -> "learning gains"
-	"types of exploration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"types of exploration" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"types of exploration" -> "learning gains"
-	"amount of exploration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"amount of exploration" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"amount of exploration" -> "learning gain group (high or low"
-	"types of exploration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"types of exploration" [href="https://scholar.google.com/scholar?hl=en&q=Unraveling%20Students'%20Interaction%20around%20a%20Tangible%20Interface%20Using%20Multimodal%20Learning%20Analytics."]
 	"types of exploration" -> "learning gain group (high or low"
 }

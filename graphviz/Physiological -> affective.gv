@@ -3,18 +3,18 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Galvanic skin response" "physiological synchrony" "Physiological linkage";}
-	{rank=same; "Perceived Valence" "Empathy" "Emotional valence" "Negative Feelings" "Judgement of confidence" "Perceived Arousal";}
-	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "Physiological linkage" "Galvanic skin response" "physiological synchrony";}
+	{rank=same; "Negative Feelings" "Perceived Valence" "Perceived Arousal" "Empathy" "Judgement of confidence" "Emotional valence";}
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
 	"Physiological linkage" -> Empathy
-	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
 	"Physiological linkage" -> "Negative Feelings"
-	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Galvanic skin response" -> "Perceived Valence"
-	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
 	"Galvanic skin response" -> "Perceived Arousal"
-	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?"]
 	"physiological synchrony" -> "Judgement of confidence"
-	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?"]
 	"physiological synchrony" -> "Emotional valence"
 }

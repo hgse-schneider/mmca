@@ -5,6 +5,6 @@ digraph Test {
 	splines=true
 	{rank=same; "Touch patterns";}
 	{rank=same; "Social regulation";}
-	"Touch patterns" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Touch patterns" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Collaboration%20Patterns%20on%20an%20Interactive%20Tabletop%20in%20a%20Classroom%20Setting"]
 	"Touch patterns" -> "Social regulation"
 }

@@ -9,329 +9,329 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 958)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-958 779.63,-958 779.63,4 -4,4"/>
-<!-- prosodic and tone features [many] -->
+<!-- duration of speech by each student -->
 <g id="node1" class="node">
-<title>prosodic and tone features [many]</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="prosodic and tone features [many]">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-288" rx="131.88" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-284.3" font-family="Times,serif" font-size="14.00">prosodic and tone features [many]</text>
+<title>duration of speech by each student</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Privacy-Preserving%20Speech%20Analytics%20for%20Automatic%20Assessment%20of%20Student%20Collaboration" xlink:title="duration of speech by each student">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-288" rx="133.78" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-284.3" font-family="Times,serif" font-size="14.00">duration of speech by each student</text>
 </a>
 </g>
 </g>
 <!-- collaboration quality of group [4 level scale] -->
-<g id="node22" class="node">
+<g id="node24" class="node">
 <title>collaboration quality of group [4 level scale]</title>
 <ellipse fill="none" stroke="black" cx="168.99" cy="-153" rx="168.97" ry="18"/>
 <text text-anchor="middle" x="168.99" y="-149.3" font-family="Times,serif" font-size="14.00">collaboration quality of group [4 level scale]</text>
 </g>
-<!-- prosodic and tone features [many]&#45;&gt;collaboration quality of group [4 level scale] -->
-<g id="edge17" class="edge">
-<title>prosodic and tone features [many]&#45;&gt;collaboration quality of group [4 level scale]</title>
-<path fill="none" stroke="black" d="M458.39,-279.44C430.34,-275.44 400.72,-269.59 373.97,-261 310.83,-240.73 244.08,-201.54 204.78,-176.36"/>
+<!-- duration of speech by each student&#45;&gt;collaboration quality of group [4 level scale] -->
+<g id="edge12" class="edge">
+<title>duration of speech by each student&#45;&gt;collaboration quality of group [4 level scale]</title>
+<path fill="none" stroke="black" d="M457.34,-279.29C429.6,-275.3 400.39,-269.48 373.97,-261 310.83,-240.73 244.08,-201.54 204.78,-176.36"/>
 <polygon fill="black" stroke="black" points="206.64,-173.39 196.34,-170.9 202.83,-179.27 206.64,-173.39"/>
 </g>
-<!-- speech rate -->
-<g id="node2" class="node">
-<title>speech rate</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="speech rate">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-342" rx="50.09" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-338.3" font-family="Times,serif" font-size="14.00">speech rate</text>
-</a>
-</g>
-</g>
-<!-- Perceived Collaboration Quality -->
-<g id="node20" class="node">
-<title>Perceived Collaboration Quality</title>
-<ellipse fill="none" stroke="black" cx="168.99" cy="-342" rx="124.58" ry="18"/>
-<text text-anchor="middle" x="168.99" y="-338.3" font-family="Times,serif" font-size="14.00">Perceived Collaboration Quality</text>
-</g>
-<!-- speech rate&#45;&gt;Perceived Collaboration Quality -->
-<g id="edge18" class="edge">
-<title>speech rate&#45;&gt;Perceived Collaboration Quality</title>
-<path fill="none" stroke="black" d="M524.69,-342C470.18,-342 379.87,-342 304.03,-342"/>
-<polygon fill="black" stroke="black" points="303.91,-338.5 293.91,-342 303.91,-345.5 303.91,-338.5"/>
-</g>
-<!-- duration of overlapping speech from all people -->
-<g id="node3" class="node">
-<title>duration of overlapping speech from all people</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="duration of overlapping speech from all people">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-234" rx="177.37" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-230.3" font-family="Times,serif" font-size="14.00">duration of overlapping speech from all people</text>
-</a>
-</g>
-</g>
-<!-- duration of overlapping speech from all people&#45;&gt;collaboration quality of group [4 level scale] -->
-<g id="edge15" class="edge">
-<title>duration of overlapping speech from all people&#45;&gt;collaboration quality of group [4 level scale]</title>
-<path fill="none" stroke="black" d="M456.11,-220.58C429.02,-216.8 400.41,-212.26 373.97,-207 327.6,-197.77 276.14,-184.12 236.5,-172.85"/>
-<polygon fill="black" stroke="black" points="237.27,-169.43 226.69,-170.05 235.34,-176.16 237.27,-169.43"/>
-</g>
 <!-- duration in which each student was only speaker -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>duration in which each student was only speaker</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="duration in which each student was only speaker">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-180" rx="182.77" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-176.3" font-family="Times,serif" font-size="14.00">duration in which each student was only speaker</text>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Privacy-Preserving%20Speech%20Analytics%20for%20Automatic%20Assessment%20of%20Student%20Collaboration" xlink:title="duration in which each student was only speaker">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-234" rx="182.77" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-230.3" font-family="Times,serif" font-size="14.00">duration in which each student was only speaker</text>
 </a>
 </g>
 </g>
 <!-- duration in which each student was only speaker&#45;&gt;collaboration quality of group [4 level scale] -->
 <g id="edge13" class="edge">
 <title>duration in which each student was only speaker&#45;&gt;collaboration quality of group [4 level scale]</title>
-<path fill="none" stroke="black" d="M423.15,-169.93C390.34,-167.73 355.61,-165.41 322.72,-163.21"/>
-<polygon fill="black" stroke="black" points="322.79,-159.71 312.58,-162.53 322.33,-166.69 322.79,-159.71"/>
+<path fill="none" stroke="black" d="M454.79,-220.4C428.09,-216.66 399.98,-212.18 373.97,-207 327.6,-197.77 276.14,-184.12 236.5,-172.85"/>
+<polygon fill="black" stroke="black" points="237.27,-169.43 226.69,-170.05 235.34,-176.16 237.27,-169.43"/>
 </g>
-<!-- speaking time / turns -->
-<g id="node5" class="node">
-<title>speaking time / turns</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="speaking time / turns">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-396" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-392.3" font-family="Times,serif" font-size="14.00">speaking time / turns</text>
+<!-- prosodic and tone features [many] -->
+<g id="node3" class="node">
+<title>prosodic and tone features [many]</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Privacy-Preserving%20Speech%20Analytics%20for%20Automatic%20Assessment%20of%20Student%20Collaboration" xlink:title="prosodic and tone features [many]">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-180" rx="131.88" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-176.3" font-family="Times,serif" font-size="14.00">prosodic and tone features [many]</text>
 </a>
 </g>
 </g>
-<!-- Agreement -->
-<g id="node23" class="node">
-<title>Agreement</title>
-<ellipse fill="none" stroke="black" cx="168.99" cy="-396" rx="50.09" ry="18"/>
-<text text-anchor="middle" x="168.99" y="-392.3" font-family="Times,serif" font-size="14.00">Agreement</text>
+<!-- prosodic and tone features [many]&#45;&gt;collaboration quality of group [4 level scale] -->
+<g id="edge17" class="edge">
+<title>prosodic and tone features [many]&#45;&gt;collaboration quality of group [4 level scale]</title>
+<path fill="none" stroke="black" d="M455.92,-172.12C414.34,-169.34 366.98,-166.17 322.93,-163.23"/>
+<polygon fill="black" stroke="black" points="322.91,-159.72 312.7,-162.54 322.45,-166.7 322.91,-159.72"/>
 </g>
-<!-- speaking time / turns&#45;&gt;Agreement -->
-<g id="edge9" class="edge">
-<title>speaking time / turns&#45;&gt;Agreement</title>
-<path fill="none" stroke="black" d="M489.64,-396C411.81,-396 298.1,-396 229.36,-396"/>
-<polygon fill="black" stroke="black" points="229.14,-392.5 219.14,-396 229.14,-399.5 229.14,-392.5"/>
-</g>
-<!-- speech time and frequency -->
-<g id="node6" class="node">
-<title>speech time and frequency</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="speech time and frequency">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-558" rx="105.88" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-554.3" font-family="Times,serif" font-size="14.00">speech time and frequency</text>
-</a>
-</g>
-</g>
-<!-- Collaboration -->
-<g id="node19" class="node">
-<title>Collaboration</title>
-<ellipse fill="none" stroke="black" cx="168.99" cy="-504" rx="59.29" ry="18"/>
-<text text-anchor="middle" x="168.99" y="-500.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
-</g>
-<!-- speech time and frequency&#45;&gt;Collaboration -->
-<g id="edge7" class="edge">
-<title>speech time and frequency&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M491.11,-546.94C414.68,-536.72 302.75,-521.75 233.24,-512.46"/>
-<polygon fill="black" stroke="black" points="233.67,-508.99 223.3,-511.13 232.75,-515.92 233.67,-508.99"/>
-</g>
-<!-- thousands of features prosodic speech -->
-<g id="node7" class="node">
-<title>thousands of features prosodic speech</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="thousands of features prosodic speech">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-720" rx="144.87" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-716.3" font-family="Times,serif" font-size="14.00">thousands of features prosodic speech</text>
+<!-- talking time -->
+<g id="node4" class="node">
+<title>talking time</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" xlink:title="talking time">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-450" rx="53.89" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-446.3" font-family="Times,serif" font-size="14.00">talking time</text>
 </a>
 </g>
 </g>
 <!-- collaboration quality -->
 <g id="node25" class="node">
 <title>collaboration quality</title>
-<ellipse fill="none" stroke="black" cx="168.99" cy="-666" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="168.99" y="-662.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
-</g>
-<!-- thousands of features prosodic speech&#45;&gt;collaboration quality -->
-<g id="edge11" class="edge">
-<title>thousands of features prosodic speech&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M475.53,-706.86C406.62,-697.64 315.59,-685.47 250.87,-676.82"/>
-<polygon fill="black" stroke="black" points="251.09,-673.31 240.71,-675.46 250.16,-680.25 251.09,-673.31"/>
-</g>
-<!-- talking time -->
-<g id="node8" class="node">
-<title>talking time</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="talking time">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-666" rx="53.89" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-662.3" font-family="Times,serif" font-size="14.00">talking time</text>
-</a>
-</g>
+<ellipse fill="none" stroke="black" cx="168.99" cy="-396" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="168.99" y="-392.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
 </g>
 <!-- talking time&#45;&gt;collaboration quality -->
 <g id="edge5" class="edge">
 <title>talking time&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M520.59,-666C455.18,-666 343.04,-666 263.2,-666"/>
-<polygon fill="black" stroke="black" points="263.14,-662.5 253.14,-666 263.14,-669.5 263.14,-662.5"/>
+<path fill="none" stroke="black" d="M524.29,-443.38C456.12,-434.26 332.56,-417.74 250.87,-406.82"/>
+<polygon fill="black" stroke="black" points="251,-403.3 240.63,-405.45 250.08,-410.24 251,-403.3"/>
 </g>
-<!-- duration of speech by each student -->
-<g id="node9" class="node">
-<title>duration of speech by each student</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="duration of speech by each student">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-126" rx="133.78" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-122.3" font-family="Times,serif" font-size="14.00">duration of speech by each student</text>
+<!-- Audio level (AUD -->
+<g id="node5" class="node">
+<title>Audio level (AUD</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Estimation%20of%20success%20in%20collaborative%20learning%20based%20on%20multimodal%20learning%20analytics%20features" xlink:title="Audio level (AUD">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-504" rx="76.89" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-500.3" font-family="Times,serif" font-size="14.00">Audio level (AUD</text>
 </a>
 </g>
 </g>
-<!-- duration of speech by each student&#45;&gt;collaboration quality of group [4 level scale] -->
-<g id="edge12" class="edge">
-<title>duration of speech by each student&#45;&gt;collaboration quality of group [4 level scale]</title>
-<path fill="none" stroke="black" d="M454.56,-133.97C413.23,-136.74 366.32,-139.87 322.68,-142.79"/>
-<polygon fill="black" stroke="black" points="322.29,-139.31 312.54,-143.47 322.75,-146.29 322.29,-139.31"/>
+<!-- collaborative problem solving -->
+<g id="node22" class="node">
+<title>collaborative problem solving</title>
+<ellipse fill="none" stroke="black" cx="168.99" cy="-504" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="168.99" y="-500.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
 </g>
-<!-- duration of overlapping speech from pairs of students -->
-<g id="node10" class="node">
-<title>duration of overlapping speech from pairs of students</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="duration of overlapping speech from pairs of students">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-72" rx="200.66" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-68.3" font-family="Times,serif" font-size="14.00">duration of overlapping speech from pairs of students</text>
+<!-- Audio level (AUD&#45;&gt;collaborative problem solving -->
+<g id="edge6" class="edge">
+<title>Audio level (AUD&#45;&gt;collaborative problem solving</title>
+<path fill="none" stroke="black" d="M497.85,-504C441.13,-504 362.33,-504 296.2,-504"/>
+<polygon fill="black" stroke="black" points="296.12,-500.5 286.12,-504 296.12,-507.5 296.12,-500.5"/>
+</g>
+<!-- speaking time / turns -->
+<g id="node6" class="node">
+<title>speaking time / turns</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Multi-modal%20Social%20Signal%20Analysis%20for%20Predicting%20Agreement%20in%20Conversation%20Settings" xlink:title="speaking time / turns">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-558" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-554.3" font-family="Times,serif" font-size="14.00">speaking time / turns</text>
 </a>
 </g>
 </g>
-<!-- duration of overlapping speech from pairs of students&#45;&gt;collaboration quality of group [4 level scale] -->
-<g id="edge14" class="edge">
-<title>duration of overlapping speech from pairs of students&#45;&gt;collaboration quality of group [4 level scale]</title>
-<path fill="none" stroke="black" d="M450.81,-86.17C425.31,-89.79 398.69,-94.08 373.97,-99 327.6,-108.23 276.14,-121.88 236.5,-133.15"/>
-<polygon fill="black" stroke="black" points="235.34,-129.84 226.69,-135.95 237.27,-136.57 235.34,-129.84"/>
+<!-- Agreement -->
+<g id="node23" class="node">
+<title>Agreement</title>
+<ellipse fill="none" stroke="black" cx="168.99" cy="-558" rx="50.09" ry="18"/>
+<text text-anchor="middle" x="168.99" y="-554.3" font-family="Times,serif" font-size="14.00">Agreement</text>
+</g>
+<!-- speaking time / turns&#45;&gt;Agreement -->
+<g id="edge9" class="edge">
+<title>speaking time / turns&#45;&gt;Agreement</title>
+<path fill="none" stroke="black" d="M489.64,-558C411.81,-558 298.1,-558 229.36,-558"/>
+<polygon fill="black" stroke="black" points="229.14,-554.5 219.14,-558 229.14,-561.5 229.14,-554.5"/>
 </g>
 <!-- coherence -->
-<g id="node11" class="node">
+<g id="node7" class="node">
 <title>coherence</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="coherence">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-774" rx="46.29" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-770.3" font-family="Times,serif" font-size="14.00">coherence</text>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="coherence">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-612" rx="46.29" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-608.3" font-family="Times,serif" font-size="14.00">coherence</text>
 </a>
 </g>
 </g>
 <!-- Joint Visual Attention -->
-<g id="node27" class="node">
+<g id="node26" class="node">
 <title>Joint Visual Attention</title>
-<ellipse fill="none" stroke="black" cx="168.99" cy="-774" rx="88.28" ry="18"/>
-<text text-anchor="middle" x="168.99" y="-770.3" font-family="Times,serif" font-size="14.00">Joint Visual Attention</text>
+<ellipse fill="none" stroke="black" cx="168.99" cy="-612" rx="88.28" ry="18"/>
+<text text-anchor="middle" x="168.99" y="-608.3" font-family="Times,serif" font-size="14.00">Joint Visual Attention</text>
 </g>
 <!-- coherence&#45;&gt;Joint Visual Attention -->
 <g id="edge3" class="edge">
 <title>coherence&#45;&gt;Joint Visual Attention</title>
-<path fill="none" stroke="black" d="M528.65,-774C465.93,-774 350.78,-774 267.85,-774"/>
-<polygon fill="black" stroke="black" points="267.65,-770.5 257.65,-774 267.65,-777.5 267.65,-770.5"/>
+<path fill="none" stroke="black" d="M528.65,-612C465.93,-612 350.78,-612 267.85,-612"/>
+<polygon fill="black" stroke="black" points="267.65,-608.5 257.65,-612 267.65,-615.5 267.65,-608.5"/>
 </g>
-<!-- Sequences of verbal utterances -->
-<g id="node12" class="node">
-<title>Sequences of verbal utterances</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Sequences of verbal utterances">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-828" rx="120.48" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-824.3" font-family="Times,serif" font-size="14.00">Sequences of verbal utterances</text>
+<!-- speech rate -->
+<g id="node8" class="node">
+<title>speech rate</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" xlink:title="speech rate">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-666" rx="50.09" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-662.3" font-family="Times,serif" font-size="14.00">speech rate</text>
 </a>
 </g>
 </g>
-<!-- Colloboration quality -->
-<g id="node21" class="node">
-<title>Colloboration quality</title>
-<ellipse fill="none" stroke="black" cx="168.99" cy="-828" rx="86.38" ry="18"/>
-<text text-anchor="middle" x="168.99" y="-824.3" font-family="Times,serif" font-size="14.00">Colloboration quality</text>
+<!-- Perceived Collaboration Quality -->
+<g id="node27" class="node">
+<title>Perceived Collaboration Quality</title>
+<ellipse fill="none" stroke="black" cx="168.99" cy="-666" rx="124.58" ry="18"/>
+<text text-anchor="middle" x="168.99" y="-662.3" font-family="Times,serif" font-size="14.00">Perceived Collaboration Quality</text>
 </g>
-<!-- Sequences of verbal utterances&#45;&gt;Colloboration quality -->
-<g id="edge1" class="edge">
-<title>Sequences of verbal utterances&#45;&gt;Colloboration quality</title>
-<path fill="none" stroke="black" d="M454.56,-828C394.32,-828 322.22,-828 265.67,-828"/>
-<polygon fill="black" stroke="black" points="265.66,-824.5 255.66,-828 265.66,-831.5 265.66,-824.5"/>
+<!-- speech rate&#45;&gt;Perceived Collaboration Quality -->
+<g id="edge18" class="edge">
+<title>speech rate&#45;&gt;Perceived Collaboration Quality</title>
+<path fill="none" stroke="black" d="M524.69,-666C470.18,-666 379.87,-666 304.03,-666"/>
+<polygon fill="black" stroke="black" points="303.91,-662.5 293.91,-666 303.91,-669.5 303.91,-662.5"/>
+</g>
+<!-- 1582 audio features (from Emobase -->
+<g id="node9" class="node">
+<title>1582 audio features (from Emobase</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="1582 audio features (from Emobase">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-720" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-716.3" font-family="Times,serif" font-size="14.00">1582 audio features (from Emobase</text>
+</a>
+</g>
+</g>
+<!-- collaboration -->
+<g id="node20" class="node">
+<title>collaboration</title>
+<ellipse fill="none" stroke="black" cx="168.99" cy="-720" rx="57.39" ry="18"/>
+<text text-anchor="middle" x="168.99" y="-716.3" font-family="Times,serif" font-size="14.00">collaboration</text>
+</g>
+<!-- 1582 audio features (from Emobase&#45;&gt;collaboration -->
+<g id="edge2" class="edge">
+<title>1582 audio features (from Emobase&#45;&gt;collaboration</title>
+<path fill="none" stroke="black" d="M436.24,-720C368.71,-720 290.45,-720 236.34,-720"/>
+<polygon fill="black" stroke="black" points="236.19,-716.5 226.19,-720 236.19,-723.5 236.19,-716.5"/>
 </g>
 <!-- duration of silence for all people -->
-<g id="node13" class="node">
+<g id="node10" class="node">
 <title>duration of silence for all people</title>
-<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="duration of silence for all people">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-18" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-14.3" font-family="Times,serif" font-size="14.00">duration of silence for all people</text>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Privacy-Preserving%20Speech%20Analytics%20for%20Automatic%20Assessment%20of%20Student%20Collaboration" xlink:title="duration of silence for all people">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-126" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-122.3" font-family="Times,serif" font-size="14.00">duration of silence for all people</text>
 </a>
 </g>
 </g>
 <!-- duration of silence for all people&#45;&gt;collaboration quality of group [4 level scale] -->
 <g id="edge16" class="edge">
 <title>duration of silence for all people&#45;&gt;collaboration quality of group [4 level scale]</title>
-<path fill="none" stroke="black" d="M461.79,-26.09C432.74,-30.09 401.8,-36.07 373.97,-45 310.83,-65.27 244.08,-104.46 204.78,-129.64"/>
-<polygon fill="black" stroke="black" points="202.83,-126.73 196.34,-135.1 206.64,-132.61 202.83,-126.73"/>
+<path fill="none" stroke="black" d="M460.24,-133.59C417.54,-136.45 368.26,-139.74 322.58,-142.8"/>
+<polygon fill="black" stroke="black" points="322.33,-139.31 312.58,-143.47 322.79,-146.29 322.33,-139.31"/>
 </g>
 <!-- speech time -->
-<g id="node14" class="node">
+<g id="node11" class="node">
 <title>speech time</title>
-<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="speech time">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-612" rx="53.09" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-608.3" font-family="Times,serif" font-size="14.00">speech time</text>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" xlink:title="speech time">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-396" rx="53.09" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-392.3" font-family="Times,serif" font-size="14.00">speech time</text>
 </a>
 </g>
 </g>
 <!-- speech time&#45;&gt;collaboration quality -->
 <g id="edge10" class="edge">
 <title>speech time&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M525.09,-618.51C457.03,-627.62 332.62,-644.25 250.61,-655.22"/>
-<polygon fill="black" stroke="black" points="250.03,-651.77 240.58,-656.56 250.96,-658.7 250.03,-651.77"/>
+<path fill="none" stroke="black" d="M521.42,-396C456.14,-396 343.41,-396 263.23,-396"/>
+<polygon fill="black" stroke="black" points="263.13,-392.5 253.13,-396 263.13,-399.5 263.13,-392.5"/>
 </g>
 <!-- 35 Coh&#45;metrix indices -->
-<g id="node15" class="node">
+<g id="node12" class="node">
 <title>35 Coh&#45;metrix indices</title>
-<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="35 Coh&#45;metrix indices">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-504" rx="90.18" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-500.3" font-family="Times,serif" font-size="14.00">35 Coh&#45;metrix indices</text>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="35 Coh&#45;metrix indices">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-882" rx="90.18" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-878.3" font-family="Times,serif" font-size="14.00">35 Coh&#45;metrix indices</text>
 </a>
 </g>
+</g>
+<!-- Collaboration -->
+<g id="node19" class="node">
+<title>Collaboration</title>
+<ellipse fill="none" stroke="black" cx="168.99" cy="-828" rx="59.29" ry="18"/>
+<text text-anchor="middle" x="168.99" y="-824.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
 </g>
 <!-- 35 Coh&#45;metrix indices&#45;&gt;Collaboration -->
 <g id="edge4" class="edge">
 <title>35 Coh&#45;metrix indices&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M484.18,-504C409.92,-504 305.95,-504 238.29,-504"/>
-<polygon fill="black" stroke="black" points="238.16,-500.5 228.16,-504 238.16,-507.5 238.16,-500.5"/>
+<path fill="none" stroke="black" d="M499.27,-872.03C423.02,-861.84 305.83,-846.17 233.75,-836.53"/>
+<polygon fill="black" stroke="black" points="233.83,-833.01 223.46,-835.15 232.91,-839.95 233.83,-833.01"/>
 </g>
-<!-- Audio level (AUD -->
-<g id="node16" class="node">
-<title>Audio level (AUD</title>
-<g id="a_node16"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Audio level (AUD">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-882" rx="76.89" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-878.3" font-family="Times,serif" font-size="14.00">Audio level (AUD</text>
+<!-- duration of overlapping speech from all people -->
+<g id="node13" class="node">
+<title>duration of overlapping speech from all people</title>
+<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Privacy-Preserving%20Speech%20Analytics%20for%20Automatic%20Assessment%20of%20Student%20Collaboration" xlink:title="duration of overlapping speech from all people">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-72" rx="177.37" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-68.3" font-family="Times,serif" font-size="14.00">duration of overlapping speech from all people</text>
 </a>
 </g>
 </g>
-<!-- collaborative problem solving -->
-<g id="node26" class="node">
-<title>collaborative problem solving</title>
-<ellipse fill="none" stroke="black" cx="168.99" cy="-882" rx="116.98" ry="18"/>
-<text text-anchor="middle" x="168.99" y="-878.3" font-family="Times,serif" font-size="14.00">collaborative problem solving</text>
+<!-- duration of overlapping speech from all people&#45;&gt;collaboration quality of group [4 level scale] -->
+<g id="edge15" class="edge">
+<title>duration of overlapping speech from all people&#45;&gt;collaboration quality of group [4 level scale]</title>
+<path fill="none" stroke="black" d="M456.11,-85.42C429.02,-89.2 400.41,-93.74 373.97,-99 327.6,-108.23 276.14,-121.88 236.5,-133.15"/>
+<polygon fill="black" stroke="black" points="235.34,-129.84 226.69,-135.95 237.27,-136.57 235.34,-129.84"/>
 </g>
-<!-- Audio level (AUD&#45;&gt;collaborative problem solving -->
-<g id="edge6" class="edge">
-<title>Audio level (AUD&#45;&gt;collaborative problem solving</title>
-<path fill="none" stroke="black" d="M497.85,-882C441.13,-882 362.33,-882 296.2,-882"/>
-<polygon fill="black" stroke="black" points="296.12,-878.5 286.12,-882 296.12,-885.5 296.12,-878.5"/>
+<!-- duration of overlapping speech from pairs of students -->
+<g id="node14" class="node">
+<title>duration of overlapping speech from pairs of students</title>
+<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Privacy-Preserving%20Speech%20Analytics%20for%20Automatic%20Assessment%20of%20Student%20Collaboration" xlink:title="duration of overlapping speech from pairs of students">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-18" rx="200.66" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-14.3" font-family="Times,serif" font-size="14.00">duration of overlapping speech from pairs of students</text>
+</a>
+</g>
+</g>
+<!-- duration of overlapping speech from pairs of students&#45;&gt;collaboration quality of group [4 level scale] -->
+<g id="edge14" class="edge">
+<title>duration of overlapping speech from pairs of students&#45;&gt;collaboration quality of group [4 level scale]</title>
+<path fill="none" stroke="black" d="M432.65,-30.72C412.7,-34.35 392.64,-39.01 373.97,-45 310.83,-65.27 244.08,-104.46 204.78,-129.64"/>
+<polygon fill="black" stroke="black" points="202.83,-126.73 196.34,-135.1 206.64,-132.61 202.83,-126.73"/>
+</g>
+<!-- speech time and frequency -->
+<g id="node15" class="node">
+<title>speech time and frequency</title>
+<g id="a_node15"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="speech time and frequency">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-828" rx="105.88" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-824.3" font-family="Times,serif" font-size="14.00">speech time and frequency</text>
+</a>
+</g>
+</g>
+<!-- speech time and frequency&#45;&gt;Collaboration -->
+<g id="edge7" class="edge">
+<title>speech time and frequency&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M468.76,-828C396.15,-828 301.64,-828 238.55,-828"/>
+<polygon fill="black" stroke="black" points="238.31,-824.5 228.31,-828 238.31,-831.5 238.31,-824.5"/>
+</g>
+<!-- thousands of features prosodic speech -->
+<g id="node16" class="node">
+<title>thousands of features prosodic speech</title>
+<g id="a_node16"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" xlink:title="thousands of features prosodic speech">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-342" rx="144.87" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-338.3" font-family="Times,serif" font-size="14.00">thousands of features prosodic speech</text>
+</a>
+</g>
+</g>
+<!-- thousands of features prosodic speech&#45;&gt;collaboration quality -->
+<g id="edge11" class="edge">
+<title>thousands of features prosodic speech&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M475.53,-355.14C406.62,-364.36 315.59,-376.53 250.87,-385.18"/>
+<polygon fill="black" stroke="black" points="250.16,-381.75 240.71,-386.54 251.09,-388.69 250.16,-381.75"/>
+</g>
+<!-- Sequences of verbal utterances -->
+<g id="node17" class="node">
+<title>Sequences of verbal utterances</title>
+<g id="a_node17"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" xlink:title="Sequences of verbal utterances">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-936" rx="120.48" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-932.3" font-family="Times,serif" font-size="14.00">Sequences of verbal utterances</text>
+</a>
+</g>
+</g>
+<!-- Colloboration quality -->
+<g id="node21" class="node">
+<title>Colloboration quality</title>
+<ellipse fill="none" stroke="black" cx="168.99" cy="-936" rx="86.38" ry="18"/>
+<text text-anchor="middle" x="168.99" y="-932.3" font-family="Times,serif" font-size="14.00">Colloboration quality</text>
+</g>
+<!-- Sequences of verbal utterances&#45;&gt;Colloboration quality -->
+<g id="edge1" class="edge">
+<title>Sequences of verbal utterances&#45;&gt;Colloboration quality</title>
+<path fill="none" stroke="black" d="M454.56,-936C394.32,-936 322.22,-936 265.67,-936"/>
+<polygon fill="black" stroke="black" points="265.66,-932.5 255.66,-936 265.66,-939.5 265.66,-932.5"/>
 </g>
 <!-- symmetry of speech among group -->
-<g id="node17" class="node">
+<g id="node18" class="node">
 <title>symmetry of speech among group</title>
-<g id="a_node17"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="symmetry of speech among group">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-450" rx="132.68" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-446.3" font-family="Times,serif" font-size="14.00">symmetry of speech among group</text>
+<g id="a_node18"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="symmetry of speech among group">
+<ellipse fill="none" stroke="black" cx="574.8" cy="-774" rx="132.68" ry="18"/>
+<text text-anchor="middle" x="574.8" y="-770.3" font-family="Times,serif" font-size="14.00">symmetry of speech among group</text>
 </a>
 </g>
 </g>
 <!-- symmetry of speech among group&#45;&gt;Collaboration -->
 <g id="edge8" class="edge">
 <title>symmetry of speech among group&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M479.63,-462.59C403.98,-472.71 299.78,-486.64 233.64,-495.49"/>
-<polygon fill="black" stroke="black" points="232.81,-492.07 223.37,-496.86 233.74,-499.01 232.81,-492.07"/>
-</g>
-<!-- 1582 audio features (from Emobase -->
-<g id="node18" class="node">
-<title>1582 audio features (from Emobase</title>
-<g id="a_node18"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="1582 audio features (from Emobase">
-<ellipse fill="none" stroke="black" cx="574.8" cy="-936" rx="138.38" ry="18"/>
-<text text-anchor="middle" x="574.8" y="-932.3" font-family="Times,serif" font-size="14.00">1582 audio features (from Emobase</text>
-</a>
-</g>
-</g>
-<!-- collaboration -->
-<g id="node24" class="node">
-<title>collaboration</title>
-<ellipse fill="none" stroke="black" cx="168.99" cy="-936" rx="57.39" ry="18"/>
-<text text-anchor="middle" x="168.99" y="-932.3" font-family="Times,serif" font-size="14.00">collaboration</text>
-</g>
-<!-- 1582 audio features (from Emobase&#45;&gt;collaboration -->
-<g id="edge2" class="edge">
-<title>1582 audio features (from Emobase&#45;&gt;collaboration</title>
-<path fill="none" stroke="black" d="M436.24,-936C368.71,-936 290.45,-936 236.34,-936"/>
-<polygon fill="black" stroke="black" points="236.19,-932.5 226.19,-936 236.19,-939.5 236.19,-932.5"/>
+<path fill="none" stroke="black" d="M479.63,-786.59C403.98,-796.71 299.78,-810.64 233.64,-819.49"/>
+<polygon fill="black" stroke="black" points="232.81,-816.07 223.37,-820.86 233.74,-823.01 232.81,-816.07"/>
 </g>
 </g>
 </svg>

@@ -3,74 +3,74 @@ digraph Test {
 	size="15,15"
 	overlap=false
 	splines=true
-	{rank=same; "Times mathematical terms were mentioned" "duration of all vocalisations" "audio energy features" "spectral stationarity" "probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" "Number of interventions" "average duration of vocalisation" "Pause duration" "Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" "Total speech duration" "peak slope" "Speaking status" "probability of transitioning from a group vocalisation to speaker vocalisation" "speaking turn duration / number" "Articulation rate" "probability of a transition from a vocalisation to floor" "probability of transitioning from a speaker vocalisation to a group vocalisation" "Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" "Times commands were pronounced" "Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" "interruption" "Pitch" "6 One Vs All Features" "uncertainty in the transitions (turn taking" "speaking time % per individual" "(non" "speech utterances" "Energy" "standard deviation of vocalisation" "Times numbers were mentioned";}
-	{rank=same; "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience" "Expert prediction" "identity of the expert" "Expertise" "Leadership" "extraversion rating" "Big Five personality traits scores" "Visual Dominance Ratio" "Personality Traits" "Emerging leadership";}
-	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	{rank=same; "Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" "uncertainty in the transitions (turn taking" "average duration of vocalisation" "Pitch" "speaking time % per individual" "Speaking status" "Times commands were pronounced" "interruption" "Times numbers were mentioned" "Pause duration" "audio energy features" "Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" "spectral stationarity" "Articulation rate" "Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" "probability of a transition from a vocalisation to floor" "(non" "speaking turn duration / number" "Number of interventions" "speech utterances" "probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" "peak slope" "probability of transitioning from a speaker vocalisation to a group vocalisation" "Times mathematical terms were mentioned" "Energy" "duration of all vocalisations" "standard deviation of vocalisation" "probability of transitioning from a group vocalisation to speaker vocalisation" "Total speech duration" "6 One Vs All Features";}
+	{rank=same; "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience" "Expertise" "Leadership" "Emerging leadership" "Expert prediction" "identity of the expert" "Big Five personality traits scores" "Visual Dominance Ratio" "extraversion rating" "Personality Traits";}
+	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Group Participation Speaking Cues (Speaking Length, Speaking Turns, Successful Interruptions, Unsuccessful Interruptions, Backchannels" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
-	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Silence and Overlap Cues (Fraction of Silence, Fraction of Nonoverlapped Speech, Fraction of two-people and three-people Overlapped Speech" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
-	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" [href="https://scholar.google.com/scholar?hl=en&q=Linking%20Speaking%20and%20Looking%20Behavior%20Patterns%20with%20Group%20Composition,%20Perception,%20and%20Performance"]
 	"Speaking Distribution Cues (Speaking Length Skew, Speaking Turns Skew, Successful Interruption Skew, Unsuccessful Interruptions Skew, Backchannels Skew" -> "Group Composition (Agreeableness, conscientiousness, Extraversion, Neuroticism, and Openness to experience"
-	"Number of interventions" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Number of interventions" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Number of interventions" -> "Expert prediction"
-	"Total speech duration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Total speech duration" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Total speech duration" -> "Expert prediction"
-	"Times numbers were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Times numbers were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Times numbers were mentioned" -> "Expert prediction"
-	"Times mathematical terms were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Times mathematical terms were mentioned" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Times mathematical terms were mentioned" -> "Expert prediction"
-	"Times commands were pronounced" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Times commands were pronounced" [href="https://scholar.google.com/scholar?hl=en&q=Expertise%20estimation%20based%20on%20simple%20multimodal%20features"]
 	"Times commands were pronounced" -> "Expert prediction"
-	"Speaking status" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Speaking status" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
 	"Speaking status" -> "Big Five personality traits scores"
-	Pitch [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	Pitch [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
 	Pitch -> "Big Five personality traits scores"
-	Energy [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	Energy [href="https://scholar.google.com/scholar?hl=en&q=Personality%20Trait%20Classification%20via%20Co-Occurrent%20Multiparty%20Multimodal%20Event%20Discovery"]
 	Energy -> "Big Five personality traits scores"
-	"duration of all vocalisations" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"duration of all vocalisations" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
 	"duration of all vocalisations" -> "identity of the expert"
-	"average duration of vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"average duration of vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
 	"average duration of vocalisation" -> "identity of the expert"
-	"standard deviation of vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"standard deviation of vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
 	"standard deviation of vocalisation" -> "identity of the expert"
-	"probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
 	"probability of a transition from floor  (i.e. a pause, group switching pause or speaker switching pause" -> "identity of the expert"
-	"probability of a transition from a vocalisation to floor" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"probability of a transition from a vocalisation to floor" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
 	"probability of a transition from a vocalisation to floor" -> "identity of the expert"
-	"probability of transitioning from a group vocalisation to speaker vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"probability of transitioning from a group vocalisation to speaker vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
 	"probability of transitioning from a group vocalisation to speaker vocalisation" -> "identity of the expert"
-	"probability of transitioning from a speaker vocalisation to a group vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"probability of transitioning from a speaker vocalisation to a group vocalisation" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
 	"probability of transitioning from a speaker vocalisation to a group vocalisation" -> "identity of the expert"
-	"uncertainty in the transitions (turn taking" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"uncertainty in the transitions (turn taking" [href="https://scholar.google.com/scholar?hl=en&q=Automatic%20identification%20of%20experts%20and%20performance%20prediction%20in%20the%20multimodal%20math%20data%20corpus%20through%20analysis%20of%20speech%20interaction."]
 	"uncertainty in the transitions (turn taking" -> "identity of the expert"
-	"6 One Vs All Features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"6 One Vs All Features" [href="https://scholar.google.com/scholar?hl=en&q=Personality%20classification%20and%20behaviour%20interpretation:%20An%20approach%20based%20on%20feature%20categories"]
 	"6 One Vs All Features" -> "Personality Traits"
-	"audio energy features" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"audio energy features" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20Automatic%20Dominance%20Estimation%20in%20Groups%20From%20Visual%20Attention%20and%20Speaking%20Activity"]
 	"audio energy features" -> "Visual Dominance Ratio"
-	"speech utterances" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speech utterances" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Interlocutor-Modulated%20Attention%20BLSTM%20to%20Predict%20Personality%20Traits%20in%20Small%20Group%20Interaction"]
 	"speech utterances" -> "Personality Traits"
-	"Pause duration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pause duration" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
 	"Pause duration" -> Leadership
-	"Articulation rate" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Articulation rate" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
 	"Articulation rate" -> Leadership
-	"peak slope" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"peak slope" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
 	"peak slope" -> Leadership
-	"spectral stationarity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"spectral stationarity" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
 	"spectral stationarity" -> Leadership
-	"peak slope" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"peak slope" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
 	"peak slope" -> Expertise
-	"Articulation rate" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Articulation rate" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
 	"Articulation rate" -> Expertise
-	"Pause duration" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"Pause duration" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
 	"Pause duration" -> Expertise
-	"spectral stationarity" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"spectral stationarity" [href="https://scholar.google.com/scholar?hl=en&q=Multimodal%20prediction%20of%20expertise%20and%20leadership%20in%20learning%20groups"]
 	"spectral stationarity" -> Expertise
-	"(non" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"(non" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose"]
 	"(non" -> "Emerging leadership"
-	"speaking turn duration / number" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speaking turn duration / number" [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose"]
 	"speaking turn duration / number" -> "Emerging leadership"
-	interruption [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	interruption [href="https://scholar.google.com/scholar?hl=en&q=Moving%20as%20a%20Leader:%20Detecting%20Emergent%20Leadership%20in%20Small%20Groups%20using%20Body%20Pose"]
 	interruption -> "Emerging leadership"
-	"speaking time % per individual" [href="https://scholar.google.com/scholar?hl=en&q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning"]
+	"speaking time % per individual" [href="https://scholar.google.com/scholar?hl=en&q=Employing%20Social%20Gaze%20and%20Speaking%20Activity%20for%20Automatic%20Determination%20of%20the%20Extraversion%20Trait"]
 	"speaking time % per individual" -> "extraversion rating"
 }

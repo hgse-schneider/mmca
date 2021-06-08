@@ -9,172 +9,73 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 796)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-796 751.04,-796 751.04,4 -4,4"/>
-<!-- physiological concordance index -->
+<!-- SM &#45; EDA -->
 <g id="node1" class="node">
-<title>physiological concordance index</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="physiological concordance index">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-72" rx="126.98" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-68.3" font-family="Times,serif" font-size="14.00">physiological concordance index</text>
-</a>
-</g>
-</g>
-<!-- Monitoring of behavior, cognition, motivations and emotions -->
-<g id="node15" class="node">
-<title>Monitoring of behavior, cognition, motivations and emotions</title>
-<ellipse fill="none" stroke="black" cx="228.78" cy="-45" rx="228.56" ry="18"/>
-<text text-anchor="middle" x="228.78" y="-41.3" font-family="Times,serif" font-size="14.00">Monitoring of behavior, cognition, motivations and emotions</text>
-</g>
-<!-- physiological concordance index&#45;&gt;Monitoring of behavior, cognition, motivations and emotions -->
-<g id="edge3" class="edge">
-<title>physiological concordance index&#45;&gt;Monitoring of behavior, cognition, motivations and emotions</title>
-<path fill="none" stroke="black" d="M506.11,-64.15C476.39,-62.09 443.58,-59.82 411.25,-57.58"/>
-<polygon fill="black" stroke="black" points="411.46,-54.09 401.24,-56.89 410.98,-61.07 411.46,-54.09"/>
-</g>
-<!-- DA &#45; EDA -->
-<g id="node2" class="node">
-<title>DA &#45; EDA</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="DA &#45; EDA">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-450" rx="48.99" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-446.3" font-family="Times,serif" font-size="14.00">DA &#45; EDA</text>
+<title>SM &#45; EDA</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="SM &#45; EDA">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-342" rx="50.09" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-338.3" font-family="Times,serif" font-size="14.00">SM &#45; EDA</text>
 </a>
 </g>
 </g>
 <!-- Self&#45;rated workload -->
-<g id="node18" class="node">
+<g id="node15" class="node">
 <title>Self&#45;rated workload</title>
-<ellipse fill="none" stroke="black" cx="228.78" cy="-288" rx="81.49" ry="18"/>
-<text text-anchor="middle" x="228.78" y="-284.3" font-family="Times,serif" font-size="14.00">Self&#45;rated workload</text>
+<ellipse fill="none" stroke="black" cx="228.78" cy="-180" rx="81.49" ry="18"/>
+<text text-anchor="middle" x="228.78" y="-176.3" font-family="Times,serif" font-size="14.00">Self&#45;rated workload</text>
 </g>
-<!-- DA &#45; EDA&#45;&gt;Self&#45;rated workload -->
-<g id="edge6" class="edge">
-<title>DA &#45; EDA&#45;&gt;Self&#45;rated workload</title>
-<path fill="none" stroke="black" d="M574.87,-443.38C550.44,-439.02 519.85,-432.37 493.56,-423 408.25,-392.6 315.53,-340.17 265.94,-310.39"/>
-<polygon fill="black" stroke="black" points="267.56,-307.28 257.19,-305.1 263.94,-313.27 267.56,-307.28"/>
+<!-- SM &#45; EDA&#45;&gt;Self&#45;rated workload -->
+<g id="edge4" class="edge">
+<title>SM &#45; EDA&#45;&gt;Self&#45;rated workload</title>
+<path fill="none" stroke="black" d="M573.69,-335.17C549.47,-330.81 519.43,-324.22 493.56,-315 408.25,-284.6 315.53,-232.17 265.94,-202.39"/>
+<polygon fill="black" stroke="black" points="267.56,-199.28 257.19,-197.1 263.94,-205.27 267.56,-199.28"/>
 </g>
-<!-- SM &#45; HR -->
-<g id="node3" class="node">
-<title>SM &#45; HR</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="SM &#45; HR">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-396" rx="44.39" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-392.3" font-family="Times,serif" font-size="14.00">SM &#45; HR</text>
+<!-- heart rate sychrony -->
+<g id="node2" class="node">
+<title>heart rate sychrony</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" xlink:title="heart rate sychrony">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-450" rx="78.79" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-446.3" font-family="Times,serif" font-size="14.00">heart rate sychrony</text>
 </a>
 </g>
 </g>
-<!-- SM &#45; HR&#45;&gt;Self&#45;rated workload -->
-<g id="edge9" class="edge">
-<title>SM &#45; HR&#45;&gt;Self&#45;rated workload</title>
-<path fill="none" stroke="black" d="M580.01,-388.47C555.11,-383.48 522.3,-376.48 493.56,-369 420.24,-349.91 336.83,-323.49 283.79,-306.09"/>
-<polygon fill="black" stroke="black" points="284.84,-302.75 274.25,-302.94 282.65,-309.4 284.84,-302.75"/>
+<!-- collaboration quality -->
+<g id="node18" class="node">
+<title>collaboration quality</title>
+<ellipse fill="none" stroke="black" cx="228.78" cy="-423" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="228.78" y="-419.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
 </g>
-<!-- IDM &#45; HR -->
-<g id="node4" class="node">
-<title>IDM &#45; HR</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="IDM &#45; HR">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-342" rx="48.19" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-338.3" font-family="Times,serif" font-size="14.00">IDM &#45; HR</text>
-</a>
-</g>
-</g>
-<!-- IDM &#45; HR&#45;&gt;Self&#45;rated workload -->
-<g id="edge10" class="edge">
-<title>IDM &#45; HR&#45;&gt;Self&#45;rated workload</title>
-<path fill="none" stroke="black" d="M574.99,-335.86C510.17,-326.87 388.49,-310 308.29,-298.88"/>
-<polygon fill="black" stroke="black" points="308.62,-295.4 298.23,-297.49 307.66,-302.33 308.62,-295.4"/>
+<!-- heart rate sychrony&#45;&gt;collaboration quality -->
+<g id="edge15" class="edge">
+<title>heart rate sychrony&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M544.66,-444.83C480.36,-440.37 387.41,-433.93 319.16,-429.2"/>
+<polygon fill="black" stroke="black" points="319.07,-425.68 308.85,-428.48 318.59,-432.66 319.07,-425.68"/>
 </g>
 <!-- EDA peak detection -->
-<g id="node5" class="node">
+<g id="node3" class="node">
 <title>EDA peak detection</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="EDA peak detection">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-18" rx="81.79" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-14.3" font-family="Times,serif" font-size="14.00">EDA peak detection</text>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam" xlink:title="EDA peak detection">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-558" rx="81.79" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-554.3" font-family="Times,serif" font-size="14.00">EDA peak detection</text>
 </a>
 </g>
+</g>
+<!-- Monitoring of behavior, cognition, motivations and emotions -->
+<g id="node17" class="node">
+<title>Monitoring of behavior, cognition, motivations and emotions</title>
+<ellipse fill="none" stroke="black" cx="228.78" cy="-531" rx="228.56" ry="18"/>
+<text text-anchor="middle" x="228.78" y="-527.3" font-family="Times,serif" font-size="14.00">Monitoring of behavior, cognition, motivations and emotions</text>
 </g>
 <!-- EDA peak detection&#45;&gt;Monitoring of behavior, cognition, motivations and emotions -->
 <g id="edge2" class="edge">
 <title>EDA peak detection&#45;&gt;Monitoring of behavior, cognition, motivations and emotions</title>
-<path fill="none" stroke="black" d="M541.88,-23.37C504.26,-25.97 457.33,-29.23 411.38,-32.41"/>
-<polygon fill="black" stroke="black" points="411.02,-28.93 401.28,-33.11 411.5,-35.91 411.02,-28.93"/>
-</g>
-<!-- Physiological linkage -->
-<g id="node6" class="node">
-<title>Physiological linkage</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Physiological linkage">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-504" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-500.3" font-family="Times,serif" font-size="14.00">Physiological linkage</text>
-</a>
-</g>
-</g>
-<!-- Behavioral Involvement -->
-<g id="node16" class="node">
-<title>Behavioral Involvement</title>
-<ellipse fill="none" stroke="black" cx="228.78" cy="-504" rx="96.68" ry="18"/>
-<text text-anchor="middle" x="228.78" y="-500.3" font-family="Times,serif" font-size="14.00">Behavioral Involvement</text>
-</g>
-<!-- Physiological linkage&#45;&gt;Behavioral Involvement -->
-<g id="edge1" class="edge">
-<title>Physiological linkage&#45;&gt;Behavioral Involvement</title>
-<path fill="none" stroke="black" d="M532.85,-504C474.78,-504 397.88,-504 336.07,-504"/>
-<polygon fill="black" stroke="black" points="335.9,-500.5 325.9,-504 335.9,-507.5 335.9,-500.5"/>
-</g>
-<!-- physiological synchrony -->
-<g id="node7" class="node">
-<title>physiological synchrony</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="physiological synchrony">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-585" rx="96.68" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-581.3" font-family="Times,serif" font-size="14.00">physiological synchrony</text>
-</a>
-</g>
-</g>
-<!-- Task interest -->
-<g id="node20" class="node">
-<title>Task interest</title>
-<ellipse fill="none" stroke="black" cx="228.78" cy="-612" rx="55.79" ry="18"/>
-<text text-anchor="middle" x="228.78" y="-608.3" font-family="Times,serif" font-size="14.00">Task interest</text>
-</g>
-<!-- physiological synchrony&#45;&gt;Task interest -->
-<g id="edge12" class="edge">
-<title>physiological synchrony&#45;&gt;Task interest</title>
-<path fill="none" stroke="black" d="M528.96,-591.26C457,-596.25 358.04,-603.11 294,-607.55"/>
-<polygon fill="black" stroke="black" points="293.37,-604.08 283.63,-608.27 293.85,-611.07 293.37,-604.08"/>
-</g>
-<!-- Mental effort -->
-<g id="node21" class="node">
-<title>Mental effort</title>
-<ellipse fill="none" stroke="black" cx="228.78" cy="-558" rx="57.69" ry="18"/>
-<text text-anchor="middle" x="228.78" y="-554.3" font-family="Times,serif" font-size="14.00">Mental effort</text>
-</g>
-<!-- physiological synchrony&#45;&gt;Mental effort -->
-<g id="edge11" class="edge">
-<title>physiological synchrony&#45;&gt;Mental effort</title>
-<path fill="none" stroke="black" d="M528.96,-578.74C457.49,-573.78 359.39,-566.98 295.31,-562.54"/>
-<polygon fill="black" stroke="black" points="295.55,-559.05 285.33,-561.85 295.06,-566.03 295.55,-559.05"/>
-</g>
-<!-- brain synchrony -->
-<g id="node8" class="node">
-<title>brain synchrony</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="brain synchrony">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-666" rx="67.69" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-662.3" font-family="Times,serif" font-size="14.00">brain synchrony</text>
-</a>
-</g>
-</g>
-<!-- Engagement -->
-<g id="node19" class="node">
-<title>Engagement</title>
-<ellipse fill="none" stroke="black" cx="228.78" cy="-666" rx="55.49" ry="18"/>
-<text text-anchor="middle" x="228.78" y="-662.3" font-family="Times,serif" font-size="14.00">Engagement</text>
-</g>
-<!-- brain synchrony&#45;&gt;Engagement -->
-<g id="edge13" class="edge">
-<title>brain synchrony&#45;&gt;Engagement</title>
-<path fill="none" stroke="black" d="M552.34,-666C480.09,-666 365.82,-666 294.47,-666"/>
-<polygon fill="black" stroke="black" points="294.26,-662.5 284.26,-666 294.26,-669.5 294.26,-662.5"/>
+<path fill="none" stroke="black" d="M541.88,-552.63C504.26,-550.03 457.33,-546.77 411.38,-543.59"/>
+<polygon fill="black" stroke="black" points="411.5,-540.09 401.28,-542.89 411.02,-547.07 411.5,-540.09"/>
 </g>
 <!-- WC &#45; EDA -->
-<g id="node9" class="node">
+<g id="node4" class="node">
 <title>WC &#45; EDA</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="WC &#45; EDA">
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="WC &#45; EDA">
 <ellipse fill="none" stroke="black" cx="620.3" cy="-288" rx="51.19" ry="18"/>
 <text text-anchor="middle" x="620.3" y="-284.3" font-family="Times,serif" font-size="14.00">WC &#45; EDA</text>
 </a>
@@ -183,64 +84,49 @@
 <!-- WC &#45; EDA&#45;&gt;Self&#45;rated workload -->
 <g id="edge8" class="edge">
 <title>WC &#45; EDA&#45;&gt;Self&#45;rated workload</title>
-<path fill="none" stroke="black" d="M568.77,-288C506.03,-288 397.84,-288 320.56,-288"/>
-<polygon fill="black" stroke="black" points="320.35,-284.5 310.35,-288 320.35,-291.5 320.35,-284.5"/>
+<path fill="none" stroke="black" d="M574.85,-279.43C550.69,-274.53 520.35,-267.98 493.56,-261 420.24,-241.91 336.83,-215.49 283.79,-198.09"/>
+<polygon fill="black" stroke="black" points="284.84,-194.75 274.25,-194.94 282.65,-201.4 284.84,-194.75"/>
 </g>
-<!-- EDA synchrony -->
-<g id="node10" class="node">
-<title>EDA synchrony</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="EDA synchrony">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-774" rx="67.69" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-770.3" font-family="Times,serif" font-size="14.00">EDA synchrony</text>
+<!-- Physiological linkage -->
+<g id="node5" class="node">
+<title>Physiological linkage</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience" xlink:title="Physiological linkage">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-612" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-608.3" font-family="Times,serif" font-size="14.00">Physiological linkage</text>
 </a>
 </g>
 </g>
-<!-- collaboration quality -->
-<g id="node17" class="node">
-<title>collaboration quality</title>
-<ellipse fill="none" stroke="black" cx="228.78" cy="-747" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="228.78" y="-743.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
+<!-- Behavioral Involvement -->
+<g id="node16" class="node">
+<title>Behavioral Involvement</title>
+<ellipse fill="none" stroke="black" cx="228.78" cy="-612" rx="96.68" ry="18"/>
+<text text-anchor="middle" x="228.78" y="-608.3" font-family="Times,serif" font-size="14.00">Behavioral Involvement</text>
 </g>
-<!-- EDA synchrony&#45;&gt;collaboration quality -->
-<g id="edge14" class="edge">
-<title>EDA synchrony&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M554.54,-769.51C490.21,-765.05 391.05,-758.18 319.22,-753.2"/>
-<polygon fill="black" stroke="black" points="319.05,-749.68 308.83,-752.48 318.57,-756.66 319.05,-749.68"/>
+<!-- Physiological linkage&#45;&gt;Behavioral Involvement -->
+<g id="edge1" class="edge">
+<title>Physiological linkage&#45;&gt;Behavioral Involvement</title>
+<path fill="none" stroke="black" d="M532.85,-612C474.78,-612 397.88,-612 336.07,-612"/>
+<polygon fill="black" stroke="black" points="335.9,-608.5 325.9,-612 335.9,-615.5 335.9,-608.5"/>
 </g>
-<!-- IDM &#45; EDA -->
-<g id="node11" class="node">
-<title>IDM &#45; EDA</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="IDM &#45; EDA">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-234" rx="53.89" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-230.3" font-family="Times,serif" font-size="14.00">IDM &#45; EDA</text>
+<!-- IDM &#45; HR -->
+<g id="node6" class="node">
+<title>IDM &#45; HR</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="IDM &#45; HR">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-234" rx="48.19" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-230.3" font-family="Times,serif" font-size="14.00">IDM &#45; HR</text>
 </a>
 </g>
 </g>
-<!-- IDM &#45; EDA&#45;&gt;Self&#45;rated workload -->
-<g id="edge5" class="edge">
-<title>IDM &#45; EDA&#45;&gt;Self&#45;rated workload</title>
-<path fill="none" stroke="black" d="M569.97,-240.84C504.04,-249.98 386.46,-266.28 308.29,-277.12"/>
-<polygon fill="black" stroke="black" points="307.43,-273.7 298.01,-278.54 308.39,-280.64 307.43,-273.7"/>
-</g>
-<!-- heart rate sychrony -->
-<g id="node12" class="node">
-<title>heart rate sychrony</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="heart rate sychrony">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-720" rx="78.79" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-716.3" font-family="Times,serif" font-size="14.00">heart rate sychrony</text>
-</a>
-</g>
-</g>
-<!-- heart rate sychrony&#45;&gt;collaboration quality -->
-<g id="edge15" class="edge">
-<title>heart rate sychrony&#45;&gt;collaboration quality</title>
-<path fill="none" stroke="black" d="M544.66,-725.17C480.36,-729.63 387.41,-736.07 319.16,-740.8"/>
-<polygon fill="black" stroke="black" points="318.59,-737.34 308.85,-741.52 319.07,-744.32 318.59,-737.34"/>
+<!-- IDM &#45; HR&#45;&gt;Self&#45;rated workload -->
+<g id="edge10" class="edge">
+<title>IDM &#45; HR&#45;&gt;Self&#45;rated workload</title>
+<path fill="none" stroke="black" d="M574.99,-227.86C510.17,-218.87 388.49,-202 308.29,-190.88"/>
+<polygon fill="black" stroke="black" points="308.62,-187.4 298.23,-189.49 307.66,-194.33 308.62,-187.4"/>
 </g>
 <!-- CC &#45; EDA -->
-<g id="node13" class="node">
+<g id="node7" class="node">
 <title>CC &#45; EDA</title>
-<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="CC &#45; EDA">
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="CC &#45; EDA">
 <ellipse fill="none" stroke="black" cx="620.3" cy="-180" rx="48.19" ry="18"/>
 <text text-anchor="middle" x="620.3" y="-176.3" font-family="Times,serif" font-size="14.00">CC &#45; EDA</text>
 </a>
@@ -249,23 +135,137 @@
 <!-- CC &#45; EDA&#45;&gt;Self&#45;rated workload -->
 <g id="edge7" class="edge">
 <title>CC &#45; EDA&#45;&gt;Self&#45;rated workload</title>
-<path fill="none" stroke="black" d="M577.17,-188.1C552.65,-193.05 521.22,-199.8 493.56,-207 420.24,-226.09 336.83,-252.51 283.79,-269.91"/>
-<polygon fill="black" stroke="black" points="282.65,-266.6 274.25,-273.06 284.84,-273.25 282.65,-266.6"/>
+<path fill="none" stroke="black" d="M571.92,-180C509.74,-180 399.26,-180 320.68,-180"/>
+<polygon fill="black" stroke="black" points="320.3,-176.5 310.3,-180 320.3,-183.5 320.3,-176.5"/>
 </g>
-<!-- SM &#45; EDA -->
-<g id="node14" class="node">
-<title>SM &#45; EDA</title>
-<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="SM &#45; EDA">
-<ellipse fill="none" stroke="black" cx="620.3" cy="-126" rx="50.09" ry="18"/>
-<text text-anchor="middle" x="620.3" y="-122.3" font-family="Times,serif" font-size="14.00">SM &#45; EDA</text>
+<!-- physiological concordance index -->
+<g id="node8" class="node">
+<title>physiological concordance index</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam" xlink:title="physiological concordance index">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-504" rx="126.98" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-500.3" font-family="Times,serif" font-size="14.00">physiological concordance index</text>
 </a>
 </g>
 </g>
-<!-- SM &#45; EDA&#45;&gt;Self&#45;rated workload -->
-<g id="edge4" class="edge">
-<title>SM &#45; EDA&#45;&gt;Self&#45;rated workload</title>
-<path fill="none" stroke="black" d="M573.69,-132.83C549.47,-137.19 519.43,-143.78 493.56,-153 408.25,-183.4 315.53,-235.83 265.94,-265.61"/>
-<polygon fill="black" stroke="black" points="263.94,-262.73 257.19,-270.9 267.56,-268.72 263.94,-262.73"/>
+<!-- physiological concordance index&#45;&gt;Monitoring of behavior, cognition, motivations and emotions -->
+<g id="edge3" class="edge">
+<title>physiological concordance index&#45;&gt;Monitoring of behavior, cognition, motivations and emotions</title>
+<path fill="none" stroke="black" d="M506.11,-511.85C476.39,-513.91 443.58,-516.18 411.25,-518.42"/>
+<polygon fill="black" stroke="black" points="410.98,-514.93 401.24,-519.11 411.46,-521.91 410.98,-514.93"/>
+</g>
+<!-- physiological synchrony -->
+<g id="node9" class="node">
+<title>physiological synchrony</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?" xlink:title="physiological synchrony">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-693" rx="96.68" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-689.3" font-family="Times,serif" font-size="14.00">physiological synchrony</text>
+</a>
+</g>
+</g>
+<!-- Task interest -->
+<g id="node19" class="node">
+<title>Task interest</title>
+<ellipse fill="none" stroke="black" cx="228.78" cy="-720" rx="55.79" ry="18"/>
+<text text-anchor="middle" x="228.78" y="-716.3" font-family="Times,serif" font-size="14.00">Task interest</text>
+</g>
+<!-- physiological synchrony&#45;&gt;Task interest -->
+<g id="edge12" class="edge">
+<title>physiological synchrony&#45;&gt;Task interest</title>
+<path fill="none" stroke="black" d="M528.96,-699.26C457,-704.25 358.04,-711.11 294,-715.55"/>
+<polygon fill="black" stroke="black" points="293.37,-712.08 283.63,-716.27 293.85,-719.07 293.37,-712.08"/>
+</g>
+<!-- Mental effort -->
+<g id="node21" class="node">
+<title>Mental effort</title>
+<ellipse fill="none" stroke="black" cx="228.78" cy="-666" rx="57.69" ry="18"/>
+<text text-anchor="middle" x="228.78" y="-662.3" font-family="Times,serif" font-size="14.00">Mental effort</text>
+</g>
+<!-- physiological synchrony&#45;&gt;Mental effort -->
+<g id="edge11" class="edge">
+<title>physiological synchrony&#45;&gt;Mental effort</title>
+<path fill="none" stroke="black" d="M528.96,-686.74C457.49,-681.78 359.39,-674.98 295.31,-670.54"/>
+<polygon fill="black" stroke="black" points="295.55,-667.05 285.33,-669.85 295.06,-674.03 295.55,-667.05"/>
+</g>
+<!-- EDA synchrony -->
+<g id="node10" class="node">
+<title>EDA synchrony</title>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" xlink:title="EDA synchrony">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-396" rx="67.69" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-392.3" font-family="Times,serif" font-size="14.00">EDA synchrony</text>
+</a>
+</g>
+</g>
+<!-- EDA synchrony&#45;&gt;collaboration quality -->
+<g id="edge14" class="edge">
+<title>EDA synchrony&#45;&gt;collaboration quality</title>
+<path fill="none" stroke="black" d="M554.54,-400.49C490.21,-404.95 391.05,-411.82 319.22,-416.8"/>
+<polygon fill="black" stroke="black" points="318.57,-413.34 308.83,-417.52 319.05,-420.32 318.57,-413.34"/>
+</g>
+<!-- IDM &#45; EDA -->
+<g id="node11" class="node">
+<title>IDM &#45; EDA</title>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="IDM &#45; EDA">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-126" rx="53.89" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-122.3" font-family="Times,serif" font-size="14.00">IDM &#45; EDA</text>
+</a>
+</g>
+</g>
+<!-- IDM &#45; EDA&#45;&gt;Self&#45;rated workload -->
+<g id="edge5" class="edge">
+<title>IDM &#45; EDA&#45;&gt;Self&#45;rated workload</title>
+<path fill="none" stroke="black" d="M569.97,-132.84C504.04,-141.98 386.46,-158.28 308.29,-169.12"/>
+<polygon fill="black" stroke="black" points="307.43,-165.7 298.01,-170.54 308.39,-172.64 307.43,-165.7"/>
+</g>
+<!-- DA &#45; EDA -->
+<g id="node12" class="node">
+<title>DA &#45; EDA</title>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="DA &#45; EDA">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-72" rx="48.99" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-68.3" font-family="Times,serif" font-size="14.00">DA &#45; EDA</text>
+</a>
+</g>
+</g>
+<!-- DA &#45; EDA&#45;&gt;Self&#45;rated workload -->
+<g id="edge6" class="edge">
+<title>DA &#45; EDA&#45;&gt;Self&#45;rated workload</title>
+<path fill="none" stroke="black" d="M576.6,-80.22C552.16,-85.15 521,-91.85 493.56,-99 420.24,-118.09 336.83,-144.51 283.79,-161.91"/>
+<polygon fill="black" stroke="black" points="282.65,-158.6 274.25,-165.06 284.84,-165.25 282.65,-158.6"/>
+</g>
+<!-- brain synchrony -->
+<g id="node13" class="node">
+<title>brain synchrony</title>
+<g id="a_node13"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Brain-to-Brain%20Synchrony%20Tracks%20Real-World%20Dynamic%20Group%20Interactions%20in%20the%20Classroom" xlink:title="brain synchrony">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-774" rx="67.69" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-770.3" font-family="Times,serif" font-size="14.00">brain synchrony</text>
+</a>
+</g>
+</g>
+<!-- Engagement -->
+<g id="node20" class="node">
+<title>Engagement</title>
+<ellipse fill="none" stroke="black" cx="228.78" cy="-774" rx="55.49" ry="18"/>
+<text text-anchor="middle" x="228.78" y="-770.3" font-family="Times,serif" font-size="14.00">Engagement</text>
+</g>
+<!-- brain synchrony&#45;&gt;Engagement -->
+<g id="edge13" class="edge">
+<title>brain synchrony&#45;&gt;Engagement</title>
+<path fill="none" stroke="black" d="M552.34,-774C480.09,-774 365.82,-774 294.47,-774"/>
+<polygon fill="black" stroke="black" points="294.26,-770.5 284.26,-774 294.26,-777.5 294.26,-770.5"/>
+</g>
+<!-- SM &#45; HR -->
+<g id="node14" class="node">
+<title>SM &#45; HR</title>
+<g id="a_node14"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" xlink:title="SM &#45; HR">
+<ellipse fill="none" stroke="black" cx="620.3" cy="-18" rx="44.39" ry="18"/>
+<text text-anchor="middle" x="620.3" y="-14.3" font-family="Times,serif" font-size="14.00">SM &#45; HR</text>
+</a>
+</g>
+</g>
+<!-- SM &#45; HR&#45;&gt;Self&#45;rated workload -->
+<g id="edge9" class="edge">
+<title>SM &#45; HR&#45;&gt;Self&#45;rated workload</title>
+<path fill="none" stroke="black" d="M578.35,-24C553.39,-28.34 521.11,-35.18 493.56,-45 408.25,-75.4 315.53,-127.83 265.94,-157.61"/>
+<polygon fill="black" stroke="black" points="263.94,-154.73 257.19,-162.9 267.56,-160.72 263.94,-154.73"/>
 </g>
 </g>
 </svg>

@@ -9,37 +9,31 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 526)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-526 531.36,-526 531.36,4 -4,4"/>
-<!-- joint visual attention -->
+<!-- gaze similarity -->
 <g id="node1" class="node">
-<title>joint visual attention</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="joint visual attention">
-<ellipse fill="none" stroke="black" cx="371.37" cy="-342" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="371.37" y="-338.3" font-family="Times,serif" font-size="14.00">joint visual attention</text>
+<title>gaze similarity</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" xlink:title="gaze similarity">
+<ellipse fill="none" stroke="black" cx="371.37" cy="-342" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="371.37" y="-338.3" font-family="Times,serif" font-size="14.00">gaze similarity</text>
 </a>
 </g>
 </g>
 <!-- learning gains -->
-<g id="node11" class="node">
+<g id="node13" class="node">
 <title>learning gains</title>
-<ellipse fill="none" stroke="black" cx="89.69" cy="-207" rx="60.39" ry="18"/>
-<text text-anchor="middle" x="89.69" y="-203.3" font-family="Times,serif" font-size="14.00">learning gains</text>
+<ellipse fill="none" stroke="black" cx="89.69" cy="-153" rx="60.39" ry="18"/>
+<text text-anchor="middle" x="89.69" y="-149.3" font-family="Times,serif" font-size="14.00">learning gains</text>
 </g>
-<!-- joint visual attention&#45;&gt;learning gains -->
-<g id="edge11" class="edge">
-<title>joint visual attention&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M306.94,-330.52C277.92,-326.28 243.76,-319.47 215.38,-306 176.86,-287.72 140.97,-254.17 117.68,-231.07"/>
-<polygon fill="black" stroke="black" points="120.12,-228.56 110.58,-223.97 115.18,-233.51 120.12,-228.56"/>
-</g>
-<!-- joint visual attention&#45;&gt;learning gains -->
-<g id="edge12" class="edge">
-<title>joint visual attention&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M289,-344.8C264.49,-341.29 238.08,-334.77 215.38,-324 170.6,-302.74 129.37,-260.86 107.36,-233.17"/>
-<polygon fill="black" stroke="black" points="110.02,-230.89 101.17,-225.08 104.47,-235.15 110.02,-230.89"/>
+<!-- gaze similarity&#45;&gt;learning gains -->
+<g id="edge3" class="edge">
+<title>gaze similarity&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M307.48,-341.42C277.75,-338.65 242.85,-331.6 215.38,-315 161.43,-282.39 122.32,-217.04 103.43,-180.08"/>
+<polygon fill="black" stroke="black" points="106.44,-178.29 98.85,-170.9 100.18,-181.41 106.44,-178.29"/>
 </g>
 <!-- cognitive load (from pupil size -->
 <g id="node2" class="node">
 <title>cognitive load (from pupil size</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="cognitive load (from pupil size">
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Real-time%20mutual%20gaze%20perception" xlink:title="cognitive load (from pupil size">
 <ellipse fill="none" stroke="black" cx="371.37" cy="-288" rx="120.48" ry="18"/>
 <text text-anchor="middle" x="371.37" y="-284.3" font-family="Times,serif" font-size="14.00">cognitive load (from pupil size</text>
 </a>
@@ -48,28 +42,49 @@
 <!-- cognitive load (from pupil size&#45;&gt;learning gains -->
 <g id="edge13" class="edge">
 <title>cognitive load (from pupil size&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M280.61,-276.07C259.02,-272.18 236.19,-267.22 215.38,-261 185.95,-252.2 154.2,-238.38 130.1,-226.92"/>
-<polygon fill="black" stroke="black" points="131.46,-223.69 120.94,-222.51 128.42,-230 131.46,-223.69"/>
+<path fill="none" stroke="black" d="M269.12,-278.5C250.69,-274.52 232.04,-268.9 215.38,-261 173.59,-241.17 134.9,-203.37 112.03,-178.17"/>
+<polygon fill="black" stroke="black" points="114.44,-175.61 105.18,-170.47 109.21,-180.27 114.44,-175.61"/>
 </g>
-<!-- perceptual with&#45;me&#45;ness (gaze -->
+<!-- Joint visual Attention -->
 <g id="node3" class="node">
-<title>perceptual with&#45;me&#45;ness (gaze</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="perceptual with&#45;me&#45;ness (gaze">
-<ellipse fill="none" stroke="black" cx="371.37" cy="-234" rx="118.88" ry="18"/>
-<text text-anchor="middle" x="371.37" y="-230.3" font-family="Times,serif" font-size="14.00">perceptual with&#45;me&#45;ness (gaze</text>
+<title>Joint visual Attention</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Mobile%20Eye-Trackers%20to%20Unpack%20the%20Perceptual%20Benefits%20of%20a%20Tangible%20User%20Interface%20for%20Collaborative%20Learning" xlink:title="Joint visual Attention">
+<ellipse fill="none" stroke="black" cx="371.37" cy="-234" rx="86.38" ry="18"/>
+<text text-anchor="middle" x="371.37" y="-230.3" font-family="Times,serif" font-size="14.00">Joint visual Attention</text>
 </a>
 </g>
 </g>
-<!-- perceptual with&#45;me&#45;ness (gaze&#45;&gt;learning gains -->
-<g id="edge1" class="edge">
-<title>perceptual with&#45;me&#45;ness (gaze&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M270.58,-224.37C233.19,-220.76 191.63,-216.74 157.88,-213.49"/>
-<polygon fill="black" stroke="black" points="157.97,-209.98 147.68,-212.5 157.29,-216.95 157.97,-209.98"/>
+<!-- Joint visual Attention&#45;&gt;learning gains -->
+<g id="edge9" class="edge">
+<title>Joint visual Attention&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M296.61,-224.8C270.63,-220.6 241.42,-214.79 215.38,-207 185.95,-198.2 154.2,-184.38 130.1,-172.92"/>
+<polygon fill="black" stroke="black" points="131.46,-169.69 120.94,-168.51 128.42,-176 131.46,-169.69"/>
+</g>
+<!-- (not -->
+<g id="node4" class="node">
+<title>(not</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dual%20Gaze%20as%20a%20Proxy%20for%20Collaboration%20in%20Informal%20Learning" xlink:title="(not">
+<ellipse fill="none" stroke="black" cx="371.37" cy="-396" rx="27" ry="18"/>
+<text text-anchor="middle" x="371.37" y="-392.3" font-family="Times,serif" font-size="14.00">(not</text>
+</a>
+</g>
+</g>
+<!-- level of understanding -->
+<g id="node12" class="node">
+<title>level of understanding</title>
+<ellipse fill="none" stroke="black" cx="89.69" cy="-396" rx="89.88" ry="18"/>
+<text text-anchor="middle" x="89.69" y="-392.3" font-family="Times,serif" font-size="14.00">level of understanding</text>
+</g>
+<!-- (not&#45;&gt;level of understanding -->
+<g id="edge4" class="edge">
+<title>(not&#45;&gt;level of understanding</title>
+<path fill="none" stroke="black" d="M344.31,-396C309.2,-396 244.76,-396 189.62,-396"/>
+<polygon fill="black" stroke="black" points="189.44,-392.5 179.44,-396 189.44,-399.5 189.44,-392.5"/>
 </g>
 <!-- conceptual with&#45;me&#45;ness (gaze -->
-<g id="node4" class="node">
+<g id="node5" class="node">
 <title>conceptual with&#45;me&#45;ness (gaze</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="conceptual with&#45;me&#45;ness (gaze">
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" xlink:title="conceptual with&#45;me&#45;ness (gaze">
 <ellipse fill="none" stroke="black" cx="371.37" cy="-180" rx="120.48" ry="18"/>
 <text text-anchor="middle" x="371.37" y="-176.3" font-family="Times,serif" font-size="14.00">conceptual with&#45;me&#45;ness (gaze</text>
 </a>
@@ -78,128 +93,113 @@
 <!-- conceptual with&#45;me&#45;ness (gaze&#45;&gt;learning gains -->
 <g id="edge2" class="edge">
 <title>conceptual with&#45;me&#45;ness (gaze&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M269.8,-189.71C232.47,-193.31 191.08,-197.31 157.5,-200.55"/>
-<polygon fill="black" stroke="black" points="156.97,-197.09 147.35,-201.53 157.64,-204.05 156.97,-197.09"/>
+<path fill="none" stroke="black" d="M269.8,-170.29C232.47,-166.69 191.08,-162.69 157.5,-159.45"/>
+<polygon fill="black" stroke="black" points="157.64,-155.95 147.35,-158.47 156.97,-162.91 157.64,-155.95"/>
+</g>
+<!-- EVT of spatial entropy -->
+<g id="node6" class="node">
+<title>EVT of spatial entropy</title>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Alternate%20Statistical%20Lens%20to%20Look%20at%20Collaboration%20Data:%20Extreme%20Value%20Theory" xlink:title="EVT of spatial entropy">
+<ellipse fill="none" stroke="black" cx="371.37" cy="-450" rx="92.08" ry="18"/>
+<text text-anchor="middle" x="371.37" y="-446.3" font-family="Times,serif" font-size="14.00">EVT of spatial entropy</text>
+</a>
+</g>
+</g>
+<!-- post&#45;test score -->
+<g id="node14" class="node">
+<title>post&#45;test score</title>
+<ellipse fill="none" stroke="black" cx="89.69" cy="-450" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="89.69" y="-446.3" font-family="Times,serif" font-size="14.00">post&#45;test score</text>
+</g>
+<!-- EVT of spatial entropy&#45;&gt;post&#45;test score -->
+<g id="edge10" class="edge">
+<title>EVT of spatial entropy&#45;&gt;post&#45;test score</title>
+<path fill="none" stroke="black" d="M278.79,-450C240.8,-450 197.4,-450 161.86,-450"/>
+<polygon fill="black" stroke="black" points="161.58,-446.5 151.58,-450 161.58,-453.5 161.58,-446.5"/>
+</g>
+<!-- perceptual with&#45;me&#45;ness (gaze -->
+<g id="node7" class="node">
+<title>perceptual with&#45;me&#45;ness (gaze</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" xlink:title="perceptual with&#45;me&#45;ness (gaze">
+<ellipse fill="none" stroke="black" cx="371.37" cy="-126" rx="118.88" ry="18"/>
+<text text-anchor="middle" x="371.37" y="-122.3" font-family="Times,serif" font-size="14.00">perceptual with&#45;me&#45;ness (gaze</text>
+</a>
+</g>
+</g>
+<!-- perceptual with&#45;me&#45;ness (gaze&#45;&gt;learning gains -->
+<g id="edge1" class="edge">
+<title>perceptual with&#45;me&#45;ness (gaze&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M270.58,-135.63C233.19,-139.24 191.63,-143.26 157.88,-146.51"/>
+<polygon fill="black" stroke="black" points="157.29,-143.05 147.68,-147.5 157.97,-150.02 157.29,-143.05"/>
 </g>
 <!-- Joint visual attention -->
-<g id="node5" class="node">
+<g id="node8" class="node">
 <title>Joint visual attention</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Joint visual attention">
-<ellipse fill="none" stroke="black" cx="371.37" cy="-396" rx="84.49" ry="18"/>
-<text text-anchor="middle" x="371.37" y="-392.3" font-family="Times,serif" font-size="14.00">Joint visual attention</text>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Detecting%20Collaborative%20Dynamics%20Using%20Mobile%20Eye-Trackers" xlink:title="Joint visual attention">
+<ellipse fill="none" stroke="black" cx="371.37" cy="-504" rx="84.49" ry="18"/>
+<text text-anchor="middle" x="371.37" y="-500.3" font-family="Times,serif" font-size="14.00">Joint visual attention</text>
 </a>
 </g>
 </g>
 <!-- Learning gains -->
-<g id="node12" class="node">
+<g id="node11" class="node">
 <title>Learning gains</title>
-<ellipse fill="none" stroke="black" cx="89.69" cy="-396" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="89.69" y="-392.3" font-family="Times,serif" font-size="14.00">Learning gains</text>
+<ellipse fill="none" stroke="black" cx="89.69" cy="-504" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="89.69" y="-500.3" font-family="Times,serif" font-size="14.00">Learning gains</text>
 </g>
 <!-- Joint visual attention&#45;&gt;Learning gains -->
 <g id="edge5" class="edge">
 <title>Joint visual attention&#45;&gt;Learning gains</title>
-<path fill="none" stroke="black" d="M306.21,-384.44C259.58,-381.78 196.89,-381.86 151.14,-384.66"/>
-<polygon fill="black" stroke="black" points="150.81,-381.17 141.07,-385.34 151.28,-388.16 150.81,-381.17"/>
+<path fill="none" stroke="black" d="M306.21,-492.44C259.58,-489.78 196.89,-489.86 151.14,-492.66"/>
+<polygon fill="black" stroke="black" points="150.81,-489.17 141.07,-493.34 151.28,-496.16 150.81,-489.17"/>
 </g>
 <!-- Joint visual attention&#45;&gt;Learning gains -->
 <g id="edge6" class="edge">
 <title>Joint visual attention&#45;&gt;Learning gains</title>
-<path fill="none" stroke="black" d="M286.84,-396C247.85,-396 201.85,-396 164.2,-396"/>
-<polygon fill="black" stroke="black" points="163.81,-392.5 153.81,-396 163.81,-399.5 163.81,-392.5"/>
+<path fill="none" stroke="black" d="M286.84,-504C247.85,-504 201.85,-504 164.2,-504"/>
+<polygon fill="black" stroke="black" points="163.81,-500.5 153.81,-504 163.81,-507.5 163.81,-500.5"/>
 </g>
 <!-- Joint visual attention&#45;&gt;Learning gains -->
 <g id="edge7" class="edge">
 <title>Joint visual attention&#45;&gt;Learning gains</title>
-<path fill="none" stroke="black" d="M306.21,-407.56C259.58,-410.22 196.89,-410.14 151.14,-407.34"/>
-<polygon fill="black" stroke="black" points="151.28,-403.84 141.07,-406.66 150.81,-410.83 151.28,-403.84"/>
-</g>
-<!-- Joint visual Attention -->
-<g id="node6" class="node">
-<title>Joint visual Attention</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Joint visual Attention">
-<ellipse fill="none" stroke="black" cx="371.37" cy="-126" rx="86.38" ry="18"/>
-<text text-anchor="middle" x="371.37" y="-122.3" font-family="Times,serif" font-size="14.00">Joint visual Attention</text>
-</a>
-</g>
-</g>
-<!-- Joint visual Attention&#45;&gt;learning gains -->
-<g id="edge9" class="edge">
-<title>Joint visual Attention&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M296.61,-135.2C270.63,-139.4 241.42,-145.21 215.38,-153 185.95,-161.8 154.2,-175.62 130.1,-187.08"/>
-<polygon fill="black" stroke="black" points="128.42,-184 120.94,-191.49 131.46,-190.31 128.42,-184"/>
-</g>
-<!-- (not -->
-<g id="node7" class="node">
-<title>(not</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="(not">
-<ellipse fill="none" stroke="black" cx="371.37" cy="-450" rx="27" ry="18"/>
-<text text-anchor="middle" x="371.37" y="-446.3" font-family="Times,serif" font-size="14.00">(not</text>
-</a>
-</g>
-</g>
-<!-- level of understanding -->
-<g id="node14" class="node">
-<title>level of understanding</title>
-<ellipse fill="none" stroke="black" cx="89.69" cy="-450" rx="89.88" ry="18"/>
-<text text-anchor="middle" x="89.69" y="-446.3" font-family="Times,serif" font-size="14.00">level of understanding</text>
-</g>
-<!-- (not&#45;&gt;level of understanding -->
-<g id="edge4" class="edge">
-<title>(not&#45;&gt;level of understanding</title>
-<path fill="none" stroke="black" d="M344.31,-450C309.2,-450 244.76,-450 189.62,-450"/>
-<polygon fill="black" stroke="black" points="189.44,-446.5 179.44,-450 189.44,-453.5 189.44,-446.5"/>
-</g>
-<!-- gaze similarity -->
-<g id="node8" class="node">
-<title>gaze similarity</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="gaze similarity">
-<ellipse fill="none" stroke="black" cx="371.37" cy="-72" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="371.37" y="-68.3" font-family="Times,serif" font-size="14.00">gaze similarity</text>
-</a>
-</g>
-</g>
-<!-- gaze similarity&#45;&gt;learning gains -->
-<g id="edge3" class="edge">
-<title>gaze similarity&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M308.45,-75.12C279.11,-78.48 244.25,-85.3 215.38,-99 173.59,-118.83 134.9,-156.63 112.03,-181.83"/>
-<polygon fill="black" stroke="black" points="109.21,-179.73 105.18,-189.53 114.44,-184.39 109.21,-179.73"/>
+<path fill="none" stroke="black" d="M306.21,-515.56C259.58,-518.22 196.89,-518.14 151.14,-515.34"/>
+<polygon fill="black" stroke="black" points="151.28,-511.84 141.07,-514.66 150.81,-518.83 151.28,-511.84"/>
 </g>
 <!-- Cycles of collaborative / individual work -->
 <g id="node9" class="node">
 <title>Cycles of collaborative / individual work</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="Cycles of collaborative / individual work">
-<ellipse fill="none" stroke="black" cx="371.37" cy="-18" rx="155.97" ry="18"/>
-<text text-anchor="middle" x="371.37" y="-14.3" font-family="Times,serif" font-size="14.00">Cycles of collaborative / individual work</text>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" xlink:title="Cycles of collaborative / individual work">
+<ellipse fill="none" stroke="black" cx="371.37" cy="-72" rx="155.97" ry="18"/>
+<text text-anchor="middle" x="371.37" y="-68.3" font-family="Times,serif" font-size="14.00">Cycles of collaborative / individual work</text>
 </a>
 </g>
 </g>
 <!-- Cycles of collaborative / individual work&#45;&gt;learning gains -->
 <g id="edge8" class="edge">
 <title>Cycles of collaborative / individual work&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M250.7,-29.45C238.29,-33.36 226.25,-38.43 215.38,-45 161.43,-77.61 122.32,-142.96 103.43,-179.92"/>
-<polygon fill="black" stroke="black" points="100.18,-178.59 98.85,-189.1 106.44,-181.71 100.18,-178.59"/>
+<path fill="none" stroke="black" d="M270.76,-85.77C252.17,-89.34 233.05,-93.72 215.38,-99 185.95,-107.8 154.2,-121.62 130.1,-133.08"/>
+<polygon fill="black" stroke="black" points="128.42,-130 120.94,-137.49 131.46,-136.31 128.42,-130"/>
 </g>
-<!-- EVT of spatial entropy -->
+<!-- joint visual attention -->
 <g id="node10" class="node">
-<title>EVT of spatial entropy</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Interactive%20Table%20for%20Supporting%20Participation%20Balance%20in%20Face-to-Face%20Collaborative%20Learning" xlink:title="EVT of spatial entropy">
-<ellipse fill="none" stroke="black" cx="371.37" cy="-504" rx="92.08" ry="18"/>
-<text text-anchor="middle" x="371.37" y="-500.3" font-family="Times,serif" font-size="14.00">EVT of spatial entropy</text>
+<title>joint visual attention</title>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Real-time%20mutual%20gaze%20perception" xlink:title="joint visual attention">
+<ellipse fill="none" stroke="black" cx="371.37" cy="-18" rx="83.39" ry="18"/>
+<text text-anchor="middle" x="371.37" y="-14.3" font-family="Times,serif" font-size="14.00">joint visual attention</text>
 </a>
 </g>
 </g>
-<!-- post&#45;test score -->
-<g id="node13" class="node">
-<title>post&#45;test score</title>
-<ellipse fill="none" stroke="black" cx="89.69" cy="-504" rx="61.99" ry="18"/>
-<text text-anchor="middle" x="89.69" y="-500.3" font-family="Times,serif" font-size="14.00">post&#45;test score</text>
+<!-- joint visual attention&#45;&gt;learning gains -->
+<g id="edge11" class="edge">
+<title>joint visual attention&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M289,-15.2C264.49,-18.71 238.08,-25.23 215.38,-36 170.6,-57.26 129.37,-99.14 107.36,-126.83"/>
+<polygon fill="black" stroke="black" points="104.47,-124.85 101.17,-134.92 110.02,-129.11 104.47,-124.85"/>
 </g>
-<!-- EVT of spatial entropy&#45;&gt;post&#45;test score -->
-<g id="edge10" class="edge">
-<title>EVT of spatial entropy&#45;&gt;post&#45;test score</title>
-<path fill="none" stroke="black" d="M278.79,-504C240.8,-504 197.4,-504 161.86,-504"/>
-<polygon fill="black" stroke="black" points="161.58,-500.5 151.58,-504 161.58,-507.5 161.58,-500.5"/>
+<!-- joint visual attention&#45;&gt;learning gains -->
+<g id="edge12" class="edge">
+<title>joint visual attention&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M306.94,-29.48C277.92,-33.72 243.76,-40.53 215.38,-54 176.86,-72.28 140.97,-105.83 117.68,-128.93"/>
+<polygon fill="black" stroke="black" points="115.18,-126.49 110.58,-136.03 120.12,-131.44 115.18,-126.49"/>
 </g>
 </g>
 </svg>
