@@ -12,14 +12,14 @@
 <!-- Total movement across upper body joints and body parts -->
 <g id="node1" class="node">
 <title>Total movement across upper body joints and body parts</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" xlink:title="Total movement across upper body joints and body parts">
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" xlink:title="Total movement across upper body joints and body parts" target="_blank">
 <ellipse fill="none" stroke="black" cx="436.36" cy="-18" rx="213.36" ry="18"/>
 <text text-anchor="middle" x="436.36" y="-14.3" font-family="Times,serif" font-size="14.00">Total movement across upper body joints and body parts</text>
 </a>
 </g>
 </g>
 <!-- collaboration quality -->
-<g id="node7" class="node">
+<g id="node6" class="node">
 <title>collaboration quality</title>
 <ellipse fill="none" stroke="black" cx="93.59" cy="-18" rx="83.69" ry="18"/>
 <text text-anchor="middle" x="93.59" y="-14.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
@@ -30,77 +30,77 @@
 <path fill="none" stroke="black" d="M222.94,-18C210.85,-18 199.06,-18 187.84,-18"/>
 <polygon fill="black" stroke="black" points="187.7,-14.5 177.7,-18 187.7,-21.5 187.7,-14.5"/>
 </g>
-<!-- Physical synchrony -->
-<g id="node2" class="node">
-<title>Physical synchrony</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Physical synchrony">
-<ellipse fill="none" stroke="black" cx="436.36" cy="-180" rx="79.09" ry="18"/>
-<text text-anchor="middle" x="436.36" y="-176.3" font-family="Times,serif" font-size="14.00">Physical synchrony</text>
-</a>
-</g>
-</g>
-<!-- Collaboration -->
-<g id="node8" class="node">
-<title>Collaboration</title>
-<ellipse fill="none" stroke="black" cx="93.59" cy="-126" rx="59.29" ry="18"/>
-<text text-anchor="middle" x="93.59" y="-122.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
-</g>
-<!-- Physical synchrony&#45;&gt;Collaboration -->
-<g id="edge2" class="edge">
-<title>Physical synchrony&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M364.43,-172.42C323.1,-167.64 270.06,-160.89 223.18,-153 199.48,-149.01 173.51,-143.73 151.15,-138.9"/>
-<polygon fill="black" stroke="black" points="151.66,-135.43 141.15,-136.72 150.17,-142.27 151.66,-135.43"/>
-</g>
 <!-- gesture type and location -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>gesture type and location</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Improving%20Visibility%20of%20Remote%20Gestures%20in%20Distributed%20Tabletop%20Collaboration" xlink:title="gesture type and location">
-<ellipse fill="none" stroke="black" cx="436.36" cy="-234" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="436.36" y="-230.3" font-family="Times,serif" font-size="14.00">gesture type and location</text>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Improving%20Visibility%20of%20Remote%20Gestures%20in%20Distributed%20Tabletop%20Collaboration" xlink:title="gesture type and location" target="_blank">
+<ellipse fill="none" stroke="black" cx="436.36" cy="-72" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="436.36" y="-68.3" font-family="Times,serif" font-size="14.00">gesture type and location</text>
 </a>
 </g>
 </g>
 <!-- frequency of utterances -->
-<g id="node6" class="node">
+<g id="node8" class="node">
 <title>frequency of utterances</title>
-<ellipse fill="none" stroke="black" cx="93.59" cy="-234" rx="93.68" ry="18"/>
-<text text-anchor="middle" x="93.59" y="-230.3" font-family="Times,serif" font-size="14.00">frequency of utterances</text>
+<ellipse fill="none" stroke="black" cx="93.59" cy="-72" rx="93.68" ry="18"/>
+<text text-anchor="middle" x="93.59" y="-68.3" font-family="Times,serif" font-size="14.00">frequency of utterances</text>
 </g>
 <!-- gesture type and location&#45;&gt;frequency of utterances -->
 <g id="edge1" class="edge">
 <title>gesture type and location&#45;&gt;frequency of utterances</title>
-<path fill="none" stroke="black" d="M336.8,-234C293.12,-234 241.74,-234 197.57,-234"/>
-<polygon fill="black" stroke="black" points="197.38,-230.5 187.38,-234 197.38,-237.5 197.38,-230.5"/>
+<path fill="none" stroke="black" d="M336.8,-72C293.12,-72 241.74,-72 197.57,-72"/>
+<polygon fill="black" stroke="black" points="197.38,-68.5 187.38,-72 197.38,-75.5 197.38,-68.5"/>
+</g>
+<!-- Physical synchrony -->
+<g id="node3" class="node">
+<title>Physical synchrony</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="Physical synchrony" target="_blank">
+<ellipse fill="none" stroke="black" cx="436.36" cy="-234" rx="79.09" ry="18"/>
+<text text-anchor="middle" x="436.36" y="-230.3" font-family="Times,serif" font-size="14.00">Physical synchrony</text>
+</a>
+</g>
+</g>
+<!-- Collaboration -->
+<g id="node7" class="node">
+<title>Collaboration</title>
+<ellipse fill="none" stroke="black" cx="93.59" cy="-180" rx="59.29" ry="18"/>
+<text text-anchor="middle" x="93.59" y="-176.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
+</g>
+<!-- Physical synchrony&#45;&gt;Collaboration -->
+<g id="edge2" class="edge">
+<title>Physical synchrony&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M364.43,-226.42C323.1,-221.64 270.06,-214.89 223.18,-207 199.48,-203.01 173.51,-197.73 151.15,-192.9"/>
+<polygon fill="black" stroke="black" points="151.66,-189.43 141.15,-190.72 150.17,-196.27 151.66,-189.43"/>
 </g>
 <!-- Joint movement -->
 <g id="node4" class="node">
 <title>Joint movement</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint movement">
-<ellipse fill="none" stroke="black" cx="436.36" cy="-126" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="436.36" y="-122.3" font-family="Times,serif" font-size="14.00">Joint movement</text>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="Joint movement" target="_blank">
+<ellipse fill="none" stroke="black" cx="436.36" cy="-180" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="436.36" y="-176.3" font-family="Times,serif" font-size="14.00">Joint movement</text>
 </a>
 </g>
 </g>
 <!-- Joint movement&#45;&gt;Collaboration -->
 <g id="edge4" class="edge">
 <title>Joint movement&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M368.04,-126C308.72,-126 222.71,-126 163.06,-126"/>
-<polygon fill="black" stroke="black" points="162.98,-122.5 152.98,-126 162.98,-129.5 162.98,-122.5"/>
+<path fill="none" stroke="black" d="M368.04,-180C308.72,-180 222.71,-180 163.06,-180"/>
+<polygon fill="black" stroke="black" points="162.98,-176.5 152.98,-180 162.98,-183.5 162.98,-176.5"/>
 </g>
 <!-- dyad proximity -->
 <g id="node5" class="node">
 <title>dyad proximity</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="dyad proximity">
-<ellipse fill="none" stroke="black" cx="436.36" cy="-72" rx="65.79" ry="18"/>
-<text text-anchor="middle" x="436.36" y="-68.3" font-family="Times,serif" font-size="14.00">dyad proximity</text>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Exploring%20Collaboration%20Using%20Motion%20Sensors%20and%20Multi-Modal%20Learning%20Analytics" xlink:title="dyad proximity" target="_blank">
+<ellipse fill="none" stroke="black" cx="436.36" cy="-126" rx="65.79" ry="18"/>
+<text text-anchor="middle" x="436.36" y="-122.3" font-family="Times,serif" font-size="14.00">dyad proximity</text>
 </a>
 </g>
 </g>
 <!-- dyad proximity&#45;&gt;Collaboration -->
 <g id="edge5" class="edge">
 <title>dyad proximity&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M374.81,-78.4C332.26,-83.21 274.08,-90.43 223.18,-99 199.48,-102.99 173.51,-108.27 151.15,-113.1"/>
-<polygon fill="black" stroke="black" points="150.17,-109.73 141.15,-115.28 151.66,-116.57 150.17,-109.73"/>
+<path fill="none" stroke="black" d="M374.81,-132.4C332.26,-137.21 274.08,-144.43 223.18,-153 199.48,-156.99 173.51,-162.27 151.15,-167.1"/>
+<polygon fill="black" stroke="black" points="150.17,-163.73 141.15,-169.28 151.66,-170.57 150.17,-163.73"/>
 </g>
 </g>
 </svg>

@@ -9,53 +9,53 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 634)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-634 552.15,-634 552.15,4 -4,4"/>
-<!-- speech time and frequency -->
+<!-- 35 Coh&#45;metrix indices -->
 <g id="node1" class="node">
-<title>speech time and frequency</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="speech time and frequency">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-288" rx="105.88" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-284.3" font-family="Times,serif" font-size="14.00">speech time and frequency</text>
+<title>35 Coh&#45;metrix indices</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="35 Coh&#45;metrix indices" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-288" rx="90.18" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-284.3" font-family="Times,serif" font-size="14.00">35 Coh&#45;metrix indices</text>
 </a>
 </g>
 </g>
 <!-- Collaboration -->
-<g id="node17" class="node">
+<g id="node13" class="node">
 <title>Collaboration</title>
 <ellipse fill="none" stroke="black" cx="88.39" cy="-153" rx="59.29" ry="18"/>
 <text text-anchor="middle" x="88.39" y="-149.3" font-family="Times,serif" font-size="14.00">Collaboration</text>
 </g>
-<!-- speech time and frequency&#45;&gt;Collaboration -->
-<g id="edge9" class="edge">
-<title>speech time and frequency&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M281.53,-281.42C258.24,-277.37 234.01,-270.98 212.78,-261 171.18,-241.42 132.95,-203.56 110.41,-178.27"/>
+<!-- 35 Coh&#45;metrix indices&#45;&gt;Collaboration -->
+<g id="edge7" class="edge">
+<title>35 Coh&#45;metrix indices&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M293.23,-283.28C266.51,-279.42 237.59,-272.67 212.78,-261 171.18,-241.42 132.95,-203.56 110.41,-178.27"/>
 <polygon fill="black" stroke="black" points="112.87,-175.77 103.65,-170.55 107.6,-180.38 112.87,-175.77"/>
 </g>
-<!-- verbal participation symmetry among group -->
+<!-- speech quantity -->
 <g id="node2" class="node">
-<title>verbal participation symmetry among group</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" xlink:title="verbal participation symmetry among group">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-234" rx="167.87" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-230.3" font-family="Times,serif" font-size="14.00">verbal participation symmetry among group</text>
+<title>speech quantity</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" xlink:title="speech quantity" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-234" rx="65.79" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-230.3" font-family="Times,serif" font-size="14.00">speech quantity</text>
 </a>
 </g>
 </g>
-<!-- verbal participation symmetry among group&#45;&gt;Collaboration -->
-<g id="edge3" class="edge">
-<title>verbal participation symmetry among group&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M270.09,-220.33C250.8,-216.78 231.06,-212.39 212.78,-207 183.48,-198.36 151.94,-184.48 128.09,-172.95"/>
+<!-- speech quantity&#45;&gt;Collaboration -->
+<g id="edge1" class="edge">
+<title>speech quantity&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M318.47,-227.86C286.56,-223.71 247.09,-217.11 212.78,-207 183.48,-198.36 151.94,-184.48 128.09,-172.95"/>
 <polygon fill="black" stroke="black" points="129.54,-169.76 119.02,-168.5 126.46,-176.05 129.54,-169.76"/>
 </g>
 <!-- speech time -->
 <g id="node3" class="node">
 <title>speech time</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" xlink:title="speech time">
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" xlink:title="speech time" target="_blank">
 <ellipse fill="none" stroke="black" cx="380.47" cy="-450" rx="53.09" ry="18"/>
 <text text-anchor="middle" x="380.47" y="-446.3" font-family="Times,serif" font-size="14.00">speech time</text>
 </a>
 </g>
 </g>
 <!-- collaboration quality -->
-<g id="node16" class="node">
+<g id="node15" class="node">
 <title>collaboration quality</title>
 <ellipse fill="none" stroke="black" cx="88.39" cy="-396" rx="83.69" ry="18"/>
 <text text-anchor="middle" x="88.39" y="-392.3" font-family="Times,serif" font-size="14.00">collaboration quality</text>
@@ -66,31 +66,31 @@
 <path fill="none" stroke="black" d="M331.21,-442.9C297.86,-437.82 252.53,-430.56 212.78,-423 194.34,-419.49 174.42,-415.31 156.09,-411.29"/>
 <polygon fill="black" stroke="black" points="156.6,-407.82 146.08,-409.09 155.09,-414.66 156.6,-407.82"/>
 </g>
-<!-- 1582 audio features (from Emobase -->
+<!-- coherence -->
 <g id="node4" class="node">
-<title>1582 audio features (from Emobase</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="1582 audio features (from Emobase">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-504" rx="138.38" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-500.3" font-family="Times,serif" font-size="14.00">1582 audio features (from Emobase</text>
+<title>coherence</title>
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="coherence" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-504" rx="46.29" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-500.3" font-family="Times,serif" font-size="14.00">coherence</text>
 </a>
 </g>
 </g>
-<!-- collaboration -->
-<g id="node14" class="node">
-<title>collaboration</title>
-<ellipse fill="none" stroke="black" cx="88.39" cy="-504" rx="57.39" ry="18"/>
-<text text-anchor="middle" x="88.39" y="-500.3" font-family="Times,serif" font-size="14.00">collaboration</text>
+<!-- Joint Visual Attention -->
+<g id="node16" class="node">
+<title>Joint Visual Attention</title>
+<ellipse fill="none" stroke="black" cx="88.39" cy="-504" rx="88.28" ry="18"/>
+<text text-anchor="middle" x="88.39" y="-500.3" font-family="Times,serif" font-size="14.00">Joint Visual Attention</text>
 </g>
-<!-- 1582 audio features (from Emobase&#45;&gt;collaboration -->
-<g id="edge5" class="edge">
-<title>1582 audio features (from Emobase&#45;&gt;collaboration</title>
-<path fill="none" stroke="black" d="M241.65,-504C211.84,-504 181.63,-504 156.06,-504"/>
-<polygon fill="black" stroke="black" points="155.77,-500.5 145.77,-504 155.77,-507.5 155.77,-500.5"/>
+<!-- coherence&#45;&gt;Joint Visual Attention -->
+<g id="edge6" class="edge">
+<title>coherence&#45;&gt;Joint Visual Attention</title>
+<path fill="none" stroke="black" d="M334.14,-504C294.94,-504 236.89,-504 187.17,-504"/>
+<polygon fill="black" stroke="black" points="187.02,-500.5 177.02,-504 187.02,-507.5 187.02,-500.5"/>
 </g>
 <!-- thousands of features prosodic speech -->
 <g id="node5" class="node">
 <title>thousands of features prosodic speech</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" xlink:title="thousands of features prosodic speech">
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" xlink:title="thousands of features prosodic speech" target="_blank">
 <ellipse fill="none" stroke="black" cx="380.47" cy="-396" rx="144.87" ry="18"/>
 <text text-anchor="middle" x="380.47" y="-392.3" font-family="Times,serif" font-size="14.00">thousands of features prosodic speech</text>
 </a>
@@ -102,112 +102,31 @@
 <path fill="none" stroke="black" d="M235.28,-396C217.38,-396 199.47,-396 182.62,-396"/>
 <polygon fill="black" stroke="black" points="182.29,-392.5 172.29,-396 182.29,-399.5 182.29,-392.5"/>
 </g>
-<!-- speech quantity -->
-<g id="node6" class="node">
-<title>speech quantity</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" xlink:title="speech quantity">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-180" rx="65.79" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-176.3" font-family="Times,serif" font-size="14.00">speech quantity</text>
-</a>
-</g>
-</g>
-<!-- speech quantity&#45;&gt;Collaboration -->
-<g id="edge1" class="edge">
-<title>speech quantity&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M317.95,-174.27C270.29,-169.84 204.36,-163.7 155.56,-159.16"/>
-<polygon fill="black" stroke="black" points="155.7,-155.66 145.42,-158.21 155.05,-162.63 155.7,-155.66"/>
-</g>
-<!-- coherence -->
-<g id="node7" class="node">
-<title>coherence</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="coherence">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-558" rx="46.29" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-554.3" font-family="Times,serif" font-size="14.00">coherence</text>
-</a>
-</g>
-</g>
-<!-- Joint Visual Attention -->
-<g id="node15" class="node">
-<title>Joint Visual Attention</title>
-<ellipse fill="none" stroke="black" cx="88.39" cy="-558" rx="88.28" ry="18"/>
-<text text-anchor="middle" x="88.39" y="-554.3" font-family="Times,serif" font-size="14.00">Joint Visual Attention</text>
-</g>
-<!-- coherence&#45;&gt;Joint Visual Attention -->
-<g id="edge6" class="edge">
-<title>coherence&#45;&gt;Joint Visual Attention</title>
-<path fill="none" stroke="black" d="M334.14,-558C294.94,-558 236.89,-558 187.17,-558"/>
-<polygon fill="black" stroke="black" points="187.02,-554.5 177.02,-558 187.02,-561.5 187.02,-554.5"/>
-</g>
-<!-- symmetry of speech among group -->
-<g id="node8" class="node">
-<title>symmetry of speech among group</title>
-<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="symmetry of speech among group">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-126" rx="132.68" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-122.3" font-family="Times,serif" font-size="14.00">symmetry of speech among group</text>
-</a>
-</g>
-</g>
-<!-- symmetry of speech among group&#45;&gt;Collaboration -->
-<g id="edge10" class="edge">
-<title>symmetry of speech among group&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M270.63,-136.13C231.88,-139.74 189.44,-143.69 155.38,-146.86"/>
-<polygon fill="black" stroke="black" points="154.72,-143.4 145.09,-147.82 155.37,-150.37 154.72,-143.4"/>
-</g>
 <!-- Sequences of verbal utterances -->
-<g id="node9" class="node">
+<g id="node6" class="node">
 <title>Sequences of verbal utterances</title>
-<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" xlink:title="Sequences of verbal utterances">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-612" rx="120.48" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-608.3" font-family="Times,serif" font-size="14.00">Sequences of verbal utterances</text>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" xlink:title="Sequences of verbal utterances" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-558" rx="120.48" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-554.3" font-family="Times,serif" font-size="14.00">Sequences of verbal utterances</text>
 </a>
 </g>
 </g>
 <!-- Colloboration quality -->
-<g id="node13" class="node">
+<g id="node17" class="node">
 <title>Colloboration quality</title>
-<ellipse fill="none" stroke="black" cx="88.39" cy="-612" rx="86.38" ry="18"/>
-<text text-anchor="middle" x="88.39" y="-608.3" font-family="Times,serif" font-size="14.00">Colloboration quality</text>
+<ellipse fill="none" stroke="black" cx="88.39" cy="-558" rx="86.38" ry="18"/>
+<text text-anchor="middle" x="88.39" y="-554.3" font-family="Times,serif" font-size="14.00">Colloboration quality</text>
 </g>
 <!-- Sequences of verbal utterances&#45;&gt;Colloboration quality -->
 <g id="edge4" class="edge">
 <title>Sequences of verbal utterances&#45;&gt;Colloboration quality</title>
-<path fill="none" stroke="black" d="M260.23,-612C235.21,-612 209.13,-612 185.1,-612"/>
-<polygon fill="black" stroke="black" points="184.93,-608.5 174.93,-612 184.93,-615.5 184.93,-608.5"/>
-</g>
-<!-- 35 Coh&#45;metrix indices -->
-<g id="node10" class="node">
-<title>35 Coh&#45;metrix indices</title>
-<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="35 Coh&#45;metrix indices">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-72" rx="90.18" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-68.3" font-family="Times,serif" font-size="14.00">35 Coh&#45;metrix indices</text>
-</a>
-</g>
-</g>
-<!-- 35 Coh&#45;metrix indices&#45;&gt;Collaboration -->
-<g id="edge7" class="edge">
-<title>35 Coh&#45;metrix indices&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M300.96,-80.57C272.81,-84.72 241.05,-90.67 212.78,-99 183.48,-107.64 151.94,-121.52 128.09,-133.05"/>
-<polygon fill="black" stroke="black" points="126.46,-129.95 119.02,-137.5 129.54,-136.24 126.46,-129.95"/>
-</g>
-<!-- number of active participants in group -->
-<g id="node11" class="node">
-<title>number of active participants in group</title>
-<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" xlink:title="number of active participants in group">
-<ellipse fill="none" stroke="black" cx="380.47" cy="-18" rx="146.77" ry="18"/>
-<text text-anchor="middle" x="380.47" y="-14.3" font-family="Times,serif" font-size="14.00">number of active participants in group</text>
-</a>
-</g>
-</g>
-<!-- number of active participants in group&#45;&gt;Collaboration -->
-<g id="edge2" class="edge">
-<title>number of active participants in group&#45;&gt;Collaboration</title>
-<path fill="none" stroke="black" d="M261.3,-28.68C244.55,-32.6 227.9,-37.89 212.78,-45 171.18,-64.58 132.95,-102.44 110.41,-127.73"/>
-<polygon fill="black" stroke="black" points="107.6,-125.62 103.65,-135.45 112.87,-130.23 107.6,-125.62"/>
+<path fill="none" stroke="black" d="M260.23,-558C235.21,-558 209.13,-558 185.1,-558"/>
+<polygon fill="black" stroke="black" points="184.93,-554.5 174.93,-558 184.93,-561.5 184.93,-554.5"/>
 </g>
 <!-- talking time -->
-<g id="node12" class="node">
+<g id="node7" class="node">
 <title>talking time</title>
-<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" xlink:title="talking time">
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" xlink:title="talking time" target="_blank">
 <ellipse fill="none" stroke="black" cx="380.47" cy="-342" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="380.47" y="-338.3" font-family="Times,serif" font-size="14.00">talking time</text>
 </a>
@@ -218,6 +137,87 @@
 <title>talking time&#45;&gt;collaboration quality</title>
 <path fill="none" stroke="black" d="M330.84,-349.16C297.53,-354.24 252.38,-361.47 212.78,-369 194.34,-372.51 174.42,-376.69 156.09,-380.71"/>
 <polygon fill="black" stroke="black" points="155.09,-377.34 146.08,-382.91 156.6,-384.18 155.09,-377.34"/>
+</g>
+<!-- symmetry of speech among group -->
+<g id="node8" class="node">
+<title>symmetry of speech among group</title>
+<g id="a_node8"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="symmetry of speech among group" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-180" rx="132.68" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-176.3" font-family="Times,serif" font-size="14.00">symmetry of speech among group</text>
+</a>
+</g>
+</g>
+<!-- symmetry of speech among group&#45;&gt;Collaboration -->
+<g id="edge10" class="edge">
+<title>symmetry of speech among group&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M270.63,-169.87C231.88,-166.26 189.44,-162.31 155.38,-159.14"/>
+<polygon fill="black" stroke="black" points="155.37,-155.63 145.09,-158.18 154.72,-162.6 155.37,-155.63"/>
+</g>
+<!-- verbal participation symmetry among group -->
+<g id="node9" class="node">
+<title>verbal participation symmetry among group</title>
+<g id="a_node9"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" xlink:title="verbal participation symmetry among group" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-126" rx="167.87" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-122.3" font-family="Times,serif" font-size="14.00">verbal participation symmetry among group</text>
+</a>
+</g>
+</g>
+<!-- verbal participation symmetry among group&#45;&gt;Collaboration -->
+<g id="edge3" class="edge">
+<title>verbal participation symmetry among group&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M253.08,-137.76C219.35,-140.9 184.25,-144.17 155.24,-146.87"/>
+<polygon fill="black" stroke="black" points="154.88,-143.39 145.24,-147.8 155.53,-150.36 154.88,-143.39"/>
+</g>
+<!-- number of active participants in group -->
+<g id="node10" class="node">
+<title>number of active participants in group</title>
+<g id="a_node10"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" xlink:title="number of active participants in group" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-72" rx="146.77" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-68.3" font-family="Times,serif" font-size="14.00">number of active participants in group</text>
+</a>
+</g>
+</g>
+<!-- number of active participants in group&#45;&gt;Collaboration -->
+<g id="edge2" class="edge">
+<title>number of active participants in group&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M275.42,-84.7C254.46,-88.42 232.75,-93.12 212.78,-99 183.48,-107.64 151.94,-121.52 128.09,-133.05"/>
+<polygon fill="black" stroke="black" points="126.46,-129.95 119.02,-137.5 129.54,-136.24 126.46,-129.95"/>
+</g>
+<!-- speech time and frequency -->
+<g id="node11" class="node">
+<title>speech time and frequency</title>
+<g id="a_node11"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" xlink:title="speech time and frequency" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-18" rx="105.88" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-14.3" font-family="Times,serif" font-size="14.00">speech time and frequency</text>
+</a>
+</g>
+</g>
+<!-- speech time and frequency&#45;&gt;Collaboration -->
+<g id="edge9" class="edge">
+<title>speech time and frequency&#45;&gt;Collaboration</title>
+<path fill="none" stroke="black" d="M281.53,-24.58C258.24,-28.63 234.01,-35.02 212.78,-45 171.18,-64.58 132.95,-102.44 110.41,-127.73"/>
+<polygon fill="black" stroke="black" points="107.6,-125.62 103.65,-135.45 112.87,-130.23 107.6,-125.62"/>
+</g>
+<!-- 1582 audio features (from Emobase -->
+<g id="node12" class="node">
+<title>1582 audio features (from Emobase</title>
+<g id="a_node12"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" xlink:title="1582 audio features (from Emobase" target="_blank">
+<ellipse fill="none" stroke="black" cx="380.47" cy="-612" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="380.47" y="-608.3" font-family="Times,serif" font-size="14.00">1582 audio features (from Emobase</text>
+</a>
+</g>
+</g>
+<!-- collaboration -->
+<g id="node14" class="node">
+<title>collaboration</title>
+<ellipse fill="none" stroke="black" cx="88.39" cy="-612" rx="57.39" ry="18"/>
+<text text-anchor="middle" x="88.39" y="-608.3" font-family="Times,serif" font-size="14.00">collaboration</text>
+</g>
+<!-- 1582 audio features (from Emobase&#45;&gt;collaboration -->
+<g id="edge5" class="edge">
+<title>1582 audio features (from Emobase&#45;&gt;collaboration</title>
+<path fill="none" stroke="black" d="M241.65,-612C211.84,-612 181.63,-612 156.06,-612"/>
+<polygon fill="black" stroke="black" points="155.77,-608.5 145.77,-612 155.77,-615.5 155.77,-608.5"/>
 </g>
 </g>
 </svg>

@@ -3,30 +3,30 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Pearson‚Äôs correlation coefficient (PCC" "Physiological linkage" "cycles of physiological synchrony (PC" "Instantaneous Derivative Matching (IDM" "Fisher‚Äôs z-transform (FZT" "Directional Agreement (DA" "Pearson‚Äôs correlation (PC" "physiological synchrony (PC" "Signal Matching (SM";}
-	{rank=same; "Learning gains" "dual learning gains" "learning gains" "Perceived Comprehension";}
-	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
+	{rank=same; "Instantaneous Derivative Matching (IDM" "Directional Agreement (DA" "cycles of physiological synchrony (PC" "Fisher‚Äôs z-transform (FZT" "Pearson‚Äôs correlation (PC" "Signal Matching (SM" "physiological synchrony (PC" "Physiological linkage" "Pearson‚Äôs correlation coefficient (PCC";}
+	{rank=same; "Learning gains" "Perceived Comprehension" "learning gains" "dual learning gains";}
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience" target=_blank]
 	"Physiological linkage" -> "Perceived Comprehension"
-	"physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]
+	"physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" target=_blank]
 	"physiological synchrony (PC" -> "Learning gains"
-	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study"]
+	"cycles of physiological synchrony (PC" [href="https://scholar.google.com/scholar?hl=en&q=Unpacking%20the%20relationship%20between%20existing%20and%20new%20measures%20of%20physiological%20synchrony%20and%20collaborative%20learning:%20a%20mixed%20methods%20study" target=_blank]
 	"cycles of physiological synchrony (PC" -> "Learning gains"
-	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity"]
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity" target=_blank]
 	"Signal Matching (SM" -> "dual learning gains"
-	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity"]
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity" target=_blank]
 	"Instantaneous Derivative Matching (IDM" -> "dual learning gains"
-	"Pearson‚Äôs correlation coefficient (PCC" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity"]
+	"Pearson‚Äôs correlation coefficient (PCC" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity" target=_blank]
 	"Pearson‚Äôs correlation coefficient (PCC" -> "dual learning gains"
-	"Fisher‚Äôs z-transform (FZT" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity"]
+	"Fisher‚Äôs z-transform (FZT" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity" target=_blank]
 	"Fisher‚Äôs z-transform (FZT" -> "dual learning gains"
-	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity"]
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Investigating%20collaborative%20learning%20success%20with%20physiological%20coupling%20indices%20based%20on%20electrodermal%20activity" target=_blank]
 	"Directional Agreement (DA" -> "dual learning gains"
-	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Signal Matching (SM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Signal Matching (SM" -> "learning gains"
-	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Instantaneous Derivative Matching (IDM" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Instantaneous Derivative Matching (IDM" -> "learning gains"
-	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Directional Agreement (DA" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Directional Agreement (DA" -> "learning gains"
-	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Pearson‚Äôs correlation (PC" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Pearson‚Äôs correlation (PC" -> "learning gains"
 }

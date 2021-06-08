@@ -3,20 +3,20 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "simple linguistic features" "convergence (of linguistic styles" "coherence" "Dialogue episodes (description, management" "Speech activity" "35 Coh-metrix indices" "dialogue acts";}
-	{rank=same; "learning gains" "level of understanding" "Learning" "learning";}
-	"dialogue acts" [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring"]
+	{rank=same; "35 Coh-metrix indices" "simple linguistic features" "coherence" "Dialogue episodes (description, management" "convergence (of linguistic styles" "dialogue acts" "Speech activity";}
+	{rank=same; "level of understanding" "Learning" "learning" "learning gains";}
+	"dialogue acts" [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring" target=_blank]
 	"dialogue acts" -> learning
-	"Dialogue episodes (description, management" [href="https://scholar.google.com/scholar?hl=en&q=Dual%20Gaze%20as%20a%20Proxy%20for%20Collaboration%20in%20Informal%20Learning"]
+	"Dialogue episodes (description, management" [href="https://scholar.google.com/scholar?hl=en&q=Dual%20Gaze%20as%20a%20Proxy%20for%20Collaboration%20in%20Informal%20Learning" target=_blank]
 	"Dialogue episodes (description, management" -> "level of understanding"
-	"convergence (of linguistic styles" [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?"]
+	"convergence (of linguistic styles" [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" target=_blank]
 	"convergence (of linguistic styles" -> Learning
-	coherence [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?"]
+	coherence [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" target=_blank]
 	coherence -> Learning
-	"simple linguistic features" [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?"]
+	"simple linguistic features" [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" target=_blank]
 	"simple linguistic features" -> Learning
-	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
+	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" target=_blank]
 	"35 Coh-metrix indices" -> Learning
-	"Speech activity" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning"]
+	"Speech activity" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" target=_blank]
 	"Speech activity" -> "learning gains"
 }

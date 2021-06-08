@@ -5,6 +5,6 @@ digraph Test {
 	splines=true
 	{rank=same; "facial expression";}
 	{rank=same; "frustration";}
-	"facial expression" [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring"]
+	"facial expression" [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring" target=_blank]
 	"facial expression" -> frustration
 }

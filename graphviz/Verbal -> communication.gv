@@ -3,30 +3,30 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "speech time and frequency" "verbal participation symmetry among group" "speech time" "1582 audio features (from Emobase" "thousands of features prosodic speech" "speech quantity" "coherence" "symmetry of speech among group" "Sequences of verbal utterances" "35 Coh-metrix indices" "number of active participants in group" "talking time";}
-	{rank=same; "Colloboration quality" "collaboration" "Joint Visual Attention" "collaboration quality" "Collaboration";}
-	"speech quantity" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting"]
+	{rank=same; "35 Coh-metrix indices" "speech quantity" "speech time" "coherence" "thousands of features prosodic speech" "Sequences of verbal utterances" "talking time" "symmetry of speech among group" "verbal participation symmetry among group" "number of active participants in group" "speech time and frequency" "1582 audio features (from Emobase";}
+	{rank=same; "Collaboration" "collaboration" "collaboration quality" "Joint Visual Attention" "Colloboration quality";}
+	"speech quantity" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" target=_blank]
 	"speech quantity" -> Collaboration
-	"number of active participants in group" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting"]
+	"number of active participants in group" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" target=_blank]
 	"number of active participants in group" -> Collaboration
-	"verbal participation symmetry among group" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting"]
+	"verbal participation symmetry among group" [href="https://scholar.google.com/scholar?hl=en&q=Modelling%20and%20Identifying%20Collaborative%20Situations%20in%20a%20Collocated%20Multi-display%20Groupware%20Setting" target=_blank]
 	"verbal participation symmetry among group" -> Collaboration
-	"Sequences of verbal utterances" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop"]
+	"Sequences of verbal utterances" [href="https://scholar.google.com/scholar?hl=en&q=Capturing%20and%20analyzing%20verbal%20and%20physical%20collaborative%20learning%20interactions%20at%20an%20enriched%20interactive%20tabletop" target=_blank]
 	"Sequences of verbal utterances" -> "Colloboration quality"
-	"1582 audio features (from Emobase" [href="https://scholar.google.com/scholar?hl=en&q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features"]
+	"1582 audio features (from Emobase" [href="https://scholar.google.com/scholar?hl=en&q=High%20Accuracy%20Detection%20of%20Collaboration%20From%20Log%20Data%20and%20Superficial%20Speech%20Features" target=_blank]
 	"1582 audio features (from Emobase" -> collaboration
-	coherence [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?"]
+	coherence [href="https://scholar.google.com/scholar?hl=en&q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" target=_blank]
 	coherence -> "Joint Visual Attention"
-	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse"]
+	"35 Coh-metrix indices" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" target=_blank]
 	"35 Coh-metrix indices" -> Collaboration
-	"talking time" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads"]
+	"talking time" [href="https://scholar.google.com/scholar?hl=en&q=Toward%20Using%20Multi-Modal%20Learning%20Analytics%20to%20Support%20and%20Measure%20Collaboration%20in%20Co-Located%20Dyads" target=_blank]
 	"talking time" -> "collaboration quality"
-	"speech time and frequency" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop"]
+	"speech time and frequency" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target=_blank]
 	"speech time and frequency" -> Collaboration
-	"symmetry of speech among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop"]
+	"symmetry of speech among group" [href="https://scholar.google.com/scholar?hl=en&q=An%20Automatic%20Approach%20for%20Mining%20Patterns%20of%20Collaboration%20around%20an%20Interactive%20Tabletop" target=_blank]
 	"symmetry of speech among group" -> Collaboration
-	"speech time" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration"]
+	"speech time" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" target=_blank]
 	"speech time" -> "collaboration quality"
-	"thousands of features prosodic speech" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration"]
+	"thousands of features prosodic speech" [href="https://scholar.google.com/scholar?hl=en&q=Using%20the%20Tablet%20Gestures%20and%20Speech%20of%20Pairs%20of%20Students%20to%20Classify%20Their%20Collaboration" target=_blank]
 	"thousands of features prosodic speech" -> "collaboration quality"
 }

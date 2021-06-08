@@ -3,16 +3,16 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "transition probabilities between collaborative state" "x,y,z body joints" "Face and upper body movement" "gesture";}
-	{rank=same; "frustration" "Perceived Valence" "Perceived Arousal" "emotional state" "reported frustration";}
-	gesture [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring"]
+	{rank=same; "transition probabilities between collaborative state" "gesture" "Face and upper body movement" "x,y,z body joints";}
+	{rank=same; "reported frustration" "emotional state" "Perceived Arousal" "Perceived Valence" "frustration";}
+	gesture [href="https://scholar.google.com/scholar?hl=en&q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring" target=_blank]
 	gesture -> frustration
-	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" target=_blank]
 	"Face and upper body movement" -> "Perceived Valence"
-	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
+	"Face and upper body movement" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" target=_blank]
 	"Face and upper body movement" -> "Perceived Arousal"
-	"transition probabilities between collaborative state" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs"]
+	"transition probabilities between collaborative state" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Motion%20Sensors%20to%20Understand%20Collaborative%20Interactions%20in%20Digital%20Fabrication%20Labs" target=_blank]
 	"transition probabilities between collaborative state" -> "reported frustration"
-	"x,y,z body joints" [href="https://scholar.google.com/scholar?hl=en&q=Machine%20learning%20classification%20of%20design%20team%20members’%20body%20language%20patterns%20for%20real%20time%20emotional%20state%20detection"]
+	"x,y,z body joints" [href="https://scholar.google.com/scholar?hl=en&q=Machine%20learning%20classification%20of%20design%20team%20members’%20body%20language%20patterns%20for%20real%20time%20emotional%20state%20detection" target=_blank]
 	"x,y,z body joints" -> "emotional state"
 }

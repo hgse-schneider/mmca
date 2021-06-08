@@ -9,46 +9,46 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 364)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-364 561.25,-364 561.25,4 -4,4"/>
-<!-- simple linguistic features -->
+<!-- 35 Coh&#45;metrix indices -->
 <g id="node1" class="node">
-<title>simple linguistic features</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="simple linguistic features">
-<ellipse fill="none" stroke="black" cx="386.32" cy="-180" rx="100.18" ry="18"/>
-<text text-anchor="middle" x="386.32" y="-176.3" font-family="Times,serif" font-size="14.00">simple linguistic features</text>
+<title>35 Coh&#45;metrix indices</title>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="35 Coh&#45;metrix indices" target="_blank">
+<ellipse fill="none" stroke="black" cx="386.32" cy="-180" rx="90.18" ry="18"/>
+<text text-anchor="middle" x="386.32" y="-176.3" font-family="Times,serif" font-size="14.00">35 Coh&#45;metrix indices</text>
 </a>
 </g>
 </g>
 <!-- Learning -->
-<g id="node10" class="node">
+<g id="node9" class="node">
 <title>Learning</title>
 <ellipse fill="none" stroke="black" cx="89.69" cy="-99" rx="42.49" ry="18"/>
 <text text-anchor="middle" x="89.69" y="-95.3" font-family="Times,serif" font-size="14.00">Learning</text>
 </g>
-<!-- simple linguistic features&#45;&gt;Learning -->
-<g id="edge5" class="edge">
-<title>simple linguistic features&#45;&gt;Learning</title>
-<path fill="none" stroke="black" d="M300.12,-170.74C272.74,-166.63 242.49,-160.89 215.38,-153 184.39,-143.98 150.9,-129.18 126.44,-117.35"/>
+<!-- 35 Coh&#45;metrix indices&#45;&gt;Learning -->
+<g id="edge6" class="edge">
+<title>35 Coh&#45;metrix indices&#45;&gt;Learning</title>
+<path fill="none" stroke="black" d="M306.15,-171.62C277.24,-167.47 244.5,-161.47 215.38,-153 184.39,-143.98 150.9,-129.18 126.44,-117.35"/>
 <polygon fill="black" stroke="black" points="127.73,-114.08 117.21,-112.81 124.64,-120.36 127.73,-114.08"/>
 </g>
-<!-- convergence (of linguistic styles -->
+<!-- simple linguistic features -->
 <g id="node2" class="node">
-<title>convergence (of linguistic styles</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="convergence (of linguistic styles">
-<ellipse fill="none" stroke="black" cx="386.32" cy="-126" rx="125.38" ry="18"/>
-<text text-anchor="middle" x="386.32" y="-122.3" font-family="Times,serif" font-size="14.00">convergence (of linguistic styles</text>
+<title>simple linguistic features</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="simple linguistic features" target="_blank">
+<ellipse fill="none" stroke="black" cx="386.32" cy="-126" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="386.32" y="-122.3" font-family="Times,serif" font-size="14.00">simple linguistic features</text>
 </a>
 </g>
 </g>
-<!-- convergence (of linguistic styles&#45;&gt;Learning -->
-<g id="edge3" class="edge">
-<title>convergence (of linguistic styles&#45;&gt;Learning</title>
-<path fill="none" stroke="black" d="M280.2,-116.37C233.07,-112.05 179.65,-107.15 141.56,-103.66"/>
-<polygon fill="black" stroke="black" points="141.53,-100.14 131.25,-102.72 140.89,-107.11 141.53,-100.14"/>
+<!-- simple linguistic features&#45;&gt;Learning -->
+<g id="edge5" class="edge">
+<title>simple linguistic features&#45;&gt;Learning</title>
+<path fill="none" stroke="black" d="M296.92,-117.9C246.03,-113.24 183.91,-107.54 141.23,-103.63"/>
+<polygon fill="black" stroke="black" points="141.36,-100.13 131.08,-102.7 140.72,-107.1 141.36,-100.13"/>
 </g>
 <!-- coherence -->
 <g id="node3" class="node">
 <title>coherence</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="coherence">
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="coherence" target="_blank">
 <ellipse fill="none" stroke="black" cx="386.32" cy="-72" rx="46.29" ry="18"/>
 <text text-anchor="middle" x="386.32" y="-68.3" font-family="Times,serif" font-size="14.00">coherence</text>
 </a>
@@ -63,14 +63,14 @@
 <!-- Dialogue episodes (description, management -->
 <g id="node4" class="node">
 <title>Dialogue episodes (description, management</title>
-<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dual%20Gaze%20as%20a%20Proxy%20for%20Collaboration%20in%20Informal%20Learning" xlink:title="Dialogue episodes (description, management">
+<g id="a_node4"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Dual%20Gaze%20as%20a%20Proxy%20for%20Collaboration%20in%20Informal%20Learning" xlink:title="Dialogue episodes (description, management" target="_blank">
 <ellipse fill="none" stroke="black" cx="386.32" cy="-234" rx="170.87" ry="18"/>
 <text text-anchor="middle" x="386.32" y="-230.3" font-family="Times,serif" font-size="14.00">Dialogue episodes (description, management</text>
 </a>
 </g>
 </g>
 <!-- level of understanding -->
-<g id="node9" class="node">
+<g id="node8" class="node">
 <title>level of understanding</title>
 <ellipse fill="none" stroke="black" cx="89.69" cy="-234" rx="89.88" ry="18"/>
 <text text-anchor="middle" x="89.69" y="-230.3" font-family="Times,serif" font-size="14.00">level of understanding</text>
@@ -81,62 +81,62 @@
 <path fill="none" stroke="black" d="M215.21,-234C206.51,-234 197.91,-234 189.54,-234"/>
 <polygon fill="black" stroke="black" points="189.46,-230.5 179.46,-234 189.46,-237.5 189.46,-230.5"/>
 </g>
-<!-- Speech activity -->
+<!-- convergence (of linguistic styles -->
 <g id="node5" class="node">
-<title>Speech activity</title>
-<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Speech activity">
-<ellipse fill="none" stroke="black" cx="386.32" cy="-288" rx="64.99" ry="18"/>
-<text text-anchor="middle" x="386.32" y="-284.3" font-family="Times,serif" font-size="14.00">Speech activity</text>
+<title>convergence (of linguistic styles</title>
+<g id="a_node5"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Does%20Seeing%20One%20Another’s%20Gaze%20Affect%20Group%20Dialogue?" xlink:title="convergence (of linguistic styles" target="_blank">
+<ellipse fill="none" stroke="black" cx="386.32" cy="-18" rx="125.38" ry="18"/>
+<text text-anchor="middle" x="386.32" y="-14.3" font-family="Times,serif" font-size="14.00">convergence (of linguistic styles</text>
 </a>
 </g>
 </g>
-<!-- learning gains -->
-<g id="node8" class="node">
-<title>learning gains</title>
-<ellipse fill="none" stroke="black" cx="89.69" cy="-288" rx="60.39" ry="18"/>
-<text text-anchor="middle" x="89.69" y="-284.3" font-family="Times,serif" font-size="14.00">learning gains</text>
-</g>
-<!-- Speech activity&#45;&gt;learning gains -->
-<g id="edge7" class="edge">
-<title>Speech activity&#45;&gt;learning gains</title>
-<path fill="none" stroke="black" d="M321.03,-288C273.6,-288 209.14,-288 160.47,-288"/>
-<polygon fill="black" stroke="black" points="160.33,-284.5 150.33,-288 160.33,-291.5 160.33,-284.5"/>
-</g>
-<!-- 35 Coh&#45;metrix indices -->
-<g id="node6" class="node">
-<title>35 Coh&#45;metrix indices</title>
-<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Predicting%20the%20Quality%20of%20Collaborative%20Problem%20Solving%20Through%20Linguistic%20Analysis%20of%20Discourse" xlink:title="35 Coh&#45;metrix indices">
-<ellipse fill="none" stroke="black" cx="386.32" cy="-18" rx="90.18" ry="18"/>
-<text text-anchor="middle" x="386.32" y="-14.3" font-family="Times,serif" font-size="14.00">35 Coh&#45;metrix indices</text>
-</a>
-</g>
-</g>
-<!-- 35 Coh&#45;metrix indices&#45;&gt;Learning -->
-<g id="edge6" class="edge">
-<title>35 Coh&#45;metrix indices&#45;&gt;Learning</title>
-<path fill="none" stroke="black" d="M306.15,-26.38C277.24,-30.53 244.5,-36.53 215.38,-45 184.39,-54.02 150.9,-68.82 126.44,-80.65"/>
+<!-- convergence (of linguistic styles&#45;&gt;Learning -->
+<g id="edge3" class="edge">
+<title>convergence (of linguistic styles&#45;&gt;Learning</title>
+<path fill="none" stroke="black" d="M287.78,-29.2C263.85,-33.12 238.47,-38.28 215.38,-45 184.39,-54.02 150.9,-68.82 126.44,-80.65"/>
 <polygon fill="black" stroke="black" points="124.64,-77.64 117.21,-85.19 127.73,-83.92 124.64,-77.64"/>
 </g>
 <!-- dialogue acts -->
-<g id="node7" class="node">
+<g id="node6" class="node">
 <title>dialogue acts</title>
-<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring" xlink:title="dialogue acts">
-<ellipse fill="none" stroke="black" cx="386.32" cy="-342" rx="57.39" ry="18"/>
-<text text-anchor="middle" x="386.32" y="-338.3" font-family="Times,serif" font-size="14.00">dialogue acts</text>
+<g id="a_node6"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring" xlink:title="dialogue acts" target="_blank">
+<ellipse fill="none" stroke="black" cx="386.32" cy="-288" rx="57.39" ry="18"/>
+<text text-anchor="middle" x="386.32" y="-284.3" font-family="Times,serif" font-size="14.00">dialogue acts</text>
 </a>
 </g>
 </g>
 <!-- learning -->
-<g id="node11" class="node">
+<g id="node10" class="node">
 <title>learning</title>
-<ellipse fill="none" stroke="black" cx="89.69" cy="-342" rx="39.79" ry="18"/>
-<text text-anchor="middle" x="89.69" y="-338.3" font-family="Times,serif" font-size="14.00">learning</text>
+<ellipse fill="none" stroke="black" cx="89.69" cy="-288" rx="39.79" ry="18"/>
+<text text-anchor="middle" x="89.69" y="-284.3" font-family="Times,serif" font-size="14.00">learning</text>
 </g>
 <!-- dialogue acts&#45;&gt;learning -->
 <g id="edge1" class="edge">
 <title>dialogue acts&#45;&gt;learning</title>
-<path fill="none" stroke="black" d="M328.86,-342C274.15,-342 192.01,-342 139.89,-342"/>
-<polygon fill="black" stroke="black" points="139.57,-338.5 129.57,-342 139.57,-345.5 139.57,-338.5"/>
+<path fill="none" stroke="black" d="M328.86,-288C274.15,-288 192.01,-288 139.89,-288"/>
+<polygon fill="black" stroke="black" points="139.57,-284.5 129.57,-288 139.57,-291.5 139.57,-284.5"/>
+</g>
+<!-- Speech activity -->
+<g id="node7" class="node">
+<title>Speech activity</title>
+<g id="a_node7"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Physiological%20Synchrony%20as%20an%20Indicator%20of%20Collaboration%20Quality,%20Task%20Performance%20and%20Learning" xlink:title="Speech activity" target="_blank">
+<ellipse fill="none" stroke="black" cx="386.32" cy="-342" rx="64.99" ry="18"/>
+<text text-anchor="middle" x="386.32" y="-338.3" font-family="Times,serif" font-size="14.00">Speech activity</text>
+</a>
+</g>
+</g>
+<!-- learning gains -->
+<g id="node11" class="node">
+<title>learning gains</title>
+<ellipse fill="none" stroke="black" cx="89.69" cy="-342" rx="60.39" ry="18"/>
+<text text-anchor="middle" x="89.69" y="-338.3" font-family="Times,serif" font-size="14.00">learning gains</text>
+</g>
+<!-- Speech activity&#45;&gt;learning gains -->
+<g id="edge7" class="edge">
+<title>Speech activity&#45;&gt;learning gains</title>
+<path fill="none" stroke="black" d="M321.03,-342C273.6,-342 209.14,-342 160.47,-342"/>
+<polygon fill="black" stroke="black" points="160.33,-338.5 150.33,-342 160.33,-345.5 160.33,-338.5"/>
 </g>
 </g>
 </svg>

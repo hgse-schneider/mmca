@@ -3,36 +3,36 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "EDA synchrony" "DA - EDA" "Physiological linkage" "SM - EDA" "IDM - EDA" "physiological concordance index" "physiological synchrony" "heart rate sychrony" "SM - HR" "EDA peak detection" "CC - EDA" "IDM - HR" "WC - EDA" "brain synchrony";}
-	{rank=same; "Behavioral Involvement" "Mental effort" "Self-rated workload" "Monitoring of behavior, cognition, motivations and emotions" "Task interest" "collaboration quality" "Engagement";}
-	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
+	{rank=same; "DA - EDA" "EDA peak detection" "IDM - HR" "IDM - EDA" "physiological concordance index" "CC - EDA" "SM - EDA" "WC - EDA" "SM - HR" "EDA synchrony" "brain synchrony" "physiological synchrony" "heart rate sychrony" "Physiological linkage";}
+	{rank=same; "Self-rated workload" "Engagement" "Task interest" "collaboration quality" "Monitoring of behavior, cognition, motivations and emotions" "Mental effort" "Behavioral Involvement";}
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience" target=_blank]
 	"Physiological linkage" -> "Behavioral Involvement"
-	"EDA peak detection" [href="https://scholar.google.com/scholar?hl=en&q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam"]
+	"EDA peak detection" [href="https://scholar.google.com/scholar?hl=en&q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam" target=_blank]
 	"EDA peak detection" -> "Monitoring of behavior, cognition, motivations and emotions"
-	"physiological concordance index" [href="https://scholar.google.com/scholar?hl=en&q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam"]
+	"physiological concordance index" [href="https://scholar.google.com/scholar?hl=en&q=Are%20we%20together%20or%20not?%20The%20temporal%20interplay%20of%20monitoring,%20physiological%20arousal%20and%20physiological%20synchrony%20during%20a%20collaborative%20exam" target=_blank]
 	"physiological concordance index" -> "Monitoring of behavior, cognition, motivations and emotions"
-	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"SM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"SM - EDA" -> "Self-rated workload"
-	"IDM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"IDM - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"IDM - EDA" -> "Self-rated workload"
-	"DA - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"DA - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"DA - EDA" -> "Self-rated workload"
-	"CC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"CC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"CC - EDA" -> "Self-rated workload"
-	"WC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"WC - EDA" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"WC - EDA" -> "Self-rated workload"
-	"SM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"SM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"SM - HR" -> "Self-rated workload"
-	"IDM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters"]
+	"IDM - HR" [href="https://scholar.google.com/scholar?hl=en&q=Shared%20Experiences%20of%20Technology%20and%20Trust:%20An%20Experimental%20Study%20of%20Physiological%20Compliance%20Between%20Active%20and%20Passive%20Users%20in%20Technology-Mediated%20Collaborative%20Encounters" target=_blank]
 	"IDM - HR" -> "Self-rated workload"
-	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?"]
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?" target=_blank]
 	"physiological synchrony" -> "Mental effort"
-	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?"]
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?" target=_blank]
 	"physiological synchrony" -> "Task interest"
-	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Brain-to-Brain%20Synchrony%20Tracks%20Real-World%20Dynamic%20Group%20Interactions%20in%20the%20Classroom"]
+	"brain synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Brain-to-Brain%20Synchrony%20Tracks%20Real-World%20Dynamic%20Group%20Interactions%20in%20the%20Classroom" target=_blank]
 	"brain synchrony" -> Engagement
-	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors"]
+	"EDA synchrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" target=_blank]
 	"EDA synchrony" -> "collaboration quality"
-	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors"]
+	"heart rate sychrony" [href="https://scholar.google.com/scholar?hl=en&q=Predicting%20Collaborative%20Learning%20Quality%20through%20Physiological%20Synchrony%20Recorded%20by%20Wearable%20Biosensors" target=_blank]
 	"heart rate sychrony" -> "collaboration quality"
 }

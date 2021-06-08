@@ -9,80 +9,80 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 202)">
 <title>Test</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-202 436.46,-202 436.46,4 -4,4"/>
-<!-- Distance between hands -->
-<g id="node1" class="node">
-<title>Distance between hands</title>
-<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning" xlink:title="Distance between hands">
-<ellipse fill="none" stroke="black" cx="333.02" cy="-45" rx="96.38" ry="18"/>
-<text text-anchor="middle" x="333.02" y="-41.3" font-family="Times,serif" font-size="14.00">Distance between hands</text>
-</a>
-</g>
-</g>
-<!-- Individual accountability -->
-<g id="node5" class="node">
-<title>Individual accountability</title>
-<ellipse fill="none" stroke="black" cx="98.79" cy="-72" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="98.79" y="-68.3" font-family="Times,serif" font-size="14.00">Individual accountability</text>
-</g>
-<!-- Distance between hands&#45;&gt;Individual accountability -->
-<g id="edge4" class="edge">
-<title>Distance between hands&#45;&gt;Individual accountability</title>
-<path fill="none" stroke="black" d="M250.8,-54.44C231.98,-56.63 211.8,-58.98 192.53,-61.22"/>
-<polygon fill="black" stroke="black" points="192.07,-57.75 182.54,-62.38 192.88,-64.7 192.07,-57.75"/>
-</g>
-<!-- Physical engagement -->
-<g id="node6" class="node">
-<title>Physical engagement</title>
-<ellipse fill="none" stroke="black" cx="98.79" cy="-18" rx="85.59" ry="18"/>
-<text text-anchor="middle" x="98.79" y="-14.3" font-family="Times,serif" font-size="14.00">Physical engagement</text>
-</g>
-<!-- Distance between hands&#45;&gt;Physical engagement -->
-<g id="edge2" class="edge">
-<title>Distance between hands&#45;&gt;Physical engagement</title>
-<path fill="none" stroke="black" d="M250.8,-35.56C229.35,-33.06 206.14,-30.36 184.51,-27.85"/>
-<polygon fill="black" stroke="black" points="184.7,-24.35 174.36,-26.67 183.89,-31.3 184.7,-24.35"/>
-</g>
-<!-- gesture type and location -->
-<g id="node2" class="node">
-<title>gesture type and location</title>
-<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Improving%20Visibility%20of%20Remote%20Gestures%20in%20Distributed%20Tabletop%20Collaboration" xlink:title="gesture type and location">
-<ellipse fill="none" stroke="black" cx="333.02" cy="-126" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="333.02" y="-122.3" font-family="Times,serif" font-size="14.00">gesture type and location</text>
-</a>
-</g>
-</g>
-<!-- subjective workload -->
-<g id="node4" class="node">
-<title>subjective workload</title>
-<ellipse fill="none" stroke="black" cx="98.79" cy="-126" rx="81.79" ry="18"/>
-<text text-anchor="middle" x="98.79" y="-122.3" font-family="Times,serif" font-size="14.00">subjective workload</text>
-</g>
-<!-- gesture type and location&#45;&gt;subjective workload -->
-<g id="edge3" class="edge">
-<title>gesture type and location&#45;&gt;subjective workload</title>
-<path fill="none" stroke="black" d="M233.54,-126C219.41,-126 204.93,-126 190.95,-126"/>
-<polygon fill="black" stroke="black" points="190.88,-122.5 180.88,-126 190.88,-129.5 190.88,-122.5"/>
-</g>
 <!-- gesture -->
-<g id="node3" class="node">
+<g id="node1" class="node">
 <title>gesture</title>
-<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring" xlink:title="gesture">
-<ellipse fill="none" stroke="black" cx="333.02" cy="-180" rx="36.29" ry="18"/>
-<text text-anchor="middle" x="333.02" y="-176.3" font-family="Times,serif" font-size="14.00">gesture</text>
+<g id="a_node1"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=The%20Additive%20Value%20of%20Multimodal%20Features%20for%20Predicting%20Engagement,%20Frustration,%20and%20Learning%20during%20Tutoring" xlink:title="gesture" target="_blank">
+<ellipse fill="none" stroke="black" cx="333.02" cy="-18" rx="36.29" ry="18"/>
+<text text-anchor="middle" x="333.02" y="-14.3" font-family="Times,serif" font-size="14.00">gesture</text>
 </a>
 </g>
 </g>
 <!-- engagement -->
-<g id="node7" class="node">
+<g id="node4" class="node">
 <title>engagement</title>
-<ellipse fill="none" stroke="black" cx="98.79" cy="-180" rx="53.89" ry="18"/>
-<text text-anchor="middle" x="98.79" y="-176.3" font-family="Times,serif" font-size="14.00">engagement</text>
+<ellipse fill="none" stroke="black" cx="98.79" cy="-18" rx="53.89" ry="18"/>
+<text text-anchor="middle" x="98.79" y="-14.3" font-family="Times,serif" font-size="14.00">engagement</text>
 </g>
 <!-- gesture&#45;&gt;engagement -->
 <g id="edge1" class="edge">
 <title>gesture&#45;&gt;engagement</title>
-<path fill="none" stroke="black" d="M296.5,-180C261.09,-180 205.96,-180 163.06,-180"/>
-<polygon fill="black" stroke="black" points="162.99,-176.5 152.99,-180 162.99,-183.5 162.99,-176.5"/>
+<path fill="none" stroke="black" d="M296.5,-18C261.09,-18 205.96,-18 163.06,-18"/>
+<polygon fill="black" stroke="black" points="162.99,-14.5 152.99,-18 162.99,-21.5 162.99,-14.5"/>
+</g>
+<!-- gesture type and location -->
+<g id="node2" class="node">
+<title>gesture type and location</title>
+<g id="a_node2"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Improving%20Visibility%20of%20Remote%20Gestures%20in%20Distributed%20Tabletop%20Collaboration" xlink:title="gesture type and location" target="_blank">
+<ellipse fill="none" stroke="black" cx="333.02" cy="-72" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="333.02" y="-68.3" font-family="Times,serif" font-size="14.00">gesture type and location</text>
+</a>
+</g>
+</g>
+<!-- subjective workload -->
+<g id="node5" class="node">
+<title>subjective workload</title>
+<ellipse fill="none" stroke="black" cx="98.79" cy="-72" rx="81.79" ry="18"/>
+<text text-anchor="middle" x="98.79" y="-68.3" font-family="Times,serif" font-size="14.00">subjective workload</text>
+</g>
+<!-- gesture type and location&#45;&gt;subjective workload -->
+<g id="edge3" class="edge">
+<title>gesture type and location&#45;&gt;subjective workload</title>
+<path fill="none" stroke="black" d="M233.54,-72C219.41,-72 204.93,-72 190.95,-72"/>
+<polygon fill="black" stroke="black" points="190.88,-68.5 180.88,-72 190.88,-75.5 190.88,-68.5"/>
+</g>
+<!-- Distance between hands -->
+<g id="node3" class="node">
+<title>Distance between hands</title>
+<g id="a_node3"><a xlink:href="https://scholar.google.com/scholar?hl=en&amp;q=Using%20Multimodal%20Learning%20Analytics%20to%20Identify%20Aspects%20of%20Collaboration%20in%20Project-Based%20Learning" xlink:title="Distance between hands" target="_blank">
+<ellipse fill="none" stroke="black" cx="333.02" cy="-153" rx="96.38" ry="18"/>
+<text text-anchor="middle" x="333.02" y="-149.3" font-family="Times,serif" font-size="14.00">Distance between hands</text>
+</a>
+</g>
+</g>
+<!-- Physical engagement -->
+<g id="node6" class="node">
+<title>Physical engagement</title>
+<ellipse fill="none" stroke="black" cx="98.79" cy="-180" rx="85.59" ry="18"/>
+<text text-anchor="middle" x="98.79" y="-176.3" font-family="Times,serif" font-size="14.00">Physical engagement</text>
+</g>
+<!-- Distance between hands&#45;&gt;Physical engagement -->
+<g id="edge2" class="edge">
+<title>Distance between hands&#45;&gt;Physical engagement</title>
+<path fill="none" stroke="black" d="M250.8,-162.44C229.35,-164.94 206.14,-167.64 184.51,-170.15"/>
+<polygon fill="black" stroke="black" points="183.89,-166.7 174.36,-171.33 184.7,-173.65 183.89,-166.7"/>
+</g>
+<!-- Individual accountability -->
+<g id="node7" class="node">
+<title>Individual accountability</title>
+<ellipse fill="none" stroke="black" cx="98.79" cy="-126" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="98.79" y="-122.3" font-family="Times,serif" font-size="14.00">Individual accountability</text>
+</g>
+<!-- Distance between hands&#45;&gt;Individual accountability -->
+<g id="edge4" class="edge">
+<title>Distance between hands&#45;&gt;Individual accountability</title>
+<path fill="none" stroke="black" d="M250.8,-143.56C231.98,-141.37 211.8,-139.02 192.53,-136.78"/>
+<polygon fill="black" stroke="black" points="192.88,-133.3 182.54,-135.62 192.07,-140.25 192.88,-133.3"/>
 </g>
 </g>
 </svg>

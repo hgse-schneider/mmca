@@ -5,6 +5,6 @@ digraph Test {
 	splines=true
 	{rank=same; "shared gaze";}
 	{rank=same; "cognitive load";}
-	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations"]
+	"shared gaze" [href="https://scholar.google.com/scholar?hl=en&q=Effects%20of%20Shared%20Gaze%20on%20Audio-%20Versus%20Text-Based%20Remote%20Collaborations" target=_blank]
 	"shared gaze" -> "cognitive load"
 }

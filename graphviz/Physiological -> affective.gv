@@ -3,18 +3,18 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "Galvanic skin response" "Physiological linkage" "physiological synchrony";}
-	{rank=same; "Judgement of confidence" "Perceived Valence" "Negative Feelings" "Perceived Arousal" "Empathy" "Emotional valence";}
-	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
+	{rank=same; "physiological synchrony" "Galvanic skin response" "Physiological linkage";}
+	{rank=same; "Emotional valence" "Judgement of confidence" "Negative Feelings" "Empathy" "Perceived Arousal" "Perceived Valence";}
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience" target=_blank]
 	"Physiological linkage" -> Empathy
-	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience"]
+	"Physiological linkage" [href="https://scholar.google.com/scholar?hl=en&q=Physiological%20Linkage%20of%20Dyadic%20Gaming%20Experience" target=_blank]
 	"Physiological linkage" -> "Negative Feelings"
-	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" target=_blank]
 	"Galvanic skin response" -> "Perceived Valence"
-	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration"]
+	"Galvanic skin response" [href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Team-level%20Multimodal%20Dynamics%20during%20Multiparty%20Collaboration" target=_blank]
 	"Galvanic skin response" -> "Perceived Arousal"
-	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?"]
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?" target=_blank]
 	"physiological synchrony" -> "Judgement of confidence"
-	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?"]
+	"physiological synchrony" [href="https://scholar.google.com/scholar?hl=en&q=What%20does%20physiological%20synchrony%20reveal%20about%20metacognitive%20experiences%20and%20group%20performance?" target=_blank]
 	"physiological synchrony" -> "Emotional valence"
 }

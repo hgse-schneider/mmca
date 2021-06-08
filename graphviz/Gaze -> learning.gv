@@ -3,32 +3,32 @@ digraph Test {
 	size="10,10"
 	overlap=false
 	splines=true
-	{rank=same; "conceptual with-me-ness (gaze" "Joint visual attention" "cognitive load (from pupil size" "joint visual attention" "gaze similarity" "EVT of spatial entropy" "Cycles of collaborative / individual work" "Joint visual Attention" "perceptual with-me-ness (gaze" "(not";}
-	{rank=same; "Learning gains" "learning gains" "post-test score" "level of understanding";}
-	"perceptual with-me-ness (gaze" [href="https://scholar.google.com/scholar?hl=en&q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context"]
+	{rank=same; "joint visual attention" "perceptual with-me-ness (gaze" "conceptual with-me-ness (gaze" "gaze similarity" "Cycles of collaborative / individual work" "Joint visual attention" "cognitive load (from pupil size" "Joint visual Attention" "EVT of spatial entropy" "(not";}
+	{rank=same; "level of understanding" "learning gains" "Learning gains" "post-test score";}
+	"perceptual with-me-ness (gaze" [href="https://scholar.google.com/scholar?hl=en&q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" target=_blank]
 	"perceptual with-me-ness (gaze" -> "learning gains"
-	"conceptual with-me-ness (gaze" [href="https://scholar.google.com/scholar?hl=en&q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context"]
+	"conceptual with-me-ness (gaze" [href="https://scholar.google.com/scholar?hl=en&q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" target=_blank]
 	"conceptual with-me-ness (gaze" -> "learning gains"
-	"gaze similarity" [href="https://scholar.google.com/scholar?hl=en&q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context"]
+	"gaze similarity" [href="https://scholar.google.com/scholar?hl=en&q=Looking%20AT%20versus%20Looking%20THROUGH:%20A%20Dual%20Eye-tracking%20Study%20in%20MOOC%20Context" target=_blank]
 	"gaze similarity" -> "learning gains"
-	"(not" [href="https://scholar.google.com/scholar?hl=en&q=Dual%20Gaze%20as%20a%20Proxy%20for%20Collaboration%20in%20Informal%20Learning"]
+	"(not" [href="https://scholar.google.com/scholar?hl=en&q=Dual%20Gaze%20as%20a%20Proxy%20for%20Collaboration%20in%20Informal%20Learning" target=_blank]
 	"(not" -> "level of understanding"
-	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Eye-Tracking%20Technology%20to%20Support%20Visual%20Coordination%20in%20Collaborative%20Problem-Solving%20Groups"]
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Eye-Tracking%20Technology%20to%20Support%20Visual%20Coordination%20in%20Collaborative%20Problem-Solving%20Groups" target=_blank]
 	"Joint visual attention" -> "Learning gains"
-	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination"]
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=The%20Effect%20of%20Mutual%20Gaze%20Perception%20on%20Students’%20Verbal%20Coordination" target=_blank]
 	"Joint visual attention" -> "Learning gains"
-	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Detecting%20Collaborative%20Dynamics%20Using%20Mobile%20Eye-Trackers"]
+	"Joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Detecting%20Collaborative%20Dynamics%20Using%20Mobile%20Eye-Trackers" target=_blank]
 	"Joint visual attention" -> "Learning gains"
-	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning"]
+	"Cycles of collaborative / individual work" [href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20Mobile%20Eye-Trackers%20to%20Capture%20Joint%20Visual%20Attention%20in%20Co-Located%20Collaborative%20Learning" target=_blank]
 	"Cycles of collaborative / individual work" -> "learning gains"
-	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Mobile%20Eye-Trackers%20to%20Unpack%20the%20Perceptual%20Benefits%20of%20a%20Tangible%20User%20Interface%20for%20Collaborative%20Learning"]
+	"Joint visual Attention" [href="https://scholar.google.com/scholar?hl=en&q=Using%20Mobile%20Eye-Trackers%20to%20Unpack%20the%20Perceptual%20Benefits%20of%20a%20Tangible%20User%20Interface%20for%20Collaborative%20Learning" target=_blank]
 	"Joint visual Attention" -> "learning gains"
-	"EVT of spatial entropy" [href="https://scholar.google.com/scholar?hl=en&q=An%20Alternate%20Statistical%20Lens%20to%20Look%20at%20Collaboration%20Data:%20Extreme%20Value%20Theory"]
+	"EVT of spatial entropy" [href="https://scholar.google.com/scholar?hl=en&q=An%20Alternate%20Statistical%20Lens%20to%20Look%20at%20Collaboration%20Data:%20Extreme%20Value%20Theory" target=_blank]
 	"EVT of spatial entropy" -> "post-test score"
-	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads"]
+	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=3D%20Tangibles%20Facilitate%20Joint%20Visual%20Attention%20in%20Dyads" target=_blank]
 	"joint visual attention" -> "learning gains"
-	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception"]
+	"joint visual attention" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception" target=_blank]
 	"joint visual attention" -> "learning gains"
-	"cognitive load (from pupil size" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception"]
+	"cognitive load (from pupil size" [href="https://scholar.google.com/scholar?hl=en&q=Real-time%20mutual%20gaze%20perception" target=_blank]
 	"cognitive load (from pupil size" -> "learning gains"
 }
