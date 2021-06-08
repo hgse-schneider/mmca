@@ -1,4 +1,4 @@
-Multimdal Collaborative Analytics (MMLA) - a literature review. 
+Multimdal Collaboration Analytics (MMLA) - a literature review. 
 <button onClick="window.location.reload();">Reset visualization</button>
 
 Click on the nodes below to explore the relationship between high level categories (first column), types of collaborative metrics (second column), types of features (third column) and multimodal measures (fourth column): 
